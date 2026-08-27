@@ -195,6 +195,44 @@
   #lb .x{position:fixed;top:14px;right:20px;font-size:32px;color:#fff;background:none;border:0;cursor:pointer}
   @media (max-width:680px){ .top nav a{padding:8px 8px} .rec h2{font-size:2rem} }
 </style>
+<style id="dz-css">
+#v-dz .scroll{position:absolute;inset:0;overflow-y:auto;overflow-x:hidden}
+#v-dz .dzland{max-width:1080px;margin:0 auto;padding:16px 26px 60px}
+#v-dz .dzlede{font-size:.95rem;color:var(--ink-soft);max-width:72ch;margin:16px 0 6px}
+#v-dz .gtools{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem;margin:.9rem 0 0}
+#v-dz .gsearch{flex:1 1 240px;max-width:360px;background:#1c1710;border:1px solid var(--rule);color:var(--ink);border-radius:9px;padding:9px 12px;font-size:.9rem}
+#v-dz .gsearch::placeholder{color:#8B7E60}
+#v-dz .chips{display:flex;flex-wrap:wrap;gap:.45rem;margin:1rem 0 .4rem}
+#v-dz .chip{background:#1A130B;color:var(--ink-soft);border:1px solid var(--rule);border-radius:999px;padding:.3rem .9rem;font-size:.85rem;cursor:pointer;font-family:var(--body)}
+#v-dz .chip:hover{color:var(--ink);border-color:#5a4a2a}
+#v-dz .chip.active{background:var(--verm);color:#fff;border-color:var(--verm)}
+#v-dz section{margin-top:1.6rem}
+#v-dz section h2{color:var(--gold);font-family:var(--disp);font-size:1.6rem;border-bottom:1px solid var(--rule);padding-bottom:8px;margin:0 0 .3rem}
+#v-dz .gcount{color:#8B7E60;font-size:.8rem;font-weight:400}
+#v-dz .gintro{color:var(--ink-soft);font-size:.92rem;margin:.1rem 0 .9rem;max-width:62ch}
+#v-dz .gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem}
+#v-dz .card{display:block;background:#1A130B;border:1px solid var(--rule);border-radius:10px;overflow:hidden;text-decoration:none;transition:transform .12s,border-color .12s}
+#v-dz .card:hover{transform:translateY(-3px);border-color:#5a4a2a}
+#v-dz .card .thumb{height:190px;background:#20180E;display:block}
+#v-dz .card .thumb img{width:100%;height:100%;object-fit:cover;display:block;background:#20180E}
+#v-dz .card .body{padding:.7rem .85rem .9rem}
+#v-dz .card h3{font-family:var(--disp);color:var(--gold);font-size:1.02rem;margin:0 0 .25rem;line-height:1.15}
+#v-dz .card .meta{font-size:.78rem;color:var(--ink-soft);margin:0}
+#v-dz .gallery-note{color:#8B7E60;font-style:italic;font-size:.83rem;margin-top:1.6rem}
+#viewer-overlay{display:none;position:fixed;inset:0;z-index:4000;background:rgba(14,10,5,.975);flex-direction:column;padding:.8rem 1.1rem}
+#viewer-head{color:#f7f3ec;display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap}
+#viewer-head h2{font-family:var(--disp);margin:0;font-size:1.15rem;color:var(--ink)}
+#viewer-meta{font-size:.85rem;color:#cfc7ba}
+#viewer-meta a{color:var(--gold)}
+#viewer-close{margin-left:auto;background:none;border:1px solid #7d766b;color:#f7f3ec;border-radius:5px;padding:.25rem .85rem;cursor:pointer;font-family:var(--mono);font-size:.8rem}
+#seadragon{flex:1;margin:.6rem 0;min-height:0;background:#0E0A05}
+#viewer-headnote{color:#f2ead9;font-size:.94rem;line-height:1.55;max-width:62rem;margin:0 0 .4rem;border-left:3px solid var(--gold);padding-left:.75rem}
+#viewer-headnote:empty{display:none}
+#viewer-lookfor{color:#cdbf9c;font-size:.85rem;font-style:italic;max-width:62rem;margin:0 0 .5rem}
+#viewer-lookfor:empty{display:none}
+#viewer-caption{color:#e6dfd3;font-size:.9rem;max-width:62rem;margin:0}
+#viewer-credit{color:#9b948a;font-size:.76rem;margin:.25rem 0 0}
+</style>
 </head>
 <body>
 <div class="top">
@@ -255,7 +293,18 @@
   </div>
 </div></div></div>
 
-<div class="screen" id="v-dz"><iframe class="mapframe" src="gallery/ranchos-disenos-embed.html?v=2" title="Dise&ntilde;os gallery"></iframe></div>
+<div class="screen" id="v-dz"><div class="scroll" id="dzScroll"><main class="dzland">
+  <p class="dzlede">The hand-drawn dise&ntilde;os rancho claimants filed to establish their grants, held by The Bancroft Library. Filter by county; click any to zoom. Every map links to its archival original.</p>
+  <div class="gtools" id="tools"></div>
+  <div class="chips" id="chips" role="toolbar" aria-label="Filter by county"></div>
+  <div id="gallery-root"></div>
+  <p class="gallery-note" id="gallery-note"></p>
+</main></div></div>
+<div id="viewer-overlay" role="dialog" aria-modal="true" aria-label="Map viewer">
+  <div id="viewer-head"><h2 id="viewer-title"></h2><span id="viewer-meta"></span><button id="viewer-close" aria-label="Close viewer">&#10005; Close</button></div>
+  <div id="seadragon"></div>
+  <p id="viewer-headnote"></p><p id="viewer-lookfor"></p><p id="viewer-caption"></p><p id="viewer-credit"></p>
+</div>
 <div class="screen" id="v-data"><div class="scroll"><div class="wrap prose" id="sourcesBody"></div></div></div>
 
 <div id="lb"><button class="x" id="lbx">&#10005;</button><img id="lbimg" alt=""><div class="cap" id="lbcap"></div></div>
@@ -273,7 +322,8 @@
 
   function show(v){ document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));
     document.getElementById('v-'+v).classList.add('on');
-    document.querySelectorAll('.top nav a').forEach(a=>a.classList.toggle('on',a.dataset.v===v)); }
+    document.querySelectorAll('.top nav a').forEach(a=>a.classList.toggle('on',a.dataset.v===v));
+    if(v==='dz'&&window.__dzInit)window.__dzInit(); }
   document.querySelectorAll('[data-v]').forEach(el=>el.addEventListener('click',e=>{e.preventDefault();show(el.dataset.v);}));
   window.__show=show;
 
@@ -437,5 +487,7 @@
   renderReg(); renderDyn('');
 })();
 </script>
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/openseadragon.min.js"></script>
+<script src="assets/js/disenos.js?v=5"></script>
 </body>
 </html>
