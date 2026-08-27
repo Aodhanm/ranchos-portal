@@ -1,0 +1,60 @@
+/* Static-page layer for the ranchos portal. Tokens copied verbatim from the
+   app's inline theme so the generated pages match it. Do not edit by hand:
+   this file is emitted by build_pages.py. */
+:root{
+  --ground:#141009; --top:#0E0A05; --card:#1A130B; --card-2:#20180E; --stripe:#181109;
+  --ink:#EEE3CB; --ink-soft:#B9AC8C; --ink-faint:#8B7E60;
+  --rule:#39301E; --rule-2:#2A2214;
+  --gold:#D6A64E; --gold-deep:#E8C77B; --verm:#C24A34; --oak:#8FA06A;
+  --disp:"Baskerville","Hoefler Text","Palatino Linotype",Palatino,Georgia,serif;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --body:Charter,"Iowan Old Style",Georgia,Cambria,serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+a{color:var(--gold)}
+a:hover{color:var(--gold-deep)}
+.top{display:flex;align-items:center;gap:0 16px;flex-wrap:wrap;padding:9px 22px;
+  background:var(--top);border-bottom:1px solid var(--rule)}
+.top .seal{display:flex;line-height:0}
+.wordmark{font-family:var(--disp);font-size:19px;color:var(--gold);text-decoration:none;letter-spacing:.02em}
+.top nav{display:flex;flex-wrap:wrap;margin-left:auto}
+.top nav a{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-faint);text-decoration:none;padding:8px 11px}
+.top nav a:hover{color:var(--gold)}
+main{max-width:900px;margin:0 auto;padding:26px 22px 40px}
+h1{font-family:var(--disp);font-size:33px;line-height:1.15;color:var(--gold);margin:0 0 6px}
+h2{font-family:var(--disp);font-size:22px;color:var(--gold-deep);margin:30px 0 8px;
+  border-bottom:1px solid var(--rule-2);padding-bottom:5px}
+.kicker{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-faint);margin:0 0 16px}
+.summ{font-size:18px;color:var(--ink)}
+dl.facts{display:grid;grid-template-columns:auto 1fr;gap:0;margin:18px 0;
+  border-top:1px solid var(--rule-2)}
+dl.facts dt{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-faint);padding:10px 18px 10px 0;border-bottom:1px solid var(--rule-2);white-space:nowrap}
+dl.facts dd{margin:0;padding:10px 0;border-bottom:1px solid var(--rule-2);color:var(--ink)}
+.ok{color:var(--oak);font-weight:700}
+.no{color:var(--verm);font-weight:700}
+.disenos{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+.disenos a{display:block;line-height:0;border:1px solid var(--rule);background:var(--card)}
+.disenos img{height:132px;width:auto;display:block}
+ul.plain{list-style:none;padding:0}
+ul.plain li{padding:7px 0;border-bottom:1px solid var(--rule-2)}
+ul.src li{font-size:15px;color:var(--ink-soft)}
+table{border-collapse:collapse;width:100%;font-size:15px;margin-top:10px}
+th{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-faint);text-align:left;padding:9px 10px;border-bottom:1px solid var(--rule)}
+td{padding:9px 10px;border-bottom:1px solid var(--rule-2);vertical-align:top}
+tr:nth-child(even) td{background:var(--stripe)}
+.cols{columns:2;column-gap:26px}
+@media(max-width:640px){.cols{columns:1}h1{font-size:26px}dl.facts{grid-template-columns:1fr}
+  dl.facts dt{padding-bottom:0;border-bottom:none}}
+.brandgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.brandcard{background:#fff;border:1px solid var(--rule);padding:12px;text-align:center}
+.brandcard img{width:100%;height:96px;object-fit:contain}
+.brandcard .cap{font-size:12px;color:#222;margin-top:7px;line-height:1.35}
+footer{max-width:900px;margin:0 auto;padding:18px 22px 50px;border-top:1px solid var(--rule);
+  font-size:13px;color:var(--ink-faint)}
+footer p{margin:5px 0}
