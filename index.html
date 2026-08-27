@@ -248,7 +248,7 @@
     <img class="seal" src="assets/ranchos-brand.svg" alt="AC brand mark">
     <div class="brand">Ranchos <em>de Alta California</em><div class="k">A research portal &middot; 1769&ndash;1846</div></div>
   </div>
-  <nav><a data-v="map" class="on">Map</a><a data-v="reg">Register</a><a data-v="dyn">Dynasties</a><a data-v="brands">Brands</a><a data-v="dz">Dise&ntilde;os</a><a data-v="data">Sources</a></nav>
+  <nav><a data-v="map" class="on">Map</a><a data-v="reg" href="/register/">Register</a><a data-v="dyn" href="/dynasties/">Dynasties</a><a data-v="brands" href="/brands/">Brands</a><a data-v="dz">Dise&ntilde;os</a><a data-v="data">Sources</a></nav>
   <div class="right">archivesofcalifornia.com</div>
 </div>
 
@@ -334,8 +334,14 @@
     if(v==='dz'&&window.__dzInit)window.__dzInit(); }
   document.querySelectorAll('[data-v]').forEach(el=>{ if(el.tagName==='A'&&!el.getAttribute('href'))el.setAttribute('href','#'+el.dataset.v); });
   document.addEventListener('click',function(e){ var el=e.target&&e.target.closest?e.target.closest('[data-v]'):null; if(el){ e.preventDefault(); show(el.dataset.v); } });
-  window.addEventListener('hashchange',function(){ var v=(location.hash||'').replace('#',''); if(v&&document.getElementById('v-'+v)) show(v); });
+  function __fromHash(){ var h=(location.hash||'').replace('#',''); if(!h) return;
+    var p=h.split('/'), v=p[0];
+    if(!document.getElementById('v-'+v)) return;
+    if(v==='map'&&p[1]){ window.__mapSearch(decodeURIComponent(p.slice(1).join('/'))); } else { show(v); } }
+  window.addEventListener('hashchange',__fromHash);
+  window.__fromHash=__fromHash;
   window.__show=show;
+  setTimeout(__fromHash,0);
 
   window.__mapSearch=function(term){ show('map'); const f=document.getElementById('mapframe');
     setTimeout(function(){ try{ const inp=f.contentDocument.querySelector('#controls input.search, #controls input');

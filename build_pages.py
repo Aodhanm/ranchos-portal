@@ -18,6 +18,8 @@ import json
 import os
 import re
 import sys
+import collections
+from urllib.parse import quote as urlquote
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else ROOT
@@ -171,6 +173,50 @@ def main():
     urls = [SITE + '/', SITE + '/register/', SITE + '/dynasties/', SITE + '/brands/']
 
     # ---------- per-rancho pages ----------
+    def _title_of(r):
+        n = r['name']
+        g = r.get('era') not in ('pueblo', 'mission', 'presidio')
+        a = n.lower().startswith(('rancho', 'mission', 'pueblo', 'presidio',
+                                  'ex-mission', 'city lands', 'ex mission'))
+        return f'Rancho {n}' if (g and not a) else n
+    def _base(r):
+        y = str(r.get('year') or '')
+        return _title_of(r) + (f' ({y})' if y else '')
+
+    def _discs(r):
+        d = []
+        if r.get('county'):
+            d.append(f"{r['county']} County")
+        if r.get('grantee'):
+            d.append(f"granted to {r['grantee']}")
+        if r.get('land_case'):
+            d.append(f"land case {r['land_case']}")
+        d.append(r['id'])
+        return d
+
+    # Headlines must be globally unique: duplicate <title> tags are a real SEO
+    # problem and several records share a name, a year and even a county. Add
+    # discriminators cumulatively until every page in a colliding group differs.
+    # The heading stays readable: base name plus at most ONE discriminator. The
+    # <title> must additionally be globally unique, so where records remain
+    # indistinguishable (genuine duplicate rows in the source) it takes a numeric
+    # suffix rather than a pile-up of every field.
+    headline_of, title_of = {}, {}
+    groups = collections.defaultdict(list)
+    for r in mapped:
+        groups[_base(r)].append(r)
+    for base, grp in groups.items():
+        if len(grp) == 1:
+            headline_of[grp[0]['id']] = title_of[grp[0]['id']] = base
+            continue
+        for r in grp:
+            d = _discs(r)
+            headline_of[r['id']] = base + (', ' + d[0] if d and d[0] != r['id'] else '')
+        seen = collections.Counter()
+        for r in grp:
+            h = headline_of[r['id']]
+            seen[h] += 1
+            title_of[r['id']] = h if seen[h] == 1 else f'{h} ({seen[h]})'
     for r in mapped:
         name, rid = r['name'], r['id']
         county = r.get('county') or ''
@@ -183,7 +229,8 @@ def main():
         already = name.lower().startswith(('rancho', 'mission', 'pueblo', 'presidio',
                                            'ex-mission', 'city lands', 'ex mission'))
         title = f'Rancho {name}' if (is_grant and not already) else name
-        headline = f'{title}{" (" + year + ")" if year else ""}'
+        headline = headline_of[r['id']]
+        page_title = title_of[r['id']]
         desc = (r.get('summary') or
                 f'{title}, a land grant of {county or "Alta California"}'
                 + (f' granted {year}' if year else '')
@@ -221,8 +268,10 @@ def main():
             f'<dt>{k}</dt><dd>{v}</dd>' for k, v in facts) + '</dl>')
 
         if r.get('mapped'):
-            body.append(f'<p><a href="/#map">Open {esc(name)} on the interactive boundary map</a>, '
-                        'where the grant is drawn against its neighbours.</p>')
+            # #map/<term> is handled by __fromHash in the app, which runs __mapSearch,
+            # so this actually finds the grant rather than only opening the tab.
+            body.append(f'<p><a href="/#map/{urlquote(name)}">Open {esc(name)} on the interactive '
+                        'boundary map</a>, where the grant is drawn against its neighbours.</p>')
 
         ds = r.get('disenos') or []
         if ds:
@@ -272,7 +321,7 @@ def main():
             ld['containedInPlace'] = {'@type': 'AdministrativeArea', 'name': county + ' County, California'}
         if r.get('coords'):
             ld['geo'] = {'@type': 'GeoCoordinates', 'latitude': r['coords'][0], 'longitude': r['coords'][1]}
-        write(f'r/{rid}.html', page(f'{headline} | Ranchos of California', desc, canon, '\n'.join(body), ld))
+        write(f'r/{rid}.html', page(f'{page_title} | Ranchos of California', desc, canon, '\n'.join(body), ld))
         urls.append(canon)
 
     # ---------- register ----------
