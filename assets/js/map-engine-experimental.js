@@ -118,7 +118,7 @@
     if (f.disenos && f.disenos.length) {
       h += '<div class="diseno-strip">';
       f.disenos.forEach(function (d) {
-        h += '<img class="popup-diseno" src="' + esc(d.thumb) + '" data-full="' + esc(d.img) + '" title="' + esc(d.title || '') + '" loading="lazy" alt="Diseño (land-case map)" onclick="window.__disenoLB(this)">';
+        h += '<img class="popup-diseno" src="' + esc(d.thumb) + '" data-full="' + esc(d.img) + '" title="' + esc(d.title || '') + '" alt="Diseño (land-case map)" onclick="window.__disenoLB(this)">';
       });
       h += '</div><span class="diseno-cap">' + f.disenos.length + ' diseño' + (f.disenos.length > 1 ? 's' : '')
          + ' \u2014 the grant\u2019s original hand-drawn map' + (f.disenos.length > 1 ? 's' : '') + ' (click to enlarge)</span>';
