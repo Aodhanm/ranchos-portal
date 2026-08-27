@@ -324,7 +324,9 @@
     document.getElementById('v-'+v).classList.add('on');
     document.querySelectorAll('.top nav a').forEach(a=>a.classList.toggle('on',a.dataset.v===v));
     if(v==='dz'&&window.__dzInit)window.__dzInit(); }
-  document.querySelectorAll('[data-v]').forEach(el=>el.addEventListener('click',e=>{e.preventDefault();show(el.dataset.v);}));
+  document.querySelectorAll('[data-v]').forEach(el=>{ if(el.tagName==='A'&&!el.getAttribute('href'))el.setAttribute('href','#'+el.dataset.v); });
+  document.addEventListener('click',function(e){ var el=e.target&&e.target.closest?e.target.closest('[data-v]'):null; if(el){ e.preventDefault(); show(el.dataset.v); } });
+  window.addEventListener('hashchange',function(){ var v=(location.hash||'').replace('#',''); if(v&&document.getElementById('v-'+v)) show(v); });
   window.__show=show;
 
   window.__mapSearch=function(term){ show('map'); const f=document.getElementById('mapframe');
