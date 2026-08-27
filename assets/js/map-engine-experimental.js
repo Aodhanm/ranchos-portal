@@ -1,4 +1,4 @@
-/* California History Maps — shared map engine (v2, 2026-07-14)
+/* California History Maps: shared map engine (v2, 2026-07-14)
    Renders a map page from a data/*.json file. See data/schema.md.
    Vanilla JS + Leaflet (pinned CDN, loaded by the shell page). */
 (function () {
@@ -378,7 +378,7 @@
     var lc = L.control.layers(baseLayers, overlays, { collapsed: true }).addTo(map);
     if (window.innerWidth >= 700) lc.expand();
 
-    // opacity slider for the period chart — visible only while the chart layer is on
+    // opacity slider for the period chart, visible only while the chart layer is on
     if (histOverlay) {
       var startOp = data.historical_overlay.opacity != null ? data.historical_overlay.opacity : 0.7;
       var opCtl = L.control({ position: 'bottomright' });
