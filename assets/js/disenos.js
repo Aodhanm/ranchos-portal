@@ -25,7 +25,7 @@
     card.href = '#' + encodeURIComponent(it.id);
     card.addEventListener('click', function (e) { e.preventDefault(); openViewer(it); });
     card.innerHTML =
-      '<div class="thumb"><img loading="lazy" src="https://maps.archivesofcalifornia.com/gallery/disenos-thumb/' + esc(it.file) + '" alt=""></div>' +
+      '<div class="thumb"><img src="https://maps.archivesofcalifornia.com/gallery/disenos-thumb/' + esc(it.file) + '" alt=""></div>' +
       '<div class="body"><h3>' + esc(it.title) + '</h3>' +
       '<p class="meta">' + esc(it.group + (it.year ? ' · ' + it.year : '')) + '</p></div>';
     return card;
