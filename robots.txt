@@ -1,0 +1,6 @@
+# Ranchos of California, a research portal of the Spanish and Mexican land grants.
+# All crawlers welcome, including AI crawlers. The data is CC BY 4.0.
+User-agent: *
+Allow: /
+
+Sitemap: https://ranchos.archivesofcalifornia.com/sitemap.xml
