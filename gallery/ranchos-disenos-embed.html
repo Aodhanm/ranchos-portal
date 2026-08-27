@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diseños — Land Grant Maps · California History Maps</title>
+<meta name="description" content="1,396 manuscript diseños (Mexican land-grant maps) from the U.S. private land-claim cases, held by The Bancroft Library, UC Berkeley. Zoomable, grouped by county, each linked to the archival original.">
+<meta property="og:title" content="Diseños — Land Grant Maps of Mexican California">
+<meta property="og:description" content="The manuscript rancho maps of Mexican California: 1,396 diseños from the Bancroft Library land-case files, zoomable and grouped by county.">
+<meta property="og:type" content="website">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  .chips { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 1rem 0 0.4rem; }
+  .chip { border: 1px solid var(--rule); background: #fff; color: var(--ink-soft);
+    border-radius: 999px; padding: 0.25rem 0.8rem; font-size: 0.83rem; cursor: pointer; }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .gcount { font-size: 0.8rem; color: var(--ink-soft); font-family: var(--sans); }
+  .gintro { margin-top: 0.1rem; }
+  .gallery-note { font-size: 0.82rem; color: var(--ink-soft); font-style: italic; max-width: 46rem; }
+  .card .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; background: #efe9dd; }
+  #viewer-overlay { display: none; position: fixed; inset: 0; z-index: 3000;
+    background: rgba(29,26,22,0.96); flex-direction: column; padding: 0.8rem 1rem; }
+  #viewer-head { color: #f7f3ec; display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+  #viewer-head h2 { font-family: var(--serif); margin: 0; font-size: 1.1rem; }
+  #viewer-meta { font-size: 0.83rem; color: #cfc7ba; }
+  #viewer-meta a { color: #e8b64c; }
+  #viewer-close { margin-left: auto; background: none; border: 1px solid #7d766b;
+    color: #f7f3ec; border-radius: 4px; padding: 0.2rem 0.8rem; cursor: pointer; }
+  #seadragon { flex: 1; margin: 0.6rem 0; }
+  #viewer-headnote { color: #f2ead9; font-size: 0.94rem; line-height: 1.55; max-width: 62rem;
+    margin: 0 0 0.4rem; border-left: 3px solid #e8b64c; padding-left: 0.75rem; }
+  #viewer-headnote::before { content: "Note · "; color: #e8b64c; font-weight: 600; }
+  #viewer-lookfor { color: #cdbf9c; font-size: 0.85rem; font-style: italic; max-width: 62rem;
+    margin: 0 0 0.5rem; padding-left: 0.78rem; }
+  #viewer-lookfor::before { content: "Look for: "; color: #e8b64c; font-style: normal; }
+  #viewer-caption { color: #e6dfd3; font-size: 0.9rem; max-width: 62rem; margin: 0; }
+  #viewer-credit { color: #9b948a; font-size: 0.76rem; margin: 0.25rem 0 0; }
+  .gtools { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem; margin: 0.9rem 0 0; }
+  .gtools .gsearch { flex: 1 1 240px; max-width: 360px; padding: 0.32rem 0.6rem;
+    border: 1px solid var(--rule); border-radius: 4px; background: #fff; font-size: 0.87rem; }
+</style>
+<style>
+  :root{
+    --ink:#EEE3CB; --ink-soft:#B9AC8C; --parchment:#141009; --parchment-deep:#20180E;
+    --rule:#39301E; --accent:#C24A34;
+    --serif:"Baskerville","Hoefler Text","Palatino Linotype",Palatino,"Iowan Old Style",Georgia,serif;
+  }
+  body{margin:0;background:linear-gradient(180deg,#161009,#0E0A05);color:var(--ink)}
+  main.landing{max-width:1080px;margin:0 auto;padding:16px 22px 44px}
+  main.landing h1{display:none}
+  main.landing .lede{font-size:.92rem;color:#B9AC8C;max-width:72ch;margin:4px 0 6px}
+  .landing h2{color:#E8C77B;font-size:1.7rem;border-bottom:1px solid var(--rule);padding-bottom:8px}
+  .gcount{color:#8B7E60}
+  .gtools .gsearch,.gsearch{background:#1c1710;border:1px solid var(--rule);color:var(--ink);border-radius:9px;padding:9px 12px}
+  .gtools .gsearch::placeholder{color:#8B7E60}
+  .chip{background:#1A130B;color:#B9AC8C;border:1px solid var(--rule);border-radius:999px;padding:.28rem .85rem}
+  .chip:hover{color:#EEE3CB;border-color:#5a4a2a}
+  .chip.active{background:#C24A34;color:#fff;border-color:#C24A34}
+  .gallery-note{color:#8B7E60;font-style:italic}
+  .card{background:#1A130B;border:1px solid var(--rule);border-radius:10px}
+  .card:hover{box-shadow:0 14px 30px -18px rgba(0,0,0,.8);border-color:#5a4a2a}
+  .card .thumb{background:#20180E}
+  .card h3{font-family:var(--serif);color:#E8C77B;font-size:1.08rem}
+  .card .meta,.card p{color:#B9AC8C}
+</style>
+</head>
+<body>
+<main class="landing">
+  <h1>Diseños — Land Grant Maps</h1>
+  <p class="lede">The hand-drawn diseños rancho claimants filed to establish their grants, held by The Bancroft Library. Filter by county; click any to zoom. Every map links to its archival original.</p>
+  <div class="gtools" id="tools"></div>
+  <div class="chips" id="chips" role="toolbar" aria-label="Filter by county"></div>
+  <div id="gallery-root"></div>
+  <p class="gallery-note" id="gallery-note"></p>
+</main>
+<div id="viewer-overlay" role="dialog" aria-modal="true" aria-label="Map viewer">
+  <div id="viewer-head">
+    <h2 id="viewer-title"></h2>
+    <span id="viewer-meta"></span>
+    <button id="viewer-close" aria-label="Close viewer">✕ Close</button>
+  </div>
+  <div id="seadragon"></div>
+  <p id="viewer-headnote"></p>
+  <p id="viewer-lookfor"></p>
+  <p id="viewer-caption"></p>
+  <p id="viewer-credit"></p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/openseadragon.min.js"></script>
+<script src="../assets/js/disenos.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ranchos map (embed)</title>
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin="">
+<link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  /* fill the iframe: no site header, controls on top, map fills the rest */
+  html,body{height:100%;margin:0}
+  body.map-page{display:flex;flex-direction:column;background:#e9e2d3}
+  .map-head{display:none}
+  #controls{flex:0 0 auto;padding:11px 16px;margin:0;display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    background:#fbf6ea;border-bottom:1px solid #e2d8bf}
+  .timeline{display:none !important}            /* remove the year slider */
+  #controls .search{flex:1 1 320px;max-width:520px;font-size:15px;padding:10px 14px;border-radius:9px;
+    border:1px solid #d8caa6;background:#fff}
+  #controls .count{margin-left:auto;font-size:.85rem;color:#6e5c42}
+  #map{flex:1 1 auto;min-height:320px;height:auto}
+  .diseno-strip{display:flex;gap:6px;overflow-x:auto;padding:8px 0 4px;scroll-snap-type:x mandatory}
+  .diseno-strip a{flex:0 0 auto;scroll-snap-align:start;text-decoration:none}
+  .popup-diseno{display:block;height:150px;width:auto;border-radius:5px;background:#efeae0;box-shadow:0 1px 4px rgba(0,0,0,.25);cursor:zoom-in}
+  .diseno-cap{display:block;font-size:.74rem;opacity:.7;margin-bottom:4px}
+  .leaflet-popup-content{max-height:74vh;overflow-y:auto}
+  .leaflet-popup-content-wrapper{max-width:400px}
+  #diseno-lightbox{display:none;position:fixed;inset:0;z-index:9999;background:rgba(20,18,14,.92);
+    align-items:center;justify-content:center;flex-direction:column;padding:24px;box-sizing:border-box}
+  #dlb-img{max-width:94vw;max-height:88vh;object-fit:contain;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,.6)}
+  #dlb-cap{color:#e8e2d4;font-size:.85rem;margin-top:10px;max-width:80vw;text-align:center}
+  #dlb-x{position:fixed;top:14px;right:20px;font-size:34px;line-height:1;color:#fff;background:none;border:none;cursor:pointer;opacity:.85}
+  #dlb-x:hover{opacity:1}
+  .leaflet-interactive:focus{outline:none !important}
+  .rancho-selected{filter:drop-shadow(0 0 5px rgba(59,130,246,.95))}
+  .badge.oc.conf{background:#2f7d4f;color:#fff}
+  .badge.oc.rej{background:#a23b4e;color:#fff}
+</style>
+</head>
+<body class="map-page" data-map="ranchos-experimental">
+<div class="map-head"><h1 id="map-title"></h1><p class="subtitle" id="map-subtitle"></p></div>
+<div id="controls" role="toolbar" aria-label="Map filters"></div>
+<div id="map" role="application" aria-label="Interactive historical map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+<script src="../assets/js/map-engine-experimental.js?v=17"></script>
+</body>
+</html>
