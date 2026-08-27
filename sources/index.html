@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources and Method | Ranchos of California</title>
+<meta name="description" content="How this portal was built: where the boundaries, land-case outcomes, diseños, governors and acreages come from, why the counts differ between sources, and how to cite it.">
+<link rel="canonical" href="https://ranchos.archivesofcalifornia.com/sources/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Sources and Method | Ranchos of California">
+<meta property="og:description" content="How this portal was built: where the boundaries, land-case outcomes, diseños, governors and acreages come from, why the counts differ between sources, and how to cite it.">
+<meta property="og:url" content="https://ranchos.archivesofcalifornia.com/sources/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/css/pages.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Sources and Method: Ranchos of Spanish and Mexican California", "description": "How this portal was built: where the boundaries, land-case outcomes, diseños, governors and acreages come from, why the counts differ between sources, and how to cite it.", "url": "https://ranchos.archivesofcalifornia.com/sources/", "author": {"@type": "Person", "name": "Aodhan Coyne"}}</script>
+</head>
+<body>
+<header class="top"><a class="seal" href="/"><img src="/assets/ranchos-brand.svg" alt="" width="34" height="34"></a><a class="wordmark" href="/">Ranchos de Alta California</a><nav><a href="/#map">Map</a><a href="/register/">Register</a><a href="/dynasties/">Dynasties</a><a href="/brands/">Brands</a><a href="/disenos/">Dise&ntilde;os</a><a href="/sources/">Sources</a></nav></header>
+<main>
+<h2>Sources and Method</h2>
+<h4><em>Ranchos of Spanish and Mexican California</em>, a research portal</h4>
+<p><strong>Last data review:</strong> 2026-08-26</p>
+<p><strong>Scope:</strong> private land grants of the Spanish (1769–1821) and Mexican (1822–1846) periods in Alta California, their U.S.-era adjudication, and the manuscript maps filed in those cases.</p>
+<p>This page documents where every field of data on the portal comes from, how it was derived, and what its known limits are. The governing principle is traceability: any claim shown on a grant's card should resolve to a named source below. Nothing here is a legal record. For a legal boundary or a chain of title, consult the patent, the survey plat, and the county recorder.</p>
+<p>A note on the numbers before anything else: the portal draws on several independent datasets that count <em>different things</em>, so their totals do not match and should never be added together or treated as versions of one figure. Section 6 sets out exactly what each count means.</p>
+<hr>
+<h3>1. Boundaries (the mapped polygons)</h3>
+<p><strong>Source.</strong> The reconstructed grant boundaries come from the <strong>ECAI / UCSD Spanish and Mexican Land Grants dataset</strong>, surfaced through the "California Land Grants" ArcGIS project, which in turn compiles the boundaries from the <strong>U.S. Public Land Survey plats</strong> and the confirmed-survey record. Every mapped grant carries this line verbatim in its <code>sources</code> array:</p>
+<blockquote>"Boundary &amp; land-case data: ECAI/UCSD Spanish &amp; Mexican Land Grants (via the California Land Grants ArcGIS project)"</blockquote>
+<p><strong>Derivation.</strong> Each polygon is stored as a latitude/longitude ring on the feature object (<code>polygon</code>), with a representative point (<code>coords</code>) for the pin. Grants are colored by the granting governor's era via the <code>layer</code> field (Spanish, Echeandía, Figueroa, the 1835–36 interim, Alvarado, Micheltorena, Pío Pico, plus pueblo, mission, and presidio classes, and an "unattributed" class for grants whose governor is still to be confirmed). Of the 535 mapped features, 530 carry a boundary polygon; the remaining few are placed by point only.</p>
+<p><strong>Known limits and caveats.</strong></p>
+<ul>
+<li>These are <strong>surveyed reconstructions, not legal lines.</strong> They approximate the confirmed exterior of each grant as later run by U.S. deputy surveyors; they are not the diseño's own sketch, not the modern parcel fabric, and not suitable for boundary determination. The portal's own legend states this plainly: <em>"Boundaries: ECAI/UCSD survey reconstruction. Records: Hoffman 1862 + Bancroft. Not for legal or boundary determination."</em></li>
+<li><strong>Floating and never-patented grants</strong> cannot be drawn faithfully. Where a grant was subdivided before patent, the polygon is at best indicative. The features <strong>Napa</strong> and <strong>Entre Napa</strong> carry exactly this note: each was <em>"subdivided … and confirmed piecemeal, so never patented as a single rancho,"</em> and neither has a single land-case number.</li>
+<li><strong>Two special cases are handled by hand and are flagged on the feature itself:</strong></li>
+<li><strong>Suscol</strong> (land case ND 318, the Vallejo claim) was a <em>rejected</em> claim, so no confirmed survey exists. Its boundary was, in the feature's own words, <em>"fitted to surveyed neighbors + shoreline, approximate."</em> The western edge is clipped to the Napa River and Mare Island Strait shoreline and <strong>excludes Mare Island</strong>.</li>
+<li><strong>Mare Island (Isla de la Yegua)</strong> (associated with ND 311) was <em>"never surveyed as a Mexican land grant."</em> Its outline is <strong>not</strong> an ECAI reconstruction at all but is <em>"traced from 'Vallejo and Mare Island Strait,' U.S. Coast Survey, 1850 (survey by Cadwalader Ringgold),"</em> with grant facts drawn from Hoffman's <em>Reports of Land Cases</em> (1862), claim no. 307. The note warns that the modern island is larger owing to post-1853 Navy fill, so the charted 1850 shoreline is deliberately the historical, not the present, outline.</li>
+</ul>
+<hr>
+<h3>2. Land cases and adjudication outcomes</h3>
+<p><strong>Source.</strong> Two layered sources, recorded on every feature and in the register:</p>
+<p>1. **Ogden Hoffman, <em>Reports of Land Cases</em> (1862)** for the docket, the parties, the grant particulars, and the reported outcome. This is the digitized backbone of <code>data/hoffman-claims.json</code> (813 rows).</p>
+<p>2. <strong>The Bancroft Library land-case files</strong>, linked per grant by their digicoll record, e.g. <em>"Land case file SD 063, Bancroft Library (digicoll)"</em> → <code><a href="https://digicoll.lib.berkeley.edu/record/266098</code>." target="_blank" rel="noopener">https://digicoll.lib.berkeley.edu/record/266098`.</a></p>
+<p>Behind both stands the <strong>U.S. Board of Land Commissioners</strong> (created by the Act of March 3, 1851), whose determinations were appealed through the U.S. District Courts for the Northern and Southern Districts of California and, in some instances, the U.S. Supreme Court.</p>
+<p><strong>Derivation.</strong> Each claim is keyed by its <strong>district-and-index docket number</strong> in the form <code>ND nnn</code> (Northern District) or <code>SD nnn</code> (Southern District). In the Hoffman table these are split across <code>district</code> and <code>index_no</code>, alongside <code>dc_no</code> (the District Court number), <code>claimant</code>, <code>rancho</code>, <code>grantee</code>, <code>governor</code>, <code>grant_date</code>, <code>county</code>, <code>leagues</code>, <code>acres</code>, and <code>outcome</code>. A grant's popup summarizes this as, for example, <em>"U.S. land case SD 063, Confirmed."</em> Outcomes on the map are normalized to Confirmed / Rejected / (unstated).</p>
+<p><strong>Known limits and caveats.</strong></p>
+<ul>
+<li>Hoffman reports the <strong>Northern District fully and the Southern District only in part</strong>; Southern cases are therefore thinner in the printed volume and are supplemented from the Bancroft files and the finding aid.</li>
+<li><strong>Outcome language is not binary.</strong> The raw Hoffman table records 545 claims as confirmed or patented and 239 as rejected, plus roughly 29 in other postures (discontinued, dismissed, or "reversed and remanded," several of which were ultimately confirmed or abandoned on remand). The map's three-way Confirmed/Rejected/blank coloring collapses that nuance; the underlying <code>outcome</code> string preserves it.</li>
+<li>A <strong>confirmed claim is not automatically a patented one.</strong> "Confirmed" means the title was validated; the patent (and its final survey acreage) sometimes followed years later or not at all. Treat "Confirmed" as an adjudication result, not proof of a recorded patent.</li>
+<li>The <strong>digicoll record links point to the archival case file</strong>, not to a transcription. Some files are partially digitized.</li>
+</ul>
+<hr>
+<h3>3. Diseños (the manuscript grant maps)</h3>
+<p><strong>Source.</strong> The <strong>Bancroft Library, "Maps of Private Land Grant Cases" (Land Case Maps) collection</strong>, UC Berkeley, digitized at digicoll.lib.berkeley.edu and discoverable through <strong>Calisphere / OAC</strong>. Every image in <code>gallery/disenos-data.json</code> carries the identical, explicit credit line:</p>
+<blockquote>"The Bancroft Library, University of California, Berkeley (Land Case Maps). Digitized via digicoll.lib.berkeley.edu. Public domain."</blockquote>
+<p><strong>Derivation.</strong> The gallery holds <strong>1,870 images spanning 1,396 distinct archival records</strong> (<code>source_url</code>), organized into <strong>38 county groups</strong>. Each item stores its Bancroft <code>source_url</code>, a catalog <code>title</code>, a working <code>caption</code>, and, where written, a scholarly <code>headnote</code>. Diseños are <strong>joined to a rancho by the digicoll record id</strong>: a grant's <code>disenos</code> array lists the images whose Bancroft record matches that grant, which is why a single grant (e.g. San Gabriel) can surface several sheets. County placement, per the collection's own note, <em>"is from the catalog title or a strict match to the state's land-grant dataset; ambiguous names are left unplaced."</em></p>
+<p><strong>Known limits and caveats.</strong></p>
+<ul>
+<li><strong>Rights posture: attribution.</strong> The imagery is presented as public domain with the Bancroft credit required; reuse should carry the credit line above and link to the archival original.</li>
+<li><strong>Titles are catalog titles, not transcriptions</strong>, and the gallery's own note calls its labels <em>"working descriptions."</em> Diseño place-names are frequently misspelled or generic in the catalog, so title-based county placement is deliberately conservative and some sheets are left unplaced rather than guessed.</li>
+<li><strong>Not every grant has a diseño, and not every diseño maps to a grant.</strong> The join is only as good as the record-id match; absence of a diseño on a card means no confident match, not necessarily that none survives.</li>
+<li>Some records comprise <strong>multiple sheets</strong> (suffixed <code>-1</code>, <code>-2</code>), which is why image count (1,870) exceeds record count (1,396).</li>
+</ul>
+<hr>
+<h3>4. Governors and granting authority</h3>
+<p><strong>Source.</strong> The <strong>granting governor named in the definitive grant</strong>, taken from Hoffman's report of the grant (the <code>governor</code> field) and, where Hoffman is silent or the grant passed through more than one administration, reconciled against the standard gubernatorial chronology.</p>
+<p><strong>Derivation.</strong> Each grant is assigned to a governor via <code>governor_name</code>, and its map color via the era <code>layer</code>. The assignment is <strong>tenure-checked</strong>: the grant date is matched to the governor in office on that date, which is why the field sometimes records a chain (for example <em>"Nicolas Gutierrez; Alvarado,"</em> <em>"Alvarado (ratified by Micheltorena),"</em> or <em>"Micheltorena and J. A. Sutter"</em> for grants Sutter issued under delegated authority) rather than a single name.</p>
+<p><strong>Known limits and caveats.</strong></p>
+<ul>
+<li><strong>Spanish-era concessions</strong> frequently name no governor in the surviving record; these are coded generically (<em>"a Spanish governor"</em>) and colored in the Spanish layer.</li>
+<li><strong>Interim and contested administrations</strong> (Gutiérrez, Chico, Castro, 1835–36) are grouped into one interim layer for legibility even though the underlying <code>governor_name</code> keeps the specific official.</li>
+<li>A small number of grants (<code>unattributed</code> layer) have a <strong>governor still to be confirmed</strong>; these are shown in neutral gray and should be treated as provisional.</li>
+<li>The acting <em>gobernador</em> and the <em>juez</em> or prefect who actually signed a concession were not always the same person; where the record distinguishes them the field notes it (e.g. <em>"Jose E. Estrada (Prefect); Jose Jimeno"</em>), but the era coloring follows the governor.</li>
+</ul>
+<hr>
+<h3>5. Acreage</h3>
+<p><strong>Source and an important honest caveat.</strong> There are <strong>two different acreage figures in play, and the portal does not always make the distinction visible.</strong></p>
+<ul>
+<li><strong>The Hoffman table (<code>hoffman-claims.json</code>) carries the legal acreage:</strong> the claimed leagues and the <strong>patented / final-survey acres</strong> as reported in 1862 (for example, Las Mariposas at 44,386.83 acres, La Habra at 6,698.57). This is the figure a researcher should cite for the size of a <em>patent</em>.</li>
+<li><strong>The mapped features (<code>ranchos-experimental.json</code>) carry a different <code>acres</code> value</strong>, and testing shows it does <strong>not</strong> match the Hoffman patent acreage (0 of 109 cross-checked features agreed). The feature-level <code>rank_note</code> labels it <em>"by area,"</em> and the values track the GIS area of the reconstructed ECAI polygon, not the patent. For fragmentary features (small mission tracts) the two diverge sharply.</li>
+</ul>
+<p><strong>Derivation.</strong> On a grant's map card, the acreage and the size-rank (<em>"361st of 493 by area"</em>) are computed from the <strong>reconstructed boundary's area</strong>. The Hoffman patent/claimed acreage lives in the separate land-case table.</p>
+<p><strong>Known limits and caveats.</strong></p>
+<ul>
+<li><strong>These two numbers answer different questions.</strong> "By area" is how large the reconstructed polygon is; the Hoffman figure is what the U.S. survey certified. Where they differ, the <strong>Hoffman patent acreage is the citable legal figure</strong>; the polygon area is a cartographic byproduct and should be read as approximate.</li>
+<li><strong>Recommendation for the site:</strong> label the map figure explicitly as "reconstructed area" and expose the Hoffman patent acres alongside it, so the two are never mistaken for one another. As currently built, a card that shows only the "by area" number understates or overstates the patent for any grant whose reconstruction is imperfect.</li>
+<li>Rejected and never-patented grants have <strong>no patent acreage at all</strong>; any acreage shown for them is polygon-derived and nominal.</li>
+</ul>
+<hr>
+<h3>6. The universe of claims: why the counts differ</h3>
+<p>These figures come from different documents and <strong>count different objects.</strong> They are not revisions of one number and must not be conflated or summed.</p>
+<p>| Count | Figure | What it actually is | Source |</p>
+<p>|---|---|---|---|</p>
+<p>| Finding-aid case files | ~857 | Case <em>files</em> enumerated by the Bancroft land-case finding aid. Includes duplicates, town-lot and mission preemption claims, and non-rancho matters. Reported figure, external to our datasets; treat as approximate. | Bancroft / OAC finding aid |</p>
+<p>| Hoffman claims | <strong>813</strong> | Rows in <code>hoffman-claims.json</code>: the private land <em>claims</em> Hoffman reported (545 confirmed/patented, 239 rejected, ~29 other). One claim per docket line. | Hoffman 1862 (verified in file) |</p>
+<p>| Distinct grants | ~800 | Distinct underlying <em>grants</em>. Fewer than claims because one grant could generate several claims (and a few claims covered fractions of a grant). Approximate; not a stored field. | Derived estimate |</p>
+<p>| Register rows | <strong>673</strong> | Rows in <code>register-data.json</code>: 535 mapped + 138 unmapped. The portal's working register of grant-level entries. | register-data.json (verified) |</p>
+<p>| Index rows | <strong>662</strong> | Rows in <code>ranchos-index.json</code> (updated 2026-08-24): 524 mapped, 138 unmapped. A slightly earlier build of the same register. | ranchos-index.json (verified) |</p>
+<p>| Mapped grants | <strong>535</strong> | Features in <code>ranchos-experimental.json</code> that carry a boundary/point on the map (511 ranchos, 13 ex-mission, 7 pueblo, 4 presidio). | ranchos-experimental.json (verified) |</p>
+<p><strong>Version drift is real and worth stating openly.</strong> The three "mapped" numbers you will see on the portal (<strong>510</strong>, <strong>524</strong>, <strong>535</strong>) are the same quantity at three build dates, not three different things. The current data is <strong>535</strong> (the experimental layer and the register agree). The <strong>524</strong> in the index and the <strong>510</strong> still printed in the map's abstract and legend note are stale text from earlier builds; the legend line <em>"510 of 813 claims mapped"</em> should be refreshed to 535. Similarly the register's <strong>673</strong> rows supersede the index's <strong>662</strong>. When the site quotes a headline figure it should quote the register/experimental pair (673 total, 535 mapped) and update the older strings to match.</p>
+<p>Two ratios worth keeping straight: <strong>535 of the ~800 grants are drawn</strong> (roughly two-thirds), and separately <strong>1,870 diseño images across 1,396 records</strong> are catalogued. Those describe different collections and are unrelated to each other.</p>
+<hr>
+<h3>7. Standard reference works to consult alongside this portal</h3>
+<p>A researcher tracing a specific rancho should treat the portal as a finding aid and confirm particulars against the printed authorities. Full citations:</p>
+<ul>
+<li>Hoffman, Ogden. <em>Reports of Land Cases Determined in the United States District Court for the Northern District of California, June Term, 1853, to June Term, 1858, Inclusive.</em> San Francisco: Numa Hubert, 1862. <em>(The adjudication of record; the portal's outcome and party data derive from it. Reprinted Yosemite Collections / Rio Grande Press, 1975.)</em></li>
+<li>Bowman, J. N. <em>Index of the Spanish-Mexican Private Land Grant Records and Cases of California.</em> Berkeley: Bancroft Library, University of California, 1958. <em>(Typescript. The concordance of grant, claimant, docket, and archival file; indispensable for reconciling the ND/SD numbering used here.)</em></li>
+<li>Cowan, Robert G. <em>Ranchos of California: A List of Spanish Concessions, 1775–1822, and Mexican Grants, 1822–1846.</em> Fresno: Academy Library Guild, 1956. <em>(Grant-by-grant list with grantee, date, and county.)</em></li>
+<li>Robinson, W. W. <em>Land in California: The Story of Mission Lands, Ranchos, Squatters, Mining Claims, Railroad Grants, Land Scrip, Homesteads.</em> Berkeley: University of California Press, 1948. <em>(The narrative history of the tenure system and the Land Commission process.)</em></li>
+<li>Perez, Cris. <em>Grants of Land in California Made by Spanish or Mexican Authorities</em> [<em>Ranchos of California</em>]. Sacramento: Boundary Determination Office, California State Lands Commission, 1982. <em>(County-organized grant list with patent data; useful for acreage cross-checks.)</em></li>
+<li>Shumway, Burgess McK. <em>California Ranchos: Patented Private Land Grants Listed by County.</em> Edited by Michael and Mary Burgess. San Bernardino: Borgo Press, 1988. <em>(Patented grants arranged by present-day county.)</em></li>
+<li>Beck, Warren A., and Ynez D. Haase. <em>Historical Atlas of California.</em> Norman: University of Oklahoma Press, 1974. <em>(Cartographic context, including a rancho plate; good for orienting reconstructed boundaries against the standard atlas.)</em></li>
+</ul>
+<p>For the manuscript maps specifically, cite the Bancroft collection directly: <em>Maps of Private Land Grant Cases (Land Case Maps), The Bancroft Library, University of California, Berkeley</em>, with the individual digicoll record number.</p>
+<hr>
+<h3>8. How to cite this portal</h3>
+<p>Cite the portal as a database, name the specific grant if you are citing one record, and give an access date, because the data is periodically rebuilt (as the count history in Section 6 shows).</p>
+<p><strong>Whole portal:</strong></p>
+<blockquote>Coyne, Aodhan. <em>Ranchos of Spanish and Mexican California: A Research Portal.</em> California History Maps. maps.archivesofcalifornia.com. Accessed [date].</blockquote>
+<p><strong>A single grant record:</strong></p>
+<blockquote>"Rancho [Name]" (U.S. land case [ND/SD nnn]). In Aodhan Coyne, <em>Ranchos of Spanish and Mexican California: A Research Portal</em>, California History Maps. maps.archivesofcalifornia.com. Accessed [date].</blockquote>
+<p>When you rely on a datum the portal itself sourced, cite through to the original: Hoffman (1862) for a case outcome or party, the Bancroft land-case file (with its digicoll record) for archival detail, the ECAI/UCSD dataset for a boundary, and the Bancroft Land Case Maps (with credit) for a diseño image. The portal is the finding aid; the authorities above are the record.</p>
+<hr>
+<p><em>Provenance of this page: every figure and quoted source line was read directly from the portal's own data files (<code>ranchos-experimental.json</code>, <code>hoffman-claims.json</code>, <code>ranchos-index.json</code>, <code>disenos-data.json</code>, and the register build) on 2026-08-26. Where this document quotes a source note, the quotation is verbatim from those files.</em></p>
+</main>
+<footer><p>Coyne, Aodhan. <i>Ranchos of California: the Spanish and Mexican land grants of Alta California</i>. archivesofcalifornia.com, 2026.</p><p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the cited record before relying on it. Generated 2026-08-27.</p><p><a href="/">Return to the interactive portal</a></p></footer>
+</body>
+</html>

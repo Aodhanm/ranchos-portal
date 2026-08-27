@@ -43,7 +43,9 @@ def load():
         i = s.index('{' if s[m.end()] == '{' else '[', m.end())
         return json.JSONDecoder().raw_decode(s[i:])[0]
 
-    return grab('DATA'), grab('GEN'), grab('BRANDS')
+    m = re.search(r'const\s+SOURCES_HTML\s*=\s*', s)
+    src_html = json.JSONDecoder().raw_decode(s[s.index('"', m.end()):])[0]
+    return grab('DATA'), grab('GEN'), grab('BRANDS'), src_html
 
 
 def write(relpath, text):
@@ -78,7 +80,7 @@ def page(title, desc, canon, body, ld=None):
         '<header class="top"><a class="seal" href="/"><img src="/assets/ranchos-brand.svg" alt="" width="34" height="34"></a>'
         '<a class="wordmark" href="/">Ranchos de Alta California</a>'
         '<nav><a href="/#map">Map</a><a href="/register/">Register</a><a href="/dynasties/">Dynasties</a>'
-        '<a href="/brands/">Brands</a><a href="/#dz">Dise&ntilde;os</a><a href="/#data">Sources</a></nav></header>\n'
+        '<a href="/brands/">Brands</a><a href="/disenos/">Dise&ntilde;os</a><a href="/sources/">Sources</a></nav></header>\n'
         '<main>\n' + body + '\n</main>\n'
         '<footer><p>' + CITE + '</p>'
         '<p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican '
@@ -156,7 +158,7 @@ def slug(s):
 
 
 def main():
-    D, G, B = load()
+    D, G, B, SRC_HTML = load()
     recs = D['records']
     eras = {l['id']: l['label'] for l in D['legend']}
     mapped = [r for r in recs if r.get('mapped')]
@@ -414,6 +416,68 @@ def main():
                                     f'<h1>Cattle brands</h1><p class="summ">{bdesc}</p>'
                                     '<div class="brandgrid">' + ''.join(cards) + '</div>'
                                     f'<h2>Source</h2><p>{esc(B.get("source"))}</p>'))
+
+    # ---------- sources and method ----------
+    sdesc = ('How this portal was built: where the boundaries, land-case outcomes, dise' + "\u00f1" + 'os, '
+             'governors and acreages come from, why the counts differ between sources, and how to cite it.')
+    write('sources/index.html', page('Sources and Method | Ranchos of California', sdesc,
+                                     SITE + '/sources/', SRC_HTML,
+                                     {'@context': 'https://schema.org', '@type': 'Article',
+                                      'headline': 'Sources and Method: Ranchos of Spanish and Mexican California',
+                                      'description': sdesc, 'url': SITE + '/sources/',
+                                      'author': {'@type': 'Person', 'name': 'Aodhan Coyne'}}))
+    urls.append(SITE + '/sources/')
+
+    # ---------- dise\u00f1os, an index plus one page per county ----------
+    dz = json.load(open(os.path.join(ROOT, 'gallery', 'disenos-data.json')))
+    GAL = 'https://maps.archivesofcalifornia.com/gallery/'
+    by_group = collections.defaultdict(list)
+    for it in dz['items']:
+        by_group[it.get('group') or 'County not stated'].append(it)
+    intro_of = {g['id']: g.get('intro', '') for g in (dz.get('groups') or [])}
+    dz_rows = []
+    for grp in sorted(by_group, key=lambda g: (-len(by_group[g]), g)):
+        items = by_group[grp]
+        gs = slug(grp)
+        canon = f'{SITE}/disenos/{gs}.html'
+        gdesc = (f'{len(items)} manuscript dise' + '\u00f1' + f'os from the {grp} land-grant claims, held by '
+                 'The Bancroft Library and filed in the United States private land-claim cases.')[:300]
+        body = [f'<p class="kicker">Dise' + '\u00f1' + f'os</p><h1>{esc(grp)}</h1>',
+                f'<p class="summ">{esc(intro_of.get(grp) or gdesc)}</p>',
+                '<div class="disenos">']
+        for it in items:
+            f_ = it['file']
+            cap = it.get('title') or it.get('caption') or f_
+            body.append(f'<a href="{GAL}disenos-img/{esc(f_)}" title="{esc(cap[:180])}">'
+                        f'<img src="{GAL}disenos-thumb/{esc(f_)}" loading="lazy" '
+                        f'alt="Dise' + '\u00f1' + f'o: {esc(cap[:110])}"></a>')
+        body.append('</div>')
+        body.append('<h2>The sheets</h2><ul class="plain src">')
+        for it in items:
+            t = esc(it.get('title') or it.get('file'))
+            u = it.get('source_url')
+            cr = esc(it.get('credit') or '')
+            body.append(f'<li>' + (f'<a href="{esc(u)}">{t}</a>' if u else t)
+                        + (f' <span class="kicker" style="display:inline">{cr}</span>' if cr else '') + '</li>')
+        body.append('</ul><p><a href="/disenos/">All counties</a> &middot; '
+                    '<a href="/register/">The register</a></p>')
+        write(f'disenos/{gs}.html',
+              page(f'Dise' + '\u00f1' + f'os of {grp} | Ranchos of California', gdesc, canon, '\n'.join(body),
+                   {'@context': 'https://schema.org', '@type': 'ImageGallery',
+                    'name': f'Dise' + '\u00f1' + f'os of {grp}', 'description': gdesc, 'url': canon}))
+        urls.append(canon)
+        dz_rows.append(f'<li><a href="/disenos/{gs}.html">{esc(grp)}</a> '
+                       f'<span class="kicker" style="display:inline">{len(items)} sheets</span></li>')
+    idesc = (f'{len(dz["items"])} manuscript dise' + '\u00f1' + 'os, the hand-drawn maps filed with Spanish and '
+             f'Mexican land-grant claims, arranged by county across {len(by_group)} groups. '
+             'Held by The Bancroft Library.')
+    write('disenos/index.html', page('Dise' + '\u00f1' + 'os, the land-grant maps | Ranchos of California',
+                                     idesc, SITE + '/disenos/',
+                                     '<h1>Dise' + '\u00f1' + 'os</h1>'
+                                     f'<p class="summ">{esc(idesc)}</p>'
+                                     f'<p>{esc(str(dz.get("note") or ""))}</p>'
+                                     '<ul class="plain cols">' + ''.join(dz_rows) + '</ul>'))
+    urls.append(SITE + '/disenos/')
 
     write('assets/css/pages.css', CSS)
     write('sitemap.xml',
