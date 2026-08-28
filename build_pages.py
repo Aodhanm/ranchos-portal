@@ -347,6 +347,18 @@ def main():
                         f'{", " + esc(br.get("year")) if br.get("year") else ""}<br>{esc(br.get("src"))}</div>'
                         '</div></div>')
 
+        sc = r.get('scotus')
+        if sc:
+            links = []
+            for c in sc:
+                links.append(f'<a href="{esc(c["url"])}">{esc(c["cite"])}</a>' if c.get('url')
+                             else esc(c['cite']))
+            body.append('<h2>United States Supreme Court</h2>'
+                        '<p>The title to this grant was litigated to the U.S. Supreme Court: '
+                        + ', '.join(links) + '. '
+                        '<span class="kicker" style="display:inline">Opinions from the official '
+                        'United States Reports at the Library of Congress.</span></p>')
+
         fam = next((f for f in fams_by_len if grantee and f.lower() in grantee.lower()), None)
         if fam:
             body.append(f'<h2>Family</h2><p>The grantee belongs to the '
