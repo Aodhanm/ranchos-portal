@@ -269,8 +269,18 @@ def main():
                 + (f' to {grantee}' if grantee else '') + '.')[:300]
 
         facts = []
-        if year:
-            facts.append(('Granted', esc(year) + (f' by Governor {esc(gov)}' if gov else '')))
+        # A compound governor field lists every authority involved across the
+        # grant's life (e.g. "Sola; Arguello; Micheltorena" spans 1820 to 1845).
+        # Rendering "Granted <year> by Governor <all of them>" asserts they all
+        # granted it in that one year, which is false. Split it.
+        _compound_gov = gov and (';' in gov or ' and ' in gov)
+        if year and not gov:
+            facts.append(('Granted', esc(year)))
+        elif year and _compound_gov:
+            facts.append(('Granted', esc(year)))
+            facts.append(('Granting authorities', esc(gov)))
+        elif year:
+            facts.append(('Granted', esc(year) + f' by Governor {esc(gov)}'))
         if grantee:
             facts.append(('Grantee', esc(grantee)))
         size = []
