@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 import collections
 from urllib.parse import quote as urlquote
 
@@ -168,9 +169,37 @@ def main():
 
     fam_slug = {f: slug(f) for f in G}
     fams_by_len = sorted(G, key=len, reverse=True)
+    # Brands are matched to grants by CORROBORATION, not by name. Matching on the
+    # search term alone was wrong: it hung the Mission San Gabriel brand on all
+    # eight ranchos called San Gabriel, the Mission San Miguel brand on three more,
+    # and Antonio Maria Lugo's Los Angeles brand on Luis Maria Peralta's Alameda
+    # rancho. A brand is only attached when
+    #   (1) it is a rancho brand, never a mission brand,
+    #   (2) exactly one mapped grant carries that name, and
+    #   (3) a surname is shared between the brand's owner and the grant's grantee.
+    def _surnames(text):
+        drop = {'de', 'la', 'las', 'los', 'del', 'y', 'family', 'the', 'and', 'et', 'al',
+                'maria', 'jose', 'juan', 'antonio', 'don', 'dona', 'heirs', 'of'}
+        # Strip combining marks BEFORE splitting. Splitting first treats the
+        # combining acute in "Maria" as a separator and yields "mari" on both
+        # sides of a comparison, which manufactures a false match.
+        flat = unicodedata.normalize('NFKD', text or '')
+        flat = ''.join(c for c in flat if not unicodedata.combining(c))
+        toks = [t.lower() for t in re.split(r'[^A-Za-z]+', flat)]
+        return {t for t in toks if len(t) > 2 and t not in drop}
+
+    name_count = collections.Counter((r.get('name') or '').lower() for r in mapped)
     brand_by_search = {}
+    brand_skipped = 0
     for b in B['brands']:
-        brand_by_search.setdefault((b.get('search') or '').lower(), b)
+        key = (b.get('search') or '').lower()
+        if b.get('mission') or str(b.get('rancho', '')).lower().startswith('mission'):
+            brand_skipped += 1
+            continue
+        if name_count.get(key, 0) != 1:
+            brand_skipped += 1
+            continue
+        brand_by_search.setdefault(key, b)
 
     urls = [SITE + '/', SITE + '/register/', SITE + '/dynasties/', SITE + '/brands/']
 
@@ -284,8 +313,9 @@ def main():
                             f'alt="Dise&ntilde;o of {esc(name)}" loading="eager"></a>')
             body.append('</div>')
 
-        bsearch = (name or '').lower()
-        br = brand_by_search.get(bsearch)
+        br = brand_by_search.get((name or '').lower())
+        if br and not (_surnames(br.get('owner')) & _surnames(grantee)):
+            br = None  # owner and grantee share no surname: not this rancho's brand
         if br:
             body.append('<h2>Cattle brand</h2><div class="brandgrid"><div class="brandcard">'
                         f'<img src="/{esc(br["file"])}" alt="Cattle brand of {esc(br.get("owner"))}">'
