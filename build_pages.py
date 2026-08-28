@@ -300,10 +300,19 @@ def main():
             cls = 'no' if re.search(r'reject', r['outcome'], re.I) else 'ok'
             facts.append(('Adjudication', f'<span class="{cls}">{esc(r["outcome"])}</span>'))
         pt = r.get('patent')
-        if pt and pt.get('to'):
-            ac = f", {esc(pt['acres'])} acres" if pt.get('acres') else ''
-            facts.append(('U.S. patent',
-                          f"issued to {esc(pt['to'])}, {esc(pt.get('date'))}{ac}"))
+        if pt:
+            bits = []
+            if pt.get('to'):
+                bits.append(f"issued to {esc(pt['to'])}")
+            if pt.get('date'):
+                bits.append(esc(pt['date']))
+            if pt.get('acres'):
+                bits.append(f"{esc(pt['acres'])} acres")
+            if pt.get('glo'):
+                bits.append(f"General Land Office patent no. {esc(pt['glo'])}")
+            if bits:
+                src = f' <span class="kicker" style="display:inline">({esc(pt["source"])})</span>' if pt.get('source') else ''
+                facts.append(('U.S. patent', ', '.join(bits) + src))
 
         body = [f'<p class="kicker">{esc(county + " County" if county else "Alta California")}'
                 f'{" &middot; " + esc(eras.get(r.get("era"), "")) if r.get("era") in eras else ""}</p>',
@@ -379,8 +388,12 @@ def main():
         oc = r.get('outcome') or ''
         ocls = 'no' if re.search(r'reject', oc, re.I) else ('ok' if oc else '')
         pt = r.get('patent') or {}
-        pcell = (f"{esc(pt.get('date'))}<br><span class=\"kicker\" style=\"display:inline\">"
-                 f"{esc(pt.get('to'))}</span>") if pt.get('date') else ''
+        if pt.get('date') or pt.get('glo'):
+            top = esc(pt.get('date')) if pt.get('date') else (f"GLO {esc(pt.get('glo'))}" if pt.get('glo') else '')
+            sub = esc(pt.get('to')) if pt.get('to') else (f"GLO {esc(pt.get('glo'))}" if pt.get('date') and pt.get('glo') else '')
+            pcell = f"{top}<br><span class=\"kicker\" style=\"display:inline\">{sub}</span>"
+        else:
+            pcell = ''
         rows.append(f'<tr id="{esc(r["id"])}"><td>{cell}</td><td>{esc(r.get("year"))}</td>'
                     f'<td>{esc(r.get("governor"))}</td><td>{esc(r.get("grantee"))}</td>'
                     f'<td>{esc(r.get("county"))}</td><td>{esc(r.get("land_case"))}</td>'
