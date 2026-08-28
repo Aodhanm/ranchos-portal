@@ -365,7 +365,9 @@ def main():
                         f'<a href="/dynasties/{fam_slug[fam]}.html">{esc(fam)} family</a>, one of the '
                         'landholding dynasties of Mexican California.</p>')
 
-        srcs = r.get('sources') or []
+        srcs = list(r.get('sources') or [])
+        if r.get('scan_url') and not any((c.get('u') or '') == r['scan_url'] for c in srcs):
+            srcs.append({'c': 'Manuscript land case file, The Bancroft Library (digitized)', 'u': r['scan_url']})
         if srcs:
             body.append('<h2>Sources</h2><ul class="plain src">')
             for s_ in srcs:
@@ -399,6 +401,8 @@ def main():
         cell = f'<a href="/r/{r["id"]}.html">{nm}</a>' if r.get('mapped') else nm
         oc = r.get('outcome') or ''
         ocls = 'no' if re.search(r'reject', oc, re.I) else ('ok' if oc else '')
+        lc = r.get('land_case') or ''
+        lc_cell = f'<a href="{esc(r["scan_url"])}">{esc(lc)}</a>' if r.get('scan_url') and lc else esc(lc)
         pt = r.get('patent') or {}
         if pt.get('date') or pt.get('glo'):
             top = esc(pt.get('date')) if pt.get('date') else (f"GLO {esc(pt.get('glo'))}" if pt.get('glo') else '')
@@ -408,7 +412,7 @@ def main():
             pcell = ''
         rows.append(f'<tr id="{esc(r["id"])}"><td>{cell}</td><td>{esc(r.get("year"))}</td>'
                     f'<td>{esc(r.get("governor"))}</td><td>{esc(r.get("grantee"))}</td>'
-                    f'<td>{esc(r.get("county"))}</td><td>{esc(r.get("land_case"))}</td>'
+                    f'<td>{esc(r.get("county"))}</td><td>{lc_cell}</td>'
                     f'<td class="{ocls}">{esc(oc)}</td><td>{pcell}</td></tr>')
     c = D['counts']
     npat = sum(1 for r in recs if (r.get('patent') or {}).get('date'))
