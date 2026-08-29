@@ -254,6 +254,7 @@ def main():
         year = str(r.get('year') or '')
         gov, grantee = r.get('governor') or '', r.get('grantee') or ''
         canon = f'{SITE}/r/{rid}.html'
+        canonical_href = f'{SITE}/r/{r["canonical_to"]}.html' if r.get('canonical_to') else canon
         # Only private grants take the "Rancho" prefix. Pueblo commons, ex-mission
         # lands, presidios and city lands were not ranchos and must not be labelled as one.
         is_grant = r.get('era') not in ('pueblo', 'mission', 'presidio')
@@ -382,6 +383,9 @@ def main():
                 body.append(f'<li><a href="/r/{x["id"]}.html">{esc(x["name"])}</a>'
                             f'{" (" + esc(str(x["year"])) + ")" if x.get("year") else ""}</li>')
             body.append('</ul>')
+        if r.get('see_also'):
+            body.append(f'<p class="kicker">This grant also appears as a second boundary tracing of the '
+                        f'same U.S. land case: <a href="/r/{esc(r["see_also"])}.html">see the companion record</a>.</p>')
         body.append('<p><a href="/register/">Back to the full register of 673 grants and claims</a></p>')
 
         ld = {'@context': 'https://schema.org', '@type': 'Place', 'name': title,
@@ -391,12 +395,13 @@ def main():
             ld['containedInPlace'] = {'@type': 'AdministrativeArea', 'name': county + ' County, California'}
         if r.get('coords'):
             ld['geo'] = {'@type': 'GeoCoordinates', 'latitude': r['coords'][0], 'longitude': r['coords'][1]}
-        write(f'r/{rid}.html', page(f'{page_title} | Ranchos of California', desc, canon, '\n'.join(body), ld))
+        write(f'r/{rid}.html', page(f'{page_title} | Ranchos of California', desc, canonical_href, '\n'.join(body), ld))
         urls.append(canon)
 
     # ---------- register ----------
     rows = []
     for r in sorted(recs, key=lambda x: (x.get('county') or 'zz', x['name'])):
+        if r.get('suppress_register'): continue
         nm = esc(r['name'])
         cell = f'<a href="/r/{r["id"]}.html">{nm}</a>' if r.get('mapped') else nm
         oc = r.get('outcome') or ''
