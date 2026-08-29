@@ -426,6 +426,10 @@ def main():
              f'land case number, adjudication outcome and, for {npat} of them, the United States patent '
              f'with its patentee, date and patented acreage, across {c["counties"]} counties.')
     rbody = ('<h1>Register of the ranchos</h1>'
+             '<p class="kicker">Download the full dataset: '
+             '<a href="/data/ranchos-register.csv">CSV</a> &middot; '
+             '<a href="/data/ranchos-register.json">JSON</a> &middot; CC BY 4.0. '
+             'Every field below, plus the U.S. patent, GLO patent number, land-case scan and Supreme Court citation.</p>'
              f'<p class="summ">Every grant and claim we hold: <b>{c["total"]}</b> records across '
              f'{c["counties"]} counties, of which <b>{c["mapped"]}</b> have a mapped boundary and their own '
              'page. The remaining ' + str(c['unmapped']) + ' are claims recorded in the United States land '
@@ -438,7 +442,14 @@ def main():
                                       {'@context': 'https://schema.org', '@type': 'Dataset',
                                        'name': 'Register of the Spanish and Mexican land grants of Alta California',
                                        'description': rdesc, 'url': SITE + '/register/',
-                                       'license': 'https://creativecommons.org/licenses/by/4.0/'}))
+                                       'license': 'https://creativecommons.org/licenses/by/4.0/',
+                                       'creator': {'@type': 'Person', 'name': 'Aodhan Coyne',
+                                                   'sameAs': 'https://orcid.org/0009-0002-8630-3768'},
+                                       'distribution': [
+                                           {'@type': 'DataDownload', 'encodingFormat': 'text/csv',
+                                            'contentUrl': SITE + '/data/ranchos-register.csv'},
+                                           {'@type': 'DataDownload', 'encodingFormat': 'application/json',
+                                            'contentUrl': SITE + '/data/ranchos-register.json'}]}))
 
     # ---------- dynasties ----------
     dlinks = []
@@ -562,6 +573,38 @@ def main():
                                      f'<p>{esc(str(dz.get("note") or ""))}</p>'
                                      '<ul class="plain cols">' + ''.join(dz_rows) + '</ul>'))
     urls.append(SITE + '/disenos/')
+
+    # ---------- machine-readable data export (CSV + JSON) ----------
+    import csv as _csv, io as _io
+    EXPORT_COLS = ['id', 'name', 'year', 'era', 'governor', 'grantee', 'acres', 'leagues',
+                   'county', 'land_case', 'outcome', 'patent_to', 'patent_date', 'patent_acres',
+                   'glo_patent_no', 'scotus_cite', 'bancroft_scan_url', 'portal_url', 'mapped']
+    def _row(r):
+        pt = r.get('patent') or {}
+        sc = r.get('scotus') or []
+        return {
+            'id': r.get('id'), 'name': r.get('name'), 'year': r.get('year'), 'era': r.get('era'),
+            'governor': r.get('governor'), 'grantee': r.get('grantee'), 'acres': r.get('acres'),
+            'leagues': r.get('leagues'), 'county': r.get('county'), 'land_case': r.get('land_case'),
+            'outcome': r.get('outcome'), 'patent_to': pt.get('to'), 'patent_date': pt.get('date'),
+            'patent_acres': pt.get('acres'), 'glo_patent_no': pt.get('glo'),
+            'scotus_cite': '; '.join(c.get('cite', '') for c in sc), 'bancroft_scan_url': r.get('scan_url'),
+            'portal_url': f'{SITE}/r/{r["id"]}.html' if r.get('mapped') else '',
+            'mapped': 'yes' if r.get('mapped') else 'no',
+        }
+    rows_ = [_row(r) for r in recs if not r.get('suppress_register')]
+    buf = _io.StringIO(newline='')
+    w = _csv.DictWriter(buf, fieldnames=EXPORT_COLS)
+    w.writeheader()
+    for rr in rows_:
+        w.writerow(rr)
+    write('data/ranchos-register.csv', buf.getvalue())
+    write('data/ranchos-register.json', json.dumps(
+        {'title': 'Ranchos of California: the Spanish and Mexican land grants of Alta California',
+         'license': 'https://creativecommons.org/licenses/by/4.0/',
+         'source': SITE + '/', 'cite': CITE.replace('<i>', '').replace('</i>', ''),
+         'generated': TODAY, 'count': len(rows_), 'records': rows_},
+        ensure_ascii=False, indent=1))
 
     write('assets/css/pages.css', CSS)
     write('sitemap.xml',
