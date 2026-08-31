@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this register, please cite it as below. Verify any grant against its linked land case before citing the grant itself."
+title: "Ranchos of California: A Register of the Land Grants of Alta California"
+type: dataset
+authors:
+  - family-names: Coyne
+    given-names: Aodhan
+    orcid: "https://orcid.org/0009-0002-8630-3768"
+doi: 10.5281/zenodo.22185500
+repository-code: "https://github.com/Aodhanm/ranchos-portal"
+url: "https://ranchos.archivesofcalifornia.com/"
+abstract: >-
+  A structured register of the 672 documented land grants made in Alta
+  California under Spanish and Mexican rule, 1769 to 1846, each joined to
+  its United States land case, to the federal patent that closed the case,
+  and, where one exists, to the Supreme Court opinion that decided it.
+  Fields cover grantee, granting governor and era, acreage in acres and
+  square leagues, county, land case docket, final disposition, patentee,
+  patent date and acreage, General Land Office patent number, and a deep
+  link to the digitized land case file at the Bancroft Library. Compiled
+  from the Bancroft land case files, the Online Archive of California
+  finding aid, Perez (1982), Hoffman (1862), and the General Land Office
+  patent record.
+keywords:
+  - California history
+  - land grants
+  - ranchos
+  - Mexican California
+  - Spanish borderlands
+  - land tenure
+  - public land survey
+  - digital humanities
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-08-31"

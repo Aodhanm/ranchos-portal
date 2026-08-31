@@ -1,5 +1,9 @@
 # ranchos-portal
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22185500.svg)](https://doi.org/10.5281/zenodo.22185500)
+
+The register is published as a citable dataset: **DOI [10.5281/zenodo.22185500](https://doi.org/10.5281/zenodo.22185500)** (concept DOI, always resolves to the newest version). Citation metadata in `CITATION.cff`; reuse terms in `LICENSE.md` (CC BY 4.0). The Zenodo deposit carries `data/ranchos-register.csv` and `data/ranchos-register.json` with a field dictionary. The map boundaries are ECAI/UCSD data and are not part of the deposit.
+
 Serves **https://ranchos.archivesofcalifornia.com** (GitHub Pages, custom domain via the `CNAME` file).
 
 A self-contained research portal for the Spanish & Mexican land grants: an interactive
