@@ -21,6 +21,15 @@
 <h4><em>Ranchos of Spanish and Mexican California</em>, a research portal</h4>
 <p><strong>Last data review:</strong> 2026-08-26</p>
 <p><strong>Scope:</strong> private land grants of the Spanish (1769–1821) and Mexican (1822–1846) periods in Alta California, their U.S.-era adjudication, and the manuscript maps filed in those cases.</p>
+<h3>What this is, and what it is not</h3>
+<p>Read this before relying on anything below.</p>
+<ul>
+<li><strong>It is not complete.</strong> The register holds 672 grants. The usual estimate of the universe is 800 to 850 distinct grants, and 813 claims were filed before the Land Commission. What is here is the set that can be documented from the sources named on this page. Section 6 explains why several different counts exist and why they must not be summed.</li>
+<li><strong>It is a compilation, not a transcription of the manuscripts.</strong> The boundary polygons are third-party data from the ECAI / UCSD land grants dataset. Grant facts come in part from the case summaries of the California Land Grants ArcGIS project, patent data in part from an OCR of Cris Perez (1982). Those intermediaries stand between this register and the archive, and the register can be no more accurate than they are, except where a value was checked against the Bancroft land case file, which is the authority used whenever the sources disagree.</li>
+<li><strong>Its accuracy is measured, not asserted.</strong> A random sample of 100 of the 672 records was drawn, hashed and published before any of it was checked, and is being verified field by field against the case files. The rate will be published here whatever it turns out to be. Section 10 gives the current status.</li>
+<li><strong>Blank does not mean none.</strong> A field is left empty when no source states the value. Patentees are never inferred from grantees, because an audit found two of three inferred names wrong.</li>
+</ul>
+<hr>
 <p>This page documents where every field of data on the portal comes from, how it was derived, and what its known limits are. The governing principle is traceability: any claim shown on a grant's card should resolve to a named source below. Nothing here is a legal record. For a legal boundary or a chain of title, consult the patent, the survey plat, and the county recorder.</p>
 <p>A note on the numbers before anything else: the portal draws on several independent datasets that count <em>different things</em>, so their totals do not match and should never be added together or treated as versions of one figure. Section 6 sets out exactly what each count means.</p>
 <hr>
@@ -114,7 +123,19 @@
 </ul>
 <p>For the manuscript maps specifically, cite the Bancroft collection directly: <em>Maps of Private Land Grant Cases (Land Case Maps), The Bancroft Library, University of California, Berkeley</em>, with the individual digicoll record number.</p>
 <hr>
-<h3>8. How to cite this portal</h3>
+<h3>8. Names, spelling and dates</h3>
+<p><strong>Policy.</strong> Personal and place names are given as the source writes them, and are not silently normalized. The same family therefore appears in more than one form across the register, and a search for one spelling will not always find the other. This is deliberate: regularizing the spelling would quietly overwrite what the record says, and the variants are themselves evidence of how these names were used and heard. Where two forms are known to be the same person, the grant page notes it rather than merging them.</p>
+<p><strong>Dates.</strong> A year alone means the source gives only a year. Where a grant passed through more than one administration, the year recorded is that of the definitive grant, not of an earlier provisional concession, and section 4 explains how the governor is then assigned.</p>
+<hr>
+<h3>9. How this was compiled</h3>
+<p>The register was assembled by one person, working from the digitized sources named above rather than from the original paper files, and using large language models as an assistant: to parse the case summaries into structured fields, to draft the per-grant prose, and to cross-check one source against another. Every field that carries a factual claim was then reviewed against a named source, and the sources are recorded per grant rather than in aggregate. The method is stated here because a reader is entitled to weigh it, and because the appropriate response to it is measurement, which is what section 10 reports.</p>
+<p><strong>Boundaries are the one place where geometry was produced rather than sourced.</strong> Mare Island was never surveyed as a Mexican grant, so it appears in no boundary set. Its polygon was traced from Ringgold’s 1850 U.S. Coast Survey chart of Vallejo and Mare Island Strait, georeferenced by the chart’s own scale bar and anchored to the historic Navy Yard, and it is deliberately narrower than the modern island because the island was enlarged by fill after 1853. It is an approximation drawn from a period chart, it is labelled as such on the grant page, and it should not be read as a survey.</p>
+<hr>
+<h3>10. Accuracy audit</h3>
+<p>A blind sample of 100 of the 672 records was drawn on 1 September 2026, stratified by granting era, using a fixed public seed, and committed to the public repository with its sha256 before any record was checked. Anyone can redraw it and confirm the ids match. Eight fields are graded per record against the land case file and the patent record: year, governor, grantee, land case number, outcome, patentee, patent date and General Land Office number.</p>
+<p><strong>Status: sample committed, verification in progress, 0 of 100 checked.</strong> The rate will be posted here per field and overall, together with every correction the audit turns up, and a partial audit will be reported as partial. The design and the grading rubric are public: see <code>audit/README.md</code> in the portal repository.</p>
+<hr>
+<h3>11. How to cite this portal</h3>
 <p>Cite the portal as a database, name the specific grant if you are citing one record, and give an access date, because the data is periodically rebuilt (as the count history in Section 6 shows).</p>
 <p><strong>Whole portal:</strong></p>
 <blockquote>Coyne, Aodhan. <em>Ranchos of Spanish and Mexican California: A Research Portal.</em> ranchos.archivesofcalifornia.com. Accessed [date].</blockquote>
@@ -126,6 +147,6 @@
 <hr>
 <p><em>Provenance of this page: every figure and quoted source line was read directly from the portal's own data files (<code>ranchos-experimental.json</code>, <code>hoffman-claims.json</code>, <code>ranchos-index.json</code>, <code>disenos-data.json</code>, and the register build) on 2026-08-26. Where this document quotes a source note, the quotation is verbatim from those files.</em></p>
 </main>
-<footer><p>Coyne, Aodhan. <i>Ranchos of California: the Spanish and Mexican land grants of Alta California</i>. archivesofcalifornia.com, 2026.</p><p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the cited record before relying on it. Generated 2026-08-30.</p><p><a href="/">Return to the interactive portal</a></p></footer>
+<footer><p>Coyne, Aodhan. <i>Ranchos of California: the Spanish and Mexican land grants of Alta California</i>. archivesofcalifornia.com, 2026.</p><p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the cited record before relying on it. Generated 2026-09-01.</p><p><a href="/">Return to the interactive portal</a></p></footer>
 </body>
 </html>
