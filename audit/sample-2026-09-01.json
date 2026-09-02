@@ -1,0 +1,3211 @@
+{
+ "sample_of": "data/ranchos-register.csv",
+ "population": 672,
+ "n": 100,
+ "seed": "ranchos-register-audit-2026-09-01",
+ "method": "proportional stratified random sample by granting era; deterministic sort then random.sample with the fixed public seed above; reproducible by re-running scripts/build_audit_sample.py",
+ "drawn": "2026-09-01",
+ "committed_before_checking": true,
+ "records": [
+  {
+   "id": "rancho-arroyo-alameda",
+   "name": "Arroyo De La Alameda",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "J. de Jesus Vallejo",
+    "land_case": "ND 060",
+    "outcome": "Confirmed",
+    "patent_to": "José de Jesús Vallejo",
+    "patent_date": "Jan. 1, 1858",
+    "glo_patent_no": "133",
+    "patent_acres": "17,705.38"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264446"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-atascadero",
+   "name": "Atascadero",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Trifon Garcia",
+    "land_case": "SD 113",
+    "outcome": "Confirmed",
+    "patent_to": "Henry Haight",
+    "patent_date": "June 18, 1860",
+    "glo_patent_no": "317",
+    "patent_acres": "4,348.23"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265854"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-boca-canada-pinole",
+   "name": "La Boca De La Canada Del Pinole",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "María Manuela Valencia",
+    "land_case": "ND 138",
+    "outcome": "Confirmed",
+    "patent_to": "Maria Manuela Valencia",
+    "patent_date": "Nov. 30, 1878",
+    "glo_patent_no": "125",
+    "patent_acres": "13,316.26"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265498"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-canada-guadalupe-visitacion",
+   "name": "Canada De Guadalupe La Visitacion",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1841",
+    "governor": "Alvarado",
+    "grantee": "Jacob P. Leese",
+    "land_case": "ND 285",
+    "outcome": "Confirmed",
+    "patent_to": "Henry R. Payson",
+    "patent_date": "Dec. 15, 1865",
+    "glo_patent_no": "151",
+    "patent_acres": "5,473.47"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256616"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-canada-larga-verde",
+   "name": "Canada Larga Verde",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1841",
+    "governor": "Alvarado",
+    "grantee": "Joaquína Alvarado",
+    "land_case": "SD 081",
+    "outcome": "Confirmed",
+    "patent_to": "Joaquina Alvarado",
+    "patent_date": "Mar. 26, 1873",
+    "glo_patent_no": "390",
+    "patent_acres": "6,659.04"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265829"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-canada-raymundo",
+   "name": "Canada De Raymundo",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1840",
+    "governor": "Alvarado",
+    "grantee": "John Coppinger",
+    "land_case": "ND 075",
+    "outcome": "Confirmed",
+    "patent_to": "Maria Luisa Greer and Manuela Coppinger",
+    "patent_date": "July 19, 1859",
+    "glo_patent_no": "168",
+    "patent_acres": "12,545.01"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264458"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-cruces",
+   "name": "Las Cruces",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1837",
+    "governor": "Alvarado",
+    "grantee": "Vicente Cordero",
+    "land_case": "ND 430",
+    "outcome": "Confirmed",
+    "patent_to": "Vicente Cordero et al",
+    "patent_date": "July 7, 1883",
+    "glo_patent_no": "549",
+    "patent_acres": "8,512.81"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264273"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-cucamonga",
+   "name": "Cucamonga",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Tiburcio Tapia",
+    "land_case": "SD 214",
+    "outcome": "Confirmed",
+    "patent_to": "Leon V. Prudhomme",
+    "patent_date": "Dec. 9, 1872",
+    "glo_patent_no": "479",
+    "patent_acres": "13,045.21"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267557"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-guadalupe",
+   "name": "Guadalupe",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1837",
+    "governor": "Alvarado",
+    "grantee": "D. Olivera and T. Arellanes",
+    "land_case": "SD 039",
+    "outcome": "Confirmed",
+    "patent_to": "Diego Olivera and Teodoro Arellanes (1)",
+    "patent_date": "June 30, 1866",
+    "glo_patent_no": "353",
+    "patent_acres": "32,408.03"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266076"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-laureles",
+   "name": "Los Laureles",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Jose M. Boronda and Vicente Blas Martinez",
+    "land_case": "SD 240",
+    "outcome": "Confirmed",
+    "patent_to": "Jose M. Boronda and Juan de Mata Boronda",
+    "patent_date": "Aug. 9, 1866",
+    "glo_patent_no": "289",
+    "patent_acres": "6,624.99"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267581"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-mare-island",
+   "name": "Mare Island (Isla de la Yegua)",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1840",
+    "governor": "Jimeno; Alvarado",
+    "grantee": "Victor Castro",
+    "land_case": "ND 311",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256640"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-napa",
+   "name": "Napa",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1838",
+    "governor": "Alvarado",
+    "grantee": "Salvador Vallejo",
+    "land_case": "",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": ""
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-niguel",
+   "name": "Niguel",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "J. Abila et al",
+    "land_case": "SD 130",
+    "outcome": "Confirmed",
+    "patent_to": "Juan Abila et al",
+    "patent_date": "Apl. 5, 1875",
+    "glo_patent_no": "501",
+    "patent_acres": "13,316.01"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265869"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-ojitos",
+   "name": "Los Ojitos",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "M. Soberanes",
+    "land_case": "SD 221",
+    "outcome": "Confirmed",
+    "patent_to": "Mariano Soberanes",
+    "patent_date": "Apl. 18, 1871",
+    "glo_patent_no": "311",
+    "patent_acres": "8,900.17"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268901"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-quito",
+   "name": "Quito",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1841",
+    "governor": "Alvarado",
+    "grantee": "Manuel Alviso",
+    "land_case": "ND 226",
+    "outcome": "Confirmed",
+    "patent_to": "Manuel Alviso",
+    "patent_date": "May 14, 1866",
+    "glo_patent_no": "187",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266038"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-rincon-esteros-1",
+   "name": "Rincon De Los Esteros (Alviso)",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1838",
+    "governor": "Alvarado",
+    "grantee": "Rafael Alviso",
+    "land_case": "ND 204",
+    "outcome": "Confirmed",
+    "patent_to": "Rafael Alviso et al",
+    "patent_date": "July 29, 1872",
+    "glo_patent_no": "141",
+    "patent_acres": "2,200.19"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265797"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-antonio",
+   "name": "San Antonio (Mesa)",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Encarnación Mesa",
+    "land_case": "ND 275",
+    "outcome": "Confirmed",
+    "patent_to": "Encarnación Mesa et al",
+    "patent_date": "Aug. 6, 1866",
+    "glo_patent_no": "176",
+    "patent_acres": "898.41"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256607"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-bernardino",
+   "name": "San Bernardino",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "Jose del Carmen Lugo, Jose Maria Lugo, Vicente Lugo and Diego Sepulveda",
+    "land_case": "SD 012",
+    "outcome": "Confirmed",
+    "patent_to": "Jose del Carmen Lugo et al",
+    "patent_date": "Nov. 24, 1865",
+    "glo_patent_no": "481",
+    "patent_acres": "35,509.41"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266053"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-francisquito-2",
+   "name": "San Francisquito",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Antonio Buelna",
+    "land_case": "ND 206",
+    "outcome": "Confirmed",
+    "patent_to": "Maria Concepcion Valencia de Rodriquez",
+    "patent_date": "June 8, 1868",
+    "glo_patent_no": "174",
+    "patent_acres": "1,471.00"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265799"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-jacinto-viejo",
+   "name": "San Jacinto Viejo",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1842",
+    "governor": "Alvarado",
+    "grantee": "José Antonio Estudillo",
+    "land_case": "SD 233",
+    "outcome": "Confirmed",
+    "patent_to": "the heirs of Jose A Estudillo",
+    "patent_date": "Jan. 17, 1880",
+    "glo_patent_no": "489",
+    "patent_acres": "35,503.02"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267574"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-joaquin-1",
+   "name": "San Joaquin",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1837",
+    "governor": "Alvarado",
+    "grantee": "J. Sepulveda",
+    "land_case": "SD 185",
+    "outcome": "Confirmed",
+    "patent_to": "Jose Sepulveda",
+    "patent_date": "Sept. 19, 1867",
+    "glo_patent_no": "500",
+    "patent_acres": "48,803.16"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268897"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-luis-conzaga",
+   "name": "San Luis Conzaga",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1841",
+    "governor": "Micheltorena",
+    "grantee": "Francisco Rivera",
+    "land_case": "ND 062",
+    "outcome": "Confirmed",
+    "patent_to": "Juan P. Pacheco",
+    "patent_date": "May 6,1871",
+    "glo_patent_no": "234",
+    "patent_acres": "48,821.43"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264448"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-vicente-santa-monica",
+   "name": "San Vicente Y Santa Monica",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Francisco Sepulveda",
+    "land_case": "SD 143",
+    "outcome": "Confirmed",
+    "patent_to": "Ramon Sepulveda",
+    "patent_date": "July 23, 1881",
+    "glo_patent_no": "432",
+    "patent_acres": "30,259.65"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265879"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-santa-ana-quien-sabe",
+   "name": "Santa Ana Y Quien Sabe",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Manuel Larios and Juan Anzar",
+    "land_case": "SD 258",
+    "outcome": "Confirmed",
+    "patent_to": "Manuel Larios et al",
+    "patent_date": "May 1, 1860",
+    "glo_patent_no": "237",
+    "patent_acres": "48,822.60"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267599"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-santa-cruz-island",
+   "name": "Santa Cruz Island",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Andres Castillero",
+    "land_case": "SD 340",
+    "outcome": "Confirmed",
+    "patent_to": "Andres Castillero",
+    "patent_date": "Mar. 21, 1867",
+    "glo_patent_no": "",
+    "patent_acres": "52,760.33"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268963"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-tolenas",
+   "name": "Tolenas",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1840",
+    "governor": "Alvarado",
+    "grantee": "Jose Francisco Armijo",
+    "land_case": "ND 162",
+    "outcome": "Patented",
+    "patent_to": "Dolores Riesgo Armijo et al",
+    "patent_date": "Oct. 12, 1868",
+    "glo_patent_no": "90",
+    "patent_acres": "13,315.93"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265522"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-zanjones",
+   "name": "Zanjones",
+   "era": "alvarado",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Alvarado",
+    "grantee": "Mariano Malarin",
+    "land_case": "SD 108",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "271",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265849"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-110",
+   "name": "Ojay",
+   "era": "alvarado",
+   "mapped": "no",
+   "claimed": {
+    "year": "1837",
+    "governor": "Juan B. Alvarado",
+    "grantee": "F. Tico",
+    "land_case": "S.D. 168",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "389",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266126"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-135",
+   "name": "La Vena",
+   "era": "alvarado",
+   "mapped": "no",
+   "claimed": {
+    "year": "1842",
+    "governor": "Juan B. Alvarado",
+    "grantee": "F. E. Quintana",
+    "land_case": "S.D. 292",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268919"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-8",
+   "name": "Aguajito",
+   "era": "alvarado",
+   "mapped": "no",
+   "claimed": {
+    "year": "1837",
+    "governor": "Juan B. Alvarado",
+    "grantee": "M. Villagran",
+    "land_case": "SD 282",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268909"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-90",
+   "name": "two-thirds of Jesus Maria",
+   "era": "alvarado",
+   "mapped": "no",
+   "claimed": {
+    "year": "1837",
+    "governor": "Juan B. Alvarado",
+    "grantee": "Lucas Olivera et al",
+    "land_case": "S.D. 268",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Sept. 7, 1871",
+    "glo_patent_no": "356",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267609"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-50",
+   "name": "Rosa de Castillo",
+   "era": "echeandia",
+   "mapped": "no",
+   "claimed": {
+    "year": "1831",
+    "governor": "Manuel Victoria",
+    "grantee": "Juan Ballestero",
+    "land_case": "SD 309",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268935"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-laguna-calabasas",
+   "name": "Laguna De Las Calabasas",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1833",
+    "governor": "Jose Figueroa",
+    "grantee": "Felipe Hernandez",
+    "land_case": "SD 293",
+    "outcome": "Patented",
+    "patent_to": "Francisco Hernandez et al",
+    "patent_date": "Dec. 8, 1868",
+    "glo_patent_no": "217",
+    "patent_acres": "2,304.75"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268920"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-posas",
+   "name": "Las Posas",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1834",
+    "governor": "Figueroa",
+    "grantee": "José de la Guerra y Noriega",
+    "land_case": "SD 117",
+    "outcome": "Confirmed",
+    "patent_to": "Jose de la Guerra y Noriega",
+    "patent_date": "Feb. 18, 1871",
+    "glo_patent_no": "401",
+    "patent_acres": "26,623.36"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265858"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-antonio-pescadero",
+   "name": "San Antonio Or Pescadero",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1833",
+    "governor": "Jose Figueroa",
+    "grantee": "J. J. Gonzales",
+    "land_case": "ND 104",
+    "outcome": "Confirmed",
+    "patent_to": "Juan Jose Gonzales",
+    "patent_date": "June 7, 1866",
+    "glo_patent_no": "190",
+    "patent_acres": "3,282.22"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265464"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-pascual",
+   "name": "San Pascual (Wilson)",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1834",
+    "governor": "Figueroa",
+    "grantee": "Juan Gallardo",
+    "land_case": "SD 248",
+    "outcome": "Confirmed",
+    "patent_to": "Benjamin D. Wilson",
+    "patent_date": "Feb. 12, 1881",
+    "glo_patent_no": "422",
+    "patent_acres": "708.57"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267589"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-ramon-amador",
+   "name": "San Ramon {Amador}",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1834",
+    "governor": "Figueroa",
+    "grantee": "José María Amador",
+    "land_case": "ND 144",
+    "outcome": "Confirmed",
+    "patent_to": "Jose Maria Amador",
+    "patent_date": "Mar. 18, 1865",
+    "glo_patent_no": "118",
+    "patent_acres": "16,516.95"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265504"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-ysidro-1",
+   "name": "San Ysidro (Ortega)",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1833",
+    "governor": "Jose Figueroa",
+    "grantee": "Q. Ortega",
+    "land_case": "ND 163",
+    "outcome": "Confirmed",
+    "patent_to": "Quintin Ortega",
+    "patent_date": "Oct. 22, 1868",
+    "glo_patent_no": "229",
+    "patent_acres": "4,438.65"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265523"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-santa-gertrudes-1",
+   "name": "Santa Gertrudes (Mc Farland & Downey)",
+   "era": "figueroa",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1834",
+    "governor": "Jose Figueroa",
+    "grantee": "Josefa Cota de Nieto",
+    "land_case": "SD 194",
+    "outcome": "Confirmed",
+    "patent_to": "James P. McFarland and John G. Downey",
+    "patent_date": "Aug. 19, 1870",
+    "glo_patent_no": "466",
+    "patent_acres": "17,602.01"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268898"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-124",
+   "name": "Sayente",
+   "era": "figueroa",
+   "mapped": "no",
+   "claimed": {
+    "year": "1833",
+    "governor": "Jose Figueroa",
+    "grantee": "Joaquin Buelna",
+    "land_case": "ND 309",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256638"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-32",
+   "name": "Yerba Buena or Socayre",
+   "era": "figueroa",
+   "mapped": "no",
+   "claimed": {
+    "year": "1833",
+    "governor": "Jose Figueroa",
+    "grantee": "A. Chaboya",
+    "land_case": "N.D. 213",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "183",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265805"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-juristac",
+   "name": "Juristac",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "the interim government",
+    "grantee": "Antonio and Faustino German",
+    "land_case": "SD 396",
+    "outcome": "Confirmed",
+    "patent_to": "Jacob L. Sargent, Roswell V. Sargent, and Robert S. Carlisle",
+    "patent_date": "Nov. 13, 1871",
+    "glo_patent_no": "241",
+    "patent_acres": "4,540.44"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/269013"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-laguna-merced",
+   "name": "Laguna De La Merced",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "the interim government",
+    "grantee": "Josefa de Haro",
+    "land_case": "ND 380",
+    "outcome": "Confirmed",
+    "patent_to": "Josefa de Haro et al",
+    "patent_date": "Sept. 16, 1872",
+    "glo_patent_no": "163",
+    "patent_acres": "2,219.33"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264231"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-meganos",
+   "name": "Los Meganos",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "Jose Castro",
+    "grantee": "Jose Noriega",
+    "land_case": "ND 107",
+    "outcome": "Confirmed",
+    "patent_to": "Alice",
+    "patent_date": "Marsh Aug. 19, 1867",
+    "glo_patent_no": "110",
+    "patent_acres": "13,316.00"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265467"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-noche-buena",
+   "name": "Noche Buena",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "Jose Castro",
+    "grantee": "Juan Antonio Munoz",
+    "land_case": "SD 237",
+    "outcome": "Confirmed",
+    "patent_to": "Jose and Jaime de Puig Monmany",
+    "patent_date": "Oct. 7, 1862",
+    "glo_patent_no": "278",
+    "patent_acres": "4,411.46"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267578"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-penasquitos",
+   "name": "Los Penasquitos",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "Castro",
+    "grantee": "Francisco Maria Ruiz",
+    "land_case": "SD 142",
+    "outcome": "Confirmed",
+    "patent_to": "Francisco M. Ruiz",
+    "patent_date": "Apl. 13, 1876",
+    "glo_patent_no": "525",
+    "patent_acres": "8,486.01"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265878"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-salinas",
+   "name": "Las Salinas",
+   "era": "interim",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1835",
+    "governor": "Nicolas Gutierrez",
+    "grantee": "G. Espinoza",
+    "land_case": "SD 158",
+    "outcome": "Confirmed",
+    "patent_to": "the heirs of Gabriel Espinoza",
+    "patent_date": "Mar. 26, 1867",
+    "glo_patent_no": "257",
+    "patent_acres": "4,413.81"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266118"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-canada-salsipuedes",
+   "name": "Canada De Salsipuedes",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Pedro Cordero",
+    "land_case": "SD 002",
+    "outcome": "Confirmed",
+    "patent_to": "John Keyes",
+    "patent_date": "Feb. 18, 1874",
+    "glo_patent_no": "377",
+    "patent_acres": "6,656.21"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266043"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-caslamayomi",
+   "name": "Caslamayomi",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Eugenio Montenegro",
+    "land_case": "ND 186",
+    "outcome": "Patented",
+    "patent_to": "William Forbes",
+    "patent_date": "Dec. 18, 1874",
+    "glo_patent_no": "57",
+    "patent_acres": "26,788.36"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265782"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-cienega-gabilan",
+   "name": "Cienega Del Gabilan",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1843",
+    "governor": "Micheltorena",
+    "grantee": "Antonio Chavis",
+    "land_case": "SD 314",
+    "outcome": "Patented",
+    "patent_to": "Jesse D. Carr",
+    "patent_date": "Oct. 15, 1867",
+    "glo_patent_no": "250",
+    "patent_acres": "48,780.72"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268939"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-cosumnes",
+   "name": "Cosumnes",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Salvador Oslo",
+    "land_case": "ND 362",
+    "outcome": "Confirmed",
+    "patent_to": "the heirs of W.E.P. Hartnell",
+    "patent_date": "Apl. 29, 1869",
+    "glo_patent_no": "94",
+    "patent_acres": "26,605.37"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264199"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-farwell",
+   "name": "Rancho De Farwell",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Edward A. Farwell",
+    "land_case": "ND 384",
+    "outcome": "Confirmed",
+    "patent_to": "James Williams and the heirs of Edward A. Farwell",
+    "patent_date": "July 1, 1863",
+    "glo_patent_no": "10",
+    "patent_acres": "22,193.93"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264235"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-jota",
+   "name": "La Jota",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1843",
+    "governor": "Micheltorena",
+    "grantee": "George C. Yount",
+    "land_case": "ND 034",
+    "outcome": "Confirmed",
+    "patent_to": "George C. Yount",
+    "patent_date": "Dec. 18, 1857",
+    "glo_patent_no": "80",
+    "patent_acres": "4,453.84"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264421"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-lac",
+   "name": "Lac",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Damoso Rodriguez",
+    "land_case": "ND 230",
+    "outcome": "Confirmed",
+    "patent_to": "Jacob P. Leese",
+    "patent_date": "Aug. 6, 1872",
+    "glo_patent_no": "69",
+    "patent_acres": "176.58"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256564"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-llano-santa-rosa",
+   "name": "Llano De Santa Rosa",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Joaquín Carrillo",
+    "land_case": "ND 058",
+    "outcome": "Confirmed",
+    "patent_to": "Joaquin Carrillo",
+    "patent_date": "Nov. 27, 1865",
+    "glo_patent_no": "64",
+    "patent_acres": "13,316.03"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264444"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-mallacomes-moristul-plan-agua-caliente",
+   "name": "Mallacomes Or Moristul Y Plan De Agua Caliente",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1841",
+    "governor": "Micheltorena",
+    "grantee": "J. de los Santos Berreyesa",
+    "land_case": "ND 161",
+    "outcome": "Confirmed",
+    "patent_to": "Jose de los Santos Berreyesa",
+    "patent_date": "July 20, 1873",
+    "glo_patent_no": "61",
+    "patent_acres": "17,742.72"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265521"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-merced",
+   "name": "La Merced",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Casilda Soto",
+    "land_case": "SD 217",
+    "outcome": "Confirmed",
+    "patent_to": "F.P.F Temple et al",
+    "patent_date": "Feb. 13, 1872",
+    "glo_patent_no": "443",
+    "patent_acres": "2,363.75"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267560"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-nicasio-2",
+   "name": "Nicasio (Helleck)",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+    "land_case": "ND 392",
+    "outcome": "Confirmed",
+    "patent_to": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+    "patent_date": "Nov. 1, 1861",
+    "glo_patent_no": "32",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264241"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-olompali",
+   "name": "Olompali",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1843",
+    "governor": "Micheltorena",
+    "grantee": "C. Ynitia",
+    "land_case": "ND 010",
+    "outcome": "Confirmed",
+    "patent_to": "Camilo Inita",
+    "patent_date": "Dec. 18, 1862",
+    "glo_patent_no": "48",
+    "patent_acres": "8,877.48"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264403"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-puerto",
+   "name": "Rancho Del Puerto",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Samuel G. Reed and Ruben S. Wade",
+    "land_case": "ND 330",
+    "outcome": "Confirmed",
+    "patent_to": "Samuel G. Reed and Ruben S. Wade",
+    "patent_date": "Aug. 15, 1864",
+    "glo_patent_no": "106",
+    "patent_acres": "13,340.39"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256657"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-saucos",
+   "name": "Saucos",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Robert H. Thomes",
+    "land_case": "ND 085",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Oct. 14, 1857",
+    "glo_patent_no": "5",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265447"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-sotoyome",
+   "name": "Sotoyome",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Henry D. Fitch",
+    "land_case": "ND 052",
+    "outcome": "Confirmed",
+    "patent_to": "Josefa Carrillo de Fitch et al",
+    "patent_date": "Apl. 3, 1858",
+    "glo_patent_no": "54",
+    "patent_acres": "48,836.51"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264439"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-soulajule-2",
+   "name": "Soulajule (Brackett)",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Joshua S. Brackett",
+    "land_case": "ND 329",
+    "outcome": "Confirmed",
+    "patent_to": "Joshua S. Brackett",
+    "patent_date": "Jan. 18, 1879",
+    "glo_patent_no": "31",
+    "patent_acres": "2,492.19"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256656"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-soulajule-3",
+   "name": "Soulajule (Vasquez)",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Pedro J. Vasquez",
+    "land_case": "ND 331",
+    "outcome": "Confirmed",
+    "patent_to": "Pedro J. Vasquez",
+    "patent_date": "Jan. 18, 1879",
+    "glo_patent_no": "31",
+    "patent_acres": "3,774.20"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264168"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-soulejule",
+   "name": "Soulejule (Gormley)",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1844",
+    "governor": "Micheltorena",
+    "grantee": "Martin F. Gormley",
+    "land_case": "ND 334",
+    "outcome": "Confirmed",
+    "patent_to": "Martin F. Gormley",
+    "patent_date": "Jan. 18, 1879",
+    "glo_patent_no": "31",
+    "patent_acres": "2,266.25"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264171"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-suscol",
+   "name": "Suscol",
+   "era": "micheltorena",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1843",
+    "governor": "Micheltorena",
+    "grantee": "Mariano G. Vallejo",
+    "land_case": "ND 318",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256647"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-109",
+   "name": "Nicasia",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1844",
+    "governor": "Manuel Micheltorena",
+    "grantee": "Pablo de la Guerra and Juan Cooper",
+    "land_case": "N.D. 392",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Nov. 1, 1861",
+    "glo_patent_no": "32",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264241"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-15",
+   "name": "Posolomi, including El Posito de las Animas",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1844",
+    "governor": "Juan B. Alvarado and Manuel Micheltorena",
+    "grantee": "Lope Inigo",
+    "land_case": "N.D. 410",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Jan. 18, 1881",
+    "glo_patent_no": "145",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264257"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-55",
+   "name": "La Cienega or Paso de la Tigera",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1843",
+    "governor": "Manuel Micheltorena",
+    "grantee": "Vicente Sanchez",
+    "land_case": "S.D. 360",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268982"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-74",
+   "name": "one-fourth league",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1844",
+    "governor": "Miguel Muro (priest)",
+    "grantee": "Buenaventura et al. (Neophytes)",
+    "land_case": "ND 290",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256620"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-82",
+   "name": "surplus lands of New Helvetia",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1845",
+    "governor": "Manuel Micheltorena",
+    "grantee": "John A. Sutter",
+    "land_case": "",
+    "outcome": "",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": ""
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-9",
+   "name": "Aguas Nieves",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1844",
+    "governor": "Manuel Micheltorena",
+    "grantee": "Samuel J. Hensley",
+    "land_case": "ND 33",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264420"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-99",
+   "name": "Lupyomi",
+   "era": "micheltorena",
+   "mapped": "no",
+   "claimed": {
+    "year": "1844",
+    "governor": "Manuel Micheltorena",
+    "grantee": "Jose Y. Limantour",
+    "land_case": "ND 317",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/256646"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "mission-near-san-juan-bautista",
+   "name": "Near Mission San Juan Bautista (Castro)",
+   "era": "mission",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1839",
+    "governor": "Castro",
+    "grantee": "Mariano Castro",
+    "land_case": "SD 350",
+    "outcome": "",
+    "patent_to": "Rufina Castro",
+    "patent_date": "Mar. 18, 1885",
+    "glo_patent_no": "",
+    "patent_acres": "33.47"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268972"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "mission-san-fernando",
+   "name": "Ex Mission De San Fernando",
+   "era": "mission",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pico",
+    "grantee": "E. de Celis",
+    "land_case": "SD 343",
+    "outcome": "",
+    "patent_to": "Eulogio de Celis",
+    "patent_date": "Jan. 8, 1873",
+    "glo_patent_no": "410",
+    "patent_acres": "116,858.46"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268965"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-alamos-agua-caliente",
+   "name": "Los Alamos Y Agua Caliente",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "Francisco Lopez et al",
+    "land_case": "SD 183",
+    "outcome": "Confirmed",
+    "patent_to": "Agustin Olvera, Louis Jordan, and J.L. Brent",
+    "patent_date": "Nov. 9, 1866",
+    "glo_patent_no": "346",
+    "patent_acres": "26,626.23"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267531"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-canada-capay",
+   "name": "Canada De Capay",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "Santiago Nemesis and Francisco Berreyesa",
+    "land_case": "ND 382",
+    "outcome": "Confirmed",
+    "patent_to": "Jasper O'Farrell et al",
+    "patent_date": "Feb. 16, 1865",
+    "glo_patent_no": "84",
+    "patent_acres": "40,078.58"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264233"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-cuyama-1",
+   "name": "Cuyama (Heirs Of Cesario Lataillade)",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pío Pico",
+    "grantee": "María Antonia de la Guerra y Lataillade",
+    "land_case": "SD 104",
+    "outcome": "Confirmed",
+    "patent_to": "Cesario Lataillade",
+    "patent_date": "Jan. 10, 1879",
+    "glo_patent_no": "342",
+    "patent_acres": "48,827.50"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268896"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-german",
+   "name": "German",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "Ernest Rufus",
+    "land_case": "ND 015",
+    "outcome": "Confirmed",
+    "patent_to": "Charles Meyer et al",
+    "patent_date": "July 30, 1872",
+    "glo_patent_no": "25",
+    "patent_acres": "17,580.01"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264407"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-goleta",
+   "name": "La Goleta",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pío Pico",
+    "grantee": "Daniel (Antonio) Hill",
+    "land_case": "SD 252",
+    "outcome": "Confirmed",
+    "patent_to": "Daniel Hill",
+    "patent_date": "Mar. 10, 1865",
+    "glo_patent_no": "382",
+    "patent_acres": "4,426.10"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267593"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-otay-1",
+   "name": "Otay (Estudillo)",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "M. Estudillo",
+    "land_case": "SD 066",
+    "outcome": "Confirmed",
+    "patent_to": "Magdelena Estudillo",
+    "patent_date": "Jan. 20, 1872",
+    "glo_patent_no": "529",
+    "patent_acres": "6,657.98"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266101"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-francisquito-1",
+   "name": "San Francisquito (Dalton)",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pio Pico",
+    "grantee": "H. Dalton",
+    "land_case": "SD 022",
+    "outcome": "Confirmed",
+    "patent_to": "Henry Dalton",
+    "patent_date": "May 30, 1867",
+    "glo_patent_no": "447",
+    "patent_acres": "8,893.62"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266062"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-san-vincente",
+   "name": "San Vincente (Escarrilla)",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "B. A. Escarilla",
+    "land_case": "SD 280",
+    "outcome": "Confirmed",
+    "patent_to": "Blas A. Escamillo",
+    "patent_date": "May 6, 1870",
+    "glo_patent_no": "204",
+    "patent_acres": "10,802.60"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268907"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-santa-rosa-2",
+   "name": "Santa Rosa (Morino)",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pío Pico",
+    "grantee": "Juan Moreno",
+    "land_case": "SD 148",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Oct. 10, 1872",
+    "glo_patent_no": "493",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266108"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-trabuco",
+   "name": "Trabuco",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pico",
+    "grantee": "Santiago Arguello et al",
+    "land_case": "SD 216",
+    "outcome": "Confirmed",
+    "patent_to": "Juan Forster",
+    "patent_date": "Aug. 6, 1866",
+    "glo_patent_no": "497",
+    "patent_acres": "22,184.47"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267559"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-unnamed-4",
+   "name": "Potreros de San Juan Capistrano",
+   "era": "pico",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pio Pico",
+    "grantee": "J. Foster",
+    "land_case": "SD 337",
+    "outcome": "Confirmed",
+    "patent_to": "Juan Forster",
+    "patent_date": "June 20, 1866",
+    "glo_patent_no": "494",
+    "patent_acres": "1,167.74"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268960"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-122",
+   "name": "Sacramento",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "M. Diaz",
+    "land_case": "ND 188",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265784"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-129",
+   "name": "Temalpais or Tamalpais",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pio Pico",
+    "grantee": "H. Sanchez",
+    "land_case": "N.D. 185",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/265544"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-23",
+   "name": "Orchard of San Juan Bautista",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "Oliver Deleisiguez",
+    "land_case": "SD 385",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/269004"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-44",
+   "name": "Camajal y El Palomar",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "Juan J. Warner",
+    "land_case": "S.D. 358",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268980"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-51",
+   "name": "Garden of San Cayetano",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pio Pico",
+    "grantee": "Juan B. Alvarado",
+    "land_case": "ND 414",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264261"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-54",
+   "name": "La Cienega",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1846",
+    "governor": "Pio Pico",
+    "grantee": "A. Olvera and Narciso Botello",
+    "land_case": "SD 165",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266124"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-70",
+   "name": "Encino",
+   "era": "pico",
+   "mapped": "no",
+   "claimed": {
+    "year": "1845",
+    "governor": "Pio Pico",
+    "grantee": "Ramon, Francisco and Roque",
+    "land_case": "ND 292",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": ""
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "presidio-monterey",
+   "name": "Presidio de Monterey",
+   "era": "presidio",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1770",
+    "governor": "",
+    "grantee": "Spanish Crown",
+    "land_case": "",
+    "outcome": "",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": ""
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "pueblo-pueblo-san-jose",
+   "name": "Pueblo Lands Of San Jose",
+   "era": "pueblo",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1777",
+    "governor": "Neve",
+    "grantee": "Pueblo of San Jose",
+    "land_case": "ND 419",
+    "outcome": "",
+    "patent_to": "the City of San Jos\\u00e9",
+    "patent_date": "June 4, 1884",
+    "glo_patent_no": "179",
+    "patent_acres": "55,891.77"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264265"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "rancho-vega-rio-pajaro",
+   "name": "Vega Del Rio Del Pajaro",
+   "era": "spanish",
+   "mapped": "yes",
+   "claimed": {
+    "year": "1821",
+    "governor": "a Spanish governor",
+    "grantee": "Juan M. Anzar",
+    "land_case": "SD 245",
+    "outcome": "Confirmed",
+    "patent_to": "Frederick A. McDougall et al",
+    "patent_date": "Jan. 18, 1864",
+    "glo_patent_no": "222",
+    "patent_acres": "4,310.29"
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267586"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-111",
+   "name": "one-sixth of San Pedro",
+   "era": "spanish",
+   "mapped": "no",
+   "claimed": {
+    "year": "1822",
+    "governor": "P. V. de Sola",
+    "grantee": "Cristobal Dominguez",
+    "land_case": "S.D. 313",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/268938"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-29",
+   "name": "Bolsas del Potrero y Moro Cojo or La Sagrada Familia",
+   "era": "spanish",
+   "mapped": "no",
+   "claimed": {
+    "year": "1822",
+    "governor": "P. V. de Sola",
+    "grantee": "Jose Joaquin de la Torre",
+    "land_case": "S.D. 7",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "Dec. 19, 1859",
+    "glo_patent_no": "254",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/266048"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-92",
+   "name": "Pueblo of San Jose",
+   "era": "spanish",
+   "mapped": "no",
+   "claimed": {
+    "year": "1778",
+    "governor": "Felipe de Neve",
+    "grantee": "Pueblo of San Jose",
+    "land_case": "N.D. 419",
+    "outcome": "Confirmed",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "179",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/264265"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  },
+  {
+   "id": "u-11",
+   "name": "Rincon del Alisal",
+   "era": "unattributed",
+   "mapped": "no",
+   "claimed": {
+    "year": "",
+    "governor": "Jose Maria del Ray (priest)",
+    "grantee": "Santos and Sons",
+    "land_case": "ND 202",
+    "outcome": "Rejected",
+    "patent_to": "",
+    "patent_date": "",
+    "glo_patent_no": "",
+    "patent_acres": ""
+   },
+   "evidence": {
+    "bancroft_scan_url": "https://digicoll.lib.berkeley.edu/record/267518"
+   },
+   "verdicts": {
+    "year": null,
+    "governor": null,
+    "grantee": null,
+    "land_case": null,
+    "outcome": null,
+    "patent_to": null,
+    "patent_date": null,
+    "glo_patent_no": null
+   },
+   "notes": null,
+   "checked_on": null
+  }
+ ]
+}
