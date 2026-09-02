@@ -27,8 +27,13 @@ OUT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else ROOT
 SITE = 'https://ranchos.archivesofcalifornia.com'
 TODAY = datetime.date.today().isoformat()
 
-CITE = ('Coyne, Aodhan. <i>Ranchos of California: the Spanish and Mexican land grants '
-        'of Alta California</i>. archivesofcalifornia.com, ' + TODAY[:4] + '.')
+CITE = ('Coyne, Aodhan. <i>Ranchos of California: A Register of the Land Grants of Alta '
+        'California</i>. Version 1.0.0, 2026. '
+        '<a href="https://doi.org/10.5281/zenodo.22185500">doi:10.5281/zenodo.22185500</a>.')
+CONTACT = 'aodhancoyne@gmail.com'
+CITE_TEXT = ('Coyne, Aodhan. Ranchos of California: A Register of the Land Grants of Alta '
+             'California. Version 1.0.0, 2026. doi:10.5281/zenodo.22185500')
+DOI = '10.5281/zenodo.22185500'
 
 
 def esc(s):
@@ -78,16 +83,20 @@ def page(title, desc, canon, body, ld=None):
         '<link rel="stylesheet" href="/assets/css/pages.css">\n'
         + ldtag +
         '</head>\n<body>\n'
+        '<a class="skip" href="#main-content">Skip to the content</a>'
         '<header class="top"><a class="seal" href="/"><img src="/assets/ranchos-brand.svg" alt="" width="34" height="34"></a>'
         '<a class="wordmark" href="/">Ranchos de Alta California</a>'
         '<nav><a href="/#map">Map</a><a href="/register/">Register</a><a href="/dynasties/">Dynasties</a>'
-        '<a href="/brands/">Brands</a><a href="/disenos/">Dise&ntilde;os</a><a href="/sources/">Sources</a></nav></header>\n'
-        '<main>\n' + body + '\n</main>\n'
+        '<a href="/brands/">Brands</a><a href="/disenos/">Dise&ntilde;os</a><a href="/sources/">Sources</a>'
+        '<a href="/errata/">Errata</a></nav></header>\n'
+        '<main id="main-content">\n' + body + '\n</main>\n'
         '<footer><p>' + CITE + '</p>'
         '<p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican '
         'Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the '
         'cited record before relying on it. Generated ' + TODAY + '.</p>'
-        '<p><a href="/">Return to the interactive portal</a></p></footer>\n</body>\n</html>\n')
+        '<p><a href="/">Return to the interactive portal</a> &middot; '
+'<a href="/errata/">Errata</a> &middot; '
+'Corrections and questions: <a href="mailto:' + CONTACT + '">' + CONTACT + '</a></p></footer>\n</body>\n</html>\n')
 
 
 CSS = """/* Static-page layer for the ranchos portal. Tokens copied verbatim from the
@@ -103,6 +112,8 @@ CSS = """/* Static-page layer for the ranchos portal. Tokens copied verbatim fro
   --body:Charter,"Iowan Old Style",Georgia,Cambria,serif;
   --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
 }
+.skip{position:absolute;left:-9999px;top:0;background:var(--gold);color:#141009;padding:10px 16px;font-family:var(--mono);font-size:12px;z-index:99;text-decoration:none}
+.skip:focus{left:0}
 *{box-sizing:border-box}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
 a{color:var(--gold)}
@@ -512,6 +523,45 @@ def main():
                                     '<div class="brandgrid">' + ''.join(cards) + '</div>'
                                     f'<h2>Source</h2><p>{esc(B.get("source"))}</p>'))
 
+    # ---------- errata ----------
+    ERR = json.load(open(os.path.join(ROOT, 'data', 'errata.json'), encoding='utf-8'))
+    if ERR['entries']:
+        rows = ''.join(
+            '<tr><td><a href="/r/{id}.html">{name}</a></td><td>{field}</td><td>{was}</td>'
+            '<td>{now}</td><td>{src}</td><td>{when}</td></tr>'.format(
+                id=esc(e['id']), name=esc(e.get('name', e['id'])), field=esc(e['field']),
+                was=esc(e['was']), now=esc(e['now']), src=esc(e['source']), when=esc(e['date']))
+            for e in ERR['entries'])
+        table = ('<table><tr><th>Grant</th><th>Field</th><th>Was</th><th>Now</th>'
+                 '<th>Settled by</th><th>Corrected</th></tr>' + rows + '</table>')
+        count = '{} corrections recorded.'.format(len(ERR['entries']))
+    else:
+        table = ''
+        count = ('No corrections recorded yet. This page went up with the accuracy audit, on '
+                 '1 September 2026, and will fill as the audit and readers turn things up. '
+                 'An empty register this early means the checking has only just begun, '
+                 'not that the register is clean.')
+    edesc = ('Corrections made to the ranchos register after publication, with the source that '
+             'settled each one.')
+    write('errata/index.html', page(
+        'Errata | Ranchos of California', edesc, SITE + '/errata/',
+        '<h1>Errata</h1>'
+        f'<p class="summ">{esc(ERR["policy"])}</p>'
+        f'<p>{count}</p>' + table +
+        '<h2>How corrections are found</h2>'
+        '<p>Two ways. A blind sample of 100 of the 672 records was drawn on 1 September 2026, '
+        'committed to the public repository with its checksum before any of it was checked, and is '
+        'being verified field by field against the land case files; see section 10 of the '
+        '<a href="/sources/">Sources and Method</a> page. And readers write in. If a grant here '
+        'contradicts a document you hold, the document wins: '
+        f'<a href="mailto:{CONTACT}">{CONTACT}</a>.</p>'
+        '<h2>What counts as an erratum</h2>'
+        '<p>A value that was published and is wrong. A field left blank because no source states it '
+        'is not an error, and is not listed here. Where the register and a source disagree about a '
+        'grant, the land case file is the authority.</p>'))
+
+    urls.append(SITE + '/errata/')
+
     # ---------- sources and method ----------
     sdesc = ('How this portal was built: where the boundaries, land-case outcomes, dise' + "\u00f1" + 'os, '
              'governors and acreages come from, why the counts differ between sources, and how to cite it.')
@@ -600,9 +650,9 @@ def main():
         w.writerow(rr)
     write('data/ranchos-register.csv', buf.getvalue())
     write('data/ranchos-register.json', json.dumps(
-        {'title': 'Ranchos of California: the Spanish and Mexican land grants of Alta California',
+        {'title': 'Ranchos of California: A Register of the Land Grants of Alta California',
          'license': 'https://creativecommons.org/licenses/by/4.0/',
-         'source': SITE + '/', 'cite': CITE.replace('<i>', '').replace('</i>', ''),
+         'doi': DOI, 'source': SITE + '/', 'cite': CITE_TEXT,
          'generated': TODAY, 'count': len(rows_), 'records': rows_},
         ensure_ascii=False, indent=1))
 

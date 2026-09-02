@@ -27,12 +27,15 @@
   *{box-sizing:border-box}
   html,body{height:100%}
   body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--body);overflow:hidden}
+  .skiplink{position:absolute;left:-9999px;top:0;z-index:2000;background:var(--gold);color:#141009;padding:10px 16px;font-family:var(--mono);font-size:12px;text-decoration:none}
+  .skiplink:focus{left:0}
   .top{display:flex;align-items:center;gap:0 18px;flex-wrap:wrap;padding:9px 22px;background:var(--top);
     border-bottom:1px solid var(--rule);position:relative;z-index:1200;box-shadow:0 2px 14px -6px #000}
   .top .mark{display:flex;align-items:center;gap:12px}
   .seal{width:52px;height:52px;flex:none;object-fit:contain}
   .seal.ph circle,.seal.ph path{stroke:var(--verm);fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
-  .top .brand{font-family:var(--disp);font-size:1.26rem;font-weight:600;letter-spacing:.01em;line-height:1}
+  .top .brand{font-family:var(--disp);font-size:1.26rem;font-weight:600;letter-spacing:.01em;line-height:1;margin:0}
+  .top .brand .k{display:block}
   .top .brand em{font-style:italic;color:var(--gold)}
   .top .brand .k{font-family:var(--mono);font-size:8px;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);margin-top:3px}
   .top nav{display:flex;gap:1px;margin-left:8px}
@@ -41,6 +44,8 @@
   .top nav a:hover{color:var(--ink)}
   .top nav a.on{color:var(--gold);border-bottom-color:var(--verm)}
   .top .right{margin-left:auto;font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint)}
+  .top .right a{color:var(--ink-faint);text-decoration:none}
+  .top .right a:hover{color:var(--gold)}
 
   .screen{position:absolute;inset:66px 0 0 0;display:none}
   .screen.on{display:block}
@@ -243,13 +248,14 @@
 </style>
 </head>
 <body>
+<a class="skiplink" href="#v-map">Skip to the content</a>
 <div class="top">
   <div class="mark">
     <img class="seal" src="assets/ranchos-brand.svg" alt="AC brand mark">
-    <div class="brand">Ranchos <em>de Alta California</em><div class="k">A research portal &middot; 1769&ndash;1846</div></div>
+    <h1 class="brand">Ranchos <em>de Alta California</em><span class="k">A research portal &middot; 1769&ndash;1846</span></h1>
   </div>
   <nav><a data-v="map" class="on">Map</a><a data-v="reg" href="/register/">Register</a><a data-v="dyn" href="/dynasties/">Dynasties</a><a data-v="brands" href="/brands/">Brands</a><a data-v="dz" href="/disenos/">Dise&ntilde;os</a><a data-v="data" href="/sources/">Sources</a></nav>
-  <div class="right">archivesofcalifornia.com</div>
+  <div class="right"><a href="/sources/">Cite</a> &middot; <a href="/errata/">Errata</a> &middot; <a href="mailto:aodhancoyne@gmail.com">Contact</a></div>
 </div>
 
 <div class="screen on" id="v-map">
