@@ -72,4 +72,12 @@ A partial audit is reported as partial, with the number checked so far.
 
 ## Status
 
-Sample drawn and committed 2026-09-01. Verification not yet begun: 0 of 100 checked.
+Sample drawn and committed 2026-09-01. **Verification complete: 100 of 100 checked**
+(2026-09-02), each against its Bancroft land case file. Results and the full error
+list are in `FINDINGS-2026-09-01.md`. Headline: 49 of 100 records exactly right on
+every field; 25 carry at least one error; overall field error rate 30/568 = 5.3%.
+Per field: name 0.0%, land_case 0.0%, outcome 1.1%, governor 4.2%, year 9.6%,
+grantee 16.7%. The dominant error class is the original Mexican grantee being
+replaced by the U.S.-era land-case claimant. Patent issue-date and GLO-number
+fields are graded UV (no clean public-domain source). Every verdict carries the
+PDF page it rests on in `verdicts-2026-09-01.json`.
