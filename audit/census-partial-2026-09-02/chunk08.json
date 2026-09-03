@@ -1,0 +1,18 @@
+[
+{
+  "id": "rancho-rio-jesus-maria",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264197/files/cubanc_lcf_nd360.pdf",
+  "pdf_pages_stated": 230,
+  "pages_read": [1, 2, "6-12", "13-28"],
+  "verdicts": {
+    "name":      {"grade": "OK",  "evidence": "p1 red label: 'CASE NO. 360 NORTHERN DISTRICT / RIO de JESUS MARIA GRANT'; transcript title p (PDF p5) 'for the place named \"Rio de Jesus Maria\"'"},
+    "year":      {"grade": "OK",  "evidence": "Petition PDF p15 (transcript p9): 'That on the 13 day of October A.D. 1843 Manuel Micheltorena Governor of California ... granted to Tomas M. Hardy ... the tract of land called Rio de Jesus Maria'"},
+    "governor":  {"grade": "OK",  "evidence": "Petition PDF p15 (transcript p9): 'Manuel Micheltorena Governor of California by virtue of authority in him vested granted...'"},
+    "grantee":   {"grade": "ERR", "evidence": "Petition PDF p15 names ORIGINAL grantee as 'Tomas M. Hardy called also Tomas Hardy'. James M. Harbin is a claimant/purchaser: PDF p16-17 (transcript p10-11) show Hardy died intestate 1848, tract sold by probate to petitioners Harbin, Estell, Tyler, Parrish; Tyler then conveyed to Harbin. Hoffman 'Tomas Hardy' agrees against the register."},
+    "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 360 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd360.pdf; page stamps '360 ND'"},
+    "outcome":   {"grade": "OK",  "evidence": "Docket PDF p13 (transcript p8): 'July 26 1855 ... Commissioner S.B. Farwell delivered the opinion of the Board confirming the claim (vide page 227)'. Board confirmation verified; register 'Confirmed' consistent. Hoffman 1862 also 'confirmed'."},
+    "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {"grantee": "Original grantee = Tomas M. Hardy (also Tomas Hardy), per grant decree/petition PDF p15: 'granted to Tomas M. Hardy called also Tomas Hardy the tract of land called Rio de Jesus Maria'. Register's 'James M. Harbin' is the American claimant/purchaser, not the grantee."},
+  "notes": "230 pgs stated (PDF p2). Grant date Oct 13 1843, Micheltorena, to Thomas M. Hardy; both confirmed by the sworn petition and by Vallejo's deposition (PDF p17: 'granted to Tomas Hardy in 1843 or 1844'). No patent copy in pages read; patent fields left null for Phase C (GLO patent no. 86 claimed)."
+}
+]

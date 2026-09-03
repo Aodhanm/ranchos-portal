@@ -1,0 +1,454 @@
+[
+ {
+  "id": "rancho-chamisal",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267563/files/cubanc_lcf_sd222.pdf",
+  "pdf_pages_stated": 122,
+  "pages_read": [
+   "1-20",
+   "113-132"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "District Court decree (stamped p121): 'known and called \"El Chamisal\"'; p1 red label 'CHAMISAL GRANT' (label omits El, decree carries it). Register matches the decree."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant H.H. No.1 (stamped p8, PDF p13): 'Dado en monterey a diez y siete de Noviembre de mil ocho cientos treinta y cinco' (17 Nov 1835); Diputacion approval quote (stamped p9): 'consedido en 15 de Nbre de 1835'; approved 28 Dec 1835."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant (stamped p7, PDF p12): 'Jose Castro primer Vocal de la Exma Diputacion Territorial, Jefe politico interino de la Alta California', signed 'Jose Castro' (stamped p8). Castro was acting political chief, not governor proper, but register names the right grantor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant (stamped p7): 'Felipe Vasquez mexicano por nacimiento... he venido en concederle el terreno'; court's own index (stamped p112): 'a grant by Gov. Castro to F. Vasquez 17 Nov. 1835'. Register 'F. Vasquez' = Felipe Vasquez."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 222 SOUTHERN DISTRICT'; filename cubanc_lcf_sd222.pdf; every leaf stamped '222 SD'. Commission docket was No. 540 (transcript title, stamped p1)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board rejected 24 Oct 1854 (stamped p3, Felch opinion); District Court, June Term 1862 (stamped pp120-121, signed Fletcher M. Haight, 13 June 1862): 'the decision of said Board rejecting the claim... is hereby reversed... their claim is hereby confirmed' (El Chamisal, Monterey Co., not to exceed one square league). Register says 'Patented' -- confirmation verified; patent not in pages read (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman 1862 'rejected' reflects only the Commission stage; the District Court reversed and confirmed 13 June 1862 (likely after Hoffman's table went to press). Case file governs: confirmed. Curiosity: the traced Book of Titulos copy (stamped p117) writes the grant date '17 de Nbre de 1833', but the sworn H.H. No.1 copy (p8) and Diputacion approval (p9) both say 1835; the expediente itself began in 1833 (Mandeville cert., stamped p108: 'Ano de 1833. Espediente... solicitado por Felipe Vasquez, 121'). 132 PDF images vs 122 stated transcript pages (extra covers/wrappers)."
+ },
+ {
+  "id": "rancho-cholame",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265821/files/cubanc_lcf_sd071.pdf",
+  "pdf_pages_stated": 59,
+  "pages_read": [
+   "1-28",
+   "54-67"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CHOLAN GRANT'; grant decree (stamped p9) 'el terreno conocido con el nombre de Cholam'; petition also 'Chollam'. Register 'Cholame' is the received modern spelling of the same rancho; source spells it Cholan/Cholam."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title (stamped p11): 'Dado en Monterey a Siete de Febrero de mil ocho cientos cuarenta y cuatro'; translation (stamped p15): 'Given in Monterey Feby 7th 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title (stamped p10): 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano... Gobernador Comandante General e Inspector del Departamento de las Californias', signed 'Manl. Michelta.' (stamped p11)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant title (stamped p10): 'Por cuanto el Ciudadano Mauricio Gonzalez, ha pretendido... he venido en concederle el terreno mencionado'; decree (stamped p9): grants Cholam 'a Dn. Mauricio Gonzalez'. Ellen E. White was only the CLAIMANT, who bought the rancho via Mauricio Gonzalez's deed to Jose Rafael Gonzales (12 Sept 1851, stamped p16) and Rafael's deed to White (6 Oct 1851, stamped p17). Hoffman 1862 agrees with the case file against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 71 SOUTHERN DISTRICT'; filename cubanc_lcf_sd071.pdf; leaves stamped '71 SD'. Commission docket No. 98 (transcript title, stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board denied 17 Jan 1854 (stamped p21); District Court entered a Decree of Confirmation 15 March 1858 (recited stamped pp56 and 58); US appeal dismissed by the Supreme Court, December Term 1859, cause remanded (mandate, stamped pp52-55); DC order filed 31 Dec 1860 (stamped pp56-57) vacated the appeal order and let claimant 'proceed under the Decree of this Court entered March 15th 1858, as under a final Decree'. Confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Mauricio Gonzalez, per grant title stamped p10: 'el Ciudadano Mauricio Gonzalez... he venido en concederle el terreno mencionado' (7 Feb 1844). Ellen E. White belongs in the claimant/patentee columns, not grantee."
+  },
+  "notes": "Board rejection (17 Jan 1854, Felch/Campbell/Thompson, stamped p21) was reversed by the DC confirmation of 15 March 1858. The 1858 confirmation decree itself sits in the unread middle stretch (stamped pp~22-45); its date and finality are recited verbatim in the DC orders read. Patent (reg. claims Apl. 1 1865, GLO 314) not in file; Phase C checks GLO. 67 PDF images vs 59 stated pages."
+ },
+ {
+  "id": "rancho-chualar",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265851/files/cubanc_lcf_sd110.pdf",
+  "pdf_pages_stated": 173,
+  "pages_read": [
+   "1-34",
+   "167-182"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CHUALAR GRANT'; grant (stamped p14): 'el terreno conocido con el nombre del Chualar'; DC captions 'Chualar' throughout."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant (stamped p15): 'Dado en Monterrey a siete de Septiembre de mil ochocientos treinta y nueve'; translation (stamped p27): 'Given in Monterey on the seventh day of September Eighteen hundred and thirty nine'."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Grant (stamped p14): 'Manuel Jimeno Casarin primer Vocal propietario de la Exma Junta del Departamento de las Californias en ejercicio del gobierno del mismo', signed 'Manl. Jimeno' (stamped p15); translation (stamped p26): 'Acting as Governor of the same'; DC opinion (stamped p171): 'a grant from Jimeno the Governor ad interim of California'. Alvarado's name appears only on the testimonio of the Junta's 26 May 1840 approval, issued 23 July 1840 (stamped pp16-17), which likely caused the register's error. Hoffman agrees with the case file."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant (stamped p14): 'Por cuanto Dn. Juan Malarin ha pretendido... he venido en concederle el mencionado terreno del Chualar'; Junta approval quote (stamped p16): 'en la persona de D. Juan Malarin'; DC opinion (stamped p171): grant 'to Juan Malarin'. Mariano Malarin was Juan's son and executor, the CLAIMANT (red label: 'MARIANO MALARIN, EXR.'). Hoffman agrees with the case file."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 110 SOUTHERN DISTRICT'; filename cubanc_lcf_sd110.pdf; leaves stamped '110 SD'. Commission docket No. 154 (transcript title, stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 21 Feb 1854 (stamped p4, Thompson Campbell opinion); DC minutes, Los Angeles 11 Jan 1856 (stamped p164): 'the opinion of the Court was delivered confirming the claim of the appellees'; 5 Feb 1857 (stamped p165) US appeal dismissed by stipulation in listed cases incl. No. 110, 'appellee have leave to proceed under the decree of the Land commissioners... as a final decree'; survey plat affirmed by decree 12 June 1865 (stamped pp168-169, Fletcher M. Haight). Confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (acting governor / gobernador interino), per grant stamped p14-15: 'Manuel Jimeno Casarin... en ejercicio del gobierno del mismo... Dado en Monterrey a siete de Septiembre de mil ochocientos treinta y nueve. Manl. Jimeno.' Not Alvarado.",
+   "grantee": "Juan Malarin, per grant stamped p14: 'Por cuanto Dn. Juan Malarin ha pretendido... he venido en concederle el mencionado terreno del Chualar.' Mariano Malarin was only executor/claimant."
+  },
+  "notes": "Register conflated the claimant (Mariano Malarin, executor) with the grantee (his father Juan Malarin, d. 1848), and the 1840 Alvarado-signed approval testimonio with the 1839 Jimeno grant. Patent (reg. Oct 31, 1872, GLO 270) not in pages read; Phase C checks GLO. Curiosity: objections sheet (stamped p173) notes an earlier 1835 Figueroa grant of the same place to Josefa Vallejo's minor children. 182 PDF images vs 173 stated pages."
+ },
+ {
+  "id": "rancho-collayomi",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264406/files/cubanc_lcf_nd014.pdf",
+  "pdf_pages_stated": 40,
+  "pages_read": [
+   "1-30",
+   "41-54"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Expediente heading (stamped p11): 'terreno nombrado Collayomi'; grant decree (stamped p13): 'del terreno nombrado Collayomi'. Register 'Collayomi' matches the expediente exactly. Red label spells it 'CALLOYOME', transcript title 'Calloyome' -- clerk variants of the same name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree (stamped p13): 'Monterrey 17 de Junio de 1844... declaro a Dn. Tomas Roberto Ridley dueno en propriedad del terreno nombrado Collayomi'; Board opinion (stamped p34): 'founded upon a grant made on the 17th of June 1844'. Hoffman's 1845 is the Departmental Assembly APPROVAL date (26 Sept 1845, stamped p14); the grant itself is 1844. Register right, Hoffman wrong on this one."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree (stamped p13): 'El Sr. Dn. Manuel Micheltorena General de Brigada del ejercito Mexicano, Gobernador Commandante General, asi lo mando, decreto y firmo'; Board opinion (stamped p34): 'by Manuel Micheltorena Governor of California'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Register says 'Robert F. Ridley'; grant decree (stamped p13) declares 'Dn. Tomas Roberto Ridley' owner; petition signed 'Roberto Tomas Ridley' (stamped p12); deed Exhibit I (stamped p24): 'Robert Thomas Ridley'; Board opinion (stamped p34): 'Robert T. Ridley'. Right person, but the middle initial is T (Tomas), not F. Hoffman shares the same F error."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 14 NORTHERN DISTRICT'; filename cubanc_lcf_nd014.pdf; leaves stamped 'CASE No. 14 ND'. Commission docket No. 40 (transcript title page)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion declaring claim valid 24 Sept 1852 (stamped p5) and Decree of Final Confirmation filed 22 Dec 1852 (stamped p35, Hiland Hall and Harry S. Thornton, 3 square leagues); DC order 8 Dec 1856 (stamped p41, Judge Ogden Hoffman): 'the appeal pending in this Court be dismissed and... the claimants have leave to proceed under the decree of the Land Commission heretofore rendered in their favor, as a final decree'. Confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Robert Thomas Ridley ('Roberto Tomas Ridley', grant decree stamped p13; 'Robert T. Ridley', Board opinion stamped p34). Register's middle initial F should be T."
+  },
+  "notes": "The flagged year disagreement resolves FOR the register: Hoffman's 1845 is the Assembly approval (26 Sept 1845), the concession is 17 June 1844. Claimants Ritchie and Forbes bought via Ridley->Leese exchange deed (Dec 1849) and Leese->Ritchie/Forbes deed (7 Sept 1850, for $14,000, Exhibit I stamped p24). Register patent_to 'A.A. Ritchie and P.S. Forbes' consistent with claimants but patent itself not in file (Phase C checks GLO). Transcript certified at 40 pages; DC filings stamped to p46; 54 PDF images."
+ },
+ {
+  "id": "rancho-conejo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102015 (NO PDF; record holds 92 individual page JPGs, e.g. files/cubanc_1_2_00023384a_k.jpg ... 00023478a_k.jpg + cover 00058830a_k.jpg)",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "cover 58830",
+   "23384",
+   "23386-23392",
+   "23400-23402"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Linen-cover red label (img 23384): 'CASE No. 107 SOUTHERN DISTRICT / CONEJO GRANT / JOSE DE LA GUERRA Y NORIEGA / CLAIMANT'; transcript title (img 23386): 'for the place named \"Conejo\"'; Spanish expediente (img 23402, transcript p17): 'El sitio conocido con el titulo del Conejo'. Register 'Conejo' matches."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The claimant de la Guerra's own title = 1822, NOT 1803. Petition (img 23390, transcript p5): 'That on the 10th day of October A.D. 1822, Pablo Vicente de Sola, Governor of California... granted to the petitioner one undivided half of the tract of land known by the name of Conejo.' Supplementary petition (img 23392, transcript p7): 'a new one [title] was issued to said Jose de la Guerra y Noriega in 1822 by Governor Sola for one half of said tract.' No 1803 date appears anywhere in the file. Hoffman 1862 agrees with the case file (1822) against the register."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Register 'a Spanish governor' is a vague-but-correct category, not the named grantor. The grant to de la Guerra was by Pablo Vicente de Sola (petition img 23390 & supplementary petition img 23392). Sola was the last Spanish governor of Alta California, so 'a Spanish governor' is categorically right but does not name him. (The ORIGINAL Conejo grant, to Polanco & Rodriguez, was by another Spanish governor, Jose Joaquin Arrillaga -- img 23392: 'the Spanish Governor... Jose Joaquin Arrillaga granted to one Jose Polanco & said Ignacio Rodriguez the rancho called El Conejo'.) Hoffman names Sola."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (img 23390): '...granted to the petitioner [Jose de la Guerra y Noriega] one undivided half of the tract of land known by the name of Conejo'; red label & docket cover (imgs 23384, 58830) name Jose de la Guerra y Noriega claimant. Register matches. NB de la Guerra held only one undivided HALF; the Rodriguez heirs (Maria del Carmen Rodriguez et al.) held the other half via a supplementary petition."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (img 23384) 'CASE No. 107 SOUTHERN DISTRICT'; leather docket cover (img 58830) 'U.S. District Court, Southern District of California. No. 107'; every leaf stamped '107 SD'. Commission docket was No. 135 (transcript title img 23386 'IN CASE No. 135'; docket cover 'from the Board of U.S. Land Commissioners, In Case No. 135'), matching Hoffman commission_no 135. Register 'SD 107' = court/final docket."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed the claim: proceedings summary (img 23389, transcript p4) 'San Francisco, March 14, 1854. In the same case, Commissioner R. Aug. Thompson delivered the Opinion of the Board, confirming the claim. (Vide page 61 of this Transcript.)'. Register 'Confirmed' supported. Patent (register claims Jan 8 1873, GLO 408) not in the pages read; Phase C checks GLO. District Court affirmance not located in pages read but Board confirmation and Hoffman ('confirmed') agree."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1822, per de la Guerra's title as stated in the petition (img 23390, transcript p5: '10th day of October A.D. 1822, Pablo Vicente de Sola... granted to the petitioner one undivided half') and supplementary petition (img 23392, transcript p7). Register 1803 is unsupported by the file; 1803 loosely reflects the earlier Spanish grant to Polanco & Rodriguez (Gov. Arrillaga), but that went to different persons and its exact date is not stated.",
+   "governor": "Pablo Vicente de Sola (the grantor of de la Guerra's 1822 title), per petition img 23390 and supplementary petition img 23392."
+  },
+  "notes": "TIF/JPG-only record (record 102015) -- there is NO cubanc_lcf_sd107.pdf; the derived PDF URL 404s to the record HTML. Graded from the 92 individual page JPGs (BookReader-style k.jpg files). Conejo has a layered title: (1) original Spanish grant by Gov. Jose Joaquin Arrillaga to Jose Polanco & Ignacio Rodriguez 'many years prior to the independence of Mexico'; (2) de la Guerra acquired Polanco's half, new title issued to him 1822 by Gov. Sola; (3) Rodriguez heirs' half re-titled 1835 by Gov. Castro; (4) Alvarado judicially divided the tract 22 Nov 1839. The register pairs grantee de la Guerra (a 1822 Sola grantee) with the year/governor of the older Arrillaga grant -- an internal conflation. Board confirmed 14 Mar 1854 (Thompson). Did not read the Board opinion at transcript p61 or any DC decree; the grant translation (expediente marked B) also unread, but the 1822/Sola title is stated identically in two petitions and corroborated by Hoffman."
+ },
+ {
+  "id": "rancho-cuca",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267592/files/cubanc_lcf_sd251.pdf",
+  "pdf_pages_stated": 52,
+  "pages_read": [
+   "1-12"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 251 SOUTHERN DISTRICT / CUCA GRANT / MARIA JUANA DE LOS ANGELES / CLAIMANT'; transcript title (PDF p5): 'for the place named \"Cuca\"'; petition (PDF p9, transcript p4): 'a tract of land called \"Cuca\" or El Potrero, situated in San Luis Rey County of San Diego'. Register 'Cuca' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9, transcript p4): 'by virtue of a grant made to her under the authority of the Mexican Government by Pio Pico Governor of the Department of the Californias of date 7th of May A.D. 1845'; Abel Stearns deposition (PDF p11, transcript p6): 'A paper is shown me purporting to be a grant to Ma Juana, dated May 7th 1845.' Register 1845 matches; Hoffman 1845 agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): '...by Pio Pico Governor of the Department of the Californias'; Stearns deposition (PDF p11): grant bears 'the signatures of Pio Pico, Juan Bandini and Jose Joaquin Ortega'. Register 'Pio Pico' matches."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): 'Your Petitioner Maria Juana de los Angeles, a native Indian and resident of San Luis Rey County... claims a tract of land called Cuca... she claims the same in fee by virtue of a grant made to her'; Stearns deposition (PDF p11): 'a grant to Ma Juana'. Register 'Maria Juana de los Angeles' matches; the trailing ', an' is a truncated descriptor (petition: 'a native Indian'), not part of the name. Hoffman 'M. J. de los Angeles' agrees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 251 SOUTHERN DISTRICT'; filename cubanc_lcf_sd251.pdf; docketing leaf (PDF p2) 'LAND CASE 251 SD 52 pgs (plus 53 - map)'; leaves stamped '251 SD'. Commission docket No. 471 (transcript title PDF p5 'IN CASE No. 471'; also stamped '471' on PDF p3). Register 'SD 251' = court docket; matches Hoffman court_no 251 / commission_no 471."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: proceedings summary (PDF p8, transcript p3): 'San Francisco Oct. 10 1854. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (Vide page 31 of this Transcript).' Register 'Confirmed' supported; Hoffman 'confirmed' agrees. Patent (register claims July 22 1878, GLO 538) not in the 12 pages read; Phase C checks GLO. DC affirmance not read (would sit later in transcript), but Board confirmation + Hoffman + a 1878 patent all point to a confirmed claim."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "No hoffman disagreement stood up: the only flag (grantee 'Maria Juana de los Angeles' vs 'M. J. de los Angeles') is merely Hoffman's abbreviation of the same person; register is right. Cuca = a small (~half square league) grant to a San Luis Rey neophyte Indian woman, Maria Juana de los Angeles; possession given by the mission administrator per the grant's first condition (petition PDF p9). Andres Pico deposition (PDF p12) says her husband was an Indian chief 'Casino'. Read only transcript pp1-6 (PDF 1-12); Board confirmation clearly documented so did not chase the DC decree or the grant translation (grant itself dated 7 May 1845 twice corroborated). Record also holds a map at leaf 53."
+ },
+ {
+  "id": "rancho-dos-pueblos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266110/files/cubanc_lcf_sd150.pdf",
+  "pdf_pages_stated": 159,
+  "pages_read": [
+   "1-14"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 150 SOUTHERN DISTRICT / DOS PUEBLOS GRANT / NICOLAS A. DEN / CLAIMANT'; transcript title (PDF p5): 'for the place named \"Dos Pueblos\"'; petition (PDF p9, transcript p3): 'a tract of land... known by the name of \"Dos Pueblos\" situated in the County of Santa Barbara'; Carrillo possession cert (PDF p13, transcript p7): 'el Rancho de los Dos Pueblos'. Register 'Los Dos Pueblos' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9, transcript p3-4): 'Said tract was granted to him on the 18th of April 1842 by Dn Juan B Alvarado Governor of the Department of the Californias; juridical possession of the same was given him... on the 19th of December 1842; and the said grant was confirmed by the Departmental Assembly of California on the 5th day of October 1843.' Carrillo's possession cert is dated 'Santa Barbara 31 de Diciembre de 1842' (PDF p13). Register 1842 matches; Hoffman 1842 agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): '...granted to him on the 18th of April 1842 by Dn Juan B Alvarado Governor of the Department of the Californias'. Register 'Alvarado' matches; Hoffman 'Juan B. Alvarado' agrees."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): 'Nicolas A. Den gives notice that he claims a tract of land...'; Carrillo cert (PDF p13): 'perteneciente Dn Nicolas A. Den'; expediente heading (PDF p12): 'Dn. Nicolas A. Den'. Register 'Nicholas August Den' is the anglicized/expanded form of the same man (Nicholas Augustus Den); the file consistently writes 'Nicolas A. Den'. Same person; Hoffman 'N. A. Den' agrees. The Hoffman flag is only an abbreviation difference, not a real disagreement."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 150 SOUTHERN DISTRICT'; filename cubanc_lcf_sd150.pdf; docketing leaf (PDF p2) 'LAND CASE 150 SD pgs. 159'; leaves stamped '150 SD'. Commission docket No. 517 (transcript title PDF p5 'IN CASE No. 517', also stamped '517'). Register 'SD 150' = court docket; matches Hoffman court_no 150 / commission_no 517."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: proceedings summary (PDF p8, transcript p3): 'San Francisco, March 14 1854. In the same case Commissioner Thompson Campbell delivered the opinion of the Board confirming the Claim (Vide page 29 of this Transcript).' Register 'Confirmed' supported; Hoffman 'confirmed' agrees. Patent (register claims Feb 23 1877, GLO 381) not in the 14 pages read; Phase C checks GLO. DC affirmance would sit later in this 159-page transcript, not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "No hoffman disagreement survived: the only flag ('Nicholas August Den' vs 'N. A. Den') is just Hoffman abbreviating Nicholas Augustus Den; register agrees with the case file. Grant to Nicolas A. Den by Gov. Alvarado 18 Apr 1842, Assembly-approved 5 Oct 1843; the expediente (transcript pp6+, in Spanish) includes a Fr. Narciso Duran (Mission Santa Barbara) convenio cert (Nov 23 1845) and a Pio Pico / Agustin Olvera referral note (Angeles Sept 26 1843). Read transcript pp1-9 (PDF 1-14); Board confirmation clearly documented so did not chase the DC decree or the Alvarado concession decree itself (petition states its date/grantor verbatim, corroborated by Carrillo's Dec 1842 possession cert and by Hoffman). 55-page cap not needed; this is a low-risk record."
+ },
+ {
+  "id": "rancho-estero-americano",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264428/files/cubanc_lcf_nd041.pdf",
+  "pdf_pages_stated": 68,
+  "pages_read": [
+   "1-14"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 41 NORTHERN DISTRICT / ESTERO AMERICANO GRANT / JASPER O'FARRELL / CLAIMANT'; transcript title (PDF p5): 'for the place named \"Estero Americano\"'; petition (PDF p11, transcript p5): 'the tract of land called \"Estero Americano\" situate in the then jurisdiction and now county of Sonoma'. Register 'Estero Americano' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p11, transcript p5): 'That on the 4th day of September A.D. 1839, Manuel Jimeno Governor of California... granted to Edward Manuel McIntosh, the tract of land called \"Estero Americano\"'; James Black deposition (PDF p13, transcript p7): 'Governor Jimeno gave McIntosh a title to this Rancho in 1839.' Register 1839 matches the grant; Hoffman 1839 agrees."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The grant was signed by Manuel Jimeno, NOT Alvarado. Petition (PDF p11, transcript p5): 'on the 4th day of September A.D. 1839, Manuel Jimeno Governor of California by virtue of authority in him vested, granted to Edward Manuel McIntosh'; James Black deposition (PDF p13): 'Governor Jimeno gave McIntosh a title to this Rancho in 1839.' Alvarado was the constitutional governor and the Departmental Junta approval of 22 May 1840 fell in his term, which likely produced the register's error; but the concession itself was made by Jimeno as acting governor. Hoffman ('Manuel Jimeno') agrees with the case file against the register."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant was to Edward Manuel McIntosh, NOT Jasper O'Farrell. Petition (PDF p11, transcript p5): '...Manuel Jimeno Governor of California... granted to Edward Manuel McIntosh, the tract of land called \"Estero Americano\"'; James Black deposition (PDF p13): 'it was first occupied in 1836 or 1837 by Edwardo Manuel McIntosh... he sold it to O'Farrell, the present claimant, in 1848.' O'Farrell was the CLAIMANT/purchaser: petition (PDF p11): 'on the 16th day of October A.D. 1851 the said McIntosh sold and conveyed to the petitioner [O'Farrell] the aforesaid tract of land... marked E.' Red label names O'Farrell 'CLAIMANT', not grantee. Hoffman ('Ed. Manuel McIntosh') agrees with the case file against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 41 NORTHERN DISTRICT'; filename cubanc_lcf_nd041.pdf; docketing leaf (PDF p2) 'LAND CASE 41 ND pgs. 68'; leaves stamped '41 ND'. Commission docket No. 136 (transcript title PDF p5 'IN CASE No. 136'). Register 'ND 041' = court docket; matches Hoffman court_no 41 / commission_no 136."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed with a final decree: proceedings summary (PDF p10, transcript p4): 'San Francisco Apl. 11th 1853. In Case No. 136 Gaspar O'Farrell for the place named \"Estero Americano\" Commissioner Hiland Hall delivered the opinion and the Decree of final confirmation (Vide page 47 of this Transcript).' Register 'Confirmed' supported; Hoffman 'confirmed' + patented_1862 true agree (register also claims a Feb 3 1858 patent, GLO 28). Patent copy not in the 14 pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (acting Governor of California), per petition PDF p11 / transcript p5: 'on the 4th day of September A.D. 1839, Manuel Jimeno Governor of California... granted to Edward Manuel McIntosh'; corroborated by James Black deposition PDF p13. Not Alvarado.",
+   "grantee": "Edward(o) Manuel McIntosh, per petition PDF p11 / transcript p5 and James Black deposition PDF p13. Jasper (Gaspar) O'Farrell was the claimant who bought the rancho from McIntosh 16 Oct 1851 (petition PDF p11)."
+  },
+  "notes": "HIGH-priority record: both Hoffman flags stand up as register errors, decisively settled from the petition and the James Black deposition. Register conflated the CLAIMANT (Jasper O'Farrell, purchased 1851) with the original GRANTEE (Edward Manuel McIntosh, an early Sonoma settler who built a house 1836/37 and a sawmill 1843), and named Alvarado where the grant was signed by acting-governor Jimeno. Original grant documents (marked A, translations B) sit further in the transcript (referenced but not read); the petition recites the grant date/grantor/grantee verbatim and Black's sworn deposition corroborates. Board delivered a Decree of final confirmation 11 Apr 1853 (Hiland Hall). Read transcript pp1-8 (PDF 1-14)."
+ },
+ {
+  "id": "rancho-guadalasca",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264214/files/cubanc_lcf_sd177.pdf",
+  "pdf_pages_stated": 126,
+  "pages_read": [
+   "1-16",
+   "113-126 (via PDF 126-142)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 177 SOUTHERN DISTRICT / GUADALAZCA GRANT / YSABEL YORBA / CLAIMANT'; transcript title (PDF p5): 'for the place named \"Guadalazca\"'; Spanish grant (PDF p13, transcript p7): 'el terreno conocido con el nombre de Guadalaxca'. Register 'Guadalasca' matches (clerk variants Guadalazca / Guadalaxca / Guadalasca)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The grant is dated 6 May 1836. Petition (PDF p11, transcript p4): 'That on the sixth day of May A.D. One thousand Eight hundred and thirty six, Mariano Chico Governor of upper California... granted to the petitioner, the tract of Land known by the name of Guadalazca'; Spanish grant decree (PDF p14, transcript p7-8): 'Dado en Monterrey a seis de Mayo de mil ochocientos treinta y seis. Manl. Chico'; Hartnell translator cert (PDF p15, transcript p8): 'the Farm granted by Governor D. Mariano Chico on the 6th of May 1836 to Dona Isabel Yorba named Guadalasca'; DC opinion (PDF-tail p117 / typed copy): 'the 1st [grant] made by Governor Chico bearing date the 6th of May, A.D. 1836.' Register 1836 is CORRECT. Hoffman's 1846 is a Hoffman error (Chico governed only in 1836)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree (PDF p13, transcript p7): 'Excelentisimo Ciudadano Coronel Mariano Chico, Representante de la Nacion, Jefe Superior Politico y Comandante General de la Alta California... he venido en concederle el mencionado terreno... Dado en Monterrey a seis de Mayo de mil ochocientos treinta y seis. Manl. Chico.' Register 'Mariano Chico' matches; Hoffman 'Mariano Chico' agrees. (A second, additive grant of 6 Apr 1837 was by Alvarado, but the primary Guadalasca grant and the register's year/governor are the Chico 1836 grant.)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree (PDF p13): 'Por cuanto Isabel Yorba, viuda de Dn. Joaquin Maytorena, vecina del Pueblo de Sta Barbara, ha pretendido... he venido en concederle el mencionado terreno'; red label 'YSABEL YORBA'; petition (PDF p11): 'The petitioner Dona Isabel Yorba.' Register 'Isabel Yorba' matches; Hoffman 'Isabel Yorba' agrees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 177 SOUTHERN DISTRICT'; filename cubanc_lcf_sd177.pdf; docketing leaf (PDF p2) 'LAND CASE 177 SD pgs. 126'; leaves stamped '177 SD'. Commission docket No. 31 (transcript title PDF p5 'IN CASE No. 31'). Register 'SD 177' = court docket; matches Hoffman court_no 177 / commission_no 31."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED (proceedings PDF p9, transcript p3: 'San Francisco April 25 1854. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the Claim'), BUT the U.S. District Court REVERSED and confirmed. DC opinion (transcript pp117-126, incl. typed copy): 'In this case a complete compliance with the conditions of the grants is proven except as to the asking for juridical possession, this objection has been before considered by this Court & the Supreme Court of the United States, and decided to be insufficient to invalidate a grant otherwise good. The claimant is therefore entitled to a confirmation and a decree will be entered accordingly.' Surveyor General certificate (transcript p115): 'the Rancho Guadalasca confirmed to [Ysabel] Yorba has been surveyed... approved by the U.S. Surveyor General on the 25th day of March 1861.' Register 'Confirmed' is CORRECT (the Board's first-instance rejection was not final); Hoffman 'confirmed' agrees."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The register is RIGHT and Hoffman is WRONG here: Hoffman's flagged year 1846 is a Hoffman error; the grant is unambiguously 6 May 1836 by Gov. Mariano Chico (Spanish decree + Hartnell's 1848 translator cert + DC opinion all agree), and Chico governed Alta California only in 1836. Two grants underlie the claim: Chico 6 May 1836 (main tract, reserving a portion then occupied by Mission San Buenaventura cattle) and an additive Alvarado grant 6 Apr 1837 (conveying the reserved portion). The Land Commission rejected 25 Apr 1854 (Felch) on two grounds (no proof of house-building; indefinite map/boundaries), but the District Court found the equities strong, held the objections insufficient, and confirmed; SG survey approved 25 Mar 1861. Register patent fields blank; no patent copy in the file (SG survey cert present, not a patent). Read transcript pp1-9 (PDF 1-16) and pp113-126 (PDF 126-142)."
+ },
+ {
+  "id": "rancho-guilicos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256560/files/cubanc00004691_pm_a.pdf (derived name cubanc_lcf_nd094.pdf 404s; real filename found on the record page)",
+  "pdf_pages_stated": 305,
+  "pages_read": [
+   "1-16"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 94 NORTHERN DISTRICT / GUILICOS GRANT / JOHN WILSON / CLAIMANT'; transcript title (PDF p4): 'for the place named \"Guilucos\"'; petition (PDF p5, transcript p2): 'the Place named \"Rancho Guilicos\"'; expediente heading (PDF p10, transcript p9): 'del Paraje nombrado Guilicos'. Register 'Los Guilicos' matches (record also notes 'Huilucos'/'Huilicos' variants)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The grant to Wilson was made in 1837. Petition (PDF p9, transcript p3-4): 'on the 30th day of September A.D. 1837 he applied to Governor Alvarado... and on the 30th day of November A.D. 1837 the said Governor Alvarado expedited the corresponding title to your petitioner John Wilson... a deed of conveyance was issued by said Governor Juan B Alvarado to your petitioner dated the 13th day of November 1837'; Spanish expediente decree (PDF p11, transcript p11): 'Monterey Novbre 20 de 1837 -- En esta fecha se expidio el titulo correspondiente por esta Jefatura a Dn Juan Wilson reservando el expediente hasta la aprobacion... Alvarado'; expediente cover (PDF p10): 'Expediente promovido por D. Juan Wilson en pretencion del Paraje nombrado Guilicos. 1837.' Register 1837 is CORRECT. Hoffman's 1847 is a Hoffman error (Alvarado's term was 1837-1842; Wilson's title predates 1847)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): '...Governor Alvarado... the said Governor Alvarado expedited the corresponding title'; Spanish decree (PDF p11): title expedited 20 Nov 1837 signed 'Alvarado'; Assembly-approval decree (PDF p12): 'El Sr Dn Juan Bautista Alvarado Gobernador del Departamento de las Californias asi lo proveyo y firmo. Alvarado.' Register 'Alvarado' matches; Hoffman 'Juan B. Alvarado' agrees."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p9): 'John Wilson of California respectfully represents... a Concession of the tract of Land known as Guilicos'; grant to 'Dn Juan Wilson' (Spanish decree PDF p11); red label 'JOHN WILSON CLAIMANT'. Register 'John Wilson' matches. (Register patent_to 'William Hood' reflects the later purchaser: Hood & Potter bought from Wilson -- Burns deposition PDF p14-15 -- but the grantee is John Wilson.)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 94 NORTHERN DISTRICT'; docketing leaf (PDF p2) 'LAND CASE 94 N D 305 pages'; leaves stamped '94 ND'. Commission docket No. 32 (transcript title PDF p4 'IN CASE No. 32'). Register 'ND 094' = court docket; matches Hoffman court_no 94 / commission_no 32. NOTE: this record's PDF is named cubanc00004691_pm_a.pdf (older scheme), not cubanc_lcf_nd094.pdf; the derived name 404s to the record HTML."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: proceedings summary (PDF p8, transcript p3): 'San Francisco December 27 1853. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim (Vide page 19 of this Transcript).' Register 'Confirmed' supported; Hoffman 'confirmed' agrees. Patent (register claims June 16 1866, GLO 66, patent_to William Hood) not in the 16 pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The register is RIGHT and Hoffman is WRONG: Hoffman's flagged year 1847 is a Hoffman error; the grant to John Wilson is unambiguously 1837 (application 30 Sept 1837, title expedited 20/30 Nov 1837, deed 13 Nov 1837), all by Gov. Alvarado, Assembly-approved 1840/1841. This is a 305-page file (196MB); read transcript pp1-12 (PDF 1-16), which include the petition, four depositions (Howard, Leese, Peabody, Burns), and the Spanish expediente with Alvarado's title decree. Board confirmed 27 Dec 1853 (Felch). John Wilson (Scots-born ranchero) later sold to Hood & Potter; William Hood is the eventual patentee per the register (Phase C/GLO). Filename discrepancy noted under land_case: file is cubanc00004691_pm_a.pdf."
+ },
+ {
+  "id": "rancho-honcut",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256630/files/cubanc_lcf_nd301.pdf",
+  "pdf_pages_stated": 301,
+  "pages_read": [
+   "1-16"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 301 NORTHERN DISTRICT / HONCUT GRANT / CHARLES COVILLAUD, et al / CLAIMANTS'; transcript title (PDF p4): 'for the place named \"Honcut\"'; petition boundary (PDF p11, transcript p5): 'at the North by the Arroyo Honcut'. Register 'Honcut' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Decree of concession dated 22 Dec 1844. Petition (PDF p12, transcript p6): 'That on the 22nd December 1844, said Governor Micheltorena... made a decree of Concession of all the lands theretofore solicited in that section of Country which had been favorably reported on by said Sutter, thereby granting the said lands to the respective petitioners... which said decree granted in full Ownership to said Cordua, the land petitioned for by him.' Register 1844 matches; Hoffman 1844 agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p12, transcript p6): the 22 Dec 1844 decree of concession was 'made [by] said Governor Micheltorena'. Register 'Micheltorena' matches the grantor. Hoffman's 'Manuel Micheltorena and J. A. Sutter' adds Sutter, but Sutter's role was only to REPORT/certify the land was vacant as head of New Helvetia (petition PDF p11-12: petitions 'referred... to Capt. John A Sutter to report whether the Land... was vacant'); the concession itself was Micheltorena's. Register is right to name Micheltorena alone."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant was to Theodore (Teodoro) Cordua, NOT Charles Covillaud. Petition (PDF p11, transcript p5): 'That said tract of land was originally petitioned for by Theodore Cordua in June 1843'; (PDF p12, transcript p6): the 22 Dec 1844 decree 'granted in full Ownership to said Cordua, the land petitioned for by him'; (PDF p13, transcript p7): 'That said Theodore Cordua was a naturalized citizen of the Mexican Republic... That said land has come to the present Claimants by mesne conveyances.' Charles Covillaud et al. were the CLAIMANTS/purchasers (red label names them 'CLAIMANTS'). Hoffman ('Teodoro Cordua') agrees with the case file against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1) 'CASE No. 301 NORTHERN DISTRICT'; filename cubanc_lcf_nd301.pdf; docketing leaf (PDF p2) 'LAND CASE 301 N.D. 301 pages'; leaves stamped '301 ND'. Commission docket No. 147 (transcript title PDF p4 'IN CASE No. 147'). Register 'ND 301' = court docket; matches Hoffman court_no 301 / commission_no 147."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: proceedings summary (PDF p10, transcript p4): 'San Francisco March 27 1855. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim (Vide page 69 of this Transcript).' Register 'Confirmed' supported; Hoffman 'confirmed' agrees. Patent (register claims Mar 9 1863, GLO 19, patent_to Charles Covillaud et al.) not in the 16 pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Teodoro (Theodore) Cordua, per petition PDF p11-13 / transcript pp5-7: Cordua petitioned June 1843 and April 1844, and Micheltorena's decree of concession of 22 Dec 1844 'granted in full Ownership to said Cordua.' Charles Covillaud et al. were the claimants who acquired the rancho by mesne conveyances from Cordua."
+  },
+  "notes": "The Hoffman grantee flag stands: register named the CLAIMANT (Charles Covillaud, of Marysville) instead of the original GRANTEE (Teodoro Cordua, the German-born ranchero of New Mecklenburg/Cordua's rancho on the Yuba/Feather). Governor and year hold: Micheltorena's decree of concession, 22 Dec 1844 (issued just before he was deposed -- petition notes the ensuing 'civil revolution'). Sutter appears only as the officer who reported the land vacant, hence Hoffman's extra 'J.A. Sutter'. 301-page file (225MB); read transcript pp1-8 (PDF 1-16): title, proceedings summary, full petition, start of Bidwell deposition. Board confirmed 27 Mar 1855 (Felch). Grant decree itself (marked, later in transcript) not read; petition recites its date/grantor/grantee verbatim and Hoffman corroborates."
+ }
+]

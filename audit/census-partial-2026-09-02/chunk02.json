@@ -1,0 +1,309 @@
+[
+ {
+  "id": "rancho-azusa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265862/files/cubanc_lcf_sd121.pdf",
+  "pdf_pages_stated": 197,
+  "pages_read": [
+   "1-12",
+   "13-30",
+   "200-209"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 121 / SOUTHERN DISTRICT / AZUZA GRANT / HENRY DALTON CLAIMANT'"
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "Three linked concessions of record: original San Jose grant by Alvarado to Palomares & Vejar dated April 15, 1837 (transcript p23, PDF p28; brief index PDF p205 'Original Grant in Spanish by Gov. Alvarado to Palomares & Vejar for San Jose dated April 15, 1837'); grant by Alvarado to Palomares, Vejar & Arenas with one-league augment 'Monterey 14th of March 1840 ... I declare them owners in right of property of the aforesaid place of San Jose with the augment of one league of grazing land' (transcript p23-24, PDF p29-30); and Jimeno's further one-league augment to Arenas dated Nov. 8, 1841 with the 'Rio de Azusa' boundary (transcript p18-19, PDF p23-24). Register's single '1841' captures only the Jimeno augment."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Alvarado signed the 14 Mar 1840 grant (transcript p24, PDF p30: 'The Sr. Don Juan B Alvarado Constitucional Governor of the Californias'); Manuel Jimeno, acting governor, signed the 8 Nov 1841 augment (transcript p19, PDF p24: 'El Sor. D. Manuel Jimeno ... en ejercicio del Gobierno ... asi lo mando'). But the register's governor field also lists 'Luis Arenas', who was the GRANTEE of the 1841 augment, not a governor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "1837 San Jose grant to Ignacio Palomares & Ricardo Vejar; 14 Mar 1840 grant jointly to 'Ignacio Palomares, Ricardo Vejar and Luis Arenas' (transcript p23-24, PDF p29-30); 8 Nov 1841 augment to Luis Arenas alone (transcript p19, PDF p24). Register's 'Ignacio Palomares and Ricardo Vejar; Luis Arenas' matches this structure."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 121 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd121.pdf; commission docket No. 364 on transcript title (PDF p5) matches Hoffman's commission_no 364."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Commissioner Alpheus Felch 'confirming the claim', San Francisco Jan 31, 1854 (transcript p3, PDF p8); brief index (transcript p195, PDF p208): 'pp 76-79 Opinion of the Commissioners; 80 & 81 Decree confirming the claim'; District Court appeal (Dalton appellee vs US appellant, PDF p208) ended in 'the decree of dismissal of the proceedings this day entered', clerk's note Nov 21 (PDF p209), leaving the confirmation standing."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "Best rendering: 1837/1840/1841 (San Jose grant Apr 15 1837; joint Azusa/San Jose grant + augment Mar 14 1840; Jimeno augment to Arenas Nov 8 1841). Register's bare '1841' omits the 1840 Alvarado grant on which most of the tract rests.",
+   "governor": "Remove 'Luis Arenas' from the governor field; he is a grantee. Governors of record: Alvarado (1837 and 1840 grants), Manuel Jimeno gov. ad interim (1841 augment)."
+  },
+  "notes": "Hoffman's 1837 and the register's 1841 are each one leg of a three-grant chain; the case file shows all three (1837, 1840, 1841). Dalton bought Arenas's interest 24 Dec 1844 (deed, transcript p194 index). Partition among Palomares, Vejar & Dalton Nov 17 1845 - Feb 10 1846. Patent (register: May 29, 1876) not seen in pages read; Phase C checks GLO. Transcript states 197 pgs (PDF p2); PDF has 209 images."
+ },
+ {
+  "id": "rancho-bolsa-potrero-moro-cojo-sagrada-familia",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266048/files/cubanc_lcf_sd007.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-28",
+   "187-194"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 7 / SOUTHERN DISTRICT / BOLSAS DEL POTRERO Y MORO COJO / O' LA [S]AGRADA FAMILIA GRANT / JOHN B. R. COOPER CLAIMANT' (label stamped 'LAGRADA', an engraver's slip for SAGRADA)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree (original Spanish, transcript p10-11, PDF p14-15; certified copy transcript p23, PDF p27): '...asi lo proveyo y mando dho Sor en el Presidio de Monterrey a veinte y dos dias del mes de Junio del ano de mil ochocientos veinte y dos. Pablo Vicente de Sola' = June 22, 1822. Register 1822 correct; Hoffman's 1837 is contradicted by the case file."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Decree signed 'Pablo Vicente de Sola', styled 'Coronel de Milicias Provinciales, Gobernador Politico y Militar de esta Nueva California e Inspector de sus Tropas' (transcript p10-11, PDF p14-15). Register's 'a Spanish governor' points at the right man (Sola, the last Spanish-appointed governor) but the concession was made 'a nombre de S.M. Imperial' in the 'Segundo de nuestra gloriosa Independencia' - i.e. under the Mexican Empire, June 1822. Hoffman's 'Juan B. Alvarado' is contradicted by the case file."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Original grantee = Jose Joaquin de la Torre, 'Cadete de la Compania de Caballeria de este Imperial Presidio de Monterey' (petition + Sola's decree, transcript p9-11, PDF p13-15). John B. R. Cooper was the PURCHASER: de la Torre sold him the rancho by escritura of Oct 2, 1829 before alcalde Jose Tiburcio Castro (transcript p12-15, PDF p16-19), and Cooper acquired Milligan's half from executor Hartnell Aug 21, 1834 (transcript p16-17, PDF p20-21). Hoffman's 'F. Tico' is also wrong."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 7 SOUTHERN DISTRICT'; filename cubanc_lcf_sd007.pdf; transcript title (PDF p4) 'IN CASE No. 138' matching Hoffman commission_no 138 / court_no 7."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: 'Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation of this Board', San Francisco Feb 21, 1853 (transcript p4, PDF p8). On US appeal, District Court opinion (transcript p175-178, PDF p187-190): 'The Claimant is entitled to a Confirmation of his claim according to the boundaries described by the witnesses... and a decree will be entered accordingly', wrapper endorsed 'United States applts v. John B R Cooper - Opinion Confirming' (transcript p179, PDF p191)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Joaquin de la Torre (grant of June 22, 1822); Cooper is claimant/purchaser only. Per decree transcript p10-11: 'le concedo a nombre de S.M. Imperial la gracia que solicita... de las Bolsas del Potrero y Moro Cojo'.",
+   "governor": "Pablo Vicente de Sola (register should name him rather than 'a Spanish governor'; grant made in the name of the Mexican Empire, year 2 of Independence)."
+  },
+  "notes": "Hoffman's row for commission 138 (year 1837, Alvarado, F. Tico) is flatly contradicted by the case file on all three points - likely a row-misalignment in the parsed Hoffman table; the case file governs. De la Torre had sold half to Juan Maria Milligan Oct 30, 1824, approved by the Diputacion Nov 11, 1824 (transcript p16, PDF p20). No stated page-count leaf found; last stamped transcript page is 182 of 194 PDF images. Patent (register: Dec 19, 1859) not in pages read; Phase C checks GLO."
+ },
+ {
+  "id": "rancho-bolsa-san-cayetano",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266074/files/cubanc_lcf_sd035.pdf",
+  "pdf_pages_stated": 113,
+  "pages_read": [
+   "1-14",
+   "15-32",
+   "117-124"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 35 / SOUTHERN DISTRICT / BOISA [BOLSA] DE SAN CAYETANO GRANT / JOSE DE JESUS VALLEJO CLAIMANT'."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "1817 appears only as the start of permissive occupation: Ignacio Vallejo's petition of June 2, 1822 (translation, transcript p8, PDF p15) asks leave to build a house on 'the place & Bolsa of San Cayetano, where Y.E. has already allowed him from the year 1817 to breed cattle', granted by marginal decree Oct 12, 1822 '(Sigd) Sola'. The formal Sola concession is recited in Figueroa's 1834 title as 'the grant made by the Honorable Governor Don Pablo Vicente de Sola on the twenty third day of February 1823' (transcript p15, PDF p23); Deputation ratification Oct 25, 1824 signed Arguello (transcript p13, PDF p21) - Hoffman's 1824; full Figueroa title Oct 13, 1834 (transcript p16-17, PDF p23-24)."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The original concession was Sola's, made in the name of the King of Spain (1824 petition translation, transcript p13, PDF p21: 'Governor Don Pablo Vicente de Sola has given in the name of the King... the site named Bolsa de San Cayetano'), so 'a Spanish governor' points at the right man but should name Sola; and the perfected title of record is Jose Figueroa's grant of Oct 13, 1834 (signed 'Jose Figueroa / Agustin V. Zamorano Secy', transcript p16, PDF p24), with the 1824 Deputation decree signed Arguello. Hoffman's garbled 'Arguello, and October 13th, 1834, by Jose Figueroa' actually mirrors the record."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Original grantee = Ignacio Vallejo, 'distinguished sergeant of the Cavalry Company of the Port of Monterey', with sergeant Dolores Pico as co-grantee (1824 petition, transcript p13, PDF p21; Board opinion treats Pico's right as transferred/abandoned, transcript p21-22, PDF p29-30). Jose de Jesus Vallejo (register's grantee) received only the Oct 13, 1834 Figueroa regrant 'as testamentary executor of the late Don Ignacio Vallejo... for the personal benefit of the heirs' (transcript p15-16, PDF p23) and is the claimant; confirmation ran to him 'as testamentary executor... for the benefit of the heirs' (decree, transcript p22-23, PDF p31)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 35 SOUTHERN DISTRICT'; filename cubanc_lcf_sd035.pdf; transcript title 'IN CASE No. 85' (PDF p5) matches Hoffman commission_no 85 / court_no 35."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comr. R. Aug. Thompson and Decree of Confirmation filed Dec 6, 1853, signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson (transcript p17-23, PDF p25-31); District Court order Jan 9, 1857 (Judge Ogier) vacated the US appeal so the decree stood 'as a final decree' (transcript p112, PDF p123); District Court decree Apr 14, 1862 confirmed the Terrell survey 'containing 8,866.43 acres' (transcript p107-108, PDF p118-119); US Supreme Court, December Term 1863: 'the decree of the said District Court in this cause be and the same is hereby affirmed' (mandate, Taney C.J., filed Aug 12, 1864; transcript p109-111, PDF p120-122)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "Grant chain: pasture license from 1817; Sola concession Feb 23, 1823 (as recited by Figueroa); Deputation ratification Oct 25, 1824; Figueroa revalidation title Oct 13, 1834. Register's bare '1817' is only the license date.",
+   "governor": "Name Sola (original concession, in the name of the King) and Figueroa (Oct 13, 1834 revalidation title).",
+   "grantee": "Original grantee Ignacio Vallejo (co-grantee Dolores Pico, right lapsed); Jose de Jesus Vallejo took the 1834 executor's regrant and the confirmation in trust for Ignacio's heirs."
+  },
+  "notes": "Survey acreage 8,866.43 in the 1862 District Court decree exactly matches the register's patent_acres, corroborating the register's patent line, but no patent copy is in the pages read (Phase C checks GLO). Hoffman's 1824 = the Deputation decree date; register's 1817 = the license date; the file supports both as parts of one chain."
+ },
+ {
+  "id": "rancho-bolsa-san-felipe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265825/files/cubanc_lcf_sd077.pdf",
+  "pdf_pages_stated": 204,
+  "pages_read": [
+   "1-14",
+   "15-32",
+   "205-212"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 77 / SOUTHERN DISTRICT / BOLSA DE SAN FELIPE GRANT / FRANCISCO PEREZ PACHECO CLAIMANT'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The grant (translation, Exhibit 1, transcript p13-14, PDF p18-19): 'Juan B. Alvarado, Constitutional Governor... I have concluded to grant him the mentioned land, declaring it his property by the present letters patent... Given in Monterey on the 14th of October 1840. Alvarado. Manuel Jimeno Secretary of State.' Register's 1837 is only the year of Mariano Macario Castro's petition (San Juan, 12 Nov 1837) and Alvarado's interim occupation permission (Monterey, 13 Nov 1837; expediente B, transcript p21-22, PDF p27-28). Hoffman's 1840 agrees with the case file against the register."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Alvarado', with Manuel Jimeno Secretary of State, Monterey Oct 14, 1840 (transcript p14, PDF p19); petition recites 'said Alvarado by virtue of his authority made a grant of said land to your petitioner' (transcript p5, PDF p10)."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grantee is Francisco Perez Pacheco throughout ('Don Franco Perez Pacheco has solicited...', grant translation transcript p13, PDF p18; petition and juridical possession of Feb 19, 1841, transcript p14-18). Register's 'F. D. Pacheco' has the wrong middle initial - should be F. P. (Perez) Pacheco; Hoffman prints the same 'F. D. Pacheco' error."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 77 SOUTHERN DISTRICT'; filename cubanc_lcf_sd077.pdf; transcript title 'IN CASE No. 65' (PDF p5) matches Hoffman commission_no 65 / court_no 77."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: Dec 27, 1852, 'Commissioner Harry I. Thornton delivered the opinion and the Decree of Final Confirmation of this Board' (transcript p3, PDF p8). District Court decree Feb 20, 1857 confirmed one square league; US Supreme Court, December Term 1863, 'reversed... and remanded... with directions to enter a decree confirming the claim of the appellants to two square leagues under the grant to Pacheco' (mandate, transcript p199-202, PDF p207-210, filed Oct 13, 1864); District Court final decree Oct 13, 1864 (Judge Fletcher M. Haight) confirmed 'to the extent of two square leagues... for the use and benefit of the heirs and legal representatives of said Francisco Perez Pacheco deceased' (transcript p197-198, PDF p205-206)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840 (grant of Oct 14, 1840, by Alvarado; juridical possession Feb 19, 1841). 1837 is the antecedent Castro petition year only.",
+   "grantee": "Francisco Perez Pacheco (F. P. Pacheco, not F. D.)."
+  },
+  "notes": "Full outcome chain in file: Board 1852 confirm -> DC 1857 confirm to 1 sq. league -> SCOTUS Dec. Term 1863 reversed, directing confirmation of 2 sq. leagues -> DC final decree Oct 13, 1864 to Pacheco's executors (Sebastian Nunez and Isadora Pacheco de Malarin). Surveyor General publication certificate Jan 1866 at transcript p203. No patent copy in pages read; Phase C checks GLO. The registered patent (Jan 14, 1871, Francisco P. Pacheco) is consistent with this chain but unverified here."
+ },
+ {
+  "id": "rancho-bolsas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267552/files/cubanc_lcf_sd208.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "150-161"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 208 / SOUTHERN DISTRICT / LAS BOLSAS GRANT / RAYMON YORBA, ET AL / CLAIMANT'; transcript title (PDF p6) 'for the place named Las Bolsas'."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "Petition (PDF p12, transcript p5): 'the said Manuel Nieto acquired his title to said land from Don Pedro Fages, Governor of California bearing a date which cannot now be ascertained owing to the loss of the documents, but, made while the said Fages was Governor aforesaid sometime between the years of 1784 and 1793-4.' The original Fages grant document is lost; the file dates it only to a range, not to a single year. Register's '1784' is the earliest bound (and the conventionally cited Nieto-grant year), not a figure the file fixes."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p12, transcript p5) recites the original grantor as 'Don Pedro Fages, Governor of California.' The grant decree itself is lost, so this rests on the petition's recital, but it names the correct original granting governor. (The later 1833-34 partition titles were issued by Gov. Jose Figueroa, per PDF p13.)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (PDF p12, transcript p5): the original grantee is 'Manuel Nieto who died about 1804 or 1805 seized in fee... in which said tract was included Las Bolsas.' The claimants (Ramon Yorba et al) are purchasers of the undivided half that passed to Caterina Ruiz de Nieto in the Figueroa partition; Manuel Nieto is the original grantee named in the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 208 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd208.pdf; transcript docket 'No. 402' (PDF p6, p8) matches Hoffman commission_no 402 / court_no 208."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: San Francisco Sept 26 1854, 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim' (PDF p11, transcript p4). On US appeal, US District Court (Judge Ogden Hoffman), decree of Feb 6 1874: 'the claim of the appellees is a good and valid claim... the same be and hereby is confirmed to Ramon Yorba et al the appellees, to the extent of thirty three thousand four hundred and sixty and 4/100 (33,460 4/100) acres' (PDF pp141-143, transcript pp142-143). Appeal from that decree waived and 'said decree shall be final,' stipulation filed Mar 17 1874 (PDF p147, transcript p147)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "The file does not fix the grant year: petition (transcript p5) says the Fages grant date 'cannot now be ascertained owing to the loss of the documents, but... sometime between the years of 1784 and 1793-4.' Register's 1784 is the earliest bound. Hoffman's 1834 = the Figueroa partition (1833-34) that adjudged Las Bolsas to Caterina Ruiz de Nieto, not the original concession."
+  },
+  "notes": "Manuel Nieto's original Fages concession (a lost document) covered a large tract bounded by the Rio San Gabriel, the Camino Viejo to Santa Ana, the Santa Ana River, and the coast, of which Las Bolsas was one part; Gov. Figueroa partitioned it among Nieto's four heirs in 1833-34, adjudging Las Bolsas to Caterina Ruiz de Nieto in trust for her children Rita and Eulogia (petition, PDF pp12-13). Claim was for the undivided half. Final DC survey/decree acreage 33,460.04 (register patent_acres blank; glo_patent_no 471). No patent copy in pages read; Phase C checks GLO. Total PDF images 161; no single leaf states a total transcript page count."
+ },
+ {
+  "id": "rancho-brea",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268914/files/cubanc_lcf_sd287.pdf",
+  "pdf_pages_stated": 140,
+  "pages_read": [
+   "1-14",
+   "15-32",
+   "141-155"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 287 / SOUTHERN DISTRICT / LA BREA GRANT / ANTONIA ROCHA, ET AL / CLAIMANT'; transcript title (PDF p5) 'for the Place named La Brea'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant document H.H. No. 1 (translation, transcript p11-12, PDF p11-13): petition of Antonio Jose Rocha and Nemesio Dominguez, 'Town of Los Angeles January 6th 1828', with the granting decree 'Town of Los Angeles 8th of April 1828 - The parties interested in this petition can build their corrals place their stock, make their fields in the lands which they have signified... Carrillo.' Deed translation (transcript p15, PDF p23) recites 'which place was granted in the year 1828 to the late Jose Antonio Rocha and to the said Nemecio Dominguez.' Register 1828 correct; agrees with Hoffman."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "This is a PUEBLO grant, not a gubernatorial grant. The concession was made by Jose Antonio Carrillo, First Alcalde / President of the Ayuntamiento of Los Angeles, decree dated April 8, 1828 (grant translation, transcript p12, PDF p13: '...Carrillo'). Carrillo's own deposition (transcript p9-10, PDF p15-16): 'A paper is now shown me purporting to be a permission to occupy land given to Antonio Jose Roca and Nemesio Dominguez dated April 8 1828. My own genuine signature is on said paper... I was at the time First Alcalde and Judge of the First Instance... I was President of the Ayuntamiento.' Board opinion (transcript p17, PDF p23): 'a grant issued by Jose Antonio Carrillo Alcalde of the Los Angeles District bearing date the 8th day of April 1828.' Echeandia (the register's value) had no part in it; Hoffman's 'Jose Antonio Carrillo' agrees with the case file."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Original 1828 grant was jointly to (the elder) Jose Antonio Rocha AND Nemesio Dominguez (grant/petition transcript p11-12; deed recital transcript p15: 'granted in the year 1828 to the late Jose Antonio Rocha and to the said Nemecio Dominguez'). Dominguez sold his interest to petitioner Antonio Jose Rocha by deed Oct 21, 1852 (transcript p14-15, PDF p22-23). Claimants/appellants are the heirs: Antonio Jose Rocha, Jose Jorge Rocha, and Josefa de la Merced Rocha (granddaughter) (appeal caption transcript p21, PDF p32; DC decree transcript p135). Register's 'Jose Rocha, Jose J. Rocha, and Josefa de la Merced de Jordan' names the Rocha line but OMITS the co-original-grantee Nemesio Dominguez and mixes in the heirs."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 287 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd287.pdf; commission docket No. 487 (transcript title PDF p5; certification PDF p20/p153) matches Hoffman commission_no 487 / court_no 287."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED the claim March 6, 1855 (opinion of Comr. S.B. Farwell, transcript p17-18, PDF p23-24: 'the claim is invalid... Rejected'; decree signed Felch, Thompson, Farwell). But on appeal the US District Court REVERSED and CONFIRMED: decree of Dec 8, 1864 (transcript p135-136, PDF p146-147): 'the decree of dismissal be set aside, and the decision of the said board of land commissioners be, and the same is hereby reversed; and it is further adjudged and decreed, that the claim of the above named appellants, is a good and valid claim, and further, that the same is hereby confirmed for the said rancho La Brea... in no case to exceed one square league.' The US Supreme Court, December Term 1869, AFFIRMED: 'the decree of the said District Court, in this cause, be, and the same is hereby affirmed - 21st February 1870' (transcript p137, PDF p148; mandate under C.J. Salmon P. Chase, transcript p138). DC order filing the mandate as a final decree, Ogden Hoffman Dist. Judge, filed Sept 16, 1870 (transcript p139-140, PDF p150-151). Register's 'Confirmed' is correct; Hoffman's 1862 'rejected' reflects only the superseded 1855 Board decision."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Jose Antonio Carrillo, First Alcalde / President of the Ayuntamiento of Los Angeles (pueblo grant, April 8, 1828), NOT Gov. Echeandia. Per Board opinion transcript p17 and Carrillo's deposition transcript p9-10.",
+   "grantee": "Original 1828 grantees = (the late) Jose Antonio Rocha and Nemesio Dominguez jointly; Dominguez sold to Antonio Jose Rocha in 1852. Register omits Dominguez."
+  },
+  "notes": "La Brea (the Rocha rancho, west of Los Angeles, ~1 sq league). Full outcome chain: Board REJECTED Mar 6 1855 -> appeal filed Oct 1855 -> DC decree Dec 8 1864 reversed the Board and CONFIRMED to not exceed 1 sq league -> SCOTUS Dec Term 1869 affirmed (Feb 21 1870) -> DC filed mandate as final decree Sep 16 1870. Register's patent (Apr 15 1873, GLO 429, 4,439.07 ac) is consistent but no patent copy is in the file; Phase C checks GLO. pdf_pages_stated 140 from the microfilm leaf (PDF p2); PDF has 155 images (Board transcript pp1-21 re-typed at the very end, PDF p152-155)."
+ },
+ {
+  "id": "rancho-buri-buri",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265461/files/cubanc_lcf_nd101.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-14",
+   "15-30",
+   "481-494"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title (PDF p4): 'IN CASE NO. 97 / Jose de la Cruz Sanchez CLAIMANT / for the place named Buriburi.'; 'Be it Remembered' (PDF p6) 'for the Place named Buribari'. Register 'Buri Buri' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The definitive grant/concession was made in 1835. Grant decree (Spanish expediente, transcript p23, PDF p27): 'Monterey Setiembre 18 de 1835... se declara a Dn Jose Sanchez dueño en propiedad del terreno nombrado Buriburi... El Sor Dn Jose Castro primer vocal de la Exma Diputacion Territorial y Gefe Politico interino... asi lo mando decreto y firmo... Jose Castro'; Diputacion approval Sept 22 1835 (transcript p24, PDF p28); juridical possession Nov 5 1835 (petition p5, PDF p9). Soberanes deposition (transcript p8) describes 'an original grant from Don Castro to Don Sanchez, dated in Monterey 23rd September 1835.' Register 1835 correct; matches Hoffman 1835. (An earlier Arguello permission of Dec 11, 1827 was only a provisional/interim license, transcript p13.)"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The grant was made by Jose Castro, styled in the decree 'primer vocal de la Exma Diputacion Territorial y Gefe Politico interino del Territorio de la Alta California' (interim political chief / acting governor), Monterey Sept 18/22, 1835 (transcript p23-24, PDF p27-28: 'Jose Castro'). Diputacion approval signed 'Jose Castro Presdte, Juan B. Alvarado Depo Secreto' (transcript p24). Register's 'the interim government' correctly characterizes Castro's interim/ex-officio governorship (he governed as senior member of the Diputacion after Figueroa's death) but does not name him; Hoffman's 'Jose Castro' agrees with the grant."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The original grantee was Jose (Antonio) Sanchez, Alferez/Ensign of the cavalry company of the San Francisco presidio (Arguello permission, transcript p13: 'el Alferez de mi compania D. Jose Sanchez'; grant to 'Dn Jose Sanchez', transcript p23). The petition (transcript p4, PDF p9) is brought by 'Jose de la Cruz Sanchez, Francisco Sanchez, Manuel Sanchez... all heirs of Jose Sanchez, deceased.' The DC final decree (transcript p491, PDF p491) confirms the land 'to the said Jose de la Cruz Sanchez and others, legal representatives of Jose A. Sanchez.' So the register's 'Jose de la Cruz Sanchez' is the lead claimant/heir (a son), not the grantee; the grantee was his father Jose (Antonio) Sanchez. Right family; imprecise as to who the grantee was. Hoffman lists grantee 'Jose Sanchez.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Transcript stamps throughout read '101 ND'; PDF filename cubanc_lcf_nd101.pdf; commission docket No. 97 (transcript title PDF p4; Board transmittal PDF p493) matches Hoffman commission_no 97 / court_no 101."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED: 'San Francisco Jan. 31 1854. In the same case Commissioner R. A. Thompson delivered the Opinion of the Board confirming the claim' (chronological summary, transcript p3, PDF p8). On the US appeal the US District Court for the Northern District of California entered its final decree (transcript p489-491, PDF p489-491): at a stated term held May 1 1863 the court rejected the first official survey and ordered a new one; then 'Ordered Adjudged and Decreed that the survey and location shown by the plat approved by said Surveyor General September 13 1864... including the area of 14,639 19/100 acres... is now finally confirmed to the said Jose de la Cruz Sanchez and others, legal representatives of Jose A. Sanchez. Ogden Hoffman Dist Judge. Filed March 10 1866.' Register's 'Confirmed' correct; the DC survey acreage 14,639.19 matches the register's patent_acres exactly."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Name Jose Castro (first vocal of the Diputacion Territorial and Gefe Politico interino / acting governor), who made the grant decree Monterey Sept 18/22 1835 (transcript p23-24). Register's 'the interim government' is a correct but unnamed characterization.",
+   "grantee": "Original grantee = Jose (Antonio) Sanchez, Alferez/Ensign of the San Francisco presidio; Jose de la Cruz Sanchez (the register's value) is his son and the lead claimant/heir. Per DC decree transcript p491: 'legal representatives of Jose A. Sanchez.'"
+  },
+  "notes": "Large file (494 PDF images, ~357MB). Grant chain: Arguello temporary/interim license Dec 11 1827 -> Sanchez petition to Gov. Figueroa Nov 2 1833 -> mission-property references 1833-34 -> Castro's concession decree (as interim Gefe Politico) Monterey Sept 18 1835, Diputacion approval Sept 22 1835, titulo ~Sept 23 1835, juridical possession Nov 5 1835. Outcome: Board confirm 1854 -> DC final confirmation of 14,639.19-acre survey filed Mar 10 1866. Register's patent (Oct 17 1872, GLO 150, 14,639.19 ac) consistent but no patent copy in pages read; Phase C checks GLO. Microfilm note: transcript pp481-488 are lacking (noted 8/18/83), but the final DC confirmation decree (pp489-491) is present. No single leaf states a total page count."
+ }
+]

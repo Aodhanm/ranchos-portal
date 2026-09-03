@@ -1,0 +1,247 @@
+[
+ {
+  "id": "mission-purisima",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269008/files/cubanc_lcf_sd389.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "25-34"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 389 SOUTHERN DISTRICT / MISSION OF LA PURISIMA GRANT / JOSE RAMON MALO CLAIMANT'; transcript title (PDF p5): 'Mission of La Purisima'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p18 (PDF p25, Spanish): 'Dado en la Ciudad de los Angeles... a 6 de Dbre. de 1845'; sworn translation transcript p21 (PDF p28): 'on the Sixth day of December A.D. 1845'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree heading, transcript p18 (PDF p25): 'Pio Pico, vocal decano de la asamblea Departamental y Gobernador provisional de las Californias'; translation transcript p20 (PDF p27): 'Pio Pico Senior Member of the Departmental Assembly and provisional Governor of the Californias'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree translation, transcript p20 (PDF p27): 'I declare by the present letters that the above mentioned Mr. John Temple is lawfully Owner of the... Edifice of the Mission of La Purisima, of the two Vineyards, lands and Chattels, that were sold to him' (sale at public auction 4 Dec 1845, title issued 6 Dec 1845). Register 'Juan Temple' correct; Hoffman's 'J. E. Malo' is the CLAIMANT (petition of Jose Ramon Malo, transcript p5, PDF p10: property 'conveyed to him by the said Juan Temple on the 27th of September A.D. 1850'), not the original grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 389 SOUTHERN DISTRICT'; filename cubanc_lcf_sd389.pdf; commission docket No. 476 (transcript title PDF p5) matches Hoffman commission_no 476."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register outcome blank. For the record: transcript p4 (PDF p8), San Francisco Dec. 31, 1855: 'Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim.' No District Court or patent papers among pages read (Land Commission decision alone is not final)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman flag settled AGAINST Hoffman: case file's own decree names Juan (John) Temple as grantee/purchaser; Malo is claimant by 1850 conveyance from Temple. Hoffman's table entry 'J. E. Malo' conflates claimant with grantee. 56 pp stated (PDF p2: 'LAND CASE 389 SD pgs. 56'). Sale price $1,110 at public auction 4 Dec 1845 under Departmental Assembly decree of 4 Jul 1845 + reglamento 28 Oct 1845."
+ },
+ {
+  "id": "pueblo-pueblo-sonoma",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264267/files/cubanc_lcf_nd423.pdf",
+  "pdf_pages_stated": 297,
+  "pages_read": [
+   "1-12",
+   "21-30"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 423 NORTHERN DISTRICT / PUEBLO LANDS GRANT / THE MAYOR AND COMMON COUNCIL OF THE CITY OF SONOMA... CLAIMANT'; transcript title (PDF p6): claim 'for the place named Pueblo Lands', claimant Mayor & Common Council of the City of Sonoma."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Founding order, Exhibit A.P.L. (transcript p17, PDF p23, Spanish): 'Monterey Junio 24 de 1835, firmado Jose Figueroa'; translation (transcript p19, PDF p25): 'Monterey June 24th 1835, Jose Figueroa'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Exhibit A.P.L. heading (transcript p15, PDF p22): 'Gobierno politico de la Alta Calfa / Comandancia Gral de la Alta Calif' — order signed 'Jose Figueroa' 24 Jun 1835, addressed to 'Comandte Militar Director de Colonizacion de la frontera del Norte Don M. G. Vallejo'. Board opinion (transcript p20, PDF p26): town 'regularly constituted and Established by Genl. M.G. Vallejo under an Order from Gov. Figueroa in the year 1835... acts of the said Vallejo... subsequently duly approved and Confirmed by the Governor.' Register 'Figueroa' correct; Hoffman's 'M. G. Vallejo' was the executing commissioner/founder, not the granting governor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition (transcript p4, PDF p9): claim 'in fee by virtue of a grant made to the Pueblo of Sonoma under the authority of the Mexican Government by Don Mariano G Vallejo and approved by the Governor of California June 24th 1835.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 423 NORTHERN DISTRICT'; filename cubanc_lcf_nd423.pdf; commission docket No. 237 (transcript title PDF p6) matches Hoffman commission_no 237."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register outcome blank. For the record: Board opinion by Comr. Thompson (transcript p20-22, PDF p26-28) and Decree (transcript p22-23, PDF p28-29): 'it is adjudged by the Commission that the claim of the said petitioners is valid and it is therefore decreed that the same be Confirmed', signed Alpheus Felch, R. Aug. Thompson, filed Jany 22 1856. Case file runs 297 pp (District Court phase not read)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman flag settled AGAINST Hoffman: the granting authority was Gov. Jose Figueroa (order of 24 Jun 1835); Vallejo executed it as Military Commander & Director of Colonization (his own deposition, transcript p6, PDF p12: 'I laid out the Town of Sonoma, under an Order from the Governor Figueroa dated June 24th 1835 and directed to me'). Front flyleaf (PDF p2): '1 to 297 Pages - 2 maps Nos 907-908'. PDF is 310 leaves; had to split with pypdf (210MB exceeds Read tool 100MB cap)."
+ },
+ {
+  "id": "rancho-agua-caliente",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265493/files/cubanc_lcf_nd133.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-24"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 133 NORTHERN DISTRICT / AGUA CALIENTE GRANT / FULGENCIO HIGUERA CLAIMANT'; expediente cover (transcript p8, PDF p13): 'Espediente promovido por el C. Fulgencio Higuera en pretension del parage llamado el Agua Caliente. 1839.'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado concession decree (transcript p11, PDF p16): 'Monterrey Abl 4 de 1839... se declara al ciudadano Fulgencio Higuera dueño en propiedad del terreno mencionado'; Junta dictamen (transcript p13, PDF p18): 'Se aprueba la concesion hecha pr el Gobierno Departamental con fha. 4 de abril de 1839 en la persona del ciudo Fulgencio Higuera del parage llamado Agua Caliente' (approved in session 22 May 1840). Register 1839 matches the grant to the named grantee Higuera. Hoffman's 1836 is the ANTECEDENT Gutierrez grant to Antonio Sunol (decree transcript p13, PDF p18: 'Dado en Monterrey a trece de Octubre de mil ochocientos treinta y seis. Nicolas Gutierrez'), which Sunol ceded to Higuera 7 Jan 1838 (transcript p11-12, PDF p17)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Both governors are in the chain exactly as the register lists them: Nicolas Gutierrez ('Comandte Gral. Inspector y Gefe Politico Interino de la Alta California', 1836 title to Sunol, transcript p12, PDF p17) and Juan B. Alvarado ('Yo Juan B. Alvarado Gobernador Into del Departamento de las Californias lo decrete mande y firme', 4 Apr 1839 decree to Higuera, transcript p11, PDF p16; Manuel Jimeno Srio)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Alvarado decree 4 Apr 1839 (transcript p11, PDF p16): 'se declara al ciudadano Fulgencio Higuera dueño en propiedad del terreno mencionado'. Register 'F. Higuera' correct."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 133 NORTHERN DISTRICT'; filename cubanc_lcf_nd133.pdf; commission docket No. 78 (transcript title PDF p5) matches Hoffman commission_no 78."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Transcript p3 (PDF p8), San Francisco Feb. 14 1854: 'Commissioner R. Aug. Thompson delivered the Opinion of the Board Confirming the Claim.' Register 'Confirmed' verified at Commission level; District Court phase not in pages read (patent of 1858 implies final confirmation, Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman year flag resolved: NOT a register error. Two grants exist in the file: Gutierrez to Sunol 13 Oct 1836 (2 sitios de ganado mayor), Sunol cession to Higuera 7 Jan 1838, and Alvarado grant direct to Higuera 4 Apr 1839 approved by Junta 22 May 1840. Register keys year to the Higuera grant (1839) while listing both governors; Hoffman keys to 1836 but describes both dates in his governor column. No page-count leaf seen (flyleaf PDF p2 says only 'Land Case 133 ND')."
+ },
+ {
+  "id": "rancho-agua-caliente-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265513/files/cubanc_lcf_nd153.pdf",
+  "pdf_pages_stated": 159,
+  "pages_read": [
+   "1-14",
+   "150-169 (transcript pp.141-159)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 153 NORTHERN DISTRICT / AGUA CALIENTE GRANT / MARIANO G. VALLEJO CLAIMANT'; transcript title (PDF p5): place named 'Agua Caliente'. Sonoma County rancho, distinct from ND 133 Agua Caliente (Santa Clara)."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "District Court decree (transcript p150, PDF p159): '...being the same land which was granted to Lazaro Pena by Governor Alvarado; reference being had for a more particular description, to the Petition of Lazaro Pena, dated 14th October 1839, the decree of concession by Governor Alvarado, dated 13th July 1840, the Map in the Expediente, and the Approval of the Departmental Assembly.' Alvarado deposition (transcript p142, PDF p151, sworn 28 May 1859): 'I did make a grant to the said Pena for the lands known by the name of Agua Caliente, I think in the year 1840.' Register 1836 is wrong; Hoffman's 1840 is right."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "DC decree (transcript p150): 'granted to Lazaro Pena by Governor Alvarado'; concession decree dated 13 Jul 1840."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "DC decree (transcript p150): 'Lazaro Pena, the original grantee'; Jimeno index extract (transcript p144, PDF p153): 'Agua Caliente... al Ciudadano Lazaro Pina... [expediente] 229'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 153 NORTHERN DISTRICT'; filename cubanc_lcf_nd153.pdf; DC docket 'No 153, L.C. 741' (transcript p151); commission docket 741 (transcript title PDF p5) matches Hoffman commission_no 741."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Full chain in file: Board REJECTED 1 Aug 1854 (opinion+decree, transcript p6, PDF p12: 'his application for a Confirmation thereof be denied'); District Court reversed and CONFIRMED, Stated Term 5 Jul 1859 (transcript p149: 'the decision of the said Board be and the same is hereby vacated, annulled and reversed... the claim of the Appellant is a good and valid claim, and that the same be and is hereby confirmed', Ogden Hoffman); US Supreme Court AFFIRMED, Dec. term 1861 (mandate, transcript p153-156: 'the original grant to Lazaro Pina is a good and valid grant... hereby affirmed', filed 15 Sep 1862). Register 'Confirmed' correct at final level."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840 - decree of concession by Gov. Alvarado dated 13 July 1840 (DC decree, transcript p150; also Supreme Court mandate transcript p154 quoting same). Register's 1836 likely contaminated from the OTHER Agua Caliente (ND 133), whose antecedent Gutierrez grant is 13 Oct 1836."
+  },
+  "notes": "Hoffman year flag settled FOR Hoffman (1840). Note Board rejection was only for want of evidence (grant lost; grantee Pena killed during the war, per DC opinion transcript p146); expediente No. 229 later produced from archives with Departmental Assembly certificate of approval dated 8 Oct 1845. Flyleaf (PDF p2): 'LAND CASE 153 ND 159 pages.' 169 PDF leaves; split with pypdf (113MB > 100MB Read cap)."
+ },
+ {
+  "id": "rancho-agua-puerca-trancas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256582/files/cubanc_lcf_nd250.pdf",
+  "pdf_pages_stated": 68,
+  "pages_read": [
+   "1-10",
+   "13-28",
+   "53-72 (transcript pp.43-62)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 250 NORTHERN DISTRICT / AGUA PUERCA AND FRANCAS [sic] GRANT / RAMON RODRIGUEZ ET AL. CLAIMANT'; grant translation (transcript p20, PDF p26): 'tract of land known by the name of Agua puerca y las Trancas'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant translation (transcript p21, PDF p27): 'Given in Monterey on the 2nd of November 1843. Manuel Micheltorena. Manuel Jimeno Secy.' Spanish original (transcript p19, PDF p25): 'Dado en Monterrey a dos de Noviembre de mil ochocientos cuarenta y tres.' Board opinion (transcript p22): 'grant... made to the petitioners by Governor Micheltorena under date of November 2 1843'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading (transcript p20, PDF p26): 'Manuel Micheltorena Brigadier General of the Mexican Army, Adjutant General of the staff of the same, Governor, Commander General and Inspector of the Department of the Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant (transcript p20, PDF p26): 'citizens Roman Rodriguez & Francisco Alviso have solicited... I have thought proper to grant them the above mentioned tract of land'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 250 NORTHERN DISTRICT'; filename cubanc_lcf_nd250.pdf; DC docket No. 250 / transcript No. 209 (DC decree transcript p45); commission docket 209 matches Hoffman commission_no 209."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Register says 'Patented'. File shows: Board REJECTED 30 Jan 1855 (opinion transcript p22-23: 'the claim of the petitioners is found wanting in the necessary proofs... Rejected'); District Court REVERSED and CONFIRMED, Stated Term 18 Feb 1857 (transcript p45-46: Board decision 'reversed, annulled and set aside... the title of the said appellants Roman Rodriguez & Francisco Alviso... is a good and valid title', one square league, Ogden Hoffman); US Supreme Court AFFIRMED, Dec. Term 1859, No. 126 (mandate transcript p56-58: 'the decree of the said District Court in this cause be and the same is hereby affirmed', filed in DC 2 Mar 1864). Confirmation fully verified; patent itself not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman outcome flag settled AGAINST Hoffman: his 1862 'rejected' reflects only the Board's 1855 decision and is wrong even for 1862 - the DC had confirmed in Feb 1857 and SCOTUS affirmed in Feb 1860 (Dec. Term 1859). Register's 'Patented' is consistent with the final confirmation + the known 1867 patent but the patent document is not in this file. Flyleaf (PDF p2): 'LAND CASE 250 ND 68 pgs.'"
+ },
+ {
+  "id": "rancho-alamitos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268917/files/cubanc_lcf_sd290.pdf",
+  "pdf_pages_stated": 211,
+  "pages_read": [
+   "1-14 (transcript title + pp.1-8)",
+   "15-34 (transcript pp.9-28)",
+   "148-164 (transcript pp.135-152, DC survey phase)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 290 SOUTHERN DISTRICT / ALAMITOS GRANT / ABEL STEARNS CLAIMANT'; petition (transcript p5): place 'called the Alamitos'; DC caption (transcript p136,142): 'Los Alamitos'."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "Register 1784 keys to the SPANISH ROOT concession. Petition (transcript p5): Nieto occupied 'by virtue of a concession to him by Pedro Fages then Governor of the Californias under the crown of Spain about the year 1784'; Carrillo depo (transcript p12): 'a title paper by which the land had been granted by Governor Pedro Fages by order of the Viceroy of Mexico.' File gives the Spanish date only as 'about the year 1784' (no dated Spanish decree among pages read). Hoffman's 1834 keys instead to the Mexican partition/title: petition (transcript p6) - Gov. Figueroa's decree of 27 July 1833 dividing the Nieto tract and giving Alamitos to Juan Jose Nieto, formal title executed 1834. Register (era 'spanish') and Hoffman simply pick different links of the same chain; 1784 is corroborated but approximate."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Register 'Pedro Fages' = the root grantor, corroborated by petition (transcript p5) and Carrillo depo (transcript p12): title 'granted by Governor Pedro Fages by order of the Viceroy of Mexico.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Register 'Manuel Nieto' = original grantee/occupant. Petition (transcript p5): tract 'originally occupied by Manuel Nieto... by virtue of a concession to him by Pedro Fages'; depositions of Carrillo (p12), Talamantes (p13-14), Morillo (p15) all identify Manuel Nieto as first occupant under the Spanish concession."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 290 SOUTHERN DISTRICT'; filename cubanc_lcf_sd290.pdf; DC docket 'No 290 / Transcript 404' (transcript p136,142,150); commission docket No. 404 (transcript title, transcript p1) matches Hoffman commission_no 404 and court_no 290."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Register 'Confirmed' verified. Index (transcript p3-4): 'San Francisco February 13 1855... Commissioner Alpheus Felch delivered the Opinion of the Board Confirming the claim (Vide page 143)' with order at p148. File then shows District Court survey-exception litigation 1860-1863 (transcript pp.135-152) - i.e. post-confirmation survey dispute, not a rejection. Patent (1874) not in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman year flag (1784 vs 1834) is a root-vs-regrant choice, not a clean error: the Los Alamitos title chain runs Spanish concession (Fages to Manuel Nieto, ~1784) -> Figueroa partition 27 Jul 1833 giving Alamitos to Juan Jose Nieto + formal title 1834 -> Juan Jose Nieto sells to Gov. Jose Figueroa 30 Jun 1834 -> Figueroa's executor (Francisco Figueroa) sells to Abel Stearns 12 Jul 1842 (Carrillo depo transcript p11; petition p6-7). Register represents the Spanish root; Hoffman the Mexican regrant. Governor/grantee both corroborated; year graded PART because the file states the Spanish date only as 'about 1784' and the operative subdivided-rancho title is the 1833/34 Figueroa proceeding. Expediente Copy A (the Fages title, ~16 leaves certified by Alcalde Carrillo/Dominguez) referenced but sits in transcript pp.29-134, not read (30-page cap). Flyleaf (PDF p2): 'LAND CASE 290 SD 211 pgs.'"
+ }
+]

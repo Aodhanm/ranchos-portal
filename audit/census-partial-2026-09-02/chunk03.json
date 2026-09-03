@@ -1,0 +1,261 @@
+[
+ {
+  "id": "rancho-canada-corral",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266112/files/cubanc_lcf_sd152.pdf",
+  "pdf_pages_stated": 64,
+  "pages_read": [
+   "1-12",
+   "13-22",
+   "64-70"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 152 SOUTHERN DISTRICT / CANADA DEL CORRAL GRANT / JOSE DOLORES ORTEGA CLAIMANT'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p.13 (PDF p19): 'Dado en Monterey a cinco de Noviembre de mil ochocientos cuarenta y uno' (5 Nov 1841); concession decree also dated 'Monterey 5 de Noviembre de 1841' transcript p.11 (PDF p17)"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Decree transcript p.11 (PDF p17): 'El Sor Dn Manuel Jimeno Casarin, 1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo asi lo mando decreto y firmo... Jimeno'. Titulo header transcript p.12 (PDF p18) repeats 'Manuel Jimeno Casarin... en ejercicio del Gobierno'. Register 'Alvarado' is wrong; Hoffman ('Manuel Jimeno') agrees with the case file."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree transcript p.11 (PDF p17): 'declaro al Ciudo Jose Dolores Ortega Dueno en propiedad del parage conocido con el nombre de Canada del Corral'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 152 SOUTHERN DISTRICT'; filename cubanc_lcf_sd152.pdf; commission docket No. 519 on transcript title (PDF p5)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming the claim, Feb 21 1854 (transcript p.3, PDF p8); US District Court, December Term 1855 (transcript p.57, PDF p70): 'ordered, adjudged, and decreed that the decision of the said commissioners be affirmed'. Register 'Confirmed' verified. Patent not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (Casarin), 1st vocal of the departmental junta in exercise of the government, per grant decree transcript p.11: 'Manuel Jimeno Casarin 1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo'"
+  },
+  "notes": "Grant made while Jimeno was acting governor (Alvarado era politically, but the decree itself is Jimeno's). Expediente cover says 'Ano de 1840' (petition year, PDF p13); the grant itself is 5 Nov 1841, so register year 1841 stands."
+ },
+ {
+  "id": "rancho-canada-guadalupe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256571/files/cubanc_lcf_nd237.pdf",
+  "pdf_pages_stated": 328,
+  "pages_read": [
+   "1-14",
+   "15-34",
+   "331-342"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Right rancho, truncated form. PDF p1 red label: 'GUADALUPE VISITACION y RODEO VIEJO GRANT'; decree transcript p.20 (PDF p24): 'Canada de Guadalupe, la Visitacion y Rodeo Viejo'. Register gives only 'Canada De Guadalupe'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree transcript p.20 (PDF p24): 'Monterrey. Julio 31 de 1841'; translation transcript p.24 (PDF p28): 'Monterey July 31st 1841... I do declare Jacob P. Leese owner in full property'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree transcript p.20 (PDF p24): 'El Senor D. Juan B. Alvarado Gobor Constitucional del Departamento de las Californias asi lo mando, decreto y firmo'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant decree transcript p.20 (PDF p24): 'declaro a Dn Jacobo P. Leese dueno en propiedad del terreno'; translation p.24: 'I do declare Jacob P. Leese owner in full property'. Register's 'Robert E. Eaton' is the CLAIMANT, not the grantee, and the transcript title (PDF p5) and red label give him as Robert S. Eaton. Hoffman (Jacob P. Leese) agrees with the case file."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 237 NORTHERN DISTRICT'; filename cubanc_lcf_nd237.pdf; commission docket No. 142 (transcript title, PDF p5)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming the claim, 17 Dec 1854, Commissioner Alpheus Felch (transcript p.3, PDF p8); US District Court ND Cal final decree 17 Mar 1864 (transcript pp.317-319, PDF pp.331-333): survey of '942 93/100 acres... land now finally confirmed to the said William Pierce', signed Ogden Hoffman Dist Judge. Patent itself not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jacob P. Leese ('Jacobo Luis de Leese') per grant decree transcript p.20/translation p.24; claimant of this 700-acre parcel was Robert S. Eaton (not 'Robert E.'), via Leese-to-Ridley deed of exchange Dec 1849 and Ridley-to-Eaton deed 29 Oct 1851 (transcript pp.10-17)",
+   "name": "Canada de Guadalupe la Visitacion y Rodeo Viejo (this case covers a 700-acre part; claim as finally confirmed = 942.93 acres to William Pierce)"
+  },
+  "notes": "Final decree area 942 93/100 acres matches register patent_acres 942.93 and patent_to William Pierce, so the register's patent line is consistent with the case file's confirmation-side record. Spanish titulo copy reads 'veinte y uno de Julio' (21 July) where the decree reads 31 July, and the English translation misrenders the year as 'forty six' (transcript p.26) - copyist/translator slips; grant year is 1841."
+ },
+ {
+  "id": "rancho-canada-herrera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264449/files/cubanc_lcf_nd065.pdf",
+  "pdf_pages_stated": 61,
+  "pages_read": [
+   "1-12",
+   "13-22",
+   "63-71"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 65 NORTHERN DISTRICT / CANADA de HERRERA GRANT / DOMINGO SAENZ CLAIMANT'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p.10 (PDF p15): 'Monterrey Agto 10 de 1839... se Declara al Ciudno Domingo Saens dueno en propiedad del parage nombrado Canada de Herrera'; translation transcript p.16 (PDF p21): 'Monterey August the 10th 1839'"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Decree transcript p.10 (PDF p15): 'El Senor Dn Manuel Jimeno Casarin primer vocal propietario de la Excma Junta del Departto de las Californias, lo mando, Decreto y firmo de que Doy fee. Manuel Jimeno'; translation p.16: 'Don Manuel Jimeno Casarin 1st Member of the Most Excellent Assembly... ordered, decreed & signed it'. Alvarado only ratified the junta approval later (13 June 1840, transcript p.11). Register 'Alvarado' is wrong; Hoffman ('Manuel Jimeuo' = Jimeno, OCR-garbled) agrees with the case file."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree transcript p.10 (PDF p15): 'se Declara al Ciudno Domingo Saens dueno en propiedad'; District Court papers use 'Domingo Sais, deceased' (transcript pp.53-60). Register 'Domingo Saenz (Sais)' covers both spellings."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 65 NORTHERN DISTRICT'; filename cubanc_lcf_nd065.pdf; commission docket No. 84 (transcript title PDF p5; DC caption 'D.C. 65 : L.C. 84' transcript p.56)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming the claim, 21 Oct 1853, Commissioner Alpheus Felch (transcript p.3, PDF p8); US District Court decree 25 May 1858, Ogden Hoffman (transcript pp.54-55, PDF pp.64-65): Board decision 'in all things affirmed... the claim of the appellees is a good and valid claim, and the same is hereby confirmed'; same-day order gives claimants leave to proceed 'as under Final Decree' (transcript p.56). Patent not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (Casarin), 1st vocal in exercise of the government, per grant decree transcript p.10; Alvarado's role was limited to ratifying the departmental assembly's approval in 1840"
+  },
+  "notes": "District Court decree runs to 'the legal representatives and heirs of Domingo Sais, deceased', matching the register's patent_to phrasing. Confirmation area: one and a half square leagues per DC decree (transcript p.55)."
+ },
+ {
+  "id": "rancho-canada-jonive",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264435/files/cubanc_lcf_nd048.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "57-65"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 48 NORTHERN DISTRICT / CANADA de JONIVE GRANT / JASPER O'FARRELL CLAIMANT'; expediente 'la Canada de Jonive' (translation transcript p.16/PDF p19... translation marked B, PDF p24)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo, transcript p.12 (PDF p18): 'Dado en la Ciudad de los Angeles... a cinco de Febrero de mil ochocientos cuarenta y seis' (5 Feb 1846); governor's decree transcript p.12: 'Angeles Febrero 5 de 1846'; District Court opinion transcript p.51 (PDF p60): 'the title or grant issued on the 5th February 1846'. Register 1846 is RIGHT; Hoffman's 1845 is wrong (the expediente cover is labeled 1845 and its stamped paper reads 'para los anos de 1844 y 1845', the likely source of Hoffman's slip)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo transcript p.11 (PDF p17): 'Pio Pico Vocal decano de la Asamblea Departamental y Gobernador provincial de las Californias... he venido por decreto de este dia en concederle el espresado terreno'; decree signed 'Pio Pico... Jose Ma Covarrubias Srio' (transcript p.13, PDF p19)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant made to Santiago (James) Black: decree transcript p.13 (PDF p19): 'declaro a Dn Santiago Black dueno del terreno conocido bajo el Nombre de Jonive'; DC opinion transcript p.51: 'The original grant to James Black the grantor of appellee'. Register's 'Jasper O'Farrell' is the CLAIMANT, who bought from Black in May 1850 (O'Farrell deposition, transcript p.7, PDF p12). Hoffman (James Black; the '13' in the input is table noise) agrees with the case file."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 48 NORTHERN DISTRICT'; filename cubanc_lcf_nd048.pdf; Board docket/transcript No. 86 (title PDF p5; DC caption 'Case No. 48 Transcript No. 86' transcript p.49)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of final confirmation read 22 Apr 1853 (transcript p.3, PDF p8; 'Decree of Confirmation for 2 1/2 square leagues' per DC index, transcript p.55); DC opinion (transcript pp.51-52): 'a decree of confirmation must therefor be entered'; order 22 Dec 1856 (transcript p.49, PDF p58), Ogden Hoffman: claimant has leave to proceed 'as on Final Decree' (no US appeal). Patent not in pages read (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "James Black (Santiago Black) per grant decree transcript p.13 and titulo transcript pp.11-12; Jasper O'Farrell is the claimant/purchaser (deed Black to O'Farrell, May 1850)"
+  },
+  "notes": "Both hoffman_flags settled: year = 1846 (register right, Hoffman wrong - rare case where the register beats Hoffman); grantee = James Black (Hoffman right, register wrong). Original grant burned; case proved by Sonoma county record copy + expediente from Surveyor General's archives (DC opinion transcript p.51)."
+ },
+ {
+  "id": "rancho-canada-osos-pecho-islay",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256660/files/cubanc_lcf_sd028.pdf",
+  "pdf_pages_stated": 164,
+  "pages_read": [
+   "1-14",
+   "15-34",
+   "167-178"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title (PDF p5): 'Canada de los osos Pecho y Yslai'; Pico grant transcript p.23 (PDF p29): 'Canada de los Osos, Pecho e Islay'; red label PDF p1 abbreviates to 'CANADA DE LOS OS OS GRANT'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The operative grant covering the whole confirmed claim is Pico's regrant: 'Dado en la Ciudad de los Angeles a veinticuatro de Setiembre de mil ocho cientos cuarenta y cinco' (24 Sept 1845, exhibit M, transcript p.24, PDF p30), assembly-approved 1 Oct 1845 (same page). Register 1845 matches it. Hoffman's 1842 keys instead to the original Alvarado-Linares grant of the Osos portion (1 Dec 1842, exhibit A, transcript p.11, PDF p16) - see note."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Exhibit M, transcript p.23 (PDF p29): 'Pio Pico, primer vocal de la Exma Asamblea Departamental y Gobernador interino de las Californias... en decreto de este dia he venido en concederles los terrenos mencionados'. Hoffman's 'Juan B. Alvarado' belongs to the 1842 Osos-only grant."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The 24 Sept 1845 Pico grant runs to 'los Senores Dn Diego Scott y Dn Juan Wilson' (James Scott and John Wilson), transcript p.23 (PDF p29); assembly approval likewise 'en favor de los Senores Dn Diego Scott y Dn Juan Wilson' of 7.5 sitios (transcript p.24). Victor Linares was grantee only of the 1842 Alvarado grant of Canada de los Osos (4 sitios, transcript pp.10-11), which he sold to Wilson 30 Sept 1843/29 May 1844 (exhibit E, transcript pp.21-22). Register pairs the 1845/Pico grant with the 1842 grantee - a conflation."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 28 SOUTHERN DISTRICT'; filename cubanc_lcf_sd028.pdf; Board docket No. 218 (transcript title PDF p5; DC caption 'No. 28 / Trans. No. 218' transcript p.161)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion + decree of final confirmation read 22 Apr 1853 (transcript p.3, PDF p8); Attorney General notice 29 Nov 1856 that the US appeal will not be prosecuted (transcript p.159); US District Court SD Cal, 8 Jan 1857, Judge Isaac S.K. Ogier: 'appeal be dismissed, and said appellee have leave to proceed under the Decree of the Land Commissioners... as a final decree' (transcript p.161); Surveyor General certificate May 1861: survey/plat of the rancho 'confirmed to Juan Wilson' approved 20 Aug 1860 (transcript p.163). Patent not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "James (Diego) Scott and John (Juan) Wilson per the operative 24 Sept 1845 Pico grant, transcript p.23. If the register instead means the original grant, the whole row should read 1842 / Alvarado / Victor Linares (Osos portion only, transcript pp.10-11) - as Hoffman has it. The current 1845/Pico/Linares mix matches no document."
+  },
+  "notes": "Compound claim built on three grants: Alvarado to Victor Linares, Canada de los Osos, 1 Dec 1842 (4 sitios); Micheltorena to Francisco Badillo/Vadillo, Pecho y Islay, 27 Apr 1843 (2 sitios, transcript pp.16-17); Pico to Scott & Wilson, both tracts + extension, 24 Sept 1845 (7.5 sitios, approx. the 32,430.76 patent acres). Both hoffman_flags are two sides of the same conflation, not a simple right/wrong."
+ },
+ {
+  "id": "rancho-canada-pala",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264209/files/cubanc_lcf_nd373.pdf",
+  "pdf_pages_stated": 43,
+  "pages_read": [
+   "1-12",
+   "13-28",
+   "33-48"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 373 NORTHERN DISTRICT / CANADA de PALA GRANT / JOSE de JESUS BERNAL, et al. CLAIMANT'; Board decree transcript p.29 (PDF img in 33-48 batch): confirmation 'is situate in the county of Santa Clara and is called Canada de Pala'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion transcript p.28: 'three expedientes directed to the Prefect of said district dated the 25th day of April 1839, and also a grant issued by Jose Castro in pursuance thereof on the 10th day of August [1839]'. Petition transcript p.5 (PDF p11) says grant 'on or about the 9th day of August A.D. 1839'. Register 1839 = OK; Hoffman 1839 agrees."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "This is a PREFECT grant, not a gubernatorial concession. Grant instrument transcript p.27: 'The Same Dn Jose Castro Prefect of the 1st District that orders decrees and signs which I attest. Jose Castro / Jose Ma Covarrubias Secy.' Board opinion transcript p.28: 'a grant issued by Jose Castro... the said Castro was the prefect of the district in which the land was situated at the time of the issue of the grant, and that his signature attached to said grant is genuine... the land was comprised of a part of the common lands of the Pueblo of San Jose'. Alvarado's own deposition transcript p.21 (PDF p25): 'The Prefectures were established during my administration as Governor, I issued an order conferring authority upon the Prefect of the first District to grant lands... Jose Castro was Prefect of the first District at the time that this document bears date, and was clothed with such authority'. Register 'Alvarado' names the delegating governor, not the granting officer; Hoffman ('Jose Castro') matches the grantor of record."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition transcript p.5 (PDF p11): 'The petition of [Jose] de Jesus Bernal, Jose Antonio Bernal and Juan Bernal of Castro'; Board decree transcript p.29 confirms to 'said petitioners'; red label 'JOSE de JESUS BERNAL, et al.' Register 'J. de Jesus Bernal' names the lead of the three Bernal-brother grantees; register patent_to lists all three, consistent."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label PDF p1 'CASE No. 373 NORTHERN DISTRICT'; filename cubanc_lcf_nd373.pdf; page-count leaf PDF p2 'LAND CASE 373 ND 43 pgs.'; Board docket No. 617 (transcript title PDF p5; certificate transcript p.31 'Case No. 617'). DC caption 'D.C. 373 : L.C. 617' (transcript p.34)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Opinion (Farwell) 'Confirmed' and Decree of confirmation, filed 26 June 1855 (transcript pp.28-29, signed R. Augustus Thompson / S.B. Farwell, Commissioners). US appeal initially to be prosecuted (AG notice 11 Feb 1856, transcript p.32) then WITHDRAWN: AG office 17 Feb 1857 instructed dismissal (transcript p.36); Stipulation 7 May 1857 (transcript p.37); District Court order 7 May 1857, Ogden Hoffman: 'Ordered adjudged & Decreed that the appeal taken from the decision of the U.S. Land Commission be dismissed, and that claimants have leave to proceed under the decree of the said Land Commission heretofore rendered in their favor, as under Final Decree' (transcript p.34). Register 'Confirmed' verified as final. Patent (register GLO 181, 1863) not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Jose Castro, Prefect of the First District (San Jose), who issued and signed the grant 10 Aug 1839 under authority delegated to prefects by Governor Alvarado's administration (Ley Reglamentaria of 1837). Per grant instrument transcript p.27 and Board opinion transcript p.28. The register's 'Alvarado' identifies the delegating governor, not the actual grantor; Hoffman's 'Jose Castro' is the granting officer of record."
+  },
+  "notes": "Prefect grant of common (ejido) lands of the Pueblo of San Jose, the whole legal question being whether a prefect could grant pueblo commons; the Board upheld it citing its own prior Larios v. US No. 297 opinion. Grant dated 10 Aug 1839 (Board opinion) / 9 Aug 1839 (petition); expedientes 25 Apr 1839. Grantees = the three Bernal brothers (Jose de Jesus, Jose Antonio, Juan Bernal y Castro). About two square leagues in Santa Clara County east of San Jose. Confirmed finally 1857; register's 1863 patent (GLO 181) is downstream and not in this file."
+ }
+]

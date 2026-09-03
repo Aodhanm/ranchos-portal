@@ -1,0 +1,18 @@
+[
+ {
+  "id": "rancho-pescadero-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265497/files/cubanc_lcf_nd137.pdf",
+  "pdf_pages_stated": 106,
+  "pages_read": [1, 2, "1-12", "13-30", "31-41"],
+  "verdicts": {
+   "name":      {"grade": "OK",  "evidence": "p1 red label 'EL PESCADERO GRANT'; grant decree translation p31 'the tract of land known by name of Pascadero'"},
+   "year":      {"grade": "OK",  "evidence": "grant decree translation p33: 'Given in Monterey on the Twenty Eighth day of November One thousand Eight hundred and forty three'; Commission opinion p41 'bearing date November 28, 1843'"},
+   "governor":  {"grade": "OK",  "evidence": "grant decree translation p31/p33: 'Manuel Micheltorena General of Brigade... Governor... in the name of the Mexican nation I have just granted to them'; sgd 'Manl Michelt[orena]'"},
+   "grantee":   {"grade": "ERR", "evidence": "grant decree translation p31: 'Whereas the Citizens Balentin Higuera and Rafael Feliz have petitioned... I have just granted to them'; Commission opinion p41 'a grant made by Governor Micheltorena to Balentin Higuera and Rafael Feliz'. Register lists Grimes/McKee, who are downstream CLAIMANTS (McKee by deed 1849; Grimes via Feliz->Cecena->Grimes deeds 1848), not the original grantees."},
+   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 137 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd137.pdf; transcript no. 293 (Hoffman commission_no 293 / court_no 137 both match)"},
+   "outcome":   {"grade": "OK",  "evidence": "Final disposition = confirmed. Land Commission first REJECTED (p10, Feb 14 1854, Felch opinion begins p41); claimants filed notice of review in US District Court (p40, Apr 11 1854). Ultimate confirmation corroborated by Hoffman 1862 (confirmed, patented) and register patent GLO 107 Jan 18 1858. Confirmation decree itself sits beyond pages read."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {"grantee": "Valentin (Balentin) Higuera and Rafael Feliz, per grant decree translation p31-33 and Commission opinion p41. Register value (Grimes/McKee) names the US-era claimants/assignees, not the Mexican grantees. Hoffman 1862 ('Valentin Higuera and Rafael Feliz') agrees with the case file against the register."},
+  "notes": "Grant title dated Nov 28 1843, Micheltorena, recorded by sec. Manuel Jimeno; expediente petition San Jose Aug 1843 with Micheltorena marginal decree Monterey Feb 12 1844. Chain of title (p26/p34-38): Feliz->F. Cecena->Elizabeth C. Grimes (1848); Higuera->W.H. McKee (deed Mar 1849). Full grant decree translation on p31-33. name/year/governor/land_case OK; grantee ERR (claimant vs grantee)."
+ }
+]
