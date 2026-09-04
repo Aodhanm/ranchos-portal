@@ -450,5 +450,47 @@
    "grantee": "Teodoro (Theodore) Cordua, per petition PDF p11-13 / transcript pp5-7: Cordua petitioned June 1843 and April 1844, and Micheltorena's decree of concession of 22 Dec 1844 'granted in full Ownership to said Cordua.' Charles Covillaud et al. were the claimants who acquired the rancho by mesne conveyances from Cordua."
   },
   "notes": "The Hoffman grantee flag stands: register named the CLAIMANT (Charles Covillaud, of Marysville) instead of the original GRANTEE (Teodoro Cordua, the German-born ranchero of New Mecklenburg/Cordua's rancho on the Yuba/Feather). Governor and year hold: Micheltorena's decree of concession, 22 Dec 1844 (issued just before he was deposed -- petition notes the ensuing 'civil revolution'). Sutter appears only as the officer who reported the land vacant, hence Hoffman's extra 'J.A. Sutter'. 301-page file (225MB); read transcript pp1-8 (PDF 1-16): title, proceedings summary, full petition, start of Bidwell deposition. Board confirmed 27 Mar 1855 (Felch). Grant decree itself (marked, later in transcript) not read; petition recites its date/grantor/grantee verbatim and Hoffman corroborates."
+ },
+ {
+  "id": "rancho-huecos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265813/files/cubanc_lcf_nd221.pdf",
+  "pdf_pages_stated": 119,
+  "pages_read": [
+   "1-16",
+   "128-141"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 221 NORTHERN DISTRICT / LOS HUECOS GRANT / JOHN ROLAND, ET AL / CLAIMANT'. Transcript title (PDF p5, transcript p1): 'FOR THE PLACE NAMED \"Los Huecos\"'. Spanish caption of the expediente (PDF p11, transcript p6): 'Los huecos ó sobrantes del terreno que resultan en el parage de las Animas y Rancho de Pala'. Register 'Los Huecos' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree dated 6 May 1846. Spanish decree (PDF p12, transcript p7): 'Angeles. Mayo 6 de 1846. Vista la solicitud con que da principio este expediente... he venido por las presentes letras en declarar á los Señores Dn Luis Arenas y Dn Juan Roland, dueños en propiedad de los terrenos sobrantes...'. Título (PDF p13, transcript p8): 'Dado en la ciudad de los Angeles en papel comun por no haber de sellado a seis de Mayo de mil ochocientos cuarenta y seis.' District Court brief (PDF p130, file p108): 'The grant in this case was made on the 6th of May 1846 by Govr Pio Pico'. Register 1846 matches; Hoffman 1846 agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Título (PDF p13, transcript p8): 'Pio Pico Gobernador constitucional del departamento de las Californias.' Decree (PDF p12, transcript p7): 'Pio Pico Gobernador Constitucional del Departamento de Californias, así lo mando, decretó y firmó. Doy fé. Pio Pico. - José Mathias Moreno. Srio Intº'. English translation of the expediente (PDF p15, transcript p10) repeats it. Register 'Pío Pico' matches; Hoffman 'Pio Pico' agrees."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant ran to LUIS ARENAS and JUAN (JOHN) ROLAND, not to Roland and Hornsby. Spanish decree, 6 May 1846 (PDF p12, transcript p7): 'declarar á los Señores Dn Luis Arenas y Dn Juan Roland, dueños en propiedad de los terrenos sobrantes que hay en el terreno de las Animas y rancho de Pala, hasta el numero de nueve sitios de ganado mayor'. Expediente caption (PDF p11, transcript p6): 'Los huecos ó sobrantes del terreno... concedidos á Luis Arenas y Juan Roland.' Sworn translation (PDF p15, transcript p10): 'I hereby by these presents declare Luis Arenas and John Roland owners of the surplus lands of the Ranchos de las Animas and Pala to the number of nine leagues of the larger size.' Hornsby's derivative title is stated in the claimants' own petition (PDF p9, transcript p4): the grant was made 'to Luis Arenas and the Petitioner John Roland', and 'another undivided interest of Luis Arenas... was sold and conveyed by him to J M Jones by deed dated the second of October 1850 and by said J M Jones who is now deceased devised to the Petitioner J L Hornsby by last will and testament bearing date the 4th of September 1851'. Confirmed again in the District Court brief (PDF p130, file p108): 'The grant in this case was made on the 6th of May 1846 by Govr Pio Pico to Luis Arenas and the claimant John Roland, one of the Appellants... Luis Arenas conveyed his interest to James M Jones, who died and devised all his property to the Appellant J.L. Hornsby.' Hoffman ('Luis Arenas and John Roland') agrees with the case file against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (PDF p1): 'CASE No. 221 NORTHERN DISTRICT'; docketing leaf (PDF p2): 'LAND CASE 221 ND. 119 PAGES'; every leaf stamped '221 ND'; filename cubanc_lcf_nd221.pdf; District Court caption (PDF p128, file p106): 'In the District Court of the United States for the Northern District of California / Nº 221. John Roland & J. L. Hornsby, Appellants'. Commission docket was No. 282 (transcript title PDF p5: 'IN CASE No. 282'; PDF p7, transcript p2: 'ordered to be filed and docketed with No. 282'). Register 'ND 221' = the court docket and matches Hoffman court_no 221 / commission_no 282."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "The file does NOT reach a final disposition. Board of Land Commissioners REJECTED the claim: proceedings summary (PDF p8, transcript p3): 'San Francisco November 21' 1854. In the same Case Commissioner R. Aug. Thompson delivered the Opinion of the Board rejecting the claim: (Vide page 67 of this Transcript.)' Claimants appealed: endorsement on the wrapper of the appellants' District Court brief (PDF p141, file p119): 'Notice of appeal filed Decr 3, 1855'. The District Court papers that close the file (PDF p128-141, file pp106-119) are an admission of the appellants dated 'San Francisco, November 3d 1857' and A. P. Crittenden's Brief of Appellants; the appellants' brief argues against the Board's grounds (PDF p132, file p110: 'The claim was rejected by the Board mainly upon the ground that the conditions of the grant had not been complied with'). NO District Court decree, no confirmation, and no patent appear anywhere in the 119-page file, which ends with the brief. Register 'Confirmed' is therefore neither verified nor refuted by this file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Luis Arenas and Juan (John) Roland, per Pío Pico's decree of 6 May 1846 (PDF p12 Spanish / PDF p15 sworn translation, transcript pp7 and 10): 'declare Luis Arenas and John Roland owners of the surplus lands of the Ranchos de las Animas and Pala to the number of nine leagues of the larger size.' J. L. Hornsby was NOT a grantee: he took Arenas's undivided half by devise from James M. Jones (will of 4 Sept 1851), Jones having bought it from Arenas by deed of 2 Oct 1850 (claimants' petition PDF p9; District Court brief PDF p130)."
+  },
+  "notes": "Dominant error class confirmed: the register recorded the two U.S.-era CLAIMANTS ('John Roland and J. L. Hornsby', the caption on the red label and on every court filing) instead of the two Mexican GRANTEES (Luis Arenas and Juan Roland). Roland is right by coincidence -- he was both grantee and claimant -- but Hornsby displaces Arenas. Year, governor, name and docket all hold. OUTCOME needs Phase C: the file stops at the appellants' 1857 District Court brief, so the register's 'Confirmed' + patent (13 May 1876, GLO 182, 39,950.92 ac) cannot be checked here; Hoffman's 1862 'rejected' records only the Board's 21 Nov 1854 decision, which the pending appeal supersedes -- the Hoffman flag is therefore NOT evidence the register is wrong, only that Hoffman's table is a snapshot taken while the appeal was undecided. Caution for a re-reader: the appellants' admission at PDF p128 (file p106) recites TWO OTHER Pio Pico grants to John Roland -- four leagues on 22 July 1845 and eleven leagues on the Stanislaus River on 2 May 1846 -- which are different ranchos, offered by the U.S. on the eleven-leagues-maximum question; do not mistake either for Los Huecos. The grant is of the sobrantes (surplus) of Las Animas (Carlos Weber) and Pala (Jose de Jesus Bernal) up to nine sitios, embracing the cerro colorado / 'red hill' toward the slope of the valley, in the jurisdiction of the pueblo of San Jose de Guadalupe. 126MB / 141-image PDF; read via pypdf page-range excerpts (pages 1-16 and 128-141)."
  }
 ]

@@ -1,0 +1,133 @@
+[
+ {
+  "id": "rancho-san-miguel-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266100/files/cubanc_lcf_sd065.pdf",
+  "pdf_pages_stated": 54,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "60-67"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 65 / SOUTHERN DISTRICT / SAN MIGUEL GRANT / RAY MUNDO OLIVAS, ET AL, CLAIMANT'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original Spanish grant, PDF p14 (transcript p9): 'Dado en Monterey a seis de Julio de mil ocho cientos cuarenta y uno' (6 July 1841); sworn translation PDF p16 (transcript p11): 'Given at Monterey 6th of July AD 1841'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p13 (transcript p8) grant heading: 'Juan B. Alvarado, Gobernador Constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado / Manl. Jimeno Srio' PDF p14"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant decree PDF p13 (transcript p8): 'Por cuanto los ciudadanos Reimundo Olivas y Felipe Lorenzana han pretendido para sus beneficios personales y el de sus familias, el terreno que media al Sur con el Rio de Santa Clara...he venido en concederles el terreno mencionado'; translation PDF p15 (transcript p10): 'Whereas the citizens Raimundo Olivas & Felipe Lorenzana have asked for their benefit...'. Register 'P. Apis' appears nowhere in the file."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 65 SOUTHERN DISTRICT'; page stamps read '65 SD'; filename cubanc_lcf_sd065.pdf; Commission docket No. 472 (PDF p5)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 22 Nov 1853 (PDF p8, transcript p3: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim'); U.S. District Court decree, December Term 1856 (PDF p60, transcript p47): 'the decision of the Land Commissioners be affirmed and that the claim of the said Raimundo Olivas and Felipe Lorenzana...is hereby confirmed to them to the extent of one and one half square leagues'; order vacating the Supreme Court appeal and making the decree final, PDF p62 (transcript p49)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Raimundo (Reimundo) Olivas and Felipe Lorenzana, per the grant decree PDF p13/p15: 'los ciudadanos Reimundo Olivas y Felipe Lorenzana'"
+  },
+  "notes": "Dominant error class confirmed in reverse: the register's grantee 'P. Apis' belongs to a DIFFERENT San Miguel grant (Pablo Apis, Temecula), not to SD 065. The register's own patent_to field ('Raimundo Olivas and Felipe Lorenzana') matches this case file, so the grantee cell is the odd one out. Hoffman's 'E. Olivas et al.' is a near-miss for Raimundo Olivas; case file governs. Judicial possession Nov 1847 to Olivas and Lorenzana (PDF p17-22)."
+ },
+ {
+  "id": "rancho-san-miguel-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256653/files/cubanc_lcf_nd326.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-14",
+   "29-42",
+   "43,48,53,58,63,68,73,78 (sampled)",
+   "49-56",
+   "170-188 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 326 / NORTHERN DISTRICT / SAN MIGUEL GRANT / MARCOS WEST CLAIMANT'; transcript title page (PDF p2) 'for the place named \"San Miguel\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Expediente cover, transcript p44 (PDF p48): 'Jurisdiccion de Sonoma / Año de 1840 / Expediente promovido por el C[iudadan]o Marcos West'; concession decree, transcript p47 (PDF p51): 'Monterey, Nov 2nd 1840...I declare Marcos West owner in fee of the place shown marked out on the map'; Micheltorena's 1844 revalidation recites 'el Titulo que se le estendio en dos de Noviembre de mil ocho cientos cuarenta' (transcript p51, PDF p55)"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The 2 Nov 1840 concession decree in the expediente is subscribed not by Alvarado but by the acting head of the departmental government: transcript p48 (PDF p52) 'Senor Don Manuel Jimeno Casarin Senior Member of the Most Excellent Junta of the Department of the Californias thus signed and decreed to which I certify. (Signed) Jimeno. (Signed) Jose J. Fernandez, Secretary ad interim.' The title actually litigated and finally confirmed also rests on Micheltorena's revalidation: transcript p51 (PDF p55) 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano...Gobernador...Por cuanto D. Marcos West...ha solicitado de este Gobierno la Revalidacion del Titulo...he venido en revalidarle el dicho titulo y concederle el terreno mencionado.' Alvarado is named as grantor only in the claimants' petition (transcript p5, PDF p8) and in M. G. Vallejo's testimony (transcript p7, PDF p10: 'he received a grant for this land in 1840 from Governor Alvarado which grant was revalidated by Governor Micheltorena in 1844')."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Every grant instrument names Marcos (Marcus) West: expediente cover transcript p44 (PDF p48) 'Expediente promovido por el C[iudadan]o Marcos West en solicitud del terreno que expresa'; concession decree transcript p47 (PDF p51) 'I declare Marcos West owner in fee of the place shown marked out on the map...the extent of the land being one and a half square leagues'; Micheltorena 1844 (transcript p51, PDF p55) 'Por cuanto D. Marcos West mejicano por naturaleza y casado con mejicana...'. 'Guadalupe Vasquez' is Guadalupe Vasquez de West, the WIDOW and U.S.-era claimant: petition transcript p5 (PDF p8) 'The petitioners Guadalupe Vasquez de West widow and Marcos West, Guadalupe West, Adalaida West, children of Marcus West deceased'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 326 NORTHERN DISTRICT'; page stamps '326 ND'; filename cubanc_lcf_nd326.pdf; Commission docket No. 251 (PDF p2)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Land Commission REJECTED the claim 24 Apr 1855 (decree, transcript p67, PDF p69: 'it is adjudged by the Commission that the claim of the said petitioners is not valid & that the petition for confirmation thereof be dismissed', signed R. Aug. Thompson, S. B. Farwell); claimants appealed 14 Jan 1856 (transcript p70, PDF p72). The District Court reversed in the claimants' favour: Final Decree of Ogden Hoffman, 15 June 1863 (transcript p172, PDF p185): exceptions of the United States to the survey 'be and the same hereby are over-ruled...the survey approved by the Surveyor General of the U.S. for Cala on the 20th day of August 1862, containing 6,663 22/100 acres...is a good and valid survey of the land confirmed to the claimants herein...for a more full and particular description of the land now finally confirmed to the claimants.' Register's 6,663.23 patent acres match the decreed survey."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Marcos (Marcus) West, per the 1840 concession decree transcript p47 and Micheltorena's 1844 revalidation transcript p51",
+   "governor": "1840 concession signed by Manuel Jimeno Casarin as senior member of the Junta acting for the departmental government (transcript p48); title revalidated 14 Oct 1844 by Manuel Micheltorena (transcript p51). Register's 'Alvarado' rests on pleading and testimony only."
+  },
+  "notes": "Dominant error class: register recorded the U.S.-era claimant (the widow Guadalupe Vasquez de West) in the grantee field; Hoffman's 'Marcus West' agrees with the case file against the register. The claim was heavily contested on forgery grounds -- Pablo de la Guerra swore Micheltorena's rubric on the 1844 title 'is not genuine' (transcript p11, PDF p14) and Victor Prudon gave mixed testimony (transcript p33-39) -- which is why the Board rejected it; the District Court nonetheless confirmed. 188 images, no total-page leaf found; transcript paginated to at least p175."
+ },
+ {
+  "id": "rancho-san-miguelito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256661/files/cubanc00002651_pm_a.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-14",
+   "15-24",
+   "59-86 (sampled)",
+   "89-104 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 37 / SOUTHERN DISTRICT / SAN MIGUELITO GRANT / MUGUEL ABILA CLAIMANT'; expediente cover transcript p10 (PDF p13) 'Espediente promovido por el C. Miguel Abila en pretension del terreno llamado S. Miguelito'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, transcript p12 (PDF p15): 'Monterey 8 de Abril de 1839. Vista la peticion con que da principio este Espediente...se declara a D[o]n Miguel Abila dueño en propiedad del terreno conocido con el nombre de S[a]n Miguelito'; the original titulo issued 'Dado en Monterrey a diez de Abril de mil ochocientos treinta y nueve' (transcript p15, PDF p18). NOTE: that title was afterwards 'reformed' and a second title issued 'Dado en Monterrey a diez de Mayo de mil ochocientos cuarenta y dos' (transcript p17, PDF p20) -- which is Hoffman's 1842. Both instruments are in the file; the register's 1839 is the original concession."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "transcript p13 (PDF p16): 'Asi el Sr. D. Juan B. Alvarado Gobernador del Departamento de las Californias lo decreto, mando y firmo de que doy fe. Alvarado.'; sworn translation transcript p21 (PDF p24): 'On the eight day of April 1839, Don Juan B. Alvarado Constitutional Governor of the Department of both Californias thus provided & signed which I certify. Alvarado.' The reformed 1842 title is likewise 'Juan B. Alvarado, Gobernador Constitucional del Departamento de las Californias' (transcript p15-17)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "transcript p12 (PDF p15) decree: 'se declara a Don Miguel Abila dueño en propiedad del terreno...de S[a]n Miguelito'; 1842 title, transcript p16 (PDF p19): 'Por cuanto el Ciudadano Miguel Abila ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de San Miguelito'; Departmental Assembly approval 'Se aprueba la concesion hecha del terreno San Miguelito en la persona del Ciudadano Miguel Abila' (transcript p17, PDF p20)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 37 SOUTHERN DISTRICT'; page stamps '37 SD'; PDF p2 'Land Case 37 SD'; Commission docket No. 215 (PDF p4). NOTE the digitized file is served as cubanc00002651_pm_a.pdf, not cubanc_lcf_sd037.pdf (that URL returns an HTML 404 body under a 200 HEAD)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 6 Dec 1853 (transcript p3, PDF p6: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim'); District Court judgment against the United States rendered 25 January 1856 (transcript p73, PDF p84, order granting the U.S. an appeal 'from the judgment of this Court against the said United States...rendered on or about the 25th day of January A.D. 1856'); Attorney General's Office, 29 September 1858 (transcript p77, PDF p83): 'In the case of the claim of Miguel Avila, confirmed to the claimant by the Commissioners, case no. two hundred and fifteen (215), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States'; stipulation to vacate the Supreme Court appeal filed 23 Feb 1859 (transcript p80, PDF p86)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman's 1842 and the register's 1839 are not in conflict: the file shows an 8 April 1839 concession decree and 10 April 1839 title by Alvarado, that title struck through and 'reformed', and a second Alvarado title of 10 May 1842 (index of the District Court transcript, transcript p90 PDF p93: 'Decree of concession by Governor Alvarado...dated April 8th 1839' and 'Second grant by Gov. Alvarado...dated May 10th 1842'). Juridical possession 23-25 May 1842; Micheltorena approved a confirmation of the judicial possession 30 April 1844 (index transcript p96, PDF p95). URL note: the derived cubanc_lcf_sd037.pdf name 404s; real file name found in the record HTML."
+ }
+]

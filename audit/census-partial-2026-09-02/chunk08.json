@@ -1,18 +1,337 @@
 [
-{
+ {
   "id": "rancho-rio-jesus-maria",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264197/files/cubanc_lcf_nd360.pdf",
   "pdf_pages_stated": 230,
-  "pages_read": [1, 2, "6-12", "13-28"],
+  "pages_read": [
+   1,
+   2,
+   "6-12",
+   "13-28"
+  ],
   "verdicts": {
-    "name":      {"grade": "OK",  "evidence": "p1 red label: 'CASE NO. 360 NORTHERN DISTRICT / RIO de JESUS MARIA GRANT'; transcript title p (PDF p5) 'for the place named \"Rio de Jesus Maria\"'"},
-    "year":      {"grade": "OK",  "evidence": "Petition PDF p15 (transcript p9): 'That on the 13 day of October A.D. 1843 Manuel Micheltorena Governor of California ... granted to Tomas M. Hardy ... the tract of land called Rio de Jesus Maria'"},
-    "governor":  {"grade": "OK",  "evidence": "Petition PDF p15 (transcript p9): 'Manuel Micheltorena Governor of California by virtue of authority in him vested granted...'"},
-    "grantee":   {"grade": "ERR", "evidence": "Petition PDF p15 names ORIGINAL grantee as 'Tomas M. Hardy called also Tomas Hardy'. James M. Harbin is a claimant/purchaser: PDF p16-17 (transcript p10-11) show Hardy died intestate 1848, tract sold by probate to petitioners Harbin, Estell, Tyler, Parrish; Tyler then conveyed to Harbin. Hoffman 'Tomas Hardy' agrees against the register."},
-    "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 360 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd360.pdf; page stamps '360 ND'"},
-    "outcome":   {"grade": "OK",  "evidence": "Docket PDF p13 (transcript p8): 'July 26 1855 ... Commissioner S.B. Farwell delivered the opinion of the Board confirming the claim (vide page 227)'. Board confirmation verified; register 'Confirmed' consistent. Hoffman 1862 also 'confirmed'."},
-    "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"grantee": "Original grantee = Tomas M. Hardy (also Tomas Hardy), per grant decree/petition PDF p15: 'granted to Tomas M. Hardy called also Tomas Hardy the tract of land called Rio de Jesus Maria'. Register's 'James M. Harbin' is the American claimant/purchaser, not the grantee."},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 360 NORTHERN DISTRICT / RIO de JESUS MARIA GRANT'; transcript title p (PDF p5) 'for the place named \"Rio de Jesus Maria\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition PDF p15 (transcript p9): 'That on the 13 day of October A.D. 1843 Manuel Micheltorena Governor of California ... granted to Tomas M. Hardy ... the tract of land called Rio de Jesus Maria'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition PDF p15 (transcript p9): 'Manuel Micheltorena Governor of California by virtue of authority in him vested granted...'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Petition PDF p15 names ORIGINAL grantee as 'Tomas M. Hardy called also Tomas Hardy'. James M. Harbin is a claimant/purchaser: PDF p16-17 (transcript p10-11) show Hardy died intestate 1848, tract sold by probate to petitioners Harbin, Estell, Tyler, Parrish; Tyler then conveyed to Harbin. Hoffman 'Tomas Hardy' agrees against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 360 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd360.pdf; page stamps '360 ND'"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket PDF p13 (transcript p8): 'July 26 1855 ... Commissioner S.B. Farwell delivered the opinion of the Board confirming the claim (vide page 227)'. Board confirmation verified; register 'Confirmed' consistent. Hoffman 1862 also 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Original grantee = Tomas M. Hardy (also Tomas Hardy), per grant decree/petition PDF p15: 'granted to Tomas M. Hardy called also Tomas Hardy the tract of land called Rio de Jesus Maria'. Register's 'James M. Harbin' is the American claimant/purchaser, not the grantee."
+  },
   "notes": "230 pgs stated (PDF p2). Grant date Oct 13 1843, Micheltorena, to Thomas M. Hardy; both confirmed by the sworn petition and by Vallejo's deposition (PDF p17: 'granted to Tomas Hardy in 1843 or 1844'). No patent copy in pages read; patent fields left null for Phase C (GLO patent no. 86 claimed)."
-}
+ },
+ {
+  "id": "rancho-san-antonio-4",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266050/files/cubanc_lcf_sd009.pdf",
+  "pdf_pages_stated": 101,
+  "pages_read": [
+   "1-12",
+   "15-28"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 9 / SOUTHERN DISTRICT / SAN ANTONIO GRANT / ANTONIO MARIA LUCA [Lugo] CLAIMANT'; transcript title (PDF p5) 'for the place named \"San Antonio\"'. Register 'San Antonio (Lugo)' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree in Spanish, PDF p25 (transcript p21): 'Santa Barbara, Sep.re 27 de 1838. Vista la peticion con que da principio este expediente ... se declara á D. Antonio Maria Lugo dueño en propiedad del terreno conocido con el nombre de S.n Antonio incluso las amplificaciones hechas ... Asi yo el C. Juan B. Alvarado, Jefe Politico Interino, lo mandó, decretó y firmó. Alvarado.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Same decree, PDF p25: signed 'Alvarado', styled 'el C. Juan B. Alvarado, Jefe Politico Interino'. Register 'Alvarado' correct."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p25 decree declares 'D. Antonio Maria Lugo dueño en propiedad del terreno ... de S.n Antonio'; PDF p1 label and PDF p11 petition (transcript p6) both name Antonio Maria Lugo. Register 'A. M. Lugo' correct (he is both original grantee and U.S.-era claimant)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 9 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 9 SD PAGES 101'; page stamps read '9 SD'; filename cubanc_lcf_sd009.pdf. Board docket no. was 308 (PDF p5, p7)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p9 (transcript p4), San Francisco Feb 21 1853: 'In Case No. 308 Antonio Maria Lugo for the place named \"San Antonio\" Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation of this Board' (opinion recorded at transcript pp. 49-53). Hoffman 1862 also 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman's year 1810 flag RESOLVED, not an error in the register: 1810 is the date of the original informal possession given by Jose Arguello (recited in the petition PDF p11 and in Guillermo Cota's certificate, English translation PDF p26/transcript p22: 'that being commissioner in this city in the year 1810, I received order from Senor Don Jose Arguello (at that time Governor ad interim) to give possession of a land or place for raising large cattle to Don Antonio Maria Lugo'). The register records the DEFINITIVE grant: Alvarado, 27 Sept 1838. Chain in file: 1810 Arguello possession -> 1 April 1823 Luis Arguello confirming order (translation PDF p23) -> 1827 Echeandia enlargement (PDF p26) -> 27 Sept 1838 Alvarado title (PDF p25). No patent copy in the pages read; patent fields left null for Phase C (register claims GLO 442, 20 July 1866)."
+ },
+ {
+  "id": "rancho-san-antonio-rodeo-aguas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256665/files/cubanc00002598_pm_a.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "56-67",
+   "78-88"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 371 / SOUTHERN DISTRICT / SAN ANTONIO O' RODEO DE LOS AGNAS GRANT / MARIA RITA BALDEZ CLAIMANT'; transcript title PDF p2 'for the place named \"San Antonio o Rodeo de los Aguas\"'. Register 'San Antonio Or Rodeo De Las Aguas' matches."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO grant decree exists in the file. Board opinion PDF p56 (transcript p50): 'And it is alledged that on the receipt of that report Governor Alvarado did issue a grant to [her] for the place. That grant is not offered in evidence but is said to have been lost.' The only dates the file supplies are secondary: claimant's petition PDF p9 (transcript p5) alleges 'a grant under the Mexican Government in AD 1838 by Juan B Alvarado'; Bernardino Lugo, who drew the petition and map, deposed PDF p80-81 (transcript p73-74) 'I made her petition to the Governor Alvarado, and I made out the map of the land in the year 1838 or 1839, I think it was about the year 1838 ... I saw the decree in the possession of the owner who showed it to me, this was about the month of March or April in the year 1839'; the Board opinion instead recites the petition to Alvarado as of '28th day of February 1834'. Register's 1838 is plausible but not verifiable from any decree."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Every statement of title in the file names Alvarado: petition PDF p9 (transcript p5) 'by Juan B Alvarado Governor of the Department of the Californias'; claimant's deposition PDF p10 (transcript p6) 'granted to her in fee under the Mexican Government by J B Alvarado Governor'; Board opinion PDF p56 'Governor Alvarado did issue a grant'; Mariano Villa PDF p22 (transcript p18) 'It was signed by Juan Bautista Alvarado as Governor and by Arce the Secretary'. Caveat: Alvarado's own deposition PDF p17 (transcript p14) says 'I have no recollection of having made such grant. I recollect that she petitioned for some land but do not remember whether any was given her or not.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'MARIA RITA BALDEZ CLAIMANT'; Board decree PDF p58 (transcript p52) confirms to Maria Rita Valdez; Board opinion PDF p56 states the 1834 application was 'for a grant to the place in her own right', so she is the original grantee, not a successor. Register 'Maria Rita Valdez' correct (file spells it Baldez/Valdez)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 371 SOUTHERN DISTRICT'; page stamps throughout read '371 SD'; back cover PDF p83 'U.S. DISTRICT COURT, Southern District of California, No. 371'. Board docket no. 478 (PDF p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation PDF p58 (transcript p52), filed Sept 25 1855, signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell. U.S. appealed (Ord's petition PDF p61-63; notice of appeal filed June 3 1856, PDF p60). District Court, Monterey June term 1857, Judge Ogier, PDF p85 (transcript p78): 'it is not the intention of the U. States to prosecute further the appeal in the above cause it is ordered by the Court that the appeal in said cause be dismissed & that the claimant have leave to proceed upon the decree of the Commissioners heretofore rendered as a final decree' (filed 8 June 1857). Confirmation therefore final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "FILENAME DISCREPANCY: the expected cubanc_lcf_sd371.pdf 404s (returns an HTML page with HTTP 200); the real file at record/256665 is cubanc00002598_pm_a.pdf (272 MB, 88 images). Hoffman's year 1831 flag is NOT a correction to the register: 1831 is the PROVISIONAL alcalde permit held jointly by Maria Rita Valdez and Luciano Valdez, per the Board opinion PDF p56 (transcript p50): 'in the year 1831 the petitioner and one Luciano Valdez obtained a provisional grant from the Alcalde of Los Angeles, authorizing them to occupy the place jointly'. This is a LOST-GRANT case: the original title was stolen from her trunk when she fled the rancho on the American approach in 1846-47 (claimant's deposition PDF p11, Board opinion PDF p57), and the Board confirmed on oral secondary evidence. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-dieguito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265838/files/cubanc_lcf_sd092.pdf",
+  "pdf_pages_stated": 45,
+  "pages_read": [
+   "1-12",
+   "14-26",
+   "44-55"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 92 / SOUTHERN DISTRICT / SAN DIEGUITO GRANT / JULIANA LOPEZ AZUNA [Osuna] CLAIMANT'; transcript title PDF p5 'for the place named \"San Dieguito\"'."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "TWO grants make up this rancho. (a) Original one league: District Court decree PDF p50 (transcript p40) 'the first granted to Juan Maria Osuna, now deceased, and husband of the said Juliana Lopez Osuna, by Juan B. Alvarado, then Governor of California, in the year 1840 or 1841 ... containing One square league'; petition PDF p9 (transcript p4) agrees, and adds 'the original papers relating to this grant have been lost or mislaid'. (b) The ADDITION, whose original decree IS in the file: PDF p16 (transcript p11) 'Dado en la Ciudad de los Angeles, en papel comun por no haber del sellado, a once de Agosto de mil ochocientos cuarenta y cinco. Pio Pico. Jose M.a Covarrubias, Srio.' (sworn translation PDF p18/transcript p13: 'the 11th day of August one thousand eight hundred and forty five'), approved by the Departmental Assembly 24 Sept 1845 (PDF p19, p21). Register's '1845' is the date of the ADDITION only, not of the rancho's founding grant."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Same split. Pio Pico made the 1845 addition: grant heading PDF p15 (transcript p10) 'Pio Pico Gobernador Interino del Departamento de las Californias ... he venido en decreto de este dia en concederle el expresado sitio de ganado mayor'. The original San Dieguito league was granted by Alvarado: DC decree PDF p50 'by Juan B. Alvarado, then Governor of California, in the year 1840 or 1841'. Register names only Pico."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Pico grant PDF p15 (transcript p10): 'Por cuanto D.n Juan M.a Osuna ha pretendido para su beneficio personal y el de su familia un sitio de ganado mayor en ampliacion del terreno de San Dieguito que le pertenece'; DC decree PDF p50 names 'Juan Maria Osuna, now deceased'. Register 'Juan Maria Osuna' correct; Juliana Lopez Osuna is his widow and the U.S.-era claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 92 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 92 SD 45 pgs.'; page stamps '92 SD'; filename cubanc_lcf_sd092.pdf. Board docket no. 441 (PDF p5, p7)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED: docket PDF p8 (transcript p3), 'San Francisco Jan 24 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board rejecting the claim.' REVERSED on appeal: District Court decree PDF p49-50 (transcript p39-40), December Term 1857, Judge Ogier: 'It is ordered, adjudged, and decreed that the decision of said Board, rejecting said claim and title ... be, and the same is hereby reversed, and set aside, and that the title of the above named Appellants is good and valid ... The quantity of Land hereby confirmed being two square leagues of land and no more.' U.S. appeal to the Supreme Court dismissed, December Term 1863, mandate PDF p53-54 (transcript p44-45), filed Oct 31 1864. Register 'Confirmed' correct and final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "Incomplete: the rancho rests on two grants. Founding grant = Juan B. Alvarado, 1840 or 1841 (District Court decree PDF p50, transcript p40); the 11 August 1845 Pico act was an 'ampliacion' adding a second sitio. Hoffman's 1840 refers to the former, the register's 1845 to the latter; neither is wrong on its own.",
+   "governor": "Incomplete: Alvarado made the original grant (DC decree PDF p50), Pico the 1845 addition (grant PDF p15-16, transcript p10-11)."
+  },
+  "notes": "Confirmed acreage two square leagues (register's 8,824.71 acres is consistent). This is the case where the Board's FIRST decision was a rejection and the register's 'Confirmed' is right only because the District Court reversed. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-emigdio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268966/files/cubanc_lcf_sd344.pdf",
+  "pdf_pages_stated": 67,
+  "pages_read": [
+   "1-12",
+   "64-76"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 344 / SOUTHERN DISTRICT / SAN EMIDEON GRANT / FRANCISCO DOMINGUEZ, ET AL CLAIMANT'; grant decree PDF p9 (transcript p5) 'en el paraje conocido con el nombre de San Emidio'. Same rancho; file spells it San Emidio / San Emideon, register uses the standard modern form San Emigdio."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish grant decree copied into the petition, PDF p10 (transcript p6): 'Dado en Monterey a catorce de Julio de mil ochocientos cuarenta y dos. Juan B. Alvarado. Man.l Jimeno S.rio' (= 14 July 1842). Petition preamble PDF p9 agrees: 'on the 14th day of July 1842 at Monterey John B. Alvarado then Constitutional Governor'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree heading PDF p9 (transcript p5): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado' PDF p10. Register 'Alvarado' correct."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p9 (transcript p5): 'Por cuanto el Ciudadano Jose Antonio Dominguez ha pretendido para su beneficio y el de su familia cuatro sitios de ganado mayor en el paraje conocido con el nombre de San Emidio'. Register 'Jose Antonio Dominguez' is the ORIGINAL grantee and is correct; Francisco Dominguez (his heirs) and John Charles Fremont, named on the red label and in the petition PDF p11-12, are the U.S.-era claimants by descent and by deeds of 27 Nov 1854 and 10 March 1852."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 344 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 344 SD 67 pages'; page stamps '344 SD'; filename cubanc_lcf_sd344.pdf. Board docket no. 556 (PDF p3, p6)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Confirmation verified and made FINAL, but no patent in the file. Board first REJECTED (docket PDF p6, transcript p2: 'San Francisco December 26 1854 ... Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim'); that decree was SET ASIDE (PDF p7, transcript p3, Feb 27 1855: 'the decree of rejection entered heretofore, to wit: on the 26th December last, be set aside, and the Case be restored to the trial Docket'); the Board then CONFIRMED (PDF p8, transcript p4, June 19 1855: 'Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim'). U.S. appealed (Ord's petition PDF p64-65) then withdrew: stipulation PDF p74 (transcript p64) and District Court order PDF p76 (transcript p66), Judge Ogier: 'It is ordered, adjudged & decreed by the Court, that the decree of the United States Land Commissioners for California, confirming this claim, be and the same is hereby made final, and that the appeal be dismissed' (filed 17 June 1858). Patent not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "HOFFMAN IS WRONG HERE, not the register. Hoffman 1862 records this claim as 'rejected'; the case file shows that rejection (26 Dec 1854) was vacated on 27 Feb 1855 and replaced by a decree of confirmation on 19 June 1855, made final by the District Court on 17 June 1858. The register's 'Patented' is downgraded to PART only because no patent copy appears in the file, not because the confirmation is in doubt. Grant was of four sitios de ganado mayor (register's 17,709.79 patented acres is about four leagues)."
+ },
+ {
+  "id": "rancho-san-gabriel",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266098/files/cubanc_lcf_sd063.pdf",
+  "pdf_pages_stated": 35,
+  "pages_read": [
+   "1-14",
+   "34-44"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "This is not a rancho called San Gabriel; it is a house lot of 400 by 200 varas at the ex-Mission San Gabriel. PDF p1 red label: 'CASE NO. 63 / SOUTHERN DISTRICT / A LOT OF GROUND AT SAN GABRIEL GRANT / JOSE LEDESMA CLAIMANT'; transcript title PDF p5 'for the place named A Lot of Ground at San Gabriel'; District Court caption PDF p35-37 '400 by 200 varas near San Gabriel' / 'Lot at San Gabriel'; U.S. summons PDF p42 calls it 'a tract of Land called Solar in San Gabriel'. Register's bare 'San Gabriel' names the locality only. Hoffman's '400 by 200 varas' is the more accurate description; the two are the same claim, so this is imprecision, not a wrong entity."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree in Spanish, PDF p13 (transcript p7): 'El Ciudadano Pio Pico, primer vocal de la Ex.ma Asamblea y Gobernador interino del Departamento de Californias ... Dado en la Ciudad de los Angeles a 18 de Abril de 1845. Pio Pico. Juan Bandini S.rio.' Confirmed again by the District Court decree PDF p38 (transcript p29): 'reference is hereby made to the original grant made by Pio Pico then Governor of California, on the 18th day of April A.D. 1845'. Juridical possession given 3 May 1845 (PDF p13, endorsement signed C. Hugo Reid)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p13 (transcript p7) signed 'Pio Pico', styled 'Gobernador interino del Departamento de Californias', countersigned 'Juan Bandini S.rio'; District Court decree PDF p38 'the original grant made by Pio Pico then Governor of California'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p13 (transcript p7): 'Por cuanto Jose Ledesma de la Mision de San Gabriel ha pretendido para su beneficio personal y el de su familia la propiedad de un terreno de cuatrocientas varas de largo y doscientas de ancho, contiguo a las tierras de Valencia y Manuel Sales'. Ledesma is both the original grantee and the U.S.-era claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 63 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 63 SD pgs. 35'; page stamps '63 SD'; filename cubanc_lcf_sd063.pdf. Board docket no. 447 (PDF p5, p7)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket PDF p8 (transcript p3), 'San Francisco December 6, 1853. In the same case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the claim.' Affirmed on the U.S. appeal: District Court decree PDF p37-38 (transcript p28-29), December Term 1856, Judge Ogier: 'It is ordered, adjudged and decreed by the Court that the decision of the said commissioners be affirmed, and that the title of the said appellee, Jose Ledesma to the lands claimed in this case be decreed to be good and valid ... containing in all eighty thousand square varas, and the said claim is hereby confirmed to the extent of four hundred varas in length by two hundred varas in breadth and no more' (filed 13 Feb 1857). Attorney General's letter PDF p40 (transcript p31), 11 Feb 1857: 'Appeal will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "HOFFMAN'S 1846 IS WRONG; the register's 1845 is right, and the file settles it twice over (Spanish grant PDF p13 dated 18 April 1845; District Court decree PDF p38 reciting the same date). The confirmed area, 80,000 square varas, matches the register's 22.21 patent acres. Note the marshal's return PDF p43 (transcript p34): the summons was served on 'Jose Ladesma (or an Indian who said that was his name)' near the Mission of San Gabriel, i.e. the grantee was a mission Indian; the grant is one of the Pico-era mission-lot grants. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-jacinto-nuevo-potrero",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265830/files/cubanc_lcf_sd082.pdf",
+  "pdf_pages_stated": 98,
+  "pages_read": [
+   "1-14",
+   "17-27",
+   "96-105"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 82 / SOUTHERN DISTRICT / SAN JACINTO NUEVO Y POTRERO GRANT / THOS. W. SUTHERLAND, ET AL CLAIMANT'; transcript title PDF p5 'for the place named \"San Jacinto Nuevo y Potrero\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish, PDF p19 (transcript p13-14): 'Dado en la ciudad de los Angeles en este papel comun por no haber del sellado que corresponde, a catorce de Enero de mil ochocientos cuarenta y seis. Pio Pico. Jose M.a Covarrubias, S.rio.' Sworn translation PDF p22 (transcript p18): 'Given in the City of Los Angeles in this common paper there being no stamped on the fourteenth day of January in the year Eighteen hundred and forty six.' Approved by the Departmental Assembly 8 July / 4 Aug 1846 (Botello's certificate PDF p20, Arguello's committee report PDF p23)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p19 (transcript p13): 'Pio Pico vocal decano de la asamblea Departamental y Gobernador provisional de las Californias'; translation PDF p22 'Pio Pico, vocal senior of the Departmental Assembly & Provisional Governor of California'; District Court opinion PDF p100 (transcript p93): 'The Claim in this case is founded upon a Grant from Governor Pico to Miguel de Pedrorena bearing date 14th January 1846'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant decree names MIGUEL DE PEDRORENA, not Sutherland. PDF p19 (transcript p13): 'Por cuanto D.n Miguel de Pedrorena ha pretendido para su beneficio personal y el de su familia el terreno nombrado ... y Potrero del mismo nombre ... he venido en acordar de este dia en concederle el terreno mencionado y Potrero, declarandole la propiedad de el por las presentes letras.' Translation PDF p22 (transcript p17): 'Whereas Don Miguel de Pedrorena has pretended to for his personal benefit & that of his family the land called San Jacinto Nuevo, including the Potrero of the same name.' Thomas W. Sutherland was the U.S.-era claimant only, in his capacity as GUARDIAN of Pedrorena's four orphaned minor children: petition PDF p11 (transcript p4), 'Thomas W. Sutherland ... Guardian of Victoria, Isabel, Miguel, & Helena minor children of Miguel de Pedrorena & Maria Antonia Estudillo de Pedrorena, both late of the County of San Diego ... deceased'. Pedrorena died in the spring of 1850 (J. J. Warner deposition PDF p14, transcript p7). Hoffman's 'Miguel Pedrorena' agrees against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 82 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 82 SD page 98'; page stamps '82 SD'; District Court caption PDF p96 (transcript p89) 'Case No. 82 / Transcript No. 263'; filename cubanc_lcf_sd082.pdf. Board docket no. 263."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED: opinion of Commissioner Thompson Campbell, PDF p26-28 (transcript p19-22), filed 27 Dec 1853, ending 'the claim set up by the petitioner must be denied for want of certainty in the description ... A confirmation is therefore denied.' REVERSED on appeal: District Court opinion PDF p100-105 (transcript p93-98) closes 'A decree will be entered accordingly reversing the decision of the Commission & confirming the claim.' The Supreme Court appeal was abandoned: PDF p98 (transcript p91), December Term 1856, Judge Ogier: 'The Attorney General of the United States having given Notice that the appeal to the Supreme Court from the decision of this Court in the above entitled cause will not be prosecuted by the United States ... It is Ordered adjudged and decreed that the order granting an appeal to the Supreme Court heretofore made in this cause be and the same is hereby vacated and that the claimant have leave to proceed under the decree of this Court heretofore rendered in this cause, as under a final decree.' Register 'Confirmed' correct and final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Miguel de Pedrorena, per the grant decree PDF p19 (transcript p13): 'Por cuanto D.n Miguel de Pedrorena ha pretendido para su beneficio personal y el de su familia ... he venido en acordar de este dia en concederle el terreno mencionado y Potrero'. 'T. W. Sutherland, guardian' is the U.S. land-commission claimant, guardian of Pedrorena's minor children Victoria, Isabel, Miguel and Helena, and never a grantee."
+  },
+  "notes": "Textbook instance of the dominant error class: the register recorded the U.S.-era claimant in the grantee field. The register's own patent_to ('Miguel, Victoria, Isabel, and Helena Pedrorena') is consistent with Pedrorena being the grantee. The Board rejected for vagueness of description; the District Court reversed on the strength of the map accompanying the expediente and confirmed, limited by the eleven-league law. No patent copy in the pages read (register claims GLO 487, 9 Jan 1883)."
+ },
+ {
+  "id": "rancho-san-jose",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264427/files/cubanc_lcf_nd040.pdf",
+  "pdf_pages_stated": 54,
+  "pages_read": [
+   "1-14",
+   "15-26"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 40 / NORTHERN DISTRICT / SAN JOSE GRANT / YGNACIO PACHECO CLAIMANT'; transcript title PDF p5 'for the place named San Jose'; grant decree PDF p18 'del parage nombrado San Jose colindante con el portesuelo de las Gallinas con el Arroyo de San Jose con el nombrado de los Chocheños y la Sierra'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant decree, Spanish, PDF p18 (transcript p13): 'Monterey 3 de Octubre de 1840. Vista la peticion con que da principio este espediente ... declaro dueño en propiedad a D.n Ignacio Pacheco del parage nombrado San Jose'; the titulo that follows closes PDF p19 (transcript p14) 'Dado en Monterey a tres de Octubre de mil Ocho cientos cuarenta.' Sworn English translation PDF p24 (transcript p19) heads it 'Monterey Oct 3rd 1840'. The claimant's own petition PDF p11 (transcript p4) says 'a grant of land made to him on the 3rd Oct 1840 by Gov Alvarado'. Register's 1838 is wrong."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p18 (transcript p13): 'El Señor D.n Juan B. Alvarado Gobernador Constitucional del departam.to de las Californias asi lo decreto y firmo'; the title itself opens 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' (PDF p18-19). Alvarado also signed the 1838 referral decree (PDF p14, transcript p9)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p18-19 (transcript p13-14): 'Por Cuanto D.n Ignacio Pacheco ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de San Jose'; expediente cover PDF p14 (transcript p8) 'Espediente promovido por el C.dno Ignacio Pacheco en solicitud del parage nombrado San Jose'. Register 'Y. Pacheco' (Ygnacio Pacheco) correct; he is also the U.S.-era claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 40 NORTHERN DISTRICT'; PDF p2 'LAND CASE 40 ND pgs. 54'; page stamps 'CASE 40 ND'; filename cubanc_lcf_nd040.pdf. Board docket no. 198 (PDF p5, p9)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket PDF p10 (transcript p3): 'San Francisco Apl. 11, 1853. In Case No. 198 Ignacio Pacheco for the place named \"San Jose\", Commissioner Hiland Hall delivered the Opinion and the decree of final confirmation (vide page 26 of this Transcript).' Register 'Confirmed' correct; Hoffman 1862 records it as both confirmed and PATENTED, consistent with the register's patent of 14 Jan 1861. No patent copy in the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840, not 1838. Grant decree PDF p18 (transcript p13): 'Monterey 3 de Octubre de 1840 ... declaro dueño en propiedad a D.n Ignacio Pacheco del parage nombrado San Jose', title closing PDF p19 'Dado en Monterey a tres de Octubre de mil Ocho cientos cuarenta.' 1838 is the year the EXPEDIENTE opened, not the grant: Pacheco's petition is dated 'Sonoma M.zo 12 de 1838' (PDF p14, transcript p9), Alvarado's referral decree 'Sta Clara Marzo 24 de 1838', and Vallejo's informe 'Sonoma Ab.l 24 de 1838' (PDF p15, transcript p10). Hoffman's 1840 agrees against the register."
+  },
+  "notes": "Do not confuse the two titles bound in this expediente. Title No. 1 (PDF p16-17 Spanish, PDF p22-23 translation) is Mariano Chico's grant of AGUA CALIENTE near Petaluma and Sonoma to Pacheco, 'Monterey Mayo siete de mil ochocientos treinta i seis' (7 May 1836); Pacheco surrendered it because the land was unfit for cultivation and asked instead for San Jose between Sonoma and San Rafael (his 1838 petition, translation PDF p23/transcript p16). The San Jose title is the 3 Oct 1840 Alvarado grant. Caution for a re-reader: the clerk's English translation of the title's closing date, PDF p25 (transcript p20), reads as 'the 3rd of October 1844'; the Spanish original PDF p19 says 'mil Ocho cientos cuarenta' and the translation's own heading PDF p24 says 'Monterey Oct 3rd 1840', so 1840 governs. No patent copy in the pages read."
+ }
 ]

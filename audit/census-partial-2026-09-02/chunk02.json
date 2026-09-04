@@ -305,5 +305,217 @@
    "grantee": "Original grantee = Jose (Antonio) Sanchez, Alferez/Ensign of the San Francisco presidio; Jose de la Cruz Sanchez (the register's value) is his son and the lead claimant/heir. Per DC decree transcript p491: 'legal representatives of Jose A. Sanchez.'"
   },
   "notes": "Large file (494 PDF images, ~357MB). Grant chain: Arguello temporary/interim license Dec 11 1827 -> Sanchez petition to Gov. Figueroa Nov 2 1833 -> mission-property references 1833-34 -> Castro's concession decree (as interim Gefe Politico) Monterey Sept 18 1835, Diputacion approval Sept 22 1835, titulo ~Sept 23 1835, juridical possession Nov 5 1835. Outcome: Board confirm 1854 -> DC final confirmation of 14,639.19-acre survey filed Mar 10 1866. Register's patent (Oct 17 1872, GLO 150, 14,639.19 ac) consistent but no patent copy in pages read; Phase C checks GLO. Microfilm note: transcript pp481-488 are lacking (noted 8/18/83), but the final DC confirmation decree (pp489-491) is present. No single leaf states a total page count."
+ },
+ {
+  "id": "rancho-cachil-dehe-rancheria",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264412/files/cubanc_lcf_nd023.pdf",
+  "pdf_pages_stated": 144,
+  "pages_read": [
+   "1-14",
+   "15-32",
+   "136-149"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "ERR",
+    "evidence": "The file never uses 'Cachil Dehe'. PDF p1 red label: 'CASE No. 23 / NORTHERN DISTRICT / JIMENO RANCHO GRANT / THOMAS O. LARKIN ET AL CLAIMANT'. Transcript title page (PDF p5): 'for the place named \"Jimeno Rancho\"'. Board secretary's transmittal, San Francisco April 13, 1854 (PDF p147, stamped case p142): 'for the place known by the name of \"Jimeno Rancho\"'. District Court caption (PDF p145, case p140): 'Thomas O. Larkin and John S. Missroon, Appellees & Claimants for \"Rancho de Jimeno\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original 'H. Original Grant to Jimeno' (PDF p19-20, case p13-14): 'Dado en Monterrey a cuatro de Noviembre de mil ochocientos cuarenta y cuatro. Man.l Michelt.a'; sworn translation 'H' (PDF p30-31, case p24-25): 'Given in Monterrey this Fourth Day of November One thousand Eight Hundred and Fourty Four.' Expediente decree of concession is dated 'Monterrey 2 de Noviembre 1844' (PDF p25, case p19)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p19 (case p13): 'El C. Manuel Micheltorena, General de Brigada del ejercito Mejicano ... Gobernador Comandante General e Inspector del Departamento de Californias'; signed 'Man.l Michelt.a' PDF p20 (case p14), endorsed 'Micheltorena to Jimeno. - Grant.' Translation PDF p30 (case p24) same. District Court opinion PDF p139 (case p134): 'The original grant by Governor Micheltoreno to Manuel Jimeno bears date November 1844'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was Don Manuel Jimeno, not the claimants. Grant translation, PDF p30 (case p24): 'Whereas Don Manuel Jimeno has petitioned for his personal benefit for the tract of land which is unoccupied between the Ranch which has been granted to the children of Don Tomas O. Larkin, the River Sacramento ... I have just granted to him the said land'. Expediente decree PDF p25 (case p19): 'declaro a D. Manuel Jimeno dueño de once sitios de ganado mayor'. Larkin and Missroon are the PURCHASERS under the deed of conveyance of 30 August 1847 (PDF p21-22, case p15-16: 'comparecio D.n Manuel Jimeno y dijo: que ... vende y da en venta publica ... a D.n Tomas O. Larkin ... y a D.n Juan S. Missroon'), and thereby the U.S.-era claimants. District Court opinion PDF p139 (case p134) states it flatly: 'The original grant by Governor Micheltoreno to Manuel Jimeno bears date November 1844. The conveyance to the present claimants is dated August 30. 1847.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 23 NORTHERN DISTRICT'; every leaf stamped 'CASE NO. 23 ND'; PDF filename cubanc_lcf_nd023.pdf; District Court caption PDF p137 (case p132) 'D.C. 23 / L.C. 131', matching Hoffman's court_no 23 and commission_no 131."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: PDF p9 (case p4), Monday January 10, 1853, 'Commissioner Hiland Hall delivered the Opinion of this Board, and the Decree of Final Confirmation.' District Court: opinion of Ogden Hoffman, PDF p143 (case p138): 'We think therefore that the decision of the Board should be affirmed and the claim of the appellees be deemed to be valid.' Final decree filed April 6, 1861 (PDF p136, case p131). Confirmation therefore verified at both levels; the U.S. appeal granted April 12, 1861 (PDF p137, case p132) was from the decree on the SURVEY and location, not from the confirmation of title."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Jimeno Rancho (Rancho de Jimeno) per p1 red label, transcript title p5, Board transmittal p147 and District Court caption p145; 'Cachil Dehe Rancheria' appears nowhere in the file",
+   "grantee": "Manuel Jimeno, per the grant of 4 Nov 1844 (translation PDF p30: 'Whereas Don Manuel Jimeno has petitioned ... I have just granted to him the said land'); Larkin and Missroon took by deed 30 Aug 1847 and were only the claimants"
+  },
+  "notes": "Textbook instance of the dominant error class: the register carries the U.S.-era claimants (Larkin and Missroon) in the grantee field. Hoffman 1862 agrees with the case file against the register on grantee ('Manuel Jimeno') and on the rancho name ('Jimeno Rancho'). The register's remaining data (patent to Larkin and Missroon, 48,854.26 acres, GLO 22) do fit this case, so the ND 023 linkage is right and it is the NAME that is wrong, not the docket. pdf_pages_stated derived from the last stamped leaf ('PAGE NO. 144' = PDF p149); no explicit 'pgs.' count leaf was seen. PDF is 117MB / 149 images; read via pypdf page-range excerpts."
+ },
+ {
+  "id": "rancho-cajon",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265855/files/cubanc_lcf_sd114.pdf",
+  "pdf_pages_stated": 70,
+  "pages_read": [
+   "1-14",
+   "15-32",
+   "67-84"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 114 / SOUTHERN DISTRICT / EL CAJON GRANT / THOMAS W. SUTHERLAND, GUARDIAN, VC / CLAIMANT'; transcript title page PDF p5 (case p1) 'for the place named \"El Cajon\"'; grant decree names 'el terreno nombrado \"Cajon\"' (PDF p23, case p16)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish expediente (PDF p22-23, case p15-16): 'Angeles Setiembre 23 de 1845 - Vista la solicitud con que da principio este espediente ... declaro a Da. Maria Antonia Estudillo de Pedrorena dueña del terreno nombrado \"Cajon\"'. Sworn translation (PDF p30-31, case p23-24): 'Angeles Sept. 23rd 1845 ... I hereby declare Dona Maria Antonia Estudillo de Pedrorena Owner of the land called Cajon'. Departmental Assembly approval 3 Oct 1845 (PDF p24 and p32, case p17 and p25). Transcript index (PDF p75, case p61) confirms: 'Original Grant in Spanish delivered to the grantee dated September 23. 1845.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree signature block, PDF p23 (case p16): 'Pio Pico Gobernador Interino del Departamento de las Californias asi lo mandé decreté y firmé de que doy fé - Pico'. Translation PDF p31 (case p24): 'Pio Pico Govenor pro tem of California, thus I command decree and sign to which I give faith. Pico.' (Register's plain 'Pío Pico' is right; the decree itself styles him interim/pro tem.)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was Doña María Antonia Estudillo de Pedrorena. Grant decree PDF p23 (case p16): 'declaro a Da. Maria Antonia Estudillo de Pedrorena dueña del terreno nombrado \"Cajon\" inmediato a la predicha Mision de S.n Diego'; translation PDF p31 (case p24). The expediente is captioned 'Espediente promovido por Da. Maria Antonia Estudillo de Pedrorena, en solicitud del terreno nombrado el Cajon' (PDF p15, case p9). Thomas W. Sutherland is the U.S.-era CLAIMANT only, in the capacity of guardian: petition PDF p9 (case p4) is brought for 'Victoria, Isabel, Miguel and Helena Minor children of Miguel de Pedrorena and Maria Antonia Estudillo de Pedrorena ... both deceased', and the Supreme Court mandate PDF p81 (case p67) styles the appellee 'Thomas W. Sutherland, Guardian of Victoria, Isabel, Miguel, and Helena, minor children & heirs of Miguel de Pedrorena and Maria Antonia Estudillo de Pedrorena, deceased'. Witness Santiago Argüello likewise calls her 'the Original grantee' (PDF p12, case p6)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 114 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 114 SD 70 pgs.'; every leaf stamped '114 SD'; filename cubanc_lcf_sd114.pdf; District Court caption PDF p71 (case p56) 'No. 114 (Transcript No. 262)', matching Hoffman's court_no 114 and commission_no 262."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at all three levels. Board: 'San Francisco March 14, 1854. In the same Case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the Claim' (PDF p8, case p3; opinion at case p43, decree case p48 per the index PDF p75). District Court (S.D. Cal.) decree, PDF p68 (case p54): 'It is ordered adjudged & decreed that the decision of said Commissioners be and the same is hereby affirmed, and it is further ordered adjudged and decreed that the claim of appellees is a good and valid claim and the same is hereby confirmed unto the tract of land known as \"El Cajon\"', filed Sept 28, 1855 (PDF p69, case p55). Supreme Court of the United States, December Term 1856, mandate PDF p83 (case p69): 'it is now here ordered, adjudged and decreed by this court that the decree of the said District Court in this cause be and the same is hereby affirmed. - Mar. 5th'; mandate filed 6 Aug 1858 (PDF p79, case p65)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "María Antonia Estudillo de Pedrorena, per the grant decree of 23 Sept 1845 (PDF p23 / case p16: 'declaro a Da. Maria Antonia Estudillo de Pedrorena dueña del terreno nombrado \"Cajon\"'). T. W. Sutherland was guardian of her four minor children and the claimant before the Board, not the grantee."
+  },
+  "notes": "Dominant error class again: register carries the U.S.-era claimant (Sutherland, guardian) as grantee. Hoffman 1862 agrees with the case file against the register ('Maria Antonia Estudillo de Pedrorena'). Year, governor, name, docket and outcome all check out. A prior provisional title over the same land to Manuel Díaz was relinquished by him 10 Aug 1845 (PDF p29, case p22-23) before Pico's grant; that is background, not a competing grant of record."
+ },
+ {
+  "id": "rancho-calleguas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266095/files/cubanc_lcf_sd060.pdf",
+  "pdf_pages_stated": 95,
+  "pages_read": [
+   "1-16",
+   "17-34",
+   "113-128"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 60 / SOUTHERN DISTRICT / CALLEGUAS GRANT / GABRIEL RUIZ, ET AL / CLAIMANT'; transcript title page PDF p5 (case p1) 'for the place named \"Calleguas\"'; grant decree itself names 'el terreno conocido con el nombre de Calleguas' (PDF p17, case p11)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original filed as 'Document H.H. No. 1 annexed to the depo. of N. A. Den' (PDF p17-18, case p11-12): '...Dado en la Ex-Mision de Sta. Barbara a 10 de Mayo de 1837. Juan B. Alvarado. V. Prudon Srio int.o'. Sworn translation, Exhibit B (PDF p23-24, case p17-18): 'Given at the Ex Mission of Sta Barbara May 10th 1837.' Deputation approval 'En sesion de 20 de Mayo de 1837' (PDF p18, case p12). Hoffman's 1847 is wrong; the case file and the register agree on 1837."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree opening, PDF p17 (case p11): 'El Ciudadano Juan Bautista Alvarado, Gobernador del Estado, Coronel de la Milicia Civica y Presidente de la Exma. Diputacion del mismo'; signed 'Juan B. Alvarado' PDF p18 (case p12). Translation PDF p23 (case p17): 'The Citizen Juan Bautista Alvarado Governor of the State, Colonel of the Civic Militia and president of the Most Excellent the Deputation of said State.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, PDF p17 (case p11): 'Por cuanto el C. Jose Pedro Ruiz ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Calleguas ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Deputation approval, PDF p18 (case p12): '1o Se le concede al Ciudadano Jose Pedro Ruiz el paraje nombrado Cayeguas por obtener los requisitos que previene la ley de 18 de Agosto de 1824 y el art.o 5o del reglam.to de 21 de Nov.e de 1828'. Translation at PDF p23-24 (case p17-18). Gabriel Ruiz and the other claimants are his heirs (answer of appellees, PDF p120, case p73: 'the said Jose Pedro Ruiz died intestate, leaving him surviving and his heirs at law ... his sons Carlos Ruiz, Gabriel Ruiz, the said petitioner...')."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 60 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 60 SD pgs. 95'; every leaf stamped '60 SD'; filename cubanc_lcf_sd060.pdf; District Court endorsement PDF p114 (case p66) 'NO. 60 (No. 430 Transcript)', matching Hoffman's court_no 60 and commission_no 430."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket entry, Commissioner Alpheus Felch 'delivered the opinion of the Board Confirming the Claim (Vide page 47 of this Transcript)' (PDF p8, case p3); the U.S. summons dates that final confirmation 'on or about the 4th of November, 1853' (PDF p115, case p67) and the appellees' answer agrees (PDF p121, case p74). District Court decree, PDF p123 (case p81), Isaac S. K. Ogier, filed 7 March 1856: 'It is ordered, adjudged and decreed that the decision of the Commissioners be and the same is hereby affirmed, and it is further ordered, adjudged and decreed that the claim of the said Appellee above mentioned is good and valid and the same is confirmed to him and the other lawful heirs of Jose Pedro Ruiz to the extent called for in the grant & Map...'. The U.S. appeal to the Supreme Court was afterwards abandoned and vacated by stipulation, 'and that the Claimant have leave to proceed under the decree of this Court heretofore entered in this cause as under a final decree' (PDF p128, case p95)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six graded fields check out against the case file; no correction needed. The hoffman_flag ('register 1837 vs hoffman 1847') resolves in the register's favour: the grant decree and its sworn translation both read 10 May 1837, and the District Court answer repeats 'on or about the 10th day of May, A. D. 1837 by Juan B. Alvarado then Governor' (PDF p119, case p72). Hoffman's 1847 is a printed-table error. Surveyor General certificates at case p87 and p89 style the rancho 'confirmed to G. Ruiz' with the survey approved 25 March 1861, consistent with the register's later patent to Gabriel Ruiz (not graded here)."
+ },
+ {
+  "id": "rancho-campo-franceses",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256627/files/cubanc_lcf_nd298.pdf",
+  "pdf_pages_stated": 319,
+  "pages_read": [
+   "1-16",
+   "108-125",
+   "330-345"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 298 / NORTHERN DISTRICT / CAMPO de los FRANCESES GRANT / CHARLES M. WEBER / CLAIMANT'; transcript title page PDF p5 (case p1) 'for the place named \"Campo de los Franceses\"'; Board secretary's certificate PDF p120 (case p108) 'for the place known by the name of \"Campo de los Franceses\"'. The grant itself uses the same name (Board opinion quoting the decree, PDF p110, case p100: 'the land known by the name of \"Campo de los Franceses\"')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion of Commissioner S. B. Farwell, PDF p110 (case p100): 'On this Report Governor Micheltorena on the 13th day of January A.D. 1844 issued a grant in substance as following...'; the decree's own dating clause is quoted at PDF p112 (case p102): 'Given in Monterey the 13th of January 1844 (Signed) Manuel Micheltorena, (\") Manuel Jimeno Secy.' The Departmental Assembly approved it 15 June 1846 (PDF p112, case p102), and the petition agrees (PDF p11, case p7)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Manuel Micheltorena' with Manuel Jimeno as secretary, PDF p112 (case p102); recited in the Board opinion PDF p110 (case p100) as 'Governor Micheltorena'; petition PDF p11 (case p7): 'Manuel Micheltorena Governor of California by virtue of Authority in him vested granted to Guillermo Gulnac the tract of Land called \"Campo de los Franceses\"'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was Don Guillermo (William) Gulnac; Weber was the purchaser and U.S.-era claimant. Grant decree as quoted in the Board opinion, PDF p110 (case p100): 'Whereas Don Guillermo Gulnac Mexican by Naturalization has asked for his own personal benefit and that of his family, and Eleven other families for the land known by the name of \"Campo de los Franceses\" in extent Eleven Square leagues between the Rio de San Joaquin on the East and the Laguna called McCloud...'; PDF p111 (case p101): 'I have granted to him the said Land declaring to him the Ownership of it by these letters'. Commissioner Farwell states it flatly at PDF p113 (case p103): 'The grant then was to Gulnac.' Weber acquired by deed of 3 April 1845: translation of the conveyance, PDF p108 (case p98), 'appeared and presented himself citizen Gulnac ... all the rights and property he possessed in the Rancho known and called \"El Campo de los Franceses\" to Don Carlos Maria Weber, a naturalized citizen of Mexico ... which (Rancho) he acquired by a grant made to him by his Excellency the Governor and Commandant General of this Department Don Manuel Micheltorena, under date of the 13th day of January A.D. 1844'. The District Judge's reviewer likewise calls Gulnac 'the grantee' (PDF p332, case p307) and describes Weber as the purchaser (PDF p333, case p308)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 298 NORTHERN DISTRICT'; every leaf stamped '298 ND'; filename cubanc_lcf_nd298.pdf; District Court wrapper PDF p122 'U.S. DISTRICT COURT, Northern District of California, No. 298 ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 255, Filed October 23, 1855'. Board docket number 255 matches Hoffman's commission_no 255 and court_no 298."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation, PDF p119 (case p107): 'it is adjudged by the Commission, that the claim of the said petitioner is valid and it is therefore decreed, that his application for a Confirmation thereof be allowed. The land of which confirmation is hereby given is situated in the County of San Joaquin and embraces Eleven Square Leagues, and is called French Camp lying between \"San Joaquin\" River and the \"Laguna de McCloud\"' - R. Aug. Thompson and S. B. Farwell, Commissioners, filed April 17, 1855. The United States appealed (Attorney General Cushing's notice, PDF p121, case p109; U.S. petition for review, PDF p125, case p111), and the file's own docket wrapper, PDF p345, records the sequel: 'Decree filed May 1st 1856 / Mandate \" Feby 5th 1858 / Decree Confirming Survey \" Jany 5th 1861 / Amended decree confirming survey Jany 8 1861 / Mandate filed Feby 27 1862'. Decrees confirming a survey presuppose a standing confirmation of title, so the claim was confirmed and stood."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Guillermo (William) Gulnac, per the grant of 13 Jan 1844 quoted in the Board opinion, PDF p110 (case p100): 'Whereas Don Guillermo Gulnac Mexican by Naturalization has asked for his own personal benefit and that of his family, and Eleven other families for the land known by the name of \"Campo de los Franceses\"'; and Commissioner Farwell, PDF p113 (case p103): 'The grant then was to Gulnac.' Charles M. Weber bought Gulnac's interest by deed of 3 April 1845 and was the claimant before the Board."
+  },
+  "notes": "Dominant error class: register carries the U.S.-era claimant (Weber) as grantee. Hoffman 1862 agrees with the case file against the register ('Guillermo Gulnack'). Year, governor, name, docket and outcome all check out. Substantive context a re-reader should know: the United States fought this claim hard on the ground that Gulnac had forfeited by non-performance before selling to Weber (reviewer John Willard to the Attorney General, 28 Nov 1856, PDF p342-343, case p317-318: 'In my opinion the land had been forfeited when Gulnac sold to Weber, and ... the claim should have been rejected ... I should recommend the prosecution of the appeal'), and on whether the grant's 'East' boundary call was a clerical error for 'West' (PDF p330, case p305). The confirmation nevertheless stood. I did not read the text of the District Court decree of 1 May 1856 itself; the outcome grade rests on the Board's decree plus the file's docket wrapper listing the later decrees confirming the survey. pdf_pages_stated derived from the last stamped leaf ('298 ND PAGE 319', PDF p344); no explicit 'pgs.' count leaf was seen, and note that the Land Commission transcript proper is only 113 pages (secretary's certificate, PDF p120, case p108: 'the foregoing One hundred & thirteen pages, numbered from 1 to 113'), the remainder being District Court papers. PDF is 243MB / 345 images; read via pypdf page-range excerpts."
+ },
+ {
+  "id": "rancho-canada-carpenteria",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267542/files/cubanc_lcf_sd198.pdf",
+  "pdf_pages_stated": 55,
+  "pages_read": [
+   "1-16",
+   "17-34",
+   "50-65"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 198 / SOUTHERN DISTRICT / CANADA DE LA CARPENTERIA GRANT / JOAQUIN SOTO / CLAIMANT'; transcript title page PDF p5 (case p1) 'for the place named \"Canada de la Carpenteria\"'; the grant decree itself names 'el terreno conocido con el nombre de Cañada de la Carpintera' (PDF p16, case p11); Board secretary's certificate PDF p51 (case p42) 'for the place known by the name of Canada de la Carpenteria'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original (Exhibit No. 1 A.F.), PDF p17 (case p12): 'Dado en Monterrey a veinte i cinco de 8bre de mil ochocientos treinta y cinco. Jose Castro. Fran.co del Castillo Negrete Srio.' Sworn translation PDF p24 (case p19): 'Given in Monterey on the 25th day of October 1835.' Departmental Deputation approval recited in the decree itself as 'en decreto de veinte i siete de Agosto de este año' (PDF p16, case p11). Judicial possession followed 28 Oct 1835 (PDF p21, case p16). The District Court opinion states it independently, PDF p65 (case p55): 'The claim in this case is founded upon a grant from Jose Castro provisional Governor of Upper California, to Joaquin Soto, and bearing date 25 Oct 1835.' Hoffman's 1845 is a printed-table error."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree heading, PDF p16 (case p11): 'Jose Castro primer vocal de la E. Diputacion Territorial i Jefe S. politico interino de la Alta California'; translation PDF p23 (case p18): 'Jose Castro First Member of the Excellent Territorial Deputation and Superior Political Chief ad interim of Upper California'; signed 'Jose Castro' with Francisco del Castillo Negrete as secretary, PDF p17 and p24 (case p12, p19). District Court opinion, PDF p65 (case p55): 'a grant from Jose Castro provisional Governor of Upper California'. Register's 'Jose Castro' is right; strictly he signed as acting jefe politico, not as titular governor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, PDF p16 (case p11): 'Por cuanto Joaquin Soto Mexicano p.r nacimiento ha pretendido p.a su beneficio personal i el de su familia el terreno conocido con el nombre de Cañada de la Carpintera ... he venido en conferirle a nombre de la Nacion Mexicana el terreno mencionado declarandole a la propiedad de el por las presentes letras'; translation PDF p23 (case p18): 'Whereas Joaquin Soto a Mexican by birth has claimed for his personal benefit and that of his family the land known by the Name of Canada de la Carpenteria ... I have concluded in the name of the Mexican Nation to vest in him the mentioned Land, declaring it his property by the present letters patent'. Register's abbreviated 'J. Soto' = Joaquin Soto, and it is the ORIGINAL grantee, correctly, not a later claimant. Judicial possession was given to 'el C. Joaquin Soto' 28 Oct 1835 (PDF p21, case p16)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 198 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 198 SD pgs. 55'; every leaf stamped '198 SD'; filename cubanc_lcf_sd198.pdf; District Court wrapper PDF p52 'U.S. District Court, Southern District of California, No. 198 ... Transcript of the Record from the Board of U.S. Land Commissioners In case No. 650. Filed February 5th 1855'. Commission docket 650 matches Hoffman's commission_no 650 and court_no 198."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at both levels and the Supreme Court appeal abandoned. Board decree, PDF p50 (case p41): 'it is adjudged by the Commission that the claim of the said Juana Butron Soto and the other heirs at Law of said Joaquin Soto deceased is valid: and it is therefore decreed that the same be confirmed to them. The Land of which confirmation is hereby made is that known by the Name of Canada de la Carpenteria, situated in Monterey County' - Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed Aug 15, 1854. District Court opinion, PDF p65 (case p55): 'The genuineness and authenticity of the grant is fully proven ... The claim must be confirmed to the extent called for in the grant ... a decree will be accordingly, affirming the decision of the Commissioners'; the judgment against the United States was rendered 'on or about the 12th day of October A.D. 1855' (PDF p61, case p51). Attorney General Cushing, 11 September 1856, PDF p63 (case p53): 'In the case of the claim of Joaquin Soto, confirmed to the claimant by the Commissioners, Case no. six hundred and fifty (650), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six graded fields check out; no correction needed. The hoffman_flag ('register 1835 vs hoffman 1845') resolves in the register's favour: the decree, its sworn translation, the judicial possession of Oct 1835 and the District Court opinion all read 1835. One internal wrinkle a re-reader should know: the decree is dated '25 de 8bre' (25 October) but the secretary's registration note immediately below it reads 'Monterey Setiembre 25 de 1835' (PDF p17 / case p12, and translation PDF p24 / case p19), and the claim petition says '25th day of September A.D. 1835' (PDF p9, case p3); the District Court took 25 October 1835. The month is therefore uncertain in the record itself, the year is not. Background in the expediente: Soto had petitioned since 1831 and held only a provisional permit from Governor Victoria of 12 Oct 1831 ('Permito al interesado provicionalm.te haga labores y plantios en el terreno', PDF p33, case p26) before the 1835 grant. The grantee died c. 1846 and the claim was prosecuted by his widow Juana Butron de Soto and children (PDF p12, case p7)."
  }
 ]

@@ -257,5 +257,268 @@
    "governor": "Jose Castro, Prefect of the First District (San Jose), who issued and signed the grant 10 Aug 1839 under authority delegated to prefects by Governor Alvarado's administration (Ley Reglamentaria of 1837). Per grant instrument transcript p.27 and Board opinion transcript p.28. The register's 'Alvarado' identifies the delegating governor, not the actual grantor; Hoffman's 'Jose Castro' is the granting officer of record."
   },
   "notes": "Prefect grant of common (ejido) lands of the Pueblo of San Jose, the whole legal question being whether a prefect could grant pueblo commons; the Board upheld it citing its own prior Larios v. US No. 297 opinion. Grant dated 10 Aug 1839 (Board opinion) / 9 Aug 1839 (petition); expedientes 25 Apr 1839. Grantees = the three Bernal brothers (Jose de Jesus, Jose Antonio, Juan Bernal y Castro). About two square leagues in Santa Clara County east of San Jose. Confirmed finally 1857; register's 1863 patent (GLO 181) is downstream and not in this file."
+ },
+ {
+  "id": "rancho-canada-san-miguelito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266094/files/cubanc_lcf_sd057.pdf",
+  "pdf_pages_stated": 87,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "29-36",
+   "37-48",
+   "88-98"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 57 / SOUTHERN DISTRICT / CANADA DE SAN MIGUELITO GRANT / JUANA TICO DE RODRIGUEZ, ET AL / CLAIMANT'; transcript title p5 'for the place named \"Canada de San Miguelito\"' (also called Canada del Diablo, p8)"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant decree, PDF p20 (transcript p15): 'Angeles Marzo 21 de 1846 ... se declara al Ciudadano Ramon Rodriguez dueno en propiedad del parage conocido por Canada de S.n Miguel nombrada tambien Canada del Diablo'; titulo dated 'a veinte y uno de Marzo de mil ochocientos cuarenta y seis' (PDF p22/p30 translation p23); approved by Departmental Assembly 10 June 1846 (PDF p22, p30). District Court opinion PDF p93 (transcript p82): 'an alleged grant from Governor Pico to Ramon Rodriguez bearing date the 21st March A.D. 1846.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p20-21 (transcript p15-16): decree signed 'Pio Pico, Gobernador de las Californias por ministerio de la Ley'; titulo headed 'Pio Pico, Vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias'. Register 'Pio Pico' and Hoffman 'Pio Pico' both agree with the file."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant decree PDF p20 (transcript p15): 'se declara al Ciudadano RAMON RODRIGUEZ dueno en propiedad del parage'; titulo PDF p21: 'Por cuanto el Ciudadano Ramon Rodriguez ha pretendido para su beneficio personal y el de su familia el terreno nombrado Canada de San Miguelito'. Halleck affidavit PDF p12 (transcript p7): 'Ramon Rodrigues the Grantee in this case was killed in the service of the United States near Santa Barbara in 1848'. Register's 'Juana Tico de Rodriguez' is the GRANTEE'S WIDOW and the U.S.-era claimant (p1 label 'CLAIMANT'; petition PDF p9 'Juana Tico de Rodrigues, widow ... children of Don Ramon Rodrigues deceased')."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 57 SOUTHERN DISTRICT'; p2 'LAND CASE 57 SD PAGES 87'; District Court wrapper PDF p36 'No. 57 Docket'; filename cubanc_lcf_sd057.pdf. (Board docket was No. 242.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Land Commission REJECTED 13 Dec 1853, decree PDF p33-34 (transcript p27-28): 'the said claim of the petitioners is not valid, and their application for a confirmation thereof is therefore denied' (Felch, Campbell, Thompson). Reversed on appeal: U.S. District Court opinion PDF p98 (transcript p87): 'The claimant is therefore entitled to a confirmation of his claim to the extent of two square leagues within the exterior limits as marked upon the map; and a decree will be entered accordingly.' Attorney General letter 29 Sept 1856, PDF p89 (transcript p78): 'rejected by the Commissioners, case no. 242, but confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Order vacating the appeal and making the decree final filed 5 Feb 1857, PDF p88 and p91 (transcript pp77, 80-81)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1846 per the grant decree and titulo of 21 March 1846 (PDF p20-p22; translation PDF p30 'on the twenty first of March eighteen hundred and forty six'), approved by the Departmental Assembly 10 June 1846. The register's 1845 corresponds only to Pico's PROVISIONAL permission of 30 May 1845 to place cattle on the land 'subject to the decision which may be made with respect to his petition presented March twentieth 1844' (PDF p17-19, transcript pp8-11) - a grazing permit, not the grant of ownership.",
+   "grantee": "Ramon Rodriguez (Ramon Rodrigues), resident of the Presidio of Santa Barbara, per the decree PDF p20 and titulo PDF p21."
+  },
+  "notes": "Textbook instance of the dominant error class: the register records the U.S.-era CLAIMANT (Juana Tico de Rodriguez, the grantee's widow, named on the red label and on the Board petition) in place of the Mexican GRANTEE (Ramon Rodriguez, d. Dec 1848). Hoffman 1862 is right on both flagged points against the register: year 1846 and grantee Ramon Rodriguez. Rancho also known as Canada del Diablo. Patent (register: 15 June 1871, GLO 391) does not appear in the case file; Phase C should check GLO."
+ },
+ {
+  "id": "rancho-canada-segunda",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268978/files/cubanc_lcf_sd356.pdf",
+  "pdf_pages_stated": 101,
+  "pages_read": [
+   "1-12",
+   "13-20",
+   "21-32",
+   "60-70",
+   "100-109",
+   "110-120"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 356 / SOUTHERN DISTRICT / CANADA DE LA SEGUNDA GRANT / ANDREW RANDALL / CLAIMANT'; transcript title p5 'for the place named Canada de la Segunda'; expediente cover PDF p25 (transcript p18) 'Espediente promovido por el C. Lazaro Soto en pretencion del terreno nombrado La Canada de Segunda'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Expediente (Exhibit No. 1, traced from the Monterey County archives): Soto's petition 'Monterey 2 de Marzo de 1839' (PDF p26, transcript p19-20; translation PDF p29-30 'Monterey 2d March 1839'); Alvarado's marginal decree 9 March 1839; Prefect's report 20 March 1839; Alvarado's order to the Prefect 'Monterey 29 de Marzo de 1839' (PDF p27; translation PDF p31, transcript p24). Board opinion PDF p62 (transcript p46): the grant itself 'issued in pursuance of the above recited proceedings by Jose Castro as prefect of the proper district dated the 4th day of April 1839'. All 1839, as the register says."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Alvarado was the Governor and his decrees drive the concession: marginal decree PDF p26/p30 (transcript p19/p23) 'Monterey 9th March 1839. The Alcalde of Carmelo will report that which is necessary and will transmit the whole to the Prefect of the First district. (Signed) Alvarado'; and PDF p27/p31 (transcript p20/p24) 'Monterey 29th March 1839 ... let this petition be returned to the Prefect of the First district in order that in virtue of the powers granted to him by the 17th article of the decree of the 20th March 1837 he may make out the title of concession ... (Signed) Alvarado'. BUT the instrument of grant was signed by JOSE CASTRO as Prefect: Board opinion PDF p62 (transcript p46) 'a traced copy of a grant purporting to have been issued in pursuance of the above recited proceedings by Jose Castro as prefect of the proper district dated the 4th day of April 1839'; PDF p63 (transcript p47) 'With a full knowledge of all the facts the Governor ordered the Prefect to issue the grant in conformity with the colonization laws'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Expediente cover PDF p25 (transcript p18) 'promovido por el C. Lazaro Soto'; petition signed 'Lazaro Soto' PDF p26, translation PDF p29 'Citizen Lazaro Soto, a resident of Monterey'; Prefect's report PDF p27 'el terreno que solicita la parte de Lazaro Soto'; Board opinion PDF p63 (transcript p47) 'an equity on the part of the grantee Soto'. Andrew Randall (register's patent line and the red label) is the U.S.-era purchaser at a constable's sale (Board opinion PDF p62, transcript p46), not the grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 356 SOUTHERN DISTRICT'; p2 'LAND CASE 356 SD pgs. 101'; District Court wrapper PDF p68 and PDF p100 'Case No. 356'; filename cubanc_lcf_sd356.pdf. Board docket number was 554 (transcript p1-2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree, PDF p64 (transcript p48), filed 14 Aug 1855: 'it is adjudged by the Commission that the claim of the said petitioner is valid and it is therefore decreed that his application for a confirmation thereof be allowed.' Appeal taken (notice PDF p69-70, transcript pp51-52); the District Court then decreed for the claimant, and by stipulation filed 8 Feb 1858, PDF p100-101 (transcript pp82-83): 'an order of the Court may be entered in this cause vacating the order of appeal heretofore granted in this cause, and that the claimant and Appellee have leave to proceed under the decree of this Court heretofore rendered as a FINAL DECREE IN HIS FAVOR' (P. Ord, U.S. Atty; Sloan & Hartman for appellee). Confirmation therefore final; no patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman's 'Jos<5 Castro' in the governor column is not an error on his part: the titulo de concesion was signed by Jose Castro as PREFECT of the 1st District, 4 April 1839, under Governor Alvarado's order of 29 March 1839. The register's 'Alvarado' is defensible (he was governor and directed the concession) but incomplete, hence PART; a re-reader wanting the signed title should note that the ORIGINAL title papers were lost (depositions of McKinley/Robinson/Roach, transcript pp11-14, PDF p19-20), so the file carries only the archive expediente and the Board's recital of the Castro grant. TRAP: the 1857 probate deed and the Heydenfeldt-to-Haight deed both recite 'the same land granted March 20, 1836 to Lazro Soto by [blank]' (PDF p112 and p117, transcript pp94, 89) - an 1836 date and a blank grantor; that recital is wrong, the expediente is 1839. Register's patent line (Fletcher M. Haight, 1859) is consistent with the file: Randall died, his administratrix sold at probate auction 22 May 1857 to Haight, Heydenfeldt, Park and the Shafters (PDF p111-113), and Haight bought out the other half 3 Nov 1857 (PDF p117-119)."
+ },
+ {
+  "id": "rancho-canon-santa-ana",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265836/files/cubanc_lcf_sd089.pdf",
+  "pdf_pages_stated": 34,
+  "pages_read": [
+   "1-14",
+   "35-44",
+   "80-89"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The GRANT names it 'Canon de Santa Ana': titulo PDF p12 (transcript p8) 'el terreno conocido con el nombre del Canon de Santa Ana, colindante con la Sierra, mision de San Gabriel y Rancho de Santa Ana y Santa Gertrudis'; act of juridical possession PDF p14 (transcript p11) 'En el rancho llamado Canon de Sanana [Santa Ana] jurisdiccion del Pueblo de los Angeles'; Board petition PDF p9 (transcript p4) 'the land thus granted is called the Canon de Sta Ana'; U.S. District Court petition PDF p43 (transcript p33) 'the tract of land called Canon de Santa Ana, in the County of Los Angeles'. Register agrees with the grant."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo closing, PDF p13 (transcript p9): 'Dado en Monterey a primero de Agosto de mil ochocientos treinta y cuatro. Jose Figueroa. Augustin V. Zamorano, Srio.' Concession decree 30 July 1834, approved by the Diputacion Territorial 31 July 1834 (recited in the titulo, PDF p12, and in the Board petition PDF p9). District Court opinion PDF p86 (transcript p77): 'a grant from Figueroa to the present claimant Bernardo Yorba dated August the 1st 1834'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, PDF p12 (transcript p8): 'Jose Figueroa General de Brigada del Ejercito de la Republica Mejicana, Comandante General Inspector y Jefe Superior Politico del territorio de la Alta California'; signed 'Jose Figueroa' PDF p13. Coronel's deposition PDF p11 (transcript p5): 'Question Fourth. Who was Governor of California on the 1st of August 1834 and who was Secretary? Answer. Don Jose Figueroa was Governor and Agustin V. Zamorano Secretary.' Hoffman's 'Jos6 iigue54 roa' is simply OCR damage to 'Jose Figueroa'; no substantive disagreement."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Titulo PDF p12 (transcript p8): 'Por cuanto el ciudadano BERNARDO YORBA, mejicano por nacimiento, ha pretendido para su beneficio personal y el de su familia el terreno...'; red label p1 'BERNANDO YORBA CLAIMANT'; Board petition PDF p9. The register's 'B. Yorba' is the correct person, merely abbreviated (its own patent_to field spells 'Bernardo Yorba'). Graded PART for form only - no substantive error. Note this is one of the rare cases where grantee and U.S.-era claimant are the SAME man."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 89 SOUTHERN DISTRICT'; District Court wrapper PDF p37 'No. 89 Docket ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 387, September 20, 1854'; filename cubanc_lcf_sd089.pdf. Board docket 387."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 24 Jan 1854, decree recited verbatim in the U.S. petition of review PDF p44 (transcript p35): 'it is adjudged by the Board that the Claim of the petitioner is valid and it is therefore decreed that the same be Confirmed. The land of which Confirmation is made is of three square leagues in extent a little more or less situated in the County of Los Angeles.' United States appealed (AG notice 30 Nov 1854, PDF p38, transcript p29). U.S. District Court opinion PDF p86-87 (transcript pp77-78): 'A decree will be entered affirming the decision of the Commission, and confirming the claim.' AG letter 16 Sept 1856, PDF p82 (transcript p73): 'confirmed to the claimant by the Commissioners, case no. 387, and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Order vacating the Supreme Court appeal and making the decree final, December Term 1857, signed Isaac S. K. Ogier, U.S. District Judge, PDF p88 (transcript p79)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Bernardo Yorba (register abbreviates to 'B. Yorba'); no substantive change."
+  },
+  "notes": "Clean record: every register field is confirmed by the grant itself. NAME TRAP for a re-reader: the Bancroft red label reads 'CANON DE SANTA ANITA GRANT', the Board transcript cover 'Canon de Santa Anita', and George Fisher's certificate (PDF p36, transcript p28) 'Canada de Santa Anita' - three clerical corruptions. Every underlying document (titulo, juridical possession, Board petition, District Court papers) says CANON DE SANTA ANA, which is what the register has. Hoffman's 'Canada de Santa Ana' is likewise a corruption of Canon. The transcript from the Board is 34 pages (Fisher certificate, PDF p36); the bound case file continues to transcript p79 with the District Court record, 89 PDF images total. Patent (register: 25 July 1866, GLO 475) is not in the file."
+ },
+ {
+  "id": "rancho-carbonera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256587/files/cubanc_lcf_nd255.pdf",
+  "pdf_pages_stated": 27,
+  "pages_read": [
+   "1-14",
+   "15-26",
+   "27-41"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 255 / NORTHERN DISTRICT / LA CARBONERA GRANT / WILLIAM BOOLE / CLAIMANT'; transcript title PDF p5 'for the place named La Carbonera'; Bocle's own petition to the Alcalde, PDF p17 (Spanish) and PDF p21 (translation): 'he has petitioned for the land called La Carbonera'; Board decree PDF p26: 'known by the name of La Carbonera'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The grant is FEBRUARY 1838, not 1839. Alcalde Antonio Rodriguez's provisional marginal decree, PDF p17 (Spanish): 'Villa de Branciforte Febrero 2 de 1838. Se le concede el terreno que solicita al interesado por hallarse baldio para los fines que indica en la presente instancia...'. Governor's decree, PDF p19 (Spanish): 'Monterey Feb.o 3 de 1838. Por cuanto el representante tiene los meritos suficientes para ser atendido en su solicitud he venido en decreto de este dia en conceder le el terreno que pretende conforme con las facultades que me son conferidas por las leyes. El Juez de la Villa de Branciforte reconocera esta concesion. Dada en Monterey Capital del Territorio de Californias. Alvarado.' Sworn translation, PDF p22: 'Monterey February 3rd 1838. Whereas the petitioner has the merits required to be attended to in his claim, I have resolved by a decree of this day to grant him the land he solicits by virtue of the powers conferred on me by law...' Board opinion PDF p25: 'On the margin of this petition is entered a decree of Governor Alvarado granting him the land solicited... This last decree is dated Feb 3rd 1838.' Board decree PDF p26: 'being the same which was granted to the petitioner by Governor Alvarado on the 3rd of February 1838.' Claimant's own Board petition PDF p9 says the same: 'on the 3rd day of February in the year 1838, Governor J. B. Alvarado by his decree granted to him...'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree signed 'Alvarado', PDF p19 / translation PDF p22; Board opinion PDF p25 'a decree of Governor Alvarado'; Board decree PDF p26 'granted to the petitioner by Governor Alvarado'. Manuel Castro deposition PDF p15: 'He was Governor of California in 1838 and the marginal decree on the said document shown me with the signature of the said Alvarado affixed thereto is in his own proper hand writing and his said signature thereto is his genuine signature.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition and grant run to Guillermo (William) Bocle: PDF p17 'Guillermo Bocle natural de la Ciudad de Londres y avecindado en este territorio... he pretendido el terreno nombrado la Carbonera', signed 'Guillermo + Bocle, Villa de Branciforte Febrero 2 de 1838'; translation PDF p21 'Guillermo Bocle a native of the city of London and resident of this Territory'. Naturalization letter, PDF p23: 'Habiendo Guillermo BUCKLE originario de Inglaterra cumplido con las condiciones... declaro al repetido Guillermo Buckle por las presentes naturalizado en la Republica Mejicana' (Manuel Jimeno, Monterey 26 July 1839). Grantee and U.S.-era claimant are the same man; register's 'William Bocle' matches the file's own form."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 255 NORTHERN DISTRICT'; p2 'LAND CASE 255 ND 27 pgs.'; District Court wrapper PDF p31 'No. 255 ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 210, filed July 21st 1855'; filename cubanc_lcf_nd255.pdf. Board docket 210."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 23 Jan 1855, PDF p25: 'The Evidence is considered sufficient to establish the claimant's right to a Confirmation and a decree will be entered accordingly. Confirmed.' Decree PDF p26: 'it is adjudged by the Commission that the claim of the petitioner is valid, and it is therefore decreed that the same be Confirmed' (Felch, Thompson, Farwell). U.S. first noticed an appeal (AG 10 Oct 1855, PDF p33; notice filed 22 Nov 1855, PDF p34), then abandoned it (AG 29 Nov 1856, PDF p37: 'appeal will not be prosecuted by the United States'; stipulation PDF p38). District Court order, PDF p35, filed 13 Feb 1857, Ogden Hoffman, U.S. District Judge: 'it is Ordered, Adjudged and Decreed that the appeal pending in this Court be dismissed and that the Claimant have leave to proceed under the decree of the Land Commission heretofore rendered in his favor, as under Final Decree.' Confirmation final; no patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1838 per the grant decree: Alcalde's provisional decree 2 February 1838 (PDF p17) and Governor Alvarado's decree of concession 3 February 1838 (PDF p19; translation PDF p22), as recited in the Board's own decree (PDF p26): 'granted to the petitioner by Governor Alvarado on the 3rd of February 1838'."
+  },
+  "notes": "Hoffman 1862 (1838) is RIGHT against the register (1839) and the case file proves it four separate ways. Possible source of the register's 1839: Bocle's Mexican naturalization letter is dated 26 July 1839 (PDF p23), and Joseph L. Majors deposed that he had been living next to Bocle 'since 1839' (PDF p11) - neither is the grant. NOTE for a re-reader: this file carries TWO page-number systems - a blue Bancroft stamp ('255 ND PAGE n') and the transcript's own pencil foliation, which run about 3 apart from the Board opinion onward (Board opinion = stamped 16, pencil 19). Cite PDF images, as above. Patent (register: 7 July 1873, GLO 209) is not in the file."
+ },
+ {
+  "id": "rancho-casmalia",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268911/files/cubanc_lcf_sd284.pdf",
+  "pdf_pages_stated": 67,
+  "pages_read": [
+   "1-14",
+   "62-73",
+   "74-78"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 284 / SOUTHERN DISTRICT / CASMALIA GRANT / ANTONIO OLIVERA / CLAIMNAT [sic]'; transcript title PDF p5 'for the place named Casmalia'; the grant itself, PDF p13: 'el terreno conocido con el nombre de Casmalia colindante al norte con lomas del Asuje, al Sur con el Rancho de San Antonio, al Oriente con la costa y al Poniente con la Playa'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Original grant (Exhibit No. 1 annexed to W. E. P. Hartnell's deposition), PDF p13-14: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto D.n Antonio Olivera ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Casmalia... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras y sujeto a la aprobacion de la Exma Asamblea Departamental...' closing PDF p14: 'DADO EN MONTERREY A DOCE DE SEPTIEMBRE DE MIL OCHOCIENTOS CUARENTA. Juan B. Alvarado. Manuel Jimeno, Srio.' The expediente decree is likewise headed 'Monterey September 12th 1840' (PDF p63). Claimant's Board petition PDF p9: 'title of grant made to him under the authority of the Mexican Government by Juan B. Alvarado Constitutional Governor of the Department of the Californias BEARING DATE THE 12th OF SEPTEMBER 1840'. Hartnell deposition PDF p10 identifies Exhibit 1 as 'an original grant from Governor Juan B. Alvarado to Antonio Olivera, dated September 12th 1840'. The register's 1837 appears nowhere in the file."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant PDF p13-14, signed 'Juan B. Alvarado' and countersigned 'Manuel Jimeno, Srio.'; the stamped paper is even revalidated 'Habilitado provisionalmente por la Aduana Maritima de Monterrey para los anos de 1839 y 1840. Alvarado. Ant.o M.a Osio' (PDF p13). Board opinion PDF p65: 'a grant for the place issued by Juan B. Alvarado Governor'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant PDF p13: 'Por cuanto D.n ANTONIO OLIVERA ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Casmalia'; Board petition PDF p9 'Your Petitioner Antonio Olivera of the county of Santa Barbara'; Board decree PDF p66. Register's 'A. Olivera' is the right man, abbreviated (its own patent_to field spells 'Antonio Olivera'). Graded PART for form only. Grantee and U.S.-era claimant are the same man."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 284 SOUTHERN DISTRICT'; p2 'LAND CASE 284 SD 67 pgs.'; District Court wrapper PDF p68 'No. 284 ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 553, filed October 4th 1855'; filename cubanc_lcf_sd284.pdf. Board docket 553."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 6 March 1855, PDF p65: 'We are therefore of the opinion that this claim is valid and should be confirmed and a decree will be entered accordingly. Confirmed.' Decree PDF p66: 'it is adjudged by the Commission that the claim of the petitioner is valid and it is therefore decreed that his application for a confirmation thereof be allowed' (Felch, Thompson, Farwell). U.S. first appealed (AG 10 Oct 1855, PDF p69; notice filed 20 Nov 1855, PDF p70; petition of review by U.S. Attorney Pacificus Ord, PDF p71-73), then abandoned it: AG letter 12 Feb 1857, PDF p75: 'In the case of the claim of Antonio Olivera, confirmed to the claimant by the Commissioners, Case no. five hundred and fifty-three (553), an appeal will not be prosecuted by the United States' (item filed 1 Feb 1858, wrapper PDF p76). Surveyor General's certificate, PDF p77: 'I, J. W. Mandeville, United States Surveyor General for the State of California, do hereby certify that the Rancho Casmalia confirmed to A. Olivera has been surveyed by this office, and that the survey and plat was approved by the U.S. Surveyor General on the 29th day of January 1861' - the pre-patent survey. Confirmation therefore stood; no patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840 per the grant: 'Dado en Monterrey a doce de Septiembre de mil ochocientos cuarenta' (PDF p14), i.e. 12 September 1840, approved subject to the Departmental Assembly.",
+   "grantee": "Antonio Olivera (register abbreviates to 'A. Olivera'); no substantive change."
+  },
+  "notes": "Hoffman 1862 (1840) is RIGHT against the register (1837). Nothing in the case file supports 1837: the grant, the expediente decree, the claimant's petition and Hartnell's deposition all say 12 September 1840; juridical possession followed later (petition PDF p9 says 10 January 1844). Two page-number systems again: the blue Bancroft stamp ('284 SD PAGE n') and the transcript's own pencil foliation, running ~4 apart at the end (Board opinion = stamped 55, pencil 59). Fisher certified the Board transcript at 60 pages (PDF p67); the bound file runs to stamped page 67. Patent (register: 30 July 1863, GLO 355) is not in the file, but the 1861 approved survey that precedes it is (PDF p77)."
+ },
+ {
+  "id": "rancho-caymus",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264419/files/cubanc_lcf_nd032.pdf",
+  "pdf_pages_stated": 775,
+  "pages_read": [
+   "1-14",
+   "15-20",
+   "782-792"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "U.S. District Court decree, PDF p782 (stamped 'CASE 32 ND PAGE 765'): 'The land, of which confirmation is made, is known by the name of \"CAYMUS\", is of the extent of two square leagues, according to the Map in Exhibit A to the petition of said Yount before said Board of Commissioners.' Also transcript title PDF p4 'for the place named Caymas/Caymus' and espediente margin PDF p13 'Rancho de Caymas' - the Spanish clerk's hand does not distinguish the vowel, but the Court's engrossed decree settles it as CAYMUS, which is what the register has."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, PDF p20 (stamped page 16): '...he venido en declarar dueno absoluto del terreno q.e indica el diseno a Jorge de la Concepcion Yount a reserva de la aprobacion de la Exma. Diputacion. El Sr. D. Nicolas Gutierrez... asi lo mando, decreto y firmo', followed by the clerk's note 'SE LE ESTENDIO TITULO EN 23 DE FEBRERO DE 1836. En 31 de Mayo, paso a la Comis.n de terrenos. Maldonado, Srio.' Yount's petition to the Board, PDF p9: 'That on the 23rd day of February A.D. 1836, Nicolas Gutierez, Governor of California... granted to the petitioner the tract of land called Caymus.' District Court opinion, PDF p790 (stamped 773): 'The grant bears date on the 23d of February 1836 and is for two square leagues.' The whole expediente runs Feb 1-23, 1836 (Yount's petition 'Monterrey, Febrero 1.o de 1836', PDF p13)."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The file names the man: the marginal decree of 2 Feb 1836 and the concession decree are both made by 'El Sr. D.n NICOLAS GUTIERREZ, Teniente Coronel de Caballeria permanente, Comandante General, Inspector y Gefe Superior Politico del Territorio de la Alta California', signed 'Nicolas Gutierrez / F.co del Castillo Negrete, Srio.' (PDF p13-14 and PDF p20, stamped pages 9-10 and 16); the sealed paper is itself revalidated 'Gutierrez. A. Ramirez' (PDF p13). Yount's Board petition, PDF p9, calls him 'Nicolas Gutierez, Governor of California'. The register's 'the interim government' is substantively true (Gutierrez held Alta California ad interim in 1836, as jefe politico and comandante general, not as constitutional governor) but names no one; Hoffman's 'Nicolas Gutierrez' agrees with the file."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree PDF p20: 'he venido en declarar dueno absoluto del terreno q.e indica el diseno a JORGE DE LA CONCEPCION YOUNT'; espediente cover PDF p12 'Espediente promovido en solicitud del terreno q.e indica el diseno por Jorge de la Concep.on Yount'; petition signed 'Jorge de la C. Yount' (PDF p13) and, in the Alcalde's notification, 'George Yount' in his own hand (PDF p16). District Court decree PDF p782: 'the claim of the said George C. Yount is valid'. Grantee and U.S.-era claimant are the same man; the register is exact."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Front leaf p1: 'LAND CASE 32 ND 775 pages'; every leaf stamped 'CASE 32 ND PAGE n'; District Court caption PDF p784 'Dist. Court No. 32, Land Com. No. 243'; filename cubanc_lcf_nd032.pdf. Board docket 243 (transcript title PDF p4)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: 'Tuesday Feby 8th 1853. In Case No 243, George C. Yount, for the place named Caymus, Commissioner Harry I. Thornton delivered the Opinion and the Decree of FINAL CONFIRMATION of this Board' (index, PDF p8-9, transcript pp4-5). United States appealed. U.S. District Court decree, PDF p782 (stamped 765): 'the Court is of opinion that the claim of the said George C. Yount is valid and the same is hereby confirmed', signed Ogden Hoffman, U.S. District Judge. Court's opinion, PDF p790-791 (stamped 773-774): 'No objections whatever to its validity are raised by the District Attorney nor is any reason suggested why it should not be confirmed... We are unable on an examination of the record to discover any objection to the validity of this claim. A decree of confirmation must therefore be entered.' No patent copy in the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Nicolas Gutierrez - 'Teniente Coronel de Caballeria permanente, Comandante General, Inspector y Gefe Superior Politico del Territorio de la Alta California' (PDF p13, p20), i.e. the interim executive of Alta California in February 1836. The register's 'the interim government' is not wrong, but the file names him."
+  },
+  "notes": "VERY LARGE FILE: 573 MB, 792 images, 775 stamped pages - read via pypdf page-range excerpts (pages 1-20 and 782-792 of the original), not directly. The bulk of the middle is survey/possession litigation running to 1861; the terminal documents settle every field. Hoffman 1862 agrees with the file on governor (Nicolas Gutierrez). The Spanish clerk's hand does not distinguish Caymas/Caymus, so a re-reader should cite the engrossed District Court decree (PDF p782), which prints 'Caymus'. Grant is expressly 'a reserva de la aprobacion de la Exma. Diputacion' and the espediente was passed to the Comision de terrenos on 31 May 1836 (PDF p20); Yount's Board petition adds that it was later approved by the Territorial Deputation (PDF p10). Register's patent (3 April 1863, GLO 78) is not in the pages read."
  }
 ]

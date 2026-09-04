@@ -1,0 +1,135 @@
+[
+ {
+  "id": "rancho-topanga-malibu-sequit",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266107/files/cubanc_lcf_sd147.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   1,
+   2,
+   "5-12",
+   "13-24",
+   "173-184"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 147 / SOUTHERN DISTRICT / TOPANGO MALIBU VC GRANT / LEON V. PRUDHOMME CLAIMANT'; PDF p5 (transcript p.1) 'for the place named \"Topanga, Malibu &c\"'; Spanish original PDF p19 names the four parajes 'Topanga, Malibu, Sostomo, Sumo y Siquis' (= Sequit)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p18 (147 SD page 12), sworn translation of Doc. H.H. No. 1, endorsement: 'Loretto 12th of July 1805. To the Commandant of the Garrison of Santa Barbara belongs the decision of this demand... Arrillaga'; Tapia's underlying petition dated 'Town of Los Angeles 16 of April 1805'. Spanish original at PDF p15 carries the same marginal decree 'Loreto 12 de Julio de 1805'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "PDF p18 decree signed 'Arrillaga'; PDF p11 (147 SD page 6) Jose Antonio Carrillo deposition: 'I am acquainted with the signatures of Jose Joaquin Arrillaga & Jose Bartolome Tapia... Said Arrillaga was at the date of said decree Governor of both the Californias.' Register's 'a Spanish governor' is true but unnamed; correct reading = Jose Joaquin de Arrillaga"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "PDF p15/p18: the 1805 petition and decree run to 'Jose Bartolome Tapia'. Leon V. Prudhomme is the U.S.-era CLAIMANT (PDF p1 red label 'LEON V. PRUDHOMME CLAIMANT'; PDF p9 petition), who bought the rancho from Tapia's widow Maria Francisca Mauricia Villalobos by deed of 24 Jan 1848 (Spanish deed PDF p19, translation PDF p21)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 147 SOUTHERN DISTRICT'; PDF p2 pencil 'Land Case # 147 S.D.'; internal stamps read '147 SD' throughout; filename cubanc_lcf_sd147.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED 21 Mar 1854 (PDF p8 = 147 SD page 3: 'Commissioner Alpheus Felch delivered the opinion of the majority of the Board rejecting the claim'), but the District Court superseded it: PDF p183 (147 SD page 169), clerk's certified 1928 inventory of the case papers, items '31. Decree of Confirmation - filed Oct 24, 1864' and '32. Mandate - filed Dec 4, 1865'. Register 'Confirmed' is right; Hoffman's 1862 'rejected' records only the Board stage"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Bartolome Tapia (original grantee, 1805). Prudhomme = 1852 claimant/purchaser.",
+   "governor": "Jose Joaquin de Arrillaga, governor of both Californias, decree at Loreto 12 July 1805 (PDF p18)"
+  },
+  "notes": "144MB / 184 PDF images; excerpted with pypdf. Case file has no 'pgs.' count leaf; internal stamped pages run to at least 169. Hoffman's year 1804 is WRONG against the file (decree 12 July 1805; petition 16 Apr 1805) - register's 1805 agrees with the case file. Hoffman's grantee 'Jose Bartolome Tapia' agrees with the file against the register. Matthew Keller was substituted as appellant 12 Mar 1860 (PDF p183 item 30) and appears as appellant on PDF p177-178 ('Mathew Keller subd for L. V. Prudhomme'), which supports the register's patent_to but no patent copy is in the file."
+ },
+ {
+  "id": "rancho-tract-near-san-juan-bautista",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268948/files/cubanc_lcf_sd325.pdf",
+  "pdf_pages_stated": 84,
+  "pages_read": [
+   "1-14",
+   "15-28",
+   "80-93"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 325 / SOUTHERN DISTRICT / LAND NEAR THE MISSION OF SAN JUAN BAUTISTA GRANT / MANUEL LARIOS CLAIMANT'; PDF p3 transcript title 'for the place named \"Land near the Mission of San Juan Bautista\"'. Register's 'Unnamed grant (SD 325)' is a placeholder; the file does supply a designation, and witnesses call the tract 'the Rancho of Don Manuel Larios ... after, it was known as San Antonio' (Ramon Anzar, PDF p17 = 325 SD p.13) and 'it was called San Antonio' (Claudio Vasquez, PDF p16 = 325 SD p.12)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p83 (325 SD page 83), District Court decree: 'the original grant from Jose Castro Prefect to the present claimant dated May 4th 1839'; same date in the confirmation decree PDF p85 (325 SD p.75) 'a Document bearing date May 4th 1839'; petition PDF p9 (325 SD p.6) 'granted to the claimant on the 4th day of May in the year 1839'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The concession instrument was NOT signed by the governor. District Court decree, PDF p85 (325 SD page 75): 'the same which was granted to him by Jose Castro, Prefect of the first District by order of the Governor by a Document bearing date May 4th 1839'. Jose Castro's own deposition, PDF p13 (325 SD p.9): 'In the Month of May 1839 I held the Office of Prefect of the First District of California... The paper was signed by me as Prefect', and PDF p15 (325 SD p.11) 'Whose hand writing is the body of the before mentioned grant. Answer. It is in my hand writing.' The authorizing governor is named at PDF p9 (325 SD p.6): 'pursuant to an order of that effect given by Don Juan B. Alvarado Constitutional Governor of said Department', corroborated by J. M. Aguilar, PDF p23 (325 SD p.19): 'I saw an Order in writing signed by Governor Juan B Alvarado, in which Order Jose Castro, the prefect was directed to give the possession of the said land to Manuel Larios.' Register's 'Alvarado' names the right administration and the ordering authority, but the granting officer of record is Jose Castro, Prefect of the 1st District"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p13 (325 SD p.9) Jose Castro: 'A paper is now shown me purporting to be a grant of ownership or possession to Manuel Larios dated May 4 1839 & which is hereto attached & marked H.H. No. 1'; District Court decree PDF p85 confirms 'to the said Manuel Larios'. Here claimant and grantee are the same man, so the usual claimant-for-grantee error does not arise"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 325 SOUTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 325 SD pgs. 84'; District Court papers stamped 'Docket No 325 / Transcript No 297' (PDF p82); filename cubanc_lcf_sd325.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: PDF p8 (325 SD p.5) 'San Francisco June 19, 1854 ... Commissioner R. Aug. Thompson delivered the Opinion of the Board Confirming the Claim'. District Court affirmed and confirmed: PDF p84-86 (325 SD pp.74-76), decree of Ogden Hoffman [signed 'US Dist Judge'], 'Thus done and ordered in open Court this twenty third day of December 1858'. U.S. appeal DISMISSED by the Supreme Court: mandate PDF p88-89 (325 SD pp.79-81), December Term 1864, 'on the motion of Mr Attorney General Speed of Counsel for the appellants it is now here ordered adjudged and decreed by this Court that this cause be and the same is hereby dismissed', filed Oct 17, 1865"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Granting officer per the decree (PDF p85): 'Jose Castro, Prefect of the first District by order of the Governor'; Governor = Juan B. Alvarado, who signed the authorizing order (PDF p9, p23). Register's bare 'Alvarado' omits that the instrument is a prefectural grant.",
+   "name": "Case-file designation: 'Land near the Mission of San Juan Bautista' (red label p1); locally 'Rancho of Don Manuel Larios' / 'San Antonio' (PDF p16-17)"
+  },
+  "notes": "85MB / 93 PDF images; stated 84 pages. Hoffman's 'governor: Jose Castro' agrees with the case file about who signed the grant; the register's 'Alvarado' agrees with the file about whose order authorized it - both are in the record, and the decree states both. The grant document itself (H.H. No. 1) is at 325 SD p.23 per the District Court index (PDF p82); I did not open p.23, but three independent witnesses and two decrees fix its date, signer and grantee, so no field turns on it."
+ },
+ {
+  "id": "rancho-tujunga",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266089/files/cubanc_lcf_sd052.pdf",
+  "pdf_pages_stated": 178,
+  "pages_read": [
+   "1-14",
+   "15-28",
+   "177-190"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 52 / SOUTHERN DISTRICT / TUJUNGA GRANT'; PDF p5 transcript 'for the place named \"Tujunga\"'; Spanish expediente wrapper PDF p15 (52 SD p.10) 'Expediente promovido por los CC. Francisco y Pedro Lopez en solicitud del parage conocido con el nombre de Tojunga. A\u00f1o de 1840'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish titulo in the archive expediente, PDF p21 (52 SD p.16): 'Dado en Monterey a cinco de Diciembre de Mil ochocientos cuarenta'; its English translation PDF p27 (52 SD p.22): 'Given at Monterey December fifth one thousand eight hundred and forty'. The claimants' ORIGINAL title paper, PDF p187 (52 SD p.174), is dated 'Dado en Monterey a siete de Noviembre de mil ochocientos cuarenta' - both 1840"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p20-21 (52 SD pp.15-16), grant letters: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto los Ciudadanos Franco y Pedro Lopez han pretendido... he venido en concederles el terreno mencionado declarandoles la propiedad de el por las presentes letras'; English at PDF p26 (52 SD p.21). CAVEAT recorded in the note: the concession decree of 5 Dec 1840 was actually signed for the absent Alvarado - PDF p20 (52 SD p.15) 'El Sr Gobernador into asi lo mando decreto y firmo de que doy fe. Jimeno / Jose L. Fernandez Srio Into' - and the claimants' original paper (PDF p186, 52 SD p.173) is issued by 'Manuel Jimeno Casarin primer Vocal de la Excma Junta del Departamento de las Californias en ejercicio del Gobierno del mismo'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant runs to FRANCISCO and PEDRO LOPEZ, not to the register's names. PDF p20-21 (52 SD p.15-16): 'Por cuanto los Ciudadanos Franco y Pedro Lopez han pretendido para su beneficio personal y el de sus familias el terreno conocido con el nombre de Arroyo de Tujunga... he venido en concederles el terreno mencionado'; PDF p19 (52 SD p.14) 'declaro a los Cnos Franco y Pedro Lopez duenos en propiedad del parage conocido con el nombre de Arroyo de Tujunga'. David W. Alexander and Francis Mellus are the U.S.-era CLAIMANTS (PDF p1 red label 'DAVID W. ALEXANDER AND FRANCIS MELLUS CLAIMANT'), who took by a chain of deeds: Lopez brothers -> Miguel Triunfo (15 Mar 1845), Triunfo -> Francisco R. Lopez one half (7 May 1851), Triunfo & wife -> Alexander & Mellus one half (31 Aug 1851), F. R. Lopez -> Agustin Olvera one fourth (29 Sept 1851) - petition PDF p9-10 (52 SD pp.4-5)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 52 SOUTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 52 SD PAGES 178'; District Court papers 'Docket No 52' (PDF p180, p190); filename cubanc_lcf_sd052.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED, PDF p8 (52 SD p.3): 'San Francisco Novr 4th 1853. In the same Case Commissioner Thompson Campbell delivered the Opinion of the Board rejecting the Claim.' District Court REVERSED and confirmed: Attorney General's letter, PDF p178 (52 SD p.166), 4 October 1856: 'In the case of the claim of D. W. Alexander et al, case no. four hundred and sixty four (464) on Commissioner's Docket, confirmed by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Final decree, PDF p190 (52 SD p.178), December Term 1856, Isaac S. K. Ogier U.S. Dist. Judge: 'the order granting an appeal to the Supreme Court heretofore made in this cause be and the same is hereby Vacated. And that the Claimant have leave to proceed under the decree of this Court heretofore rendered in this Cause as under a final decree.' Register's 'Confirmed' is right; Hoffman-1862 'confirmed' agrees"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Lopez and Pedro Lopez (grant of 1840). Alexander and Mellus are the 1852 claimants, remote purchasers through Miguel Triunfo."
+  },
+  "notes": "175MB / 190 PDF images; stated 178 pages. Hoffman's 'Pedro Lopez et al.' agrees with the case file against the register - this is the dominant claimant-for-grantee error. TWO title papers are in the file and they do not have the same date or the same signer: the Surveyor-General's certified archive expediente (52 SD pp.9-16, certified by Saml D. King 6 Sept 1852, PDF p21-22) carries a titulo in the name of Juan B. Alvarado dated 5 Dec 1840, while the claimants' original document H.H. No. 1 (52 SD pp.173-175) is issued by Manuel Jimeno Casarin as acting governor and dated 7 Nov 1840 - the date Abel Stearns gave in his deposition (PDF p11, 52 SD p.6: 'a grant to Francisco & Pedro Lopez dated Nov 7th 1840 & a testimonial of judicial possession attached dated in February 1841'). The wrappers at 52 SD pp.10-11 show TWO 1840 expedientes, one for Tujunga and one for 'un sitio contiguo a Tojunga', which is the likeliest explanation. Either way the year (1840) and the grantees (the Lopez brothers) are the same in both."
+ }
+]

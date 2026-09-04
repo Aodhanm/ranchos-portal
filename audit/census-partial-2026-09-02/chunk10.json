@@ -1,0 +1,138 @@
+[
+ {
+  "id": "rancho-santa-rosa-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102019 (NO PDF exists for this record; it serves 95 individual JPEGs cubanc_1_2_000551xx-000576xx_k.jpg. I downloaded the leaves and assembled local page-range PDFs.)",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "cover leaf (img1)",
+   "transcript pp.1-15 (img2-16)",
+   "pp.16-20 (img17-21)",
+   "pp.21-30 (img22-31)",
+   "pp.84-93 (img86-95)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Cover leaf (img1) red label: 'CASE NO. 294 / SOUTHERN DISTRICT / SANTA ROSA GRANT / MARIA JESUS OLIVERA DE COTA ET AL / CLAIMANT'. Transcript p89 (Sup. Ct. mandate): 'The land hereby confirmed is situated in the County of Santa Barbara, and is known by the name of Santa Rosa'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p24: 'Monterrey 30 de Julio de 1839 ... se declaro a Don Francisco Cota dueno en propiedad del terreno conocido con el nombre de Sta. Rosa'. Confirmed by U.S. Supreme Court mandate reciting the District Court decree, transcript p89-90: 'the first by Manuel Jimeno, acting governor of said department, on the 30th day of July, 1839'. NOTE a SECOND (ampliacion) grant of 19 Nov 1845 by Pio Pico is also in the file (transcript pp.27, 30, 90) - the register's single year 1839 is the first grant and is correct as far as it goes."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Grant decree, transcript p24: 'El Senor Don Manuel Jimeno Casarin Gobernador Interino del Departamento de las Californias asi lo mando, decreto y firmo de que doy fe. Manuel Jimeno.' Court decree, transcript p89-90: 'granted to the said Francisco Cota ... the first by Manuel Jimeno, acting governor of said department, on the 30th day of July, 1839, and the second by governor Pio Pico on the 19th day of November, 1845.' Alvarado appears in this file ONLY on the later order of 10 June 1840 (transcript p25): 'El Sr. D. Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias asi lo proveyo y firmo... Alvarado' - i.e. he ordered the testimonio of the Assembly's approval issued in confirmation of the terreno 'que otorgo en treinta de Julio de mil ochocientos treinta y nueve'. He did not make the concession."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era CLAIMANT, not the Mexican grantee. Transcript p18, stipulation of J. J. Warner: 'he was acquainted with Don Francisco Cota the original grantee in the above entitled cause ... the present claimant Dona Maria Jesus Olivera de Cota is the widow of the said original grantee'. Grant decree p24: 'se declaro a Don Francisco Cota dueno en propiedad del terreno'. Expediente cover, transcript p20: 'Expediente sobre el Paraje nombrado Santa Rosa. Solicitado por Francisco Cota.' Court decree p89: 'the same land which was granted to the said Francisco Cota'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Cover leaf (img1) red label 'CASE NO. 294 SOUTHERN DISTRICT'; every transcript leaf carries the stamp '294 SD PAGE n'. (Land Commission docket no. was 474 - transcript p1 'IN CASE NO. 474' - which matches Hoffman's commission_no 474.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 27 Feb 1855 (index of proceedings, transcript p3: 'Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim'); District Court affirmed (decree recited transcript p89: 'the decision of the said commissioners be, and the same is hereby affirmed ... the claim of the said appellees is a good and valid claim, and the same is hereby confirmed'); U.S. Supreme Court, Dec. Term 1863 No. 138, affirmed 'to the extent of three and one half square leagues of land and no more' (transcript p91), mandate filed 7 July 1868 (p93); District Court decree on mandate, transcript pp.84-87, Ogden Hoffman Dist. Judge. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (Jimeno Casarin), gobernador interino / acting governor, 30 July 1839 - per grant decree transcript p24 and U.S. court decree transcript p89-90; second grant 19 Nov 1845 by Pio Pico. NOT Alvarado.",
+   "grantee": "Francisco Cota (Don Francisco Cota) - per grant decree transcript p24, expediente cover p20, Warner stipulation p18. 'Maria Jesus Olivera de Cota' is his widow and the U.S.-era claimant."
+  },
+  "notes": "Hoffman 1862 agrees with the case file against the register on BOTH flagged/erroneous fields (Hoffman: grantee 'Francisco Cota'; governor 'Manuel Jimeno, and 2 leagues November 19th, 1845, by Pio Pico'). This is the dominant claimant-for-grantee error class. Digicoll record 102019 has NO cubanc_lcf_sd294.pdf - only 95 JPEG leaves; the digicoll server returns HTTP 200 with text/html for any missing file, so a naive curl -sIL check on the .pdf URL falsely reads as 200. Page citations above are the transcript's own stamped '294 SD PAGE n' numbers."
+ },
+ {
+  "id": "rancho-santa-rosa-island",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266093/files/cubanc_lcf_sd056.pdf",
+  "pdf_pages_stated": 132,
+  "pages_read": [
+   "PDF 1-12 (label + 'LAND CASE 56 SD PAGES 132' + transcript pp.1-7)",
+   "PDF 13-26 (transcript pp.8-20)",
+   "PDF 128-141 (transcript pp.119-132)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 56 / SOUTHERN DISTRICT / YSLA DE SANTA ROSA GRANT / MANUEL[A] CARRILLO DE JONES, ET AL / CLAIMANT'. District Court decree, transcript p131: 'the lands of which confirmation is made is the Island of Santa Rosa in the County of Santa Barbara'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant title, transcript p8 (Spanish original) closes: 'Dada en Monterey a cuatro de Octubre de mil ocho cientos cuarenta y tres. Manl. Micheltna. Manl. Jimeno Srio.' Sworn translation, transcript pp.15-16 ('B. Translation of Grant'): 'Given at Monterey on the fourth of October one thousand eight hundred & forty three (Signed) Manuel Micheltorena (Signed) Manuel Jimeno Secretary'. Petition, transcript p4: 'That on the 4th day of October A.D. 1843 Manuel Micheltorena Governor of California ... granted to Jose Antonio Carrillo & Carlos Carrillo the tract of land called the Island of Santa Rosa'. Nothing dated 1841 appears anywhere in the pages read."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The only granting officer in the file is Micheltorena. Transcript p8: 'Manuel Micheltorena General de Brigada del Ejercito Mejicano Gobernador y Comandante General del departamento de ambas Californias ... he venido en concederle exclusivte. la Isla mencionada declarandoles la propriedad de ella por las presentes letras'. Translation p15: 'Manuel Micheltorena General of Brigade of the Mexican Army Governor & commanding General of the Department of Both Californias ... I have granted to them exclusively the said Island'. Alvarado does not appear in the grant, the petition, the deed of transfer, or the judicial possession; 'Manuel Jimeno' appears only as Secretary countersigning."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the PURCHASER/claimant. Grant, transcript p8: 'Por Cuanto Dn. Jose Antonio y D. Carlos Carillo, han pretendido para su beneficios personales y el de sus familias la Isla nombrada Santa Rosa'. Translation p15: 'Whereas Don Jose Antonio & Don Carlos Carillo have for their own personal benefit and that of their families petitioned for the Island called Santa Rosa'. Manuela Carrillo de Jones and Francisca Carrillo de Thompson BOUGHT the island from the two Carrillos by escritura of 2 Nov 1843 for $3,300 (transcript pp.9-11 Spanish, pp.17-19 translation). Claimants' brief, transcript p121: 'The grant was to Jose Antonio Carrillo and Carlos Carrillo: The Commissioners entirely overlooked the conveyance (& translation) from them the grantees to Manuela Carrillo de Jones and Francisca Carrillo de Thompson.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 56 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 56 SD PAGES 132'; filename cubanc_lcf_sd056.pdf; every leaf stamped '56 SD PAGE n'. Land Commission docket no. 117 (transcript p1, p2), matching Hoffman's commission_no 117."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: transcript p3, 'San Francisco Nov 1st 1853. In the same case Commissioner Alpheus Felch delivered the opinion of the Board rejecting the claim'; index of case, transcript p121, 'Remark: The title was rejected by the Commissioners ... because the present claimants did not connect themselves with the title'. But the U.S. District Court, S.D. Cal., Dec. Term 1856, Hon. Isaac S. K. Ogier, decreed (transcript p131): 'It is ordered adjudged and decreed that the decision of the Commissioners be and the same is hereby REVERSED, and that the claim of the said Appellants is good and valid, and the same is hereby Confirmed to them, the lands of which confirmation is made is the Island of Santa Rosa in the County of Santa Barbara'. The U.S. appeal to the Supreme Court was vacated by stipulation and the decree made final (transcript pp.125-126, 129-130, filed 5 Feb 1857); Attorney General's letter of 18 Sept 1856, transcript p127: 'appeal in the Supreme Court will not be prosecuted by the United States.' Register's 'Confirmed' is right on the final decree. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1843 - grant title 'Dada en Monterey a cuatro de Octubre de mil ocho cientos cuarenta y tres' (transcript p8; translation p15-16). NOT 1841.",
+   "governor": "Manuel Micheltorena, alone (transcript p8/p15). Alvarado has no part in this grant.",
+   "grantee": "Jose Antonio Carrillo and Carlos (Antonio) Carrillo, brothers (transcript p8/p15). Manuela Carrillo de Jones is a purchaser under the 2 Nov 1843 deed and the U.S.-era claimant."
+  },
+  "notes": "Hoffman 1862 agrees with the case file against the register on year (1843) and grantee (Jose Antonio and Carlos Carrillo) and on governor (Micheltorena). Note the Board's own decision was a REJECTION reversed by the District Court - the register's 'Confirmed' is nevertheless correct because the District Court decree is the final one. The red case label spells the claimant 'MANUEL CARRILLO DE JONES' (a binder's slip for Manuela). PDF is 116 MB / 141 images; I read it via pypdf page-range excerpts."
+ },
+ {
+  "id": "rancho-santiago-santa-ana",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268968/files/cubanc_lcf_sd346.pdf",
+  "pdf_pages_stated": 66,
+  "pages_read": [
+   "PDF 1-14 (label, 'LAND CASE 346 SD pgs. 66', transcript pp.1-10)",
+   "PDF 15-24 (transcript pp.11-20)",
+   "PDF 25-30 (transcript pp.21-26)",
+   "PDF 64-76 (transcript pp.53-66)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 346 / SOUTHERN DISTRICT / SANTIAGO GRANT / YORBA PERALTA, ET AL / CLAIMANT'; transcript p1 'for the place named \"Santiago\"'. The two names are the same tract: Sepulveda deposition, transcript p8, 'The Rancho now called Santa Ana is the same as that formerly called Santiago'; Coronel, transcript p9, 'The Rancho has also been known by the name of Santiago'; District Court summons, transcript p54, 'the land called \"Santiago or Santa Anna\" situate in the County of Los Angeles'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition, transcript p5: 'they claim said Land in Virtue of a Concession thereof to the said Antonio Yorba and the said Juan Pablo Peralta made by Arrillaga Governor of the Province of California in pursuance of an Authority in him vested and bearing date Sept 1st 1810.' The expediente translation carries Arrillaga's own decrees of 'Monterey March 26th 1810' (order of reference) and the concession, transcript p21: 'Monterey July 1st 1810. There is no embarrassment on my part that there may be conceded to him the tract of \"Santiago\" which he solicits ... Arrillaga.' Santiago Arguello, transcript p10: 'A paper is now shown me purporting to be the title papers to Antonio Yorba and Juan Pablo Peralta the last date to which is Sepr 1. 1810.' 1810 is right; the file shows the concession decree itself is dated 1 July 1810 and the title/possession papers run to 1 Sept 1810."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Right in kind but unnamed. The granting officer is Jose Joaquin de Arrillaga: concession decree, transcript p21, 'Monterey July 1st 1810 ... Arrillaga'; reference decree, transcript p20, 'Monterey March 26th 1810. Let this be passed to the Lieutenant D. Franco Ma Ruiz ... Arrillaga'; Santiago Arguello, transcript p10, 'The two signatures Arrillaga on said paper I believe to be genuine signatures of said Jose Joaquin Arrillaga. He was at the date of said papers Governor of California'; petition, transcript p5, 'made by Arrillaga Governor of the Province of California'. The register's 'a Spanish governor' is correct as far as it goes (Arrillaga was the Spanish-era governor) but names nobody."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era claimants. Petition, transcript p5: 'The Petition of the Heirs and Legal representatives of Antonio Yorba deceased and Juan Pablo Peralta deceased'. Stipulation with the U.S. Law Agent, transcript p23: 'the United States will not take any objections to the confirmation being made to the Heirs and Legal Representatives of Antonio Yorba and Juan Pablo Peralta.' District Court summons, transcript p54 and p58: 'To Bernardo Yorba, Theodocio Yorba and Ramon Yorba, The Heirs of Antonio Yorba and Juan Pablo Peralta' - i.e. the register's three names are expressly identified in the file as HEIRS, not grantees. Ruiz's report in the expediente, transcript p21, recommends 'that the invalid Sargent Antonio Yorba should live in said Rancho in company with his children and her grandson Juan Pablo Peralta'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 346 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 346 SD pgs. 66'; filename cubanc_lcf_sd346.pdf; every leaf stamped '346 SD PAGE n'; District Court caption, transcript p56, 'Case 346 ... Transcript 470'. Land Commission docket 470 (transcript p1, p2), matching Hoffman's commission_no 470."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: transcript p4, 'San Francisco July 10, 1855. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim' (opinion at transcript p49, order at p52). U.S. filed a petition for review 4 Dec 1856 (transcript p53) but then abandoned it: District Court, S.D. Cal., Monterey June Term 1857, Hon. I. S. K. Ogier, transcript p62: 'it is ordered by the Court that the appeal in said cause be dismissed; and that the claimant have leave to proceed upon the decree of the Commissioners heretofore rendered as a final decree.' Attorney General's letter of 31 Jan. 1857, transcript p64: 'In the case of the claim of Yorba Peralta et al. confirmed to the claimants by the Commissioners, Case no. four hundred and seventy (470), appeal will not be prosecuted by the United States.' No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Jose Joaquin de Arrillaga, Governor of the Province of California - named and signed in the concession decree, transcript pp.20-21, and identified by Santiago Arguello, transcript p10. (Hoffman's 'Jose Figueroa' for this entry is wrong; Figueroa nowhere appears in the file.)",
+   "grantee": "Antonio Yorba and Juan Pablo Peralta (transcript pp.5, 21, 23, 54). Bernardo, Teodocio and Ramon Yorba are their heirs and the U.S.-era claimants."
+  },
+  "notes": "Hoffman 1862 agrees with the case file on year (1810) and grantee-in-part (it gives 'Antonio Yorba', omitting Juan Pablo Peralta) but its governor column, 'Jose Figueroa', is DEMONSTRABLY WRONG for this claim - the grant is Arrillaga's, and no Figueroa document is in the transcript. The register's 'a Spanish governor' is therefore closer to the truth than Hoffman here. Register also puts the second grantee's surname as none; the second grantee is Peralta, not a Yorba. Register's grantee list matches exactly the three heirs summoned by the District Court."
+ }
+]

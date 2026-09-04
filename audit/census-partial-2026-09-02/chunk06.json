@@ -3,112 +3,517 @@
   "id": "rancho-mallacomes-moristul",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264211/files/cubanc_lcf_nd375.pdf",
   "pdf_pages_stated": 59,
-  "pages_read": ["1-12", "15-30"],
+  "pages_read": [
+   "1-12",
+   "15-30"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "p1 red label: 'CASE NO. 375 NORTHERN DISTRICT / MALLACONES OR MORISTUL GRANT'; transcript p1 place named 'Mallacones o Moristul'"},
-   "year":      {"grade": "ERR", "evidence": "Grant dated October 9, 1843, not 1841. Indenture/Exhibit A recital (transcript p10): rancho 'granted to said Jose Berreyesa by and from Micheltorena, Governor of California, dated at Monterey October ninth AD 1843'; Castañada depo (transcript p16): 'presenting to be a grant to Jose Berreyesa dated October 9th 1843'; petition (transcript p4): '...October...1843'. 1841 also impossible under Micheltorena (gov. Dec 1842-1845)."},
-   "governor":  {"grade": "OK",  "evidence": "transcript p16 (Castañada/Berreyesa depos): 'Manuel Micheltorena was Governor of California at the date of this grant'"},
-   "grantee":   {"grade": "OK",  "evidence": "petition (transcript p4) 'granted to Jose S. Berreyesa'; depositions taken for 'Jose de los Santos Berreyesa Petition Number 58' (transcript p15-16, 20) = original grantee José de los Santos Berreyesa; claimants Cook/Ingalls bought a part from him"},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 375 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd375.pdf; Commission No. 657 (transcript p1)"},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p3: 'commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim' (San Francisco Aug 7 1855); register 'Confirmed' agrees. Patent not physically in pages read (Phase C checks GLO)."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"year": "1843 (Oct 9, 1843) per grant recital transcript p10 and Castañada deposition transcript p16"},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 375 NORTHERN DISTRICT / MALLACONES OR MORISTUL GRANT'; transcript p1 place named 'Mallacones o Moristul'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant dated October 9, 1843, not 1841. Indenture/Exhibit A recital (transcript p10): rancho 'granted to said Jose Berreyesa by and from Micheltorena, Governor of California, dated at Monterey October ninth AD 1843'; Castañada depo (transcript p16): 'presenting to be a grant to Jose Berreyesa dated October 9th 1843'; petition (transcript p4): '...October...1843'. 1841 also impossible under Micheltorena (gov. Dec 1842-1845)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "transcript p16 (Castañada/Berreyesa depos): 'Manuel Micheltorena was Governor of California at the date of this grant'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "petition (transcript p4) 'granted to Jose S. Berreyesa'; depositions taken for 'Jose de los Santos Berreyesa Petition Number 58' (transcript p15-16, 20) = original grantee José de los Santos Berreyesa; claimants Cook/Ingalls bought a part from him"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 375 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd375.pdf; Commission No. 657 (transcript p1)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p3: 'commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim' (San Francisco Aug 7 1855); register 'Confirmed' agrees. Patent not physically in pages read (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1843 (Oct 9, 1843) per grant recital transcript p10 and Castañada deposition transcript p16"
+  },
   "notes": "This is a 'part of' Mallacomes/Moristul claim by Martin E. Cook et al. (Comm. No. 657). Hoffman agrees with the case file (1843, Micheltorena) against the register's 1841. Grant to José de los Santos Berreyesa by Micheltorena at Monterey, Oct 9 1843. No patent copy in pages 1-30; register's patent (to Cook & Ingalls, Feb 18 1859, GLO 60) left for Phase C."
  },
  {
   "id": "rancho-milpitas",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264424/files/cubanc_lcf_nd037.pdf",
   "pdf_pages_stated": 332,
-  "pages_read": ["1-14 (transcript)", "15-34 (transcript)"],
+  "pages_read": [
+   "1-14 (transcript)",
+   "15-34 (transcript)"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "p1 red cover label: 'CASE NO. 37 NORTHERN DISTRICT / LAS MILPITAS GRANT / MARIA ALVISA CLAIMANT'; transcript title p1 'for the place named Las Milpitas'; petition (transcript p5) place called 'Milpitas'"},
-   "year":      {"grade": "ERR", "evidence": "Confirmed grant is dated Sept 1835, not 1830. The formal título ('C', transcript p31-34) recites José Castro concession and is 'Dado en Monterey á 28 de Setiembre de 1835 = José Castro'; the translation (transcript p20/p30): grant to Alviso of 'Milpitas' 'granted on the 23rd of September 1835'; petition (transcript p5) itself states the formal grant/title was made by José Castro Sept 20/28 & Oct 2, 1835. The register's 1830 is only the initial San José ayuntamiento permission-to-occupy (document dated March 10, 1830, expediente 'A' transcript p10/p21), which is NOT the grant confirmed."},
-   "governor":  {"grade": "PART", "evidence": "Grant made by 'José Castro, primer vocal de la E. Diputacion Territorial ó Jefe Superior Politico interino Del territorio de la alta California' (título transcript p31/p33; translation transcript p29 'Jose Castro... superior political chief ad interim of Upper California'). Register 'the interim government' correctly identifies an interim (ad interim) governing authority but does not name Castro; Hoffman names 'Jose Castro'."},
-   "grantee":   {"grade": "OK",  "evidence": "Título grants 'á nombre De la nacion Mejicana' to 'el Ciudadano José M.a Alviso' (transcript p31); translation p29 'José Ma Alviso is declared owner in fee of the land known by the name of Milpitas'; petition (transcript p2, p5) José Maria Alviso. Register 'José María Alviso' correct."},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 37 NORTHERN DISTRICT'; every transcript page stamped 'CASE 37 ND'; Commission docket No. 141 (transcript p2); PDF filename cubanc_lcf_nd037.pdf. Register 'ND 037' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p4: 'San Francisco March 14th 1853... Commissioner Hiland Hall delivered the Opinion and the decree of Final Confirmation of this Board.' Register 'Confirmed' agrees. Patent (register: June 30 1871, GLO 138) not physically in pages read; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"year": "1835 per the confirmed grant: título dated Monterey Sept 28, 1835 (José Castro), Deputation approval Sept 26, 1835, concession 'granted on the 23rd of September 1835' (transcript p20/p29-34).", "governor": "José Castro, primer vocal de la Diputación / Jefe Superior Político interino, Sept 1835 (transcript p29-34)."},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red cover label: 'CASE NO. 37 NORTHERN DISTRICT / LAS MILPITAS GRANT / MARIA ALVISA CLAIMANT'; transcript title p1 'for the place named Las Milpitas'; petition (transcript p5) place called 'Milpitas'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Confirmed grant is dated Sept 1835, not 1830. The formal título ('C', transcript p31-34) recites José Castro concession and is 'Dado en Monterey á 28 de Setiembre de 1835 = José Castro'; the translation (transcript p20/p30): grant to Alviso of 'Milpitas' 'granted on the 23rd of September 1835'; petition (transcript p5) itself states the formal grant/title was made by José Castro Sept 20/28 & Oct 2, 1835. The register's 1830 is only the initial San José ayuntamiento permission-to-occupy (document dated March 10, 1830, expediente 'A' transcript p10/p21), which is NOT the grant confirmed."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Grant made by 'José Castro, primer vocal de la E. Diputacion Territorial ó Jefe Superior Politico interino Del territorio de la alta California' (título transcript p31/p33; translation transcript p29 'Jose Castro... superior political chief ad interim of Upper California'). Register 'the interim government' correctly identifies an interim (ad interim) governing authority but does not name Castro; Hoffman names 'Jose Castro'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Título grants 'á nombre De la nacion Mejicana' to 'el Ciudadano José M.a Alviso' (transcript p31); translation p29 'José Ma Alviso is declared owner in fee of the land known by the name of Milpitas'; petition (transcript p2, p5) José Maria Alviso. Register 'José María Alviso' correct."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 37 NORTHERN DISTRICT'; every transcript page stamped 'CASE 37 ND'; Commission docket No. 141 (transcript p2); PDF filename cubanc_lcf_nd037.pdf. Register 'ND 037' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p4: 'San Francisco March 14th 1853... Commissioner Hiland Hall delivered the Opinion and the decree of Final Confirmation of this Board.' Register 'Confirmed' agrees. Patent (register: June 30 1871, GLO 138) not physically in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1835 per the confirmed grant: título dated Monterey Sept 28, 1835 (José Castro), Deputation approval Sept 26, 1835, concession 'granted on the 23rd of September 1835' (transcript p20/p29-34).",
+   "governor": "José Castro, primer vocal de la Diputación / Jefe Superior Político interino, Sept 1835 (transcript p29-34)."
+  },
   "notes": "Milpitas (Alviso). Two distinct acts: (1) a March 1830 permission to occupy by the San José ayuntamiento (the register's '1830' + arguably 'interim government'), and (2) the actual confirmed grant by José Castro (interim political chief) in Sept 1835. Hoffman (1835, Jose Castro) agrees with the case file against the register on both year and the naming of Castro. José María Alviso is the correct grantee. Confirmed by the Land Commission March 14, 1853. PDF 229MB / 342 images; 'LAND CASE 37 ND pgs. 332' leaf gives archival page total."
  },
  {
   "id": "rancho-molinos",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256561/files/cubanc_lcf_nd227.pdf",
   "pdf_pages_stated": 77,
-  "pages_read": ["1-15 (transcript)", "16-35 (transcript)"],
+  "pages_read": [
+   "1-15 (transcript)",
+   "16-35 (transcript)"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "p1 red cover label 'CASE NO. 227 NORTHERN DISTRICT / EL MOLINO O' RIO OJOTSKA GRANT / JOHN B. R. COOPER CLAIMANT'; transcript title p1 'for the place named El Molino o Rio Ojotska'; depositions call it 'El Molino'. Register 'Molinos' = El Molino, OK."},
-   "year":      {"grade": "OK",  "evidence": "Register 1836 matches the confirmed El Molino grant. Petition (transcript p4): after exchanging away the Ojotska tract, 'Nicolas Gutierez Governor of California... Issued to the petitioner a title for the aforesaid tract of Levanta hyeme (El Molino)'. Vallejo depo (transcript p7): 'It was granted to Juan B R Cooper in 1836 by Governor Gutierez.' NB the exchanged-away predecessor tract 'Rio Ojotska/Rio del Sacramento' was granted earlier by Figueroa, decreed Dec 23 1833, título dated Dec 31 1833 (expediente 'A', transcript p25-27)."},
-   "governor":  {"grade": "ERR", "evidence": "The El Molino (Molinos) tract was granted by NICOLAS GUTIERREZ, not Figueroa. Petition (transcript p4): 'Nicolas Gutierez Governor of California by virtue of authority in him vested Issued to the petitioner a title for the aforesaid tract of Levanta hyeme.' Vallejo (transcript p7, who as Cooper's agent handled the exchange and got the El Molino title): 'granted... in 1836 by Governor Gutierez... The arrangement was made with Governor Figueroa before his death, but was completed by Governor Gutierez.' Figueroa granted only the exchanged-away Ojotska tract (decree transcript p25, título p27, Dec 1833)."},
-   "grantee":   {"grade": "OK",  "evidence": "Claimant / grantee John B. R. Cooper (Juan Bautista R. Cooper) throughout: p1 label, petition transcript p4, expediente transcript p16 ('D. Juan Bta R. Cooper'). Register 'J. B. R. Cooper' correct."},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 227 NORTHERN DISTRICT'; every transcript page stamped '227 ND'; Commission docket No. 193 (transcript p1-2); PDF filename cubanc_lcf_nd227.pdf. Register 'ND 227' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p3: 'San Francisco Nov 14 1854... Commissioner S.B. Farwell delivered the Opinion of the Board Confirming the claim' (vide p49). Register 'Confirmed' agrees. Patent (register April 3 1858, GLO 53) not physically in pages read; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"governor": "Nicolas Gutierrez granted El Molino (1836); Figueroa granted only the exchanged-away Ojotska tract (Dec 1833). Per petition transcript p4 and Vallejo deposition transcript p7; Hoffman corroborates 'Feb. 24th 1836, by Nicolas Gutierrez'."},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red cover label 'CASE NO. 227 NORTHERN DISTRICT / EL MOLINO O' RIO OJOTSKA GRANT / JOHN B. R. COOPER CLAIMANT'; transcript title p1 'for the place named El Molino o Rio Ojotska'; depositions call it 'El Molino'. Register 'Molinos' = El Molino, OK."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Register 1836 matches the confirmed El Molino grant. Petition (transcript p4): after exchanging away the Ojotska tract, 'Nicolas Gutierez Governor of California... Issued to the petitioner a title for the aforesaid tract of Levanta hyeme (El Molino)'. Vallejo depo (transcript p7): 'It was granted to Juan B R Cooper in 1836 by Governor Gutierez.' NB the exchanged-away predecessor tract 'Rio Ojotska/Rio del Sacramento' was granted earlier by Figueroa, decreed Dec 23 1833, título dated Dec 31 1833 (expediente 'A', transcript p25-27)."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The El Molino (Molinos) tract was granted by NICOLAS GUTIERREZ, not Figueroa. Petition (transcript p4): 'Nicolas Gutierez Governor of California by virtue of authority in him vested Issued to the petitioner a title for the aforesaid tract of Levanta hyeme.' Vallejo (transcript p7, who as Cooper's agent handled the exchange and got the El Molino title): 'granted... in 1836 by Governor Gutierez... The arrangement was made with Governor Figueroa before his death, but was completed by Governor Gutierez.' Figueroa granted only the exchanged-away Ojotska tract (decree transcript p25, título p27, Dec 1833)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Claimant / grantee John B. R. Cooper (Juan Bautista R. Cooper) throughout: p1 label, petition transcript p4, expediente transcript p16 ('D. Juan Bta R. Cooper'). Register 'J. B. R. Cooper' correct."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 227 NORTHERN DISTRICT'; every transcript page stamped '227 ND'; Commission docket No. 193 (transcript p1-2); PDF filename cubanc_lcf_nd227.pdf. Register 'ND 227' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p3: 'San Francisco Nov 14 1854... Commissioner S.B. Farwell delivered the Opinion of the Board Confirming the claim' (vide p49). Register 'Confirmed' agrees. Patent (register April 3 1858, GLO 53) not physically in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Nicolas Gutierrez granted El Molino (1836); Figueroa granted only the exchanged-away Ojotska tract (Dec 1833). Per petition transcript p4 and Vallejo deposition transcript p7; Hoffman corroborates 'Feb. 24th 1836, by Nicolas Gutierrez'."
+  },
   "notes": "El Molino / Rio Ojotska (Cooper), a two-grant exchange. (1) Rio Ojotska (aka Rio del Sacramento) granted by Figueroa, decreed Dec 23 1833 / título Dec 31 1833, Deputation-approved May 17 1834 (expediente 'A'/'B', transcript p16-29). Cooper found it inconvenient and EXCHANGED it with the government for (2) El Molino (Levanta hyeme) in Sonoma Co., granted by Nicolas Gutierrez in 1836. The register's rancho 'Molinos' + year 1836 track the El Molino grant, but its governor 'Jose Figueroa' belongs to the surrendered Ojotska tract, hence governor ERR = Gutierrez. Hoffman lists both ('1833 by Figueroa, and Feb 24 1836 by Nicolas Gutierrez'). The El Molino título itself ('C'/'D', Gutierrez) sits later in the transcript than the ~35 pages read but is verbatim recited in the petition (p4) and by Vallejo (p7). Claim confirmed by the Board Nov 14 1854."
  },
  {
   "id": "rancho-monte-diablo",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264409/files/cubanc_lcf_nd020.pdf",
   "pdf_pages_stated": 56,
-  "pages_read": ["1-14 (transcript)", "15-33 (transcript, incl. grant, confirmation, appeal)"],
+  "pages_read": [
+   "1-14 (transcript)",
+   "15-33 (transcript, incl. grant, confirmation, appeal)"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "p1 red cover label 'CASE NO. 20 NORTHERN DISTRICT / MONTE DEL DIABLO GRANT / SALVIO PACHECO CLAIMANT'; transcript title p1 'for the place named Monte del Diablo'; título ('C', transcript p24) 'the parcel of land known by the name of Monte del Diablo'. Register 'Monte Del Diablo' correct."},
-   "year":      {"grade": "ERR", "evidence": "The grant is dated July 26, 1834, not 1836. Título 'C' Spanish (transcript p16): 'Dado en Monterrey a veinte y seis de Julio de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano'; translation (transcript p25): 'Given in Monterrey on the 26th day of July 1834'; Board opinion (transcript p29): 'a grant dated July 26th 1834, with a previous approval of it by the Territorial Deputation' (Deputation approval June 19, 1834, concession made June 10, 1834). 1836 also impossible since Figueroa died Sept 1835."},
-   "governor":  {"grade": "OK",  "evidence": "Título 'C' signed 'Jose Figueroa... Jefe Superior Politico del territorio de la Alta California' (transcript p15-16 Spanish, p24-25 translation); Board opinion (transcript p29) 'from Governor Figueroa to himself a grant'; Martinez depo (transcript p6) 'Governor Figueroa granted to Salvio Pacheco a tract of land called El Monte del Diablo.' Register 'Jose Figueroa' correct."},
-   "grantee":   {"grade": "OK",  "evidence": "Título grants to 'Don Salvio Pacheco, Mejicano por nacimiento' (transcript p15/p24); petition (transcript p4) 'Your Petitioner Salvio Pacheco.' Register 'S. Pacheco' correct."},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 20 NORTHERN DISTRICT'; every transcript page stamped '20 ND'; Commission docket No. 76 (transcript p1-2); PDF filename cubanc_lcf_nd020.pdf. Register 'ND 020' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "Board Opinion & Decree of Final Confirmation (transcript p29-30, Hiland Hall & Harry I. Thornton, Jan 5, 1853): 'It is decreed that the said claim be confirmed to the extent and quantity of Four square leagues.' US filed Notice of Appeal to the District Court (transcript p30-33, filed Aug 21, 1854). Register 'Confirmed' consistent with the Board confirmation and the ultimate patent (register: Mar 19 1859, GLO 112; Hoffman also 'confirmed/patented'); appeal noted. Patent not physically in file; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"year": "1834 (título dated Monterey July 26, 1834; Deputation approval June 19, 1834; concession made June 10, 1834). Per transcript p16/p25 grant and p29 Board opinion."},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red cover label 'CASE NO. 20 NORTHERN DISTRICT / MONTE DEL DIABLO GRANT / SALVIO PACHECO CLAIMANT'; transcript title p1 'for the place named Monte del Diablo'; título ('C', transcript p24) 'the parcel of land known by the name of Monte del Diablo'. Register 'Monte Del Diablo' correct."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The grant is dated July 26, 1834, not 1836. Título 'C' Spanish (transcript p16): 'Dado en Monterrey a veinte y seis de Julio de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano'; translation (transcript p25): 'Given in Monterrey on the 26th day of July 1834'; Board opinion (transcript p29): 'a grant dated July 26th 1834, with a previous approval of it by the Territorial Deputation' (Deputation approval June 19, 1834, concession made June 10, 1834). 1836 also impossible since Figueroa died Sept 1835."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Título 'C' signed 'Jose Figueroa... Jefe Superior Politico del territorio de la Alta California' (transcript p15-16 Spanish, p24-25 translation); Board opinion (transcript p29) 'from Governor Figueroa to himself a grant'; Martinez depo (transcript p6) 'Governor Figueroa granted to Salvio Pacheco a tract of land called El Monte del Diablo.' Register 'Jose Figueroa' correct."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Título grants to 'Don Salvio Pacheco, Mejicano por nacimiento' (transcript p15/p24); petition (transcript p4) 'Your Petitioner Salvio Pacheco.' Register 'S. Pacheco' correct."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 20 NORTHERN DISTRICT'; every transcript page stamped '20 ND'; Commission docket No. 76 (transcript p1-2); PDF filename cubanc_lcf_nd020.pdf. Register 'ND 020' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Opinion & Decree of Final Confirmation (transcript p29-30, Hiland Hall & Harry I. Thornton, Jan 5, 1853): 'It is decreed that the said claim be confirmed to the extent and quantity of Four square leagues.' US filed Notice of Appeal to the District Court (transcript p30-33, filed Aug 21, 1854). Register 'Confirmed' consistent with the Board confirmation and the ultimate patent (register: Mar 19 1859, GLO 112; Hoffman also 'confirmed/patented'); appeal noted. Patent not physically in file; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1834 (título dated Monterey July 26, 1834; Deputation approval June 19, 1834; concession made June 10, 1834). Per transcript p16/p25 grant and p29 Board opinion."
+  },
   "notes": "Monte del Diablo (Salvio Pacheco). The expediente 'B' carries a long 1828 back-history: Pacheco first petitioned (San Diego, Oct 31 1828, under Echeandía) and feuded with an Englishman Guillermo/Julian Willis over the site (Laguna de los Bolbones). The operative confirmed GRANT, however, is the Figueroa título dated July 26, 1834. Both the register (1836) and Hoffman (1844) misstate the year; the case file is unambiguously 1834. Governor (Figueroa) and grantee (Salvio Pacheco) correct. Board confirmed 4 sq leagues Jan 5 1853; US appealed Aug 1854; later patented (Phase C)."
  },
  {
   "id": "rancho-moro-cayucos",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266115/files/cubanc_lcf_sd155.pdf",
   "pdf_pages_stated": 66,
-  "pages_read": ["1-6 (transcript)", "7-23 (transcript, incl. expediente E, titulos B, deed C)"],
+  "pages_read": [
+   "1-6 (transcript)",
+   "7-23 (transcript, incl. expediente E, titulos B, deed C)"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "p1 red cover label 'CASE NO. 155 SOUTHERN DISTRICT / CAYUCOS GRANT / JAMES MCKINLEY CLAIMANT'; petition (transcript p4) 'known by the name of Cayucos and Morro'; the two títulos are for 'el Morro' (Olivera) and 'los Cayucos' (Feliz). Register 'Moro Y Cayucos' = Morro y Cayucos, OK."},
-   "year":      {"grade": "ERR", "evidence": "The definitive confirmed grants are dated April 27, 1842, not 1837. Both títulos ('B', annexed to Hartnell depo): Olivera título 'Dado en Monterey á veinte y siete de Abril de mil ochocientos cuarenta y dos. Juan B. Alvarado. Manuel Jimeno Srio' (transcript p17); Feliz título identical date 'veinte y siete de Abril de mil ochocientos cuarenta y dos' (transcript p20); petition (transcript p4) 'both bearing date the twenty seventh of April A.D. 1842.' The '1837' matches only the earlier PROVISIONAL concession by Alvarado (Dec 28, 1837; expediente 'E' header '1837', transcript p8/p13/p15), which is interim and not the grant McKinley claims/was patented under."},
-   "governor":  {"grade": "OK",  "evidence": "Both definitive títulos signed 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' (transcript p17, p20); the 1837 provisional concession also 'Alvarado' (transcript p11/p14). Hartnell depo (transcript p6) authenticates Alvarado's signature on document 'B'. Register 'Alvarado' correct."},
-   "grantee":   {"grade": "ERR", "evidence": "The grants were made to Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos) — títulos 'B' (transcript p16-17 'el Ciudadano Martin Olivera'; p18-20 'el Ciudadano Vicente Feliz'). James (Santiago) McKinley is the PURCHASER/claimant, not the grantee: petition (transcript p4) 'both of said grantees (Martin Olveria and Vicente Feliz) did transfer unto your Petitioner...'; deed 'C' (transcript p22, San Luis Obispo Nov 20 1845) conveys from Vicente Feliz to 'Dn Santiago McKinley'; Olivera's deed dated Oct 27 1846. Hoffman also gives grantee 'Martin Olivera.'"},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 155 SOUTHERN DISTRICT'; every transcript page stamped '155 SD'; Commission docket No. 529 (transcript p1); PDF filename cubanc_lcf_sd155.pdf. Register 'SD 155' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p3: 'San Francisco April 4 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim' (vide p36); then Aug 1 1854 the US Law Agent moved (appeal). Register 'Confirmed' agrees. Patent (register Jan 19 1878, GLO 325) not in pages read; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"year": "1842 (both Alvarado títulos dated Monterey April 27, 1842; transcript p17 and p20). The register's 1837 = the earlier provisional Alvarado concession, not the confirmed grant.", "grantee": "Original grantees Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos), per Alvarado April 27 1842; James/Santiago McKinley bought both parcels (Feliz deed Nov 20 1845, transcript p22; Olivera deed Oct 27 1846)."},
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red cover label 'CASE NO. 155 SOUTHERN DISTRICT / CAYUCOS GRANT / JAMES MCKINLEY CLAIMANT'; petition (transcript p4) 'known by the name of Cayucos and Morro'; the two títulos are for 'el Morro' (Olivera) and 'los Cayucos' (Feliz). Register 'Moro Y Cayucos' = Morro y Cayucos, OK."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The definitive confirmed grants are dated April 27, 1842, not 1837. Both títulos ('B', annexed to Hartnell depo): Olivera título 'Dado en Monterey á veinte y siete de Abril de mil ochocientos cuarenta y dos. Juan B. Alvarado. Manuel Jimeno Srio' (transcript p17); Feliz título identical date 'veinte y siete de Abril de mil ochocientos cuarenta y dos' (transcript p20); petition (transcript p4) 'both bearing date the twenty seventh of April A.D. 1842.' The '1837' matches only the earlier PROVISIONAL concession by Alvarado (Dec 28, 1837; expediente 'E' header '1837', transcript p8/p13/p15), which is interim and not the grant McKinley claims/was patented under."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Both definitive títulos signed 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' (transcript p17, p20); the 1837 provisional concession also 'Alvarado' (transcript p11/p14). Hartnell depo (transcript p6) authenticates Alvarado's signature on document 'B'. Register 'Alvarado' correct."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grants were made to Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos) — títulos 'B' (transcript p16-17 'el Ciudadano Martin Olivera'; p18-20 'el Ciudadano Vicente Feliz'). James (Santiago) McKinley is the PURCHASER/claimant, not the grantee: petition (transcript p4) 'both of said grantees (Martin Olveria and Vicente Feliz) did transfer unto your Petitioner...'; deed 'C' (transcript p22, San Luis Obispo Nov 20 1845) conveys from Vicente Feliz to 'Dn Santiago McKinley'; Olivera's deed dated Oct 27 1846. Hoffman also gives grantee 'Martin Olivera.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 155 SOUTHERN DISTRICT'; every transcript page stamped '155 SD'; Commission docket No. 529 (transcript p1); PDF filename cubanc_lcf_sd155.pdf. Register 'SD 155' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p3: 'San Francisco April 4 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim' (vide p36); then Aug 1 1854 the US Law Agent moved (appeal). Register 'Confirmed' agrees. Patent (register Jan 19 1878, GLO 325) not in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1842 (both Alvarado títulos dated Monterey April 27, 1842; transcript p17 and p20). The register's 1837 = the earlier provisional Alvarado concession, not the confirmed grant.",
+   "grantee": "Original grantees Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos), per Alvarado April 27 1842; James/Santiago McKinley bought both parcels (Feliz deed Nov 20 1845, transcript p22; Olivera deed Oct 27 1846)."
+  },
   "notes": "Morro y Cayucos (Case 155 SD, Comm. No. 529). Rancho = two adjacent one-league tracts: El Morro (to Martín Olivera) and Los Cayucos (to Vicente Feliz), BOTH definitively granted by Gov. Juan B. Alvarado on April 27, 1842 (títulos 'B'). Grantees first got a PROVISIONAL/interim concession from Alvarado in 1837 (expediente 'E', which is headed '1837') — the register's '1837'. James (Santiago) McKinley is the claimant who purchased both parcels (1845/1846) and prosecuted the claim. So year ERR (1842 is the confirmed grant) and grantee ERR (Olivera + Feliz, not McKinley); governor Alvarado and rancho name are correct. Hoffman agrees on 1842 and lists grantee Martin Olivera. Board confirmed Apr 4 1854; US appealed Aug 1854; patented later (Phase C)."
  },
  {
   "id": "rancho-nogales",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265835/files/cubanc_lcf_sd088.pdf",
   "pdf_pages_stated": 853,
-  "pages_read": ["1-16 (transcript), incl. petition, depositions, expediente & grant titulo"],
+  "pages_read": [
+   "1-16 (transcript), incl. petition, depositions, expediente & grant titulo"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "Transcript title p1 'for the place named Los Nogales'; petition (transcript p4) 'a tract of land called Los Nogales'; expediente header (transcript p10) 'el paraje llamado los Nogales'; grant título (transcript p14) 'el paraje conocido con el nombre de Nogales'. Register 'Los Nogales' correct."},
-   "year":      {"grade": "ERR", "evidence": "The grant is dated March 13, 1840, not 1838. Concession decree (transcript p13): 'Monterey 13 de Marzo de 1840... declaro al Ciudno José de la Luz Linares dueño en propiedad del paraje... de los Nogales... Alvarado'; formal título (transcript p16): 'Dado en Monterey á trece de Marzo de mil ochocientos cuarenta'; June 11 1840 note (transcript p14) 'en confirmación del terreno Nogales que obtuvo en trece de Marzo del presente año.' Junta approved May 25/26 1840. The register's 1838 = only the initial application (July 1838) and the Oct 10 1838 provisional order authorizing occupation 'until his application was determined' (petition transcript p4)."},
-   "governor":  {"grade": "OK",  "evidence": "Grant título signed 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' (transcript p14-16); decree p13 'El Sor Dn Juan B. Alvarado... así lo mandó decretó y firmó'; the 1838 provisional order also by Alvarado (petition p4). Coronel depo (transcript p6) authenticates Alvarado's & Jimeno's signatures on the grant (Exhibit C). Register 'Alvarado' correct."},
-   "grantee":   {"grade": "PART", "evidence": "The grantee is 'José de la LUZ Linares,' not 'de la Cruz.' Grant título (transcript p14) 'el C. José de la Luz Linares'; decree p13 same; petition (transcript p3-4) 'Jose de la Luz Linares made application'; depositions (transcript p8-9) 'Jose de la Luz Linares'; expediente (transcript p10) 'el Ciudado José de la Luz Linares.' Right grantee (husband of María de Jesús García, who with the Linares children are the claimants), but the register's devotional name 'de la Cruz' is a misreading of 'de la Luz.'"},
-   "land_case": {"grade": "OK",  "evidence": "Every transcript page stamped '88 SD'; Commission docket No. 383 (transcript p1-2); archival leaf 'LAND CASE 88 SD page 853'; PDF filename cubanc_lcf_sd088.pdf. Register 'SD 088' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p3: 'San Francisco Jan 17th 1854... Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim' (vide p39). Register 'Confirmed' agrees. Patent (register June 29 1882, GLO 459) not in pages read; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"year": "1840 (grant título dated Monterey March 13, 1840; Junta approval May 25/26 1840). Per transcript p13-16. The register's 1838 = the application/provisional occupation.", "grantee": "José de la Luz Linares (not 'de la Cruz'). Per grant título transcript p14 and throughout."},
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title p1 'for the place named Los Nogales'; petition (transcript p4) 'a tract of land called Los Nogales'; expediente header (transcript p10) 'el paraje llamado los Nogales'; grant título (transcript p14) 'el paraje conocido con el nombre de Nogales'. Register 'Los Nogales' correct."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The grant is dated March 13, 1840, not 1838. Concession decree (transcript p13): 'Monterey 13 de Marzo de 1840... declaro al Ciudno José de la Luz Linares dueño en propiedad del paraje... de los Nogales... Alvarado'; formal título (transcript p16): 'Dado en Monterey á trece de Marzo de mil ochocientos cuarenta'; June 11 1840 note (transcript p14) 'en confirmación del terreno Nogales que obtuvo en trece de Marzo del presente año.' Junta approved May 25/26 1840. The register's 1838 = only the initial application (July 1838) and the Oct 10 1838 provisional order authorizing occupation 'until his application was determined' (petition transcript p4)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant título signed 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' (transcript p14-16); decree p13 'El Sor Dn Juan B. Alvarado... así lo mandó decretó y firmó'; the 1838 provisional order also by Alvarado (petition p4). Coronel depo (transcript p6) authenticates Alvarado's & Jimeno's signatures on the grant (Exhibit C). Register 'Alvarado' correct."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The grantee is 'José de la LUZ Linares,' not 'de la Cruz.' Grant título (transcript p14) 'el C. José de la Luz Linares'; decree p13 same; petition (transcript p3-4) 'Jose de la Luz Linares made application'; depositions (transcript p8-9) 'Jose de la Luz Linares'; expediente (transcript p10) 'el Ciudado José de la Luz Linares.' Right grantee (husband of María de Jesús García, who with the Linares children are the claimants), but the register's devotional name 'de la Cruz' is a misreading of 'de la Luz.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Every transcript page stamped '88 SD'; Commission docket No. 383 (transcript p1-2); archival leaf 'LAND CASE 88 SD page 853'; PDF filename cubanc_lcf_sd088.pdf. Register 'SD 088' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p3: 'San Francisco Jan 17th 1854... Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim' (vide p39). Register 'Confirmed' agrees. Patent (register June 29 1882, GLO 459) not in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840 (grant título dated Monterey March 13, 1840; Junta approval May 25/26 1840). Per transcript p13-16. The register's 1838 = the application/provisional occupation.",
+   "grantee": "José de la Luz Linares (not 'de la Cruz'). Per grant título transcript p14 and throughout."
+  },
   "notes": "Los Nogales (Case 88 SD, Comm. No. 383). Claimants are the heirs of the grantee: widow María de Jesús García and children Francisco, José María, Miguel & Soledad Linares (Jose de la Luz Linares died intestate 1846). Grant by Alvarado dated March 13, 1840; the register's '1838' is the application year / provisional occupation (Oct 10 1838). Hoffman agrees on 1840. Grantee misrendered 'de la Cruz' for 'de la Luz' (PART). Governor Alvarado and name correct. Board confirmed Jan 17 1854. NB huge file: 574MB / 879 images / archival 853 pages."
  },
  {
   "id": "rancho-not-determined",
   "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265503/files/cubanc_lcf_nd143.pdf",
   "pdf_pages_stated": 300,
-  "pages_read": ["1-11 (transcript), incl. petition + depositions"],
+  "pages_read": [
+   "1-11 (transcript), incl. petition + depositions"
+  ],
   "verdicts": {
-   "name":      {"grade": "OK",  "evidence": "This grant genuinely has NO rancho name. p1 red cover label 'CASE NO. 143 NORTHERN DISTRICT / A TRACT OF LAND NEAR SANTA CLARA GRANT / JAMES ENRIGHT CLAIMANT'; transcript title p1 'for the place named A tract of land near Santa Clara'; petition (transcript p6) 'a tract of land 2000 varas square near to the Mission of Santa Clara.' Register's placeholder 'Unnamed grant (ND 143)' correctly reflects an unnamed tract; Hoffman's 'name' field is a garbled '2' (i.e. the 2000-vara dimension)."},
-   "year":      {"grade": "OK",  "evidence": "Grant made in 1845. Petition (transcript p6): Garcia petitioned Micheltorena Dec 26 1844; 'on the same day to wit the 6th day of January 1845, said Governor granted the same to the said Garcia'; Salvio Pacheco depo (transcript p8): 'a Petition of Francisco Garcia for land with a decree of Governor Micheltorena on it dated January 16th 1845'; Forbes depo (transcript p10) 'heard in 1845 of the existence of the grant.' Register 1845 correct (Hoffman also 1845). Minor day discrepancy 6th vs 16th Jan; grant document Exhibit A/B sits further in the 300-pp file."},
-   "governor":  {"grade": "OK",  "evidence": "Grant by 'Don Manuel Micheltorena the Governor and Superior Political Chief of the Department of California' (petition transcript p6); Pacheco depo (transcript p8) 'a decree of Governor Micheltorena.' Register 'Micheltorena' correct."},
-   "grantee":   {"grade": "ERR", "evidence": "The grantee was FRANCISCO GARCIA, not James Enright. Petition (transcript p6): 'said Governor granted the same to the said Garcia as asked for'; (transcript p7) 'some time in the year 1847 the said Garcia sold and conveyed said land to your Petitioner [Enright]... another conveyance... executed... by said Garcia on the 16th day of November 1848.' Enright is the purchaser/claimant. Hoffman lists grantee 'Francisco Garcia.' Forbes depo (transcript p10): 'the purchase of the land by him [Enright] from Francisco Garcia.'"},
-   "land_case": {"grade": "OK",  "evidence": "p1 red label 'CASE NO. 143 NORTHERN DISTRICT'; every transcript page stamped '143 ND'; Commission docket No. 514 (transcript p1-2); archival leaf 'LAND CASE 143 ND 300 pages'; PDF filename cubanc_lcf_nd143.pdf. Register 'ND 143' correct."},
-   "outcome":   {"grade": "OK",  "evidence": "transcript p5: 'San Francisco Aug. 8 1854... Commissioner Alpheus Felch delivered the opinion of the Board, confirming the claim' (vide p119); the US Law Agent then filed a stipulation (Aug 29 1854). Register 'Confirmed' agrees. Patent (register May 1 1866, GLO 177) not in pages read; Phase C checks GLO."},
-   "patent_to": null, "patent_date": null, "glo_patent_no": null},
-  "corrections": {"grantee": "Francisco Garcia (grantee under Micheltorena, Jan 6/16 1845). James Enright is the assignee who bought from Garcia (~1847; corrective deed Nov 16 1848). Per petition transcript p6-7 and Forbes depo p10."},
+   "name": {
+    "grade": "OK",
+    "evidence": "This grant genuinely has NO rancho name. p1 red cover label 'CASE NO. 143 NORTHERN DISTRICT / A TRACT OF LAND NEAR SANTA CLARA GRANT / JAMES ENRIGHT CLAIMANT'; transcript title p1 'for the place named A tract of land near Santa Clara'; petition (transcript p6) 'a tract of land 2000 varas square near to the Mission of Santa Clara.' Register's placeholder 'Unnamed grant (ND 143)' correctly reflects an unnamed tract; Hoffman's 'name' field is a garbled '2' (i.e. the 2000-vara dimension)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant made in 1845. Petition (transcript p6): Garcia petitioned Micheltorena Dec 26 1844; 'on the same day to wit the 6th day of January 1845, said Governor granted the same to the said Garcia'; Salvio Pacheco depo (transcript p8): 'a Petition of Francisco Garcia for land with a decree of Governor Micheltorena on it dated January 16th 1845'; Forbes depo (transcript p10) 'heard in 1845 of the existence of the grant.' Register 1845 correct (Hoffman also 1845). Minor day discrepancy 6th vs 16th Jan; grant document Exhibit A/B sits further in the 300-pp file."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant by 'Don Manuel Micheltorena the Governor and Superior Political Chief of the Department of California' (petition transcript p6); Pacheco depo (transcript p8) 'a decree of Governor Micheltorena.' Register 'Micheltorena' correct."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was FRANCISCO GARCIA, not James Enright. Petition (transcript p6): 'said Governor granted the same to the said Garcia as asked for'; (transcript p7) 'some time in the year 1847 the said Garcia sold and conveyed said land to your Petitioner [Enright]... another conveyance... executed... by said Garcia on the 16th day of November 1848.' Enright is the purchaser/claimant. Hoffman lists grantee 'Francisco Garcia.' Forbes depo (transcript p10): 'the purchase of the land by him [Enright] from Francisco Garcia.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 143 NORTHERN DISTRICT'; every transcript page stamped '143 ND'; Commission docket No. 514 (transcript p1-2); archival leaf 'LAND CASE 143 ND 300 pages'; PDF filename cubanc_lcf_nd143.pdf. Register 'ND 143' correct."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript p5: 'San Francisco Aug. 8 1854... Commissioner Alpheus Felch delivered the opinion of the Board, confirming the claim' (vide p119); the US Law Agent then filed a stipulation (Aug 29 1854). Register 'Confirmed' agrees. Patent (register May 1 1866, GLO 177) not in pages read; Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Garcia (grantee under Micheltorena, Jan 6/16 1845). James Enright is the assignee who bought from Garcia (~1847; corrective deed Nov 16 1848). Per petition transcript p6-7 and Forbes depo p10."
+  },
   "notes": "Unnamed 2000-vara-square tract near Mission Santa Clara (Case 143 ND, Comm. No. 514). Granted by Micheltorena to Francisco Garcia in Jan 1845; James Enright is the American purchaser/claimant (bought from Garcia ~1847). Register's year (1845), governor (Micheltorena) and land_case (ND 143) are correct; grantee should be Francisco Garcia (ERR) not Enright. Name is genuinely absent (the register's 'Unnamed grant' placeholder is apt). Board confirmed Aug 8 1854. NB 226MB / 312 images / archival 300 pages."
+ },
+ {
+  "id": "rancho-nuestra-senora-refugio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266114/files/cubanc_lcf_sd154.pdf",
+  "pdf_pages_stated": 84,
+  "pages_read": [
+   "1-14",
+   "15-26",
+   "27-36",
+   "64-70",
+   "90-98"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 154 / SOUTHERN DISTRICT / NUESTRA SENORA DEL REFUGIO GRANT / ANTONIA MARIA ORTEGA / CLAIMANT'; PDF p5 transcript title page 'for the place named \"Nuestra Senora del Refugio\"'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "PDF p27 (stamped 154 SD PAGE 21), Figueroa's concession decree: 'Monterey Julio 3 de 1834 ... se declara a D. Antonio Maria Ortega y a Da. Maria Magdalena Cota de Ortega duenos en propiedad del terreno conocido con el nombre del Refugio'. PDF p30 (PAGE 24), the titulo closes: 'Dado en Monterey a 1o de Agosto de 1834 = Jose Figueroa = Agustin V. Zamorano - Srio.' English decree PDF p71 (PAGE 77): 'the grant of said lands made by Jose Figueroa dated August 1st 1834'. Register's 1794 is nowhere the grant year."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "PDF p27 (PAGE 21): 'El Senor Don Jose Figueroa, general de Brigada, Comandante general, Inspector y Jefe Superior Politico del Territorio de la Alta California asi lo mando, decreto y firmo' (signed Jose Figueroa / Agustin V. Zamorano Srio.); PDF p29-30 (PAGES 23-24) titulo issued in Figueroa's name. Not a Spanish governor: the grant is Mexican-era."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "PDF p29-30 (PAGES 23-24) titulo: 'Por cuanto D. Antonio Ma. Ortega y Da. Magdalena Cota de Ortega han pretendido ... el terreno conocido con el nombre de Na. Sa. del Refugio'; same pair in the 3 July 1834 decree, PDF p27. Register names only Antonio M. Ortega; the grant runs to two grantees jointly."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 154 SOUTHERN DISTRICT'; every transcript leaf stamped '154 SD'; PDF filename cubanc_lcf_sd154.pdf. (Board petition/commission docket was No. 522, PDF p5 and p8, matching Hoffman's commission_no 522.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p68 (PAGE 58) Board Decree of Confirmation, filed March 14 1854: 'it is adjudged by the Commission that the claim in this case is valid, & it is therefore decreed that the same be confirmed'. PDF p90-91 (PAGES 76-77) US District Court, Southern District, December Term 1856: 'the decision of said Board confirming unto said Antonio Maria Ortega and Magdalena Cota de Ortega the lands described ... be and the same is hereby affirmed, and that their said title is a good and valid one' (Isaac S.K. Ogier, US Dist. Judge), filed Dec 31 1859. PDF p95 (PAGE 81) order vacating the Supreme Court appeal so the decree stands 'as under a final decree', filed 17 June 1858; PDF p97 (PAGE 83) Attorney General letter 7 Feb 1857 that the appeal will not be prosecuted."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1834 per the concession decree, PDF p27 (154 SD PAGE 21): 'Monterey Julio 3 de 1834'; formal titulo 'Dado en Monterey a 1o de Agosto de 1834' (PDF p30, PAGE 24). Territorial Deputation approved 16 July 1834 (PDF p28, PAGE 22).",
+   "governor": "Jose Figueroa (Jefe Superior Politico of Alta California), PDF p27 and PDF p29-30.",
+   "grantee": "Antonio Maria Ortega AND Magdalena Cota de Ortega jointly, per the titulo PDF p29-30 (PAGES 23-24) and the Board decree PDF p68 (PAGE 58)."
+  },
+  "notes": "Register's '1794 / a Spanish governor' is traceable but wrong: the file does record an earlier Spanish-era settlement permission. PDF p34 (PAGE 28, sworn English translation of Jose Maria Ortega's memorial) says Gov. Diego de Borica 'gave us the permission to settle on said land in the year 1794 in the month of November'; the Spanish original, PDF p16 (PAGE 10), reads 'dho Sor nos dio el permiso para fundarlo en el ano de 94 por el mes de Nove.' That was a permission to occupy, not a grant; the family repeatedly petitioned (Sola 1817, Echeandia 1829-30) without title until Figueroa's 1834 concession. Hoffman 1862 (1834, Jose Figueroa, A. M. Ortega et al.) agrees with the case file against the register on both year and governor. Patent not in the file; Phase C should check GLO for the claimed 28 July 1866 patent no. 379. Case file is 90MB / 98 images; read via pypdf page-range excerpts."
+ },
+ {
+  "id": "rancho-ojo-agua-coche",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264230/files/cubanc_lcf_nd379.pdf",
+  "pdf_pages_stated": 47,
+  "pages_read": [
+   "1-14",
+   "31-33",
+   "57-66"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 379 / NORTHERN DISTRICT / RANCHO del ojo de AGUA de la COCHI GRANT / BERNARD MURPHY / CLAIMANT'; PDF p5 transcript title page 'Rancho Del Ojo de Agua de la Cochi'. Register's 'Coche' is a spelling variant of the file's 'Cochi'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p14 (379 ND PAGE 8), sworn translation of the title, closing line: 'Given in Monterey 4t August 1835. Jose Figueroa. Fo. del Castillo Negrete, Sec.' Board opinion PDF p31 (PAGE 22): 'a grant from Governor Figueroa to Juan Maria Hernandez dated the 4th of August 1835'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p13 (PAGE 7), head of the title translation: 'Jose Figueroa Brigadier General, Commandant General, Inspector and Political chief of the Territory of Upper California'; signed 'Jose Figueroa' PDF p14 (PAGE 8)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "PDF p13 (PAGE 7) title translation: 'Whereas Juan Maria Hernandez has solicited for his benefit and that of his family, the tract known by the name of Ojo de Agua de la Cochi ... in the name of the Mexican Nation, I have conceded to him the tract mentioned, declaring to him the ownership of it by the present letters.' Bernard Murphy is the U.S.-era CLAIMANT, not the grantee: the petition, PDF p9 (PAGE 4), states 'Said land was granted to Juan Maria Hernandez on the 4th day of August 1835, by Jose Figueroa ... Said land is derived to the claimant by conveyance made on the 27th day of May 1845 by said grantee to Chas. M. Weber, and by a subsequent conveyance from said Weber to claimant.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 379 NORTHERN DISTRICT'; every transcript leaf stamped '379 ND'; PDF filename cubanc_lcf_nd379.pdf. (Board docket was No. 95, PDF p5, p7 and p33 certificate, matching Hoffman's commission_no 95.)"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "PDF p32 (PAGE 23) Board 'decree of final Confirmation' signed Hiland Hall and Harry J. Thornton, 21 February 1853: 'It is decreed that the said claim be confirmed to the extent of two square leagues.' But the United States appealed: PDF p61 Attorney General Cushing's notice, 11 September 1854, 'the appeal in the district court of the United States ... will be prosecuted by the United States'; PDF p62 order of P. Ord noting the notice of intention to prosecute the appeal filed 7 November 1854; PDF p64-65 stipulation of 21 September 1855 removing the cause to the Northern District. No District Court decree appears anywhere in this file, which ends with the Board's transmittal letter (PDF p57, PAGE 47) and these loose removal papers (PDF p66 curator note: 'Loose items, not numbered')."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Juan Maria Hernandez per the grant itself, PDF p13 (379 ND PAGE 7): 'Whereas Juan Maria Hernandez has solicited for his benefit and that of his family, the tract known by the name of Ojo de Agua de la Cochi ... I have conceded to him the tract mentioned.' Bernard Murphy acquired it by mesne conveyance (Hernandez to Charles M. Weber, 27 May 1845; Weber to Murphy), PDF p9."
+  },
+  "notes": "Textbook instance of the dominant error class: the register carries the U.S. land-case claimant (Bernard Murphy, the name on the red label) in the grantee field. Hoffman 1862 ('Juan Maria Hernandez') agrees with the case file against the register. Year and governor in the register are both correct. Two minor internal discrepancies in the file itself, neither affecting a graded field: the petition (PDF p9) dates the Territorial Deputation's approval 19 August 1835 while the Board's opinion (PDF p31) says 27 August 1835; and the Bancroft blue page stamps run two ahead of the transcript's own manuscript pagination from about transcript p24 onward (opinion stamped PAGE 22 but written '25'). Patent not in the file; Phase C should check GLO for the claimed 4 Jan 1860 patent no. 199 to Martin J. C. Murphy."
+ },
+ {
+  "id": "rancho-paso",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264440/files/cubanc_lcf_nd053.pdf",
+  "pdf_pages_stated": 70,
+  "pages_read": [
+   "1-14",
+   "15-20",
+   "42-48",
+   "69-80"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 53 / NORTHERN DISTRICT / RANCHO del PASO GRANT / SAMUEL NORRIS / CLAIMANT'; PDF p5 transcript title page 'Rancho del Paso'; grant title translation PDF p16 (CASE 53 ND PAGE 11) 'the location which forms past-land named Rancho del Paso situated on the North Bank of the American River'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p17 (CASE 53 ND PAGE 12), close of the title translation: 'Given in Monterey the 20th of December 1844. Manuel Jimeno Secy. Manuel Micheltorena.' District Court decree PDF p76 (PAGE 68): 'made by Gov. Micheltorena on the 20th day of Dec. 1844 to Eliab Grimes'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p16 (PAGE 11), head of the title: 'Citizen Manuel Micheltorena Brigadier General of the Mexican Army ... Governor & the Commandant General and Inspector of the Department of Californias'; signed 'Manuel Micheltorena' PDF p17 (PAGE 12). Micheltorena's own marginal decree on the expediente, PDF p15 (PAGE 10): 'Monterey Dec. 1844 / Let the title be issued as asked. Micheltorena'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "PDF p16 (PAGE 11) title translation: 'Whereas Don Eliab Grimes a naturalized Mexican has asked for his personal benefit the location which forms past-land named Rancho del Paso ... I have in the name of the Mexican Nation ceded to him the before mentioned land declaring him to be the proprietor thereof by these present letters.' The expediente petition, PDF p14 (PAGE 9), is headed 'Presented by the naturalized citizen Eliab Grimes' and signed 'Monterey Dec. 16th 1844 Eliab Grimes'. Samuel Norris is the U.S.-era claimant only: the petition PDF p9 (PAGE 4) states the tract 'was granted by Michel Torrena Govr of Upper California by a concession dated the 21th of Dec 1844 to one Eliab Grimes a naturalized citizen of the Mexican Nation, which said Grimes dying bequeathed said tract of land by a Codicil added to his will dated 18th of April 1845 to one Hiram Grimes and by said Hiram sold and conveyed to this petitioner by deed dated the 8th day of August 1849.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 53 NORTHERN DISTRICT'; every leaf stamped 'CASE 53 ND'; District Court wrapper PDF p49 'U.S. DISTRICT COURT, Northern District of California, No. 53'; PDF filename cubanc_lcf_nd053.pdf. (Board docket was No. 146, PDF p5 and the p48 certificate, matching Hoffman's commission_no 146.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p47 (CASE 53 ND PAGE 34) Board decree: 'It is decreed that the said claim be confirmed to the extent of ten square leagues ... Given under our hands this 18th day of April 1853' (Hiland Hall, Harry J. Thornton), filed 22 April 1853. The US appealed (AG Cushing, 11 Sept 1854, PDF p50 and p52, PAGES 36 and 38; notice of appeal filed 21 Oct 1854, PDF p51). The appeal was decided for the claimant: US District Court, Northern District, opinion PDF p72-75 (PAGES 64-67) 'The decision of the Commissioners in favor of its validity must therefore be affirmed', and decree PDF p75-76 (PAGES 67-68) 'It is ordered, adjudged and decreed that the decision of said Board be affirmed. And it is hereby further ordered, adjudged and decreed that the claim of the appellee be confirmed to the extent of ten square leagues to the land described in the grant made by Gov. Micheltorena on the 20th day of Dec. 1844 to Eliab Grimes.' Norris's own sworn affidavit, PDF p70 (PAGE 61), adds that 'the appeal to the Supreme Court of the United States [was] dismissed by order of the Attorney General of the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Eliab Grimes per the grant itself, PDF p16 (CASE 53 ND PAGE 11): 'Whereas Don Eliab Grimes a naturalized Mexican has asked for his personal benefit the location ... named Rancho del Paso'. Samuel Norris took by mesne conveyance: Eliab Grimes (d. 1848) devised the rancho by codicil of 18 April 1845 to his nephew Hiram Grimes, who deeded it to Norris 8 August 1849 (PDF p9, PAGE 4; will and probate at PDF p18-20, PAGES 13-15)."
+  },
+  "notes": "Dominant error class again: the register carries the U.S. claimant (Samuel Norris, the name on the red label) where the Mexican grantee belongs. Hoffman 1862 ('Eliab Grimes') agrees with the case file against the register. Year and governor in the register are correct. One internal discrepancy in the file, not affecting a grade: the claimant's petition (PDF p9) dates the concession '21th of Dec 1844' while the file's own sworn translation of the title (PDF p17) and the District Court decree (PDF p76) both give 20 December 1844. John A. Sutter's deposition (PDF p11-14, PAGES 5-8) is the key testimony: he gave Grimes a provisional right to settle in 1841 and, as sole civil judge of the Sacramento district, gave formal possession after the grant. Patent not in the file; Phase C should check GLO for the claimed 4 May 1858 patent no. 96 to Samuel Norris. Curator note at PDF p80 points to related papers at BANC MSS C-I 16, Pt. I:94."
+ },
+ {
+  "id": "rancho-paso-robles",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268973/files/cubanc_lcf_sd351.pdf",
+  "pdf_pages_stated": 44,
+  "pages_read": [
+   "1-14",
+   "15-23",
+   "36-39",
+   "39-55"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 351 / SOUTHERN DISTRICT / PASO DE ROBLES GRANT / PETRONILLA RIOS / CLAIMANT'; PDF p5 transcript title page 'Paso de Robles'; expediente cover PDF p18 (351 SD PAGE 13) 'en solicitud del parage conocido con el nombre de Paso de Robles'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p21 (351 SD PAGE 16), Micheltorena's concession decree: 'Monterrey Mayo doce de 1844. Vista la peticion con que da principio este Espediente, los informes que preceden ... declaro dueno en propiedad a D.n Pedro Narvaez del parage conocido con el nombre de Paso de Robles ... en extension de seis sitios de ganado mayor.' Board opinion PDF p36: 'a grant issued in pursuance thereof by Governor Michelltorena, bearing date the 12th day of May, 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p21 (PAGE 16), closing formula of the decree: 'El Sor. D. Manuel Micheltorena Gobernador, Comandante General asi lo mando, decreto y firmo'; Micheltorena also signs the 16 May 1844 boundary-settlement act on the same leaf, with Manuel Jimeno as Secretario del Despacho. His earlier marginal orders on the expediente are at PDF p20 (PAGE 15), 'Monterey Nov.e 27 de 1843 ... Micheltorena'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "PDF p21 (PAGE 16), the decree itself: 'declaro dueno en propiedad a D.n Pedro Narvaez del parage conocido con el nombre de Paso de Robles'. The expediente is headed (PDF p18, PAGE 13) '1844 Espediente. Promovido por el Sor. Capitan D.n Pedro Narvaes en solicitud del parage conocido con el nombre de Paso de Robles. Numero 375', and the underlying petition (PDF p20, PAGE 15) is signed 'Monterrey Nov.e 26 de 1843. Pedro Narvaez', describing himself as '1er teniente de la armada nacional y capitan de este puerto'. Petronilo Rios is the U.S.-era claimant, a purchaser: the Board's own opinion (PDF p36) says 'The petitioner in this case asks a confirmation as grantee of Don Pedro Narvaez ... and also a deed from the said Narvaez to the present claimant dated the 30th day of March 1846.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 351 SOUTHERN DISTRICT'; leaves stamped '351 SD'; District Court wrapper PDF p42 'U.S. DISTRICT COURT, Southern District of California, No. 351 ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 241, Filed Dec. 6, 1855'; PDF filename cubanc_lcf_sd351.pdf. (Board docket No. 241, matching Hoffman's commission_no 241.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p37 Decree of Confirmation, 'Petronillo Rios vs The United States, No. 241': 'it is adjudged by the Commission that the claim of the said Petitioner is valid and it is therefore decreed that his application for a confirmation thereof be allowed. The land of which confirmation is hereby given ... is known by the name of \"Paso de Robles\", containing six square leagues' (R. Aug. Thompson and S. B. Farwell, Commissioners), filed 3 July 1855. The US noticed an appeal (AG Cushing 31 Dec 1855, PDF p45, PAGE 33; notice of appeal filed 12 Feb 1856, PDF p46, PAGE 34) and US Attorney Pacificus Ord filed a petition on appeal 5 January 1857 (PDF p48-50, PAGES 37-39), but the appeal was abandoned: Attorney General's Office, 4 December 1856, PDF p51 (PAGE 43): 'In the case of the claim of Petronillo Rios, confirmed to the claimant by the Commissioners, case no. two hundred and forty one (241), appeal will not be prosecuted by the United States' (filed 21 Feb 1857, PDF p52, PAGE 44). Confirmation therefore stood."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Pedro Narvaez per the concession decree, PDF p21 (351 SD PAGE 16): 'declaro dueno en propiedad a D.n Pedro Narvaez del parage conocido con el nombre de Paso de Robles'. Petronilo Rios acquired it from Narvaez, first by an act of assignment endorsed on the grant 5 April 1845 and then by a formal deed of sale before the 1st Alcalde of Monterey, 30 March 1846 (petition PDF p9, PAGE 4; deed PDF p23, PAGE 28, signed Manuel Diaz, alcalde, and Pedro Narvaez)."
+  },
+  "notes": "Dominant error class: the register carries the claimant (Petronilo Rios, the name on the red label) as grantee. Hoffman 1862 ('Pedro Narvaez') agrees with the case file against the register. Year and governor in the register are correct. Two things a re-reader should know. (1) The file explains WHY Narvaez never lived there: Jose Rafael Gonzalez testified (PDF p12-13, PAGES 6-7) that 'in consequence of the official position of Narvaez he was unable to reside on the Ranch himself. He sent a Mayor Domo there with servants, and cattle and horses ... but in consequence of the depredations committed by Indians he became disgusted and sold the Ranch to Petronillo Rios'; Narvaez had left for Tepic, Mexico, by 1846-47. (2) The expediente records a boundary dispute settled in person before Micheltorena at Monterey on 16 May 1844 between Capt. Pedro Narvaez and Sr. Arce, 'quedando la parte del Paso de Robles para el Sor. Narvaez y el Sor. Arce el de Santa Ysabel' (PDF p21, PAGE 16). A stray leaf, PDF p47 (PAGE 35), is a notice of appeal by Petronilo Rios in a DIFFERENT claim, Land Commission No. 622, 'for the mission lands of the Ex mission of San Miguel' - filed 23 Oct 1855 and bound into this docket; do not read it as part of the Paso de Robles appeal. Patent not in the file; Phase C should check GLO for the claimed 20 July 1866 patent no. 320. Note the register spells the claimant 'Petrenelo Rios'; the file writes 'Petronillo Rios' (label 'PETRONILLA RIOS')."
+ },
+ {
+  "id": "rancho-pastoria-borregas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265458/files/cubanc_lcf_nd097.pdf",
+  "pdf_pages_stated": 505,
+  "pages_read": [
+   "1-14",
+   "16-32",
+   "33-46",
+   "506-517"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Grant title, PDF p20 (97 ND PAGE 16): 'el terreno conocido con el nombre de Pastoria de las Borregas'; English translation PDF p24 (PAGE 20): 'the tract of land known by the name of Pastoria de las Borregas'. Board decree PDF p42 (PAGE 37): 'a part of the place known by the name of Pastoria de las Borregas'. Note the docket also carries the alias 'Refugio': the transcript title page (PDF p4, PAGE 1) and the Secretary's certificate (PDF p43, PAGE 38) both style it 'Refugio', and the claimant's petition (PDF p9, PAGE 4) calls it 'the Rancho del Refugio or Pastoria de las Borregas'. There is no red case label in this scan; PDF p1 is the microfilm slip, 'LAND CASE 97 ND / 505 pages.'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish title, PDF p21 (97 ND PAGE 17): 'Dado en Monterey a quince de Enero de mil ochocientos cuarenta y dos. Juan B. Alvarado. Manuel Jimeno, Srio.' Sworn English translation, PDF p25 (PAGE 21): 'Given at Monterey the fifteenth of January 1842.' The expediente decree agrees, PDF p30 (PAGE 26): 'Monterey Enero 15 de 1842 ... declaro a D.n Franc.o Estrada dueno en propiedad del terreno nombrado Pastoria de los Borregos'; registry entries at the Prefecture of the 1st District are dated 'Monterey, 16 de Enero de 1842' (PDF p21)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p20 (PAGE 16), head of the title: 'Juan B. Alvarado, Gobernador constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado. Manuel Jimeno, Srio.' PDF p21 (PAGE 17). Expediente decree closes (PDF p32, PAGE 27 / translation PDF p37, PAGE 32): 'Sor. Don Juan B. Alvarado Constitutional Governor of the Department of the Californias thus Commanded decreed and Signed.' Alvarado's own marginal order of 23 Feb 1841 is at PDF p35 (PAGE 30)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant itself, PDF p20 (97 ND PAGE 16): 'Por cuanto D. Francisco Estrada, ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de Pastoria de las Borregas ... he venido en concederle el terreno mencionado, declarando le la propiedad de el por las presentes letras.' Sworn translation PDF p24 (PAGE 20): 'Whereas D.n Francisco Estrada has sought to obtain for his personal benefit & that of his family the tract of land known by the name of Pastoria de las Borregas ... I have conceded to him the said tract of land, declaring to him the ownership thereof by these present letters.' Mariano Castro is the U.S.-era claimant only. The Board's own opinion, PDF p39 (PAGE 34), states it plainly: 'on the 2d day of January A.D. 1842, one Don Francisco Estrada obtained from Governor Alvarado a grant for the place called Pastoria de los Borregas, that some time in the year 1845 the said grantee died, without wife or children ... that the father of said grantee, as heir of his son Francisco ... conveyed all his interest in & to said tract of land to the petitioner in this case.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Every leaf stamped '97 ND'; PDF p1 microfilm slip 'LAND CASE 97 ND'; District Court wrapper PDF p44 'U.S. DISTRICT COURT, [Northern] District of California ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 257, Filed Sept. 13, 1854' with '97 ND' stamped over it; PDF filename cubanc_lcf_nd097.pdf. (Board docket No. 257, per the title page PDF p4 and the certificate PDF p43, matching Hoffman's commission_no 257.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, PDF p41-42 (97 ND PAGES 36-37): 'it is adjudged by the Commission that the claim of the said petitioner is valid, & it is therefore decreed that the same be confirmed. The lands of which confirmation are hereby made are a part of the place known by the name of Pastoria de las Borregas ... containing in all two square leagues, a little more or less, excepting from this confirmation two tracts of land embraced within the foregoing boundaries' (Alpheus Felch, Thompson Campbell, R. Aug. Thompson, Commissioners), filed 24 January 1854. The US appealed: Attorney General Cushing, 30 November 1854, PDF p45 (PAGE 39), 'the appeal in the district court of the United States for the Northern district of California will be prosecuted by the United States'. The District Court confirmed as well: the judge's bench notes on the later survey hearing, PDF p511 (PAGE 501), record 'The decree limits the quantity to 2 leagues ... The Court not satisfied with this proof confined the grantee to 2 leagues. The case comes up now on objections to the survey.' A co-claimant's separate outcome is noted at PDF p505 (PAGE 495): 'Murphy, who has a separate final confirmation for 4894 35/100 acres.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Estrada per the grant, PDF p20/p24 (97 ND PAGES 16 and 20). Mariano Castro took by conveyance from Jose Maria Estrada, Francisco's father and heir: the cession endorsed on the back of the title reads 'Como heredero del finado Francisco Estrada, digo que cedo voluntariamente a favor del ciud.no Mariano Castro, los dos sitios que se espresan en este titulo. Buenavista, 17 de Marzo 1845. Jose Maria Estrada' (PDF p21, PAGE 17; English at PDF p26, PAGE 22), judicially authenticated before Regidor Ignacio Esquer at San Jose on 27 January 1846 (PDF p27 and p29, PAGES 18-19)."
+  },
+  "notes": "Dominant error class: the register carries the U.S. claimant (Mariano Castro) as grantee. Hoffman 1862 ('Francisco Estrada') agrees with the case file against the register. Year and governor in the register are correct. Three cautions for a re-reader. (1) The BOARD'S OPINION MISDATES TWO KEY DOCUMENTS and should not be used as the source for either: PDF p39 (PAGE 34) says the grant issued 'on the 2d day of January A.D. 1842' where the title itself twice says 15 January 1842, and says Jose Maria Estrada conveyed 'on the 17th day of March A.D. 1849' where the endorsement on the title is dated 17 March 1845. Grade against the title (PDF p20-21, p24-25), not the opinion. (2) The confirmation carried two express exceptions, which is why the eventual patent is only 4,172 acres against a two-league grant: the land of the Santa Clara Indian YNIGO, reserved to him by the Departmental Assembly and noted by Micheltorena on the back of the original grant, 'Monterey, February 14th 1844. (Signed) Manuel Micheltorena' (PDF p21 and p40, PAGES 17 and 35-36); and the tracts Castro had already deeded to Martin Murphy, filed in case No. 90 (PDF p40, PAGE 36). (3) This is a 517-image, 363MB file; roughly 460 of its pages are a long survey contest among Castro, Murphy, R. Walkinshaw (claiming under the Ynigo grant), and intervenors Jones, Sullivan and Wallace (PDF p505-517, PAGES 495-505), which is where the acreage was finally fixed. The Estrada expediente itself is a traced copy borrowed from case No. 90 by stipulation of 21 Sept 1853 (PDF p18-19, PAGES 14-15) and certified by Surveyor General Samuel D. King, 26 Feb 1852 (PDF p33, PAGE 28). Original judicial measurement of 1842 was lost: Sunol testified the leaves recording it 'had been cut out' of the San Jose prefecture book (PDF p18, PAGE 14). No patent copy in the file; Phase C should check GLO for the claimed 17 Sept 1881 patent no. 144."
  }
 ]

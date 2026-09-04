@@ -289,5 +289,216 @@
    "name": "Correct form 'Laguna de los Palos Colorados' (register garbles as 'Laguna Del Los Palos Colorados')."
   },
   "notes": "PRIORITY YEAR FLAG resolved: Hoffman (1841) beats the register (1835); 1835 was only the Deputation consent, the Alvarado grant was 10 Aug 1841. governor/grantee/land_case/outcome all OK. Board CONFIRMED 23 Jan 1855 (R. Aug. Thompson). PDF is 350 images (includes a duplicate transcript; Board docket No. 590 penciled 'Duplicate' on the title verso); no 'pgs' total-count leaf captured."
+ },
+ {
+  "id": "rancho-laguna-seca",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266057/files/cubanc_lcf_sd016.pdf",
+  "pdf_pages_stated": 118,
+  "pages_read": [
+   "1-14",
+   "25-32"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 16 / SOUTHERN DISTRICT / LAGUNA SECA GRANT / CATHARINA MANZANELI DE MUNRAS CLAIMANT'; PDF p5 (transcript p1) 'for the place named \"Laguna Seca\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p31 (transcript p25), Comisiones de Colonizacion dictamen, Monterey 10 May 1834: 'Se aprueba la concesion hecha a Da. Catarina Manzanelli del Paraje nombrado la Laguna Seca concedido en 23 de Mayo de 1833'; the titulo itself at PDF p25 (transcript p19) closes 'Dado en Monterey a veinte y tres de Mayo de mil ochocientos treinta y tres' over Jose Figueroa / Agustin V. Zamorano. Register 1833 is the original concession."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p25 (transcript p19) titulo signed 'Jose Figueroa' with Zamorano as secretary; PDF p29 (transcript p23) heading 'Jose Figueroa General de Brigada de los Ejercitos Nacionales Mejicanos, Comandante General, Inspector y Gefe Superior Politico del Territorio de la Alta California'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p29 (transcript p23): 'Por cuanto Da. Catarina Manzanelli de Munras, Mejicana por nacimiento, ha pretendido por su beneficio personal y el de su familia ampliacion al terreno de la Canadita de enfrente de la Laguna Seca'; PDF p28 (transcript p22) decree of 9 Jan 1834 'se declara a Da. Catarina Manzanelli de Munras duena en propiedad del terreno'. Register 'Catalina M. de Munras' = the same person; grantee is the Mexican grantee, not a US-era claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 16 SOUTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 16 SD PAGES 118'; every transcript leaf stamped '16 SD'; filename cubanc_lcf_sd016.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p8 (transcript p3), San Francisco April 11th 1853: 'Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation of the Board' in case No. 155. No rejection appears in the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman's 1834 is not a register error but a different instrument: the ampliacion (enlargement) titulo is 'Dada en Monterey a 22 de Enero de 1834' (PDF p30 / transcript p24), on Figueroa's decree of 9 Jan 1834 (PDF p28 / transcript p22). The underlying Laguna Seca concession is 18/23 May 1833 - confirmed twice by the record itself: the Diputacion's approving dictamen of 10 May 1834 (PDF p31) and Figueroa's certificate of 12 July 1834 (PDF p32) 'la concesion del terreno de la Laguna Seca, que obtuvo en 18 de Mayo de 1833, y ampliado en 9 de Enero del presente ano'. Territorial Deputation approval 17 May 1834, signed Jose Figueroa and Juan B. Alvarado (PDF p31). Commission docket no. 155 matches Hoffman commission_no 155. Only the Board's 1853 confirmation was read; District Court proceedings later in the 118-page transcript were not reached, so 'Confirmed' is verified at Board level. No patent copy seen in pages read."
+ },
+ {
+  "id": "rancho-laguna-seca-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265803/files/cubanc_lcf_nd211.pdf",
+  "pdf_pages_stated": 153,
+  "pages_read": [
+   "1-12",
+   "13-20",
+   "20-27"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 211 / NORTHERN DISTRICT / LAGUNA SECA GRANT'; grant titulo PDF p22 (transcript p16) 'el terreno conocido con el nombre de la Laguna Seca'. The judicial-possession expediente heading PDF p21 (transcript p15) styles it 'Rancho de Nuestra Senora del Refugio (o) Laguna Seca'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant titulo, PDF p23 (transcript p17): 'Dado en la Ciudad de Monterrey a veinte y dos de Julio de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano, Srio.' (22 July 1834); razon taken 23 July 1834"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p22 (transcript p16) titulo opens 'Jose Figueroa General de Brigada de la Republica Mejicana, Comandante General Inspector y Gefe Politico de la Alta California'; signed by him PDF p23"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant titulo PDF p22 (transcript p16): 'Por cuanto D. Juan Alvirez Mejicano por nacimiento ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de la Laguna Seca ... a nombre de la Nacion Mejicana he venido en conferirle el terreno mencionado'. The register's 'Liberta Cesena Bull' is the U.S.-era CLAIMANT: PDF p8 (transcript p2) 'The Petition of Liberata Cesena Bull et al: (Heirs of William Fisher)'. Chain of title at PDF p10 (transcript p4): Alvirez insolvent 1845, rancho sold to Jose Antonio Aguirre, who sold to William Fisher 29 Nov 1845. Board's own question at PDF p16 (transcript p12) calls Alvirez 'the original grantee'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 211 NORTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 211 ND. 153 PAGES'; leaves stamped '211 ND'; filename cubanc_lcf_nd211.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p9 (transcript p3), San Francisco Sept. 26, 1854: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim' (opinion at transcript p133, order at p137)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Juan Alvirez (Don Juan Alvirez), per Figueroa's titulo of 22 July 1834, PDF p22-23 / transcript pp16-17. 'Liberta Cesena Bull' was the widow of William Fisher and the 1852 claimant, not the Mexican grantee."
+  },
+  "notes": "Dominant error class confirmed: register recorded the U.S. land-case claimant instead of the Mexican grantee. Hoffman agrees with the case file against the register ('Juan Alvirez'). Commission docket No. 244 (PDF p5 transcript p1) matches Hoffman commission_no 244; court no. 211 matches. The titulo recites that the Territorial Deputation approved the concession on the 18th of the current month, the underlying concession having been 'hecha en doce de Junio proximo pasado' (12 June, i.e. the antecedent grant), with the formal titulo issued 22 July 1834. Judicial possession given Dec 1836 by the Alcalde of San Jose de Guadalupe / Pueblo de Alvarado (PDF p21, p26-27). Antonio M. Pico's deposition (PDF p12, transcript p7) independently identifies 'an original grant to Juan Alvirez dated 22nd July 1834'. Only Board-level confirmation read; District Court decree not reached, and no patent copy seen."
+ },
+ {
+  "id": "rancho-llano-buena-vista",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266111/files/cubanc_lcf_sd151.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-20"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 151 / SOUTHERN DISTRICT / LLANO DE BUENA VISTA GRANT / DAVID SPENCE CLAIMANT'; PDF p4 (transcript p1) 'for the place named \"Llano de Buena Vista\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p8 (transcript p4) petition: 'the same was granted to Don Jose Mariano Estrada in the year 1823'; PDF p9 (transcript p5) 'The Original Title was derived of Governor Don Luis Antonio Arguello in 1823'; corroborated by four sworn depositions (Cantua PDF p10, Vallejo PDF p12, Soberanes PDF p14, Spence PDF p16), all saying 1823"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "PDF p9 (transcript p5): 'The Original Title was derived of Governor Don Luis Antonio Arguello in 1823'; PDF p16 (transcript p12) David Spence's own deposition: 'the Rancho Llano de Buenavista had been granted to the said Jose Mariano Estrada by Don Luis Arguello Governor of Upper California in the year 1823'; PDF p10 (transcript p6) Guadalupe Cantua: 'It was granted to said Estrada by Luis Arguello Governor in 1823'; PDF p14 (transcript p10) Mariano Soberanes: 'granted in 1823 by Governor Arguello to Mariano Estrada'. The petition itself, PDF p8, styles it 'a Mexican Grant' - Arguello was the first governor under Mexican rule, not a Spanish governor."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "PDF p8 (transcript p4) petition: 'the same was granted to Don Jose Mariano Estrada in the year 1823'. David Spence is the U.S.-era claimant: PDF p9 (transcript p5) 'the sale of said land was made to Don Manuel Diaz by Don Jose M. Estrada on the 14th of July 1847 and conveyed by Diaz to your Petitioner on the 7th day of September 1850'; PDF p1 red label names Spence 'CLAIMANT'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 151 SOUTHERN DISTRICT'; every transcript leaf stamped '151 SD'; filename cubanc_lcf_sd151.pdf resolved 200. Commission docket No. 518 (PDF p4, transcript p1) matches Hoffman commission_no 518; Hoffman court_no 151 matches."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p7 (transcript p3), San Francisco March 14, 1854: 'Commissioner Thompson Campbell delivered the opinion of the Board confirming the claim' (opinion at transcript p33). An order was made Aug. 15, 1854 on motion of the U.S. Law Agent (transcript p48) - District Court proceedings not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Luis Antonio Arguello, governor of Alta California under Mexico, per petition PDF p9 / transcript p5 and the depositions of Cantua, Vallejo, Soberanes and Spence. Register's 'a Spanish governor' is wrong on both count and era: the petition claims 'under a Mexican Grant' (PDF p8).",
+   "grantee": "Don Jose Mariano Estrada, per petition PDF p8 / transcript p4. David Spence bought the rancho from Manuel Diaz on 7 Sept. 1850 (PDF p9), Diaz having bought from Estrada 14 July 1847."
+  },
+  "notes": "IMPORTANT LIMITATION: no grant decree exists to quote. David Spence deposed (PDF p18, transcript p14) 'I have made thorough and diligent search for the original title papers to the said Rancho de Llano de Buenavista and I have been unable to find them among the effects of the said Estrada. I do not believe they are now in existence ... I believe they were stolen from Estrada's chest by said Olivas who destroyed them' - the papers were taken in the 1846 sacking of Estrada's house after Fremont's party requisitioned his horses. Year/governor/grantee are therefore graded on the petition plus four sworn depositions, which are unanimous and unchallenged (Vallejo, PDF p13: 'he never heard the title of Estrada called in question'). Hoffman agrees with the case file against the register on BOTH flagged fields. Dominant error class again: register carries the U.S.-era claimant (Spence) in the grantee column. No typed page-count slip appears in this file, so pdf_pages_stated is left null. No patent copy seen in pages read."
+ },
+ {
+  "id": "rancho-llano-seco",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264245/files/cubanc_lcf_nd398.pdf",
+  "pdf_pages_stated": 124,
+  "pages_read": [
+   "1-12",
+   "72-79",
+   "121-130"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 398 / NORTHERN DISTRICT / LLANO SECO GRANT / CHARLES J. BRENHAM et al CLAIMANT'; PDF p5 (transcript p1) 'for the place named \"Llano Seco\"'; Board opinion caption PDF p73 (transcript p67) 'For the place called Llano Seco in Butte County Containing four square Leagues of Land'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "PDF p9 (transcript p4) petition: 'That on the 2nd day of October A.D. 1845 Pio Pico, Governor of California by virtue of Authority in him vested made a decree granting to the said Kayser the aforesaid tract of land: That on the 4th day of October A.D. 1845 the said Governor of California issued to the said Kayser a formal title for the said tract of \"Llano Seco\" ... That on the 8th day of October A.D. 1845 the said grant was duly approved by the Departmental Assembly'. The Board's own opinion, PDF p73 (transcript p67), finds the same: 'he subsequently applied to the Governor on the 4th October 1845 received a grant in the usual form which was on the 8th day of the same month approved by the Departmental Assembly.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p9 (transcript p4): 'on the 2nd day of October A.D. 1845 Pio Pico, Governor of California ... made a decree granting to the said Kayser the aforesaid tract of land ... on the 4th day of October A.D. 1845 the said Governor of California issued to the said Kayser a formal title'. NOTE: I did not read the Spanish titulo itself (Exhibit A, translation B); this rests on the petition plus the Board's finding at PDF p73."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Board opinion, PDF p73 (transcript p67): 'This claim is based on a grant to Sebastian Kayser. The Evidence shows that in 1844 he applied to the Governor for a grant of the land ...'. Petition, PDF p9 (transcript p4): 'On the 1st day of May A.D. 1844 Sebastian Kayser applied to the Governor of California for a certain tract of land called Llano Seco, which was granted to the said Kayser by Manuel Micheltorena Governor of California on the 26th day of June and 22nd of Decr 1844.' Charles J. Brenham is a U.S.-era purchaser: PDF p11 (transcript p6) 'On the 11th day of April A.D. 1850 the said John F. Pope Sold & Conveyed an undivided 1/18 of Said Rancho to the Petitioner Charles J. Brenham' - i.e. Brenham held ONE EIGHTEENTH of the rancho as one of eleven co-claimants."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 398 NORTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 398 ND 124 pgs.'; leaves stamped '398 ND'; District Court caption PDF p121 (transcript p115) 'D.C. 398: L.C. 289'. Commission docket 289 matches Hoffman commission_no 289; court no. 398 matches."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed, but NOT by the Land Commission. The Board REJECTED: PDF p77 (transcript p72) 'An adverse decree must consequently be entered. Rejected. Filed in office Sept. 25, 1855' over Alpheus Felch, R. A. Thompson, S. B. Farwell - 'it is adjudged by the Commission that the claim of the said petitioners is not valid; and it is therefore decreed that their Application for a Confirmation thereof be denied'. The District Court reversed: PDF p121 (transcript p115) recites 'the final decision of this Court rendered in said cause at the December 1856 term'; and PDF p125 (transcript p119), 3 June 1859, Ogden Hoffman D.J.: 'The Attorney General of the United States having given notice that appeal will not be prosecuted in this case ... it is Ordered adjudged and Decreed that the appeal heretofore granted herein on the part of the U.S. be vacated, and that claimants have leave to proceed under the decree of this Court heretofore rendered in their favor as under Final Decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Sebastian Kayser (Keyser), per the Board's opinion PDF p73 / transcript p67 and the petition PDF p9 / transcript p4. Charles J. Brenham was an 1850 purchaser of an undivided 1/18 interest and one of eleven co-petitioners (Chapman, Warbass, Billings, Bolton, Halleck, Hoskins, Brenham, G. G. Pope, et al.)."
+  },
+  "notes": "Hoffman's 1844 is not a register error but the antecedent instrument: Micheltorena's 1844 order for provisional occupation (petition dates it 26 June and 22 Dec 1844; the Board opinion says 'in July of that year Governor Michelterena made an order for the provisional occupation of the premises'). Kayser also received in Sept. 1845 a copy of the 'General title (so called)', whose character the Board had already dealt with in case No. 196. The operative grant is Pico's, 4 Oct. 1845, Departmental Assembly approval 8 Oct. 1845 - so the register's 1845/Pio Pico pair is right and internally consistent. The Board's rejection turned NOT on the validity of the grant but on the claimants' failure to prove the Farwell-to-Bidwell conveyance (no acknowledgment certificate, hence inadmissible): PDF pp74-77, transcript pp68-72. Chain per petition: Kayser -> Edward A. Farwell (10 Nov. 1844) -> Bidwell (half, 4/11 April 1845) -> Chapman & Warbass (1849) -> Simmons Hutchinson & Co., Pope, etc. Dominant error class again: register carries a U.S.-era claimant in the grantee column, and here that claimant owned only 1/18. No patent copy seen in pages read."
+ },
+ {
+  "id": "rancho-lomerias-muertas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265847/files/cubanc_lcf_sd105.pdf",
+  "pdf_pages_stated": 50,
+  "pages_read": [
+   "1-12",
+   "13-22"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 105 / SOUTHERN DISTRICT / LOMERIAS MUERTAS GRANT / JOSE SANCHEZ CLAIMANT'; grant titulo PDF p21 (transcript p13) 'Las Lomerias muertas al Este del Arroyo de Sn. Benito'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant titulo, PDF p22 (transcript p14): 'Dado en Monterey a diez y seis de agosto de mil ochocientos cuarenta y dos' (16 August 1842). Alvarado's concessory decree of the same date at PDF p20 (transcript p11): 'Monterey 16 de Agosto de 1842. Vista la peticion con que da principio este expedte. ... declaro al Cno. Jose Antº Castro dueno del terreno que forma las Lomerias muertas'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant titulo, PDF p21 (transcript p13), opens: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant titulo, PDF p21 (transcript p13): 'Por cuanto el Ciudadano Jose Antº Castro ha pretendido para su beneficio personal y el de su familia Las Lomerias muertas ... a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. The espediente cover, PDF p17 (transcript p9), reads 'Espediente Promovido por el Ciudadano Jose Antonio Castro en solicitud del terreno que se espresa. 1842.' Petition, PDF p9 (transcript p4): 'on the 16th day of August A.D. 1842 John B Alvarado Constitutional Governor of the Department of Californias ... granted to Jose Antonio Castro in property a ranch or tract of Land called Lomerias Muertas ... That on the 8th day of September A.D. 1844 the said Jose Antonio Castro granted the aforesaid conveyed in due form all his title and estate ... to Jose Maria Sanchez the petitioner.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 105 SOUTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 105 SD 50 pgs.'; leaves stamped '105 SD'; filename cubanc_lcf_sd105.pdf resolved 200. Commission docket No. 132 (PDF p5, transcript p1) matches Hoffman commission_no 132; court no. 105 matches."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p8 (transcript p3), San Francisco March 14, 1854: 'Commissioner Thompson Campbell delivered the opinion of the Board confirming the Claim' (opinion at transcript p28). An order followed 15 Aug. 1854 on motion of the U.S. Law Agent (transcript p31); District Court proceedings not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Antonio Castro, per Alvarado's titulo of 16 Aug. 1842, PDF p21-22 / transcript pp13-14, and the espediente cover PDF p17 / transcript p9. Jose Maria Sanchez bought the rancho from Castro on 8 Sept. 1844 (petition, PDF p9) and died intestate in December 1852, leaving as heirs Vicente, Refugio, Gregorio, Guadalupe and one other Sanchez child (deposition of Samuel C. Head, PDF p13 / transcript p7)."
+  },
+  "notes": "Hoffman agrees with the case file against the register: grantee is Jose Antonio Castro. Dominant error class again - the register's 'Jose M. Sanchez and, on his death, Vicente Sanchez' is an accurate description of the U.S.-era CLAIMANT chain (the red label itself says 'JOSE SANCHEZ CLAIMANT'), not of the Mexican grantee. Caution for a re-reader: Jose Castro's deposition (PDF p15, transcript p8) says the rancho 'was granted to Jose Antonio Castro about the years 1839 or 1840 as I think' - loose witness recollection, superseded by the titulo he then authenticates in the same deposition, 'a paper ... purporting to be a grant to Jose Antonio Castro dated 16 August 1842 ... marked H.H. No. 1'. The Spanish expediente in the file is a nine-page tracing certified by U.S. Surveyor General John C. Hays, 8 Aug. 1853 (PDF p22, transcript p14), from the former Mexican archives. Grant size: one and a half sitios de ganado mayor. No patent copy seen in pages read."
  }
 ]
