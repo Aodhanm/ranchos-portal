@@ -1,6 +1,277 @@
 {
-  "title": "Errata",
-  "policy": "Every correction made to a published record after it went live is listed here, with what the register said, what the source says, and the source that settled it. Corrections found by the blind accuracy audit are listed alongside those reported by readers. Nothing is corrected silently.",
-  "updated": "2026-09-01",
-  "entries": []
+ "title": "Errata",
+ "policy": "Every correction made to a published record after it went live is listed here, with what the register said, what the source says, and the source that settled it. Corrections found by the blind accuracy audit are listed alongside those reported by readers. Nothing is corrected silently.",
+ "updated": "2026-09-02",
+ "entries": [
+  {
+   "id": "rancho-atascadero",
+   "name": "rancho-atascadero",
+   "field": "grant year",
+   "was": "1839",
+   "now": "1842",
+   "source": "Bancroft land case file SD 113",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-cosumnes",
+   "name": "rancho-cosumnes",
+   "field": "grantee",
+   "was": "Salvador Oslo",
+   "now": "William E. P. Hartnell",
+   "source": "Bancroft land case file ND 362",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-cruces",
+   "name": "rancho-cruces",
+   "field": "grantee",
+   "was": "Vicente Cordero",
+   "now": "Miguel Cordero",
+   "source": "Bancroft land case file ND 430",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-cuyama-1",
+   "name": "rancho-cuyama-1",
+   "field": "grantee",
+   "was": "María Antonia de la Guerra y Lataillade",
+   "now": "Cesario Lataillade",
+   "source": "Bancroft land case file SD 104",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-laguna-merced",
+   "name": "rancho-laguna-merced",
+   "field": "grantee",
+   "was": "Josefa de Haro",
+   "now": "Jose Antonio Galindo",
+   "source": "Bancroft land case file ND 380",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-mallacomes-moristul-plan-agua-caliente",
+   "name": "rancho-mallacomes-moristul-plan-agua-caliente",
+   "field": "grant year",
+   "was": "1841",
+   "now": "1843",
+   "source": "Bancroft land case file ND 161",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-nicasio-2",
+   "name": "rancho-nicasio-2",
+   "field": "grantee",
+   "was": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "now": "Pablo de la Guerra and Juan B. R. Cooper",
+   "source": "Bancroft land case file ND 392",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-penasquitos",
+   "name": "rancho-penasquitos",
+   "field": "grant year",
+   "was": "1835",
+   "now": "1823 (original grant; 1834 for the addition)",
+   "source": "Bancroft land case file SD 142",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-penasquitos",
+   "name": "rancho-penasquitos",
+   "field": "granting governor",
+   "was": "Castro",
+   "now": "Luis Antonio Arguello",
+   "source": "Bancroft land case file SD 142",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-posas",
+   "name": "rancho-posas",
+   "field": "grantee",
+   "was": "José de la Guerra y Noriega",
+   "now": "Jose Carrillo",
+   "source": "Bancroft land case file SD 117",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-puerto",
+   "name": "rancho-puerto",
+   "field": "grantee",
+   "was": "Samuel G. Reed and Ruben S. Wade",
+   "now": "Mariano and Pedro Hernandez",
+   "source": "Bancroft land case file ND 330",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-quito",
+   "name": "rancho-quito",
+   "field": "grantee",
+   "was": "Manuel Alviso",
+   "now": "Jose Z. Fernandez and Jose Noriega",
+   "source": "Bancroft land case file ND 226",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-rincon-esteros-1",
+   "name": "rancho-rincon-esteros-1",
+   "field": "grantee",
+   "was": "Rafael Alviso",
+   "now": "Ygnacio (Ignacio) Alviso",
+   "source": "Bancroft land case file ND 204",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-salinas",
+   "name": "rancho-salinas",
+   "field": "grant year",
+   "was": "1835",
+   "now": "1836",
+   "source": "Bancroft land case file SD 158",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-antonio",
+   "name": "rancho-san-antonio",
+   "field": "grantee",
+   "was": "Encarnación Mesa",
+   "now": "Prado Mesa (Alferez Prado Meza)",
+   "source": "Bancroft land case file ND 275",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-jacinto-viejo",
+   "name": "rancho-san-jacinto-viejo",
+   "field": "granting governor",
+   "was": "Alvarado",
+   "now": "Manuel Jimeno (interim governor)",
+   "source": "Bancroft land case file SD 233",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-luis-conzaga",
+   "name": "rancho-san-luis-conzaga",
+   "field": "grant year",
+   "was": "1841",
+   "now": "1843",
+   "source": "Bancroft land case file ND 062",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-luis-conzaga",
+   "name": "rancho-san-luis-conzaga",
+   "field": "grantee",
+   "was": "Francisco Rivera",
+   "now": "Jose Maria Mejia and Juan Perez Pacheco",
+   "source": "Bancroft land case file ND 062",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-pascual",
+   "name": "rancho-san-pascual",
+   "field": "grant year",
+   "was": "1834",
+   "now": "1838",
+   "source": "Bancroft land case file SD 248",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-san-pascual",
+   "name": "rancho-san-pascual",
+   "field": "granting governor",
+   "was": "Figueroa",
+   "now": "Juan B. Alvarado",
+   "source": "Bancroft land case file SD 248",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-santa-rosa-2",
+   "name": "rancho-santa-rosa-2",
+   "field": "grant year",
+   "was": "1845",
+   "now": "1846",
+   "source": "Bancroft land case file SD 148",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-soulajule-2",
+   "name": "rancho-soulajule-2",
+   "field": "grantee",
+   "was": "Joshua S. Brackett",
+   "now": "Jose Ramon Mesa",
+   "source": "Bancroft land case file ND 329",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-soulajule-3",
+   "name": "rancho-soulajule-3",
+   "field": "grantee",
+   "was": "Pedro J. Vasquez",
+   "now": "Jose Ramon Mesa",
+   "source": "Bancroft land case file ND 331",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-soulejule",
+   "name": "rancho-soulejule",
+   "field": "grantee",
+   "was": "Martin F. Gormley",
+   "now": "Jose Ramon Mesa",
+   "source": "Bancroft land case file ND 334",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-vega-rio-pajaro",
+   "name": "rancho-vega-rio-pajaro",
+   "field": "grant year",
+   "was": "1821",
+   "now": "1820",
+   "source": "Bancroft land case file SD 245",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-vega-rio-pajaro",
+   "name": "rancho-vega-rio-pajaro",
+   "field": "grantee",
+   "was": "Juan M. Anzar",
+   "now": "Antonio Maria Castro",
+   "source": "Bancroft land case file SD 245",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-zanjones",
+   "name": "rancho-zanjones",
+   "field": "granting governor",
+   "was": "Alvarado",
+   "now": "Manuel Jimeno Casarin (acting governor)",
+   "source": "Bancroft land case file SD 108",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-zanjones",
+   "name": "rancho-zanjones",
+   "field": "grantee",
+   "was": "Mariano Malarin",
+   "now": "Gabriel de la Torre",
+   "source": "Bancroft land case file SD 108",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "u-23",
+   "name": "u-23",
+   "field": "adjudication outcome",
+   "was": "Confirmed",
+   "now": "Rejected (the District Court reversed the confirmation, 6 March 1862)",
+   "source": "Bancroft land case file SD 385",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "u-92",
+   "name": "u-92",
+   "field": "grant year",
+   "was": "1778",
+   "now": "1777",
+   "source": "Bancroft land case file N.D. 419",
+   "date": "2026-09-02"
+  }
+ ]
 }

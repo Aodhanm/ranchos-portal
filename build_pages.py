@@ -2,7 +2,7 @@
 """Generate the static, crawlable layer of the ranchos portal.
 
 WHY THIS EXISTS. index.html is a hash-routed single-page app: its six tabs all
-live at one URL, so 673 ranchos, 27 dynasties and 38 brands are invisible to
+live at one URL, so 672 ranchos, 27 dynasties and 38 brands are invisible to
 search engines (a fragment is not an address). This script emits real pages at
 real URLs alongside the app. It never modifies index.html; it only reads the
 DATA / GEN / BRANDS objects out of it, so the static pages can never drift from
@@ -397,7 +397,7 @@ def main():
         if r.get('see_also'):
             body.append(f'<p class="kicker">This grant also appears as a second boundary tracing of the '
                         f'same U.S. land case: <a href="/r/{esc(r["see_also"])}.html">see the companion record</a>.</p>')
-        body.append('<p><a href="/register/">Back to the full register of 673 grants and claims</a></p>')
+        body.append(f'<p><a href="/register/">Back to the full register of {D["counts"]["total"]} grants and claims</a></p>')
 
         ld = {'@context': 'https://schema.org', '@type': 'Place', 'name': title,
               'description': desc, 'url': canon,
@@ -431,7 +431,7 @@ def main():
                     f'<td>{esc(r.get("county"))}</td><td>{lc_cell}</td>'
                     f'<td class="{ocls}">{esc(oc)}</td><td>{pcell}</td></tr>')
     c = D['counts']
-    npat = sum(1 for r in recs if (r.get('patent') or {}).get('date'))
+    npat = sum(1 for r in recs if not r.get('suppress_register') and (r.get('patent') or {}).get('date'))
     rdesc = (f'The full register of {c["total"]} Spanish and Mexican land grants and claims of Alta '
              f'California, 1769 to 1846: grant year, granting governor, grantee, county, United States '
              f'land case number, adjudication outcome and, for {npat} of them, the United States patent '
@@ -550,9 +550,9 @@ def main():
         f'<p>{count}</p>' + table +
         '<h2>How corrections are found</h2>'
         '<p>Two ways. A blind sample of 100 of the 672 records was drawn on 1 September 2026, '
-        'committed to the public repository with its checksum before any of it was checked, and is '
-        'being verified field by field against the land case files; see section 10 of the '
-        '<a href="/sources/">Sources and Method</a> page. And readers write in. If a grant here '
+        'committed to the public repository with its checksum before any of it was checked, and was '
+        'then verified field by field against the land case files; that pass is complete and its '
+        'results are in section 10 of the <a href="/sources/">Sources and Method</a> page. And readers write in. If a grant here '
         'contradicts a document you hold, the document wins: '
         f'<a href="mailto:{CONTACT}">{CONTACT}</a>.</p>'
         '<h2>What counts as an erratum</h2>'
