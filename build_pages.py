@@ -664,7 +664,7 @@ def main():
           + '</urlset>\n')
 
     print(f'wrote into {OUT}:')
-    print(f'  {len(mapped)} rancho pages, 1 register ({len(recs)} rows), '
+    print(f'  {len(mapped)} rancho pages, 1 register ({len(rows_)} rows), '
           f'{len(G)} dynasty pages + index, 1 brands page, pages.css, sitemap.xml ({len(urls)} urls)')
 
 
