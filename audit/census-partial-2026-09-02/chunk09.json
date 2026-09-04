@@ -129,5 +129,264 @@
   },
   "corrections": {},
   "notes": "Hoffman's 1842 and the register's 1839 are not in conflict: the file shows an 8 April 1839 concession decree and 10 April 1839 title by Alvarado, that title struck through and 'reformed', and a second Alvarado title of 10 May 1842 (index of the District Court transcript, transcript p90 PDF p93: 'Decree of concession by Governor Alvarado...dated April 8th 1839' and 'Second grant by Gov. Alvarado...dated May 10th 1842'). Juridical possession 23-25 May 1842; Micheltorena approved a confirmation of the judicial possession 30 April 1844 (index transcript p96, PDF p95). URL note: the derived cubanc_lcf_sd037.pdf name 404s; real file name found in the record HTML."
+ },
+ {
+  "id": "rancho-san-pablo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266039/files/cubanc_lcf_nd320.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "41,49,53,57,65,73,81,89 (sampled)",
+   "301,381,451,521,571,596,604,608 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 320 A / NORTHERN DISTRICT / SAN PABLO GRANT / JOAQUIN YSIDRO CASTRO CLAIMANT'; transcript title page (PDF p4) 'for the place named \"San Pablo\"'; petition heading transcript p5 (PDF p8) 'Rancho of San Pablo in Contra Costa County'"
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "Three dates, none of them simply '1835'. (a) Root concession: translation transcript p73 (PDF p77): 'Monterey April 15, 1823. The Hon'l Assembly (Deputation) Grant to the Claimant the piece of land which he solicits, measuring three square leagues...Arguello. Jose Joaquin de la Torre, Secretary.' (b) Figueroa's proceedings on the heirs' application ran in 1834: transcript p65 (PDF p69) 'Rancho de San Pablo May 26, 1834. Joaquin Isidro Castro. (In the Margin Figueroa's order) Monterey June 1, 1834. Let the petitioner be notified to produce the original documents in virtue of which the land which he claims were granted...Jose Figueroa / Augustin V. Zamorano, Secretary'; the petition pleads the formal title was made out and delivered 15 June 1834 (transcript p6, PDF p11). (c) The surplus/augmentation stage ran into 1835: petition of 23 June 1834 with Figueroa's order, and Castillo Negrete's report 'Monterey June 26th 1835' (transcript p81, PDF p85); Surveyor General's certificate (transcript p433, PDF p451) cites 'the report of Fco. del Castillo Negrete to the Jefe Superior Politico on 23rd June 1835'. Register's 1835 fits only the surplus stage; Hoffman's 1834 fits the formal title."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The formal title is Figueroa's: transcript p50 (PDF p53) 'el Sr. Don Jose Figueroa general de Brigada, comandante general Inspector y Jefe superior politico del territorio de la Alta California asi lo mando, decreto y firmo de que doy fe. Jose Figueroa / Agustin V. Zamorano Srio.' followed by the letters patent 'Jose Figueroa General de Brigada de la Republica Mejicana...Por cuanto el finado Dn Francisco Ma Castro tiene concedido pr la Exma Diputacion territorial desde 15 de Abril de 1823 el terreno conocido con el nombre de los Cuchiyunes (a) Sn Pablo...he venido en concederles a dichos herederos la propiedad por las presentes letras'. NOTE the underlying 1823 concession was made by the Territorial Diputacion under Governor Luis Arguello (transcript p73, PDF p77), not by Figueroa."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "transcript p42 (PDF p49), Spanish petition: 'El ciudadano Francisco Castro, Vocal que fue de la Diputacion de este Territorio de la Alta California...desde el quince de Abril del año de mil ochocientos veinte y tres se presento a la misma Diputacion territorial'; Figueroa's letters, transcript p50 (PDF p53): 'el finado Dn Francisco Ma Castro tiene concedido pr la Exma Diputacion territorial desde 15 de Abril de 1823 el terreno...' Full name is Francisco Maria Castro; Figueroa's 1834 letters issued the property to his HEIRS ('he venido en concederles a dichos herederos la propiedad'), the claimant Joaquin Ysidro Castro being one of the albaceas."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 320 A NORTHERN DISTRICT'; page stamps '320 ND' throughout; filename cubanc_lcf_nd320.pdf; Commission docket No. 390 (PDF p4-p5). The 'A' on the label marks this as the first of the bound volumes for the case (609 images)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: transcript p4 (PDF p11) 'San Francisco April 19 1855. In the same case Commissioner S. B. Farwell delivered the opinion of the Board Confirming the Claim (vide page 209 of this Transcript)'; the later District Court proceedings treat confirmation as accomplished and fight only over the survey -- transcript p586 (PDF p604), petition of the albaceas: 'the extensive tract of land formerly known as \"los Cuchiyunes\" in Contra Costa now San Pablo aforesaid, was confirmed to Joaquin Ysidro Castro, one of the \"Albaceas\" aforesaid to the Estate of the said late Francisco Maria Castro'; survey opinions and orders for a new survey at transcript p503 (PDF p521) and Surveyor General certificates at transcript p433 (PDF p451)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1834 for the Figueroa formal title (Hoffman agrees); 1823 (15 April) for the original Diputacion concession under Gov. Luis Arguello; the register's 1835 corresponds only to the surplus/augmentation stage (Castillo Negrete's report, Monterey 26 June 1835, transcript p81)"
+  },
+  "notes": "Very large file (609 images, 462MB); read in pypdf excerpts. San Pablo is a three-layer title: 1823 Diputacion concession to Francisco Maria Castro under Gov. Arguello -> 1834 Figueroa formal title to Castro's heirs -> 1834/35 surplus (sobrante) proceedings. The register compresses this to '1835 / Figueroa / Francisco Castro'. The District Court stage was a long survey fight (intervenor John McHugh, depositions to 1863-64), not a challenge to confirmation."
+ },
+ {
+  "id": "rancho-san-pedro-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268902/files/cubanc_lcf_sd273.pdf",
+  "pdf_pages_stated": 390,
+  "pages_read": [
+   "1-12",
+   "18-25",
+   "12,13,181,301,361,396,406,413 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 archivist slip 'Land Case 273 SD / 390 pages'; transcript title page (PDF p2) 'TRANSCRIPT OF THE PROCEEDINGS IN CASE NO. 398 / Manuel Dominguez et al CLAIMANTS vs THE UNITED STATES...FOR THE PLACE NAMED \"San Pedro\"'; petition transcript p7 (PDF p10) 'a certain tract of land situate in the County of Los Angeles known by the name of San Pedro containing ten square leagues more or less'. The register's parenthetical '(Dominguez)' matches the claimant family."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "The case file nowhere gives 1784. Board petition, transcript p7 (PDF p10): 'Juan Jose Dominguez previous to his death obtained a perfect grant or concession of the said tract but at what particular date or from what Mexican Governor cannot now be discovered owing to the fact that during his life time the papers issued and granted...were burned or lost'. District Court petition, transcript p155 (PDF p301): 'he owned and possessed the same by virtue of a concesion from the proper authorities of the Spanish Government, in the then Kingdom of New Spain, and as your Petitioner is informed and believes from Jose Dario Arguello Governor of California, on or about the year Seventeen Hundred & Eighty.' The only firmly dated instrument pleaded is Sola's decree of 31 December 1822 (transcript p7), which is what Hoffman's '1822' records."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Consistent with the file, which places the concession under Spain: transcript p155 (PDF p301) 'a concesion from the proper authorities of the Spanish Government, in the then Kingdom of New Spain, and as your Petitioner is informed and believes from Jose Dario Arguello Governor of California'; transcript p7 (PDF p10) says the granting governor 'cannot now be discovered'. Deposition of Jose Antonio Carrillo, transcript p10 (PDF p13): 'It was possessed under a grant from Spain through the Viceroy of Mexico.' The register's deliberately vague 'a Spanish governor' is the most the file supports."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "transcript p7 (PDF p10): the claimants take 'by inheritance from and a portion by purchase from the heirs of Cristobal Dominguez who died seized in fee thereof and who inherited from his uncle Juan Jose Dominguez who died also thereof in fee some where about the year 1809-10...Juan Jose Dominguez previous to his death obtained a perfect grant or concession of the said tract'; transcript p155 (PDF p301) 'at the time of the death of said Juan Jose, he was seized in fee of the Rancho San Pedro'; Carrillo deposition transcript p10 (PDF p13): 'I have known it ever since the year 1807 when I first knew it it was in the possession of Juan Jose Dominguez...He died about the year 1808 or 1809.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'Land Case 273 SD'; page stamps '273 SD' throughout; filename cubanc_lcf_sd273.pdf; Commission docket No. 398 (PDF p2, p5); District Court caption transcript p385 (PDF p413) 'Manuel Dominguez et al Appellees ads The United States Appellants, Case No 273 \"Sn Pedro\" Transcript 398'"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 19 Oct 1854: transcript p6 (PDF p9) 'San Francisco October 19' 1854. In the same case Commissioner Alphens Felch delivered the Opinion of the Board confirming the Claim (vide page 153 of this Transcript)'. District Court confirmed and the government abandoned the appeal: stipulation, transcript p385 (PDF p413): 'In pursuance of a notice from the Attorney General of the United States hereto annexed, that the appeal in the above case to the Supreme Court will not be prosecuted by the United States, It is stipulated and agreed between the parties, That an order of court may be entered, vacating the former order granting said appeal, and giving the Claimants leave to proceed under the Decree of Confirmation of this Court, as under a final Decree. P. Ord, U.S. Dist. Atty. / Lancaster Brent, Atty for Appellees'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "The case file gives no 1784. It says the original concession's date and grantor 'cannot now be discovered' (transcript p7) and, on information and belief, places it 'on or about the year Seventeen Hundred & Eighty' from Jose Dario Arguello (transcript p155). Hoffman's 1822 is the date of Sola's confirming decree of 31 Dec 1822 pleaded at transcript p7."
+  },
+  "notes": "418 images / 390 transcript pages; read in pypdf excerpts. This is a pre-expediente Spanish concession whose paper title was lost, so there is NO grant decree in the file to grade against -- only pleadings, Sola's 1822 recognition, and the 1817 juridical possession. Any year the register prints for this rancho rests on outside sources, not on this case file. Hoffman's 1822 and the register's 1784 are two different events, both defensible in their own terms."
+ },
+ {
+  "id": "rancho-san-ramon",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256649/files/cubanc_lcf_nd322.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "25,31,37,43,49,55,61,67 (sampled)",
+   "93,97,101,105,596,601,606,609 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 322 A / NORTHERN DISTRICT / SAN RAMO or LAS JUNTAS GRANT / DOMINGO PERALTA CLAIMANT'; transcript title page (PDF p4) 'for the place named \"San Ramon o las Juntas\"'. The register's '(Carpentier)' tag matches the later patentee H. W. Carpentier."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, transcript p43 (PDF p49): 'Monterey, 5 de junio de 1833. Vista la peticion con que da principio este Espedte...se declara a Bartolome Pacheco y a Mariano Castro dueños en propiedad del terreno comprendido desde el arroyo de las Juntas hasta el de San Ramon'; District Court decree, transcript p91 (PDF p95): 'granted by the name of San Ramon, by Governor Jose Figueroa, by decree of concession dated June 5, 1833, and by final grant dated June 10, 1833 and approved May 17, 1834, and by decree of final confirmation dated July 24, 1834'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "transcript p43 (PDF p49): 'El Sor. D. Jose Figueroa Comandte Gral Inspector y Jefe superior politico del territorio de la Alta California asi lo mando decreto, y firmo de que doy fee. Jose Figueroa / Agustin V. Zamorano Sno.'; District Court decree transcript p91 (PDF p95) 'granted...by Governor Jose Figueroa'; Mariano Castro's deposition transcript p5 (PDF p9) 'It was by Governor Figuerra'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The decree names two grantees, neither of them Peralta: transcript p43 (PDF p49) 'se declara a Bartolome Pacheco y a Mariano Castro dueños en propiedad del terreno'; Diputacion approval transcript p27 (PDF p31) 'Se aprueba la Concesion hecha a los ciudadanos Bartolo Pacheco y Mariano Castro del paraje nombrado San Ramon concedido en diez de Junio de mil ochocientos treinta y tres'; sworn translation transcript p32 (PDF p37) 'The grant of the land named San Ramon made to the citizens Bartolo Pacheco and Mariano Castro on the 10th of June, 1833 is approved'; District Court decree transcript p91 (PDF p95) '...to Bartolo Pacheco and Mariano Castro and formerly occupied by them'. Domingo Peralta is the U.S.-era CLAIMANT who bought Castro's undivided half: petition transcript p4 (PDF p6) 'that in the year 1843 the said Mariano Castro parted with and conveyed to this petitioner all his right and interest in said grant as appears by deed of sale dated Aug 6, 1852'; Castro's deposition transcript p5 (PDF p9) 'I formerly owned it & sold it to Domingo Peralta.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 322 A NORTHERN DISTRICT'; page stamps '322 ND'; filename cubanc_lcf_nd322.pdf; Commission docket No. 301 (PDF p6, and endorsement transcript p87 PDF p97 'No. 322 United States v Domingo Peralta, Notice of Appeal in Case no. 301')"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 1 May 1855 (transcript p3, PDF p7: 'Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim (vide page 85 of this Transcript)'); U.S. notice of appeal filed 11 Feb 1856 (transcript p87, PDF p97); District Court decree of confirmation, transcript p91 (PDF p95), confirming 'the undivided moiety' of 'all that certain tract of land situated in the County of Contra Costa...known by the name of San Ramon, and extending from the \"arroyo de las Juntas\" to the \"arroyo de San Ramon\"'; a further order granting the United States an appeal was filed 1 April 1857 (transcript p95, PDF p99). Note the claim is for ONE HALF only, matching Hoffman's 'half of San Ramon or Las Juntas'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Bartolome (Bartolo) Pacheco and Mariano Castro, per the concession decree of 5 June 1833 (transcript p43) and the District Court decree (transcript p91). Jose Domingo Peralta was the purchaser of Castro's undivided half and the U.S.-era claimant."
+  },
+  "notes": "Dominant error class: the register recorded the claimant (Domingo Peralta) as grantee; Hoffman's 'Bartolo Pacheco and Mariano Castro' agrees with the case file against the register. The claim, and the confirmation, cover only the undivided moiety Peralta bought from Castro. 610 images, read in pypdf excerpts; the last ~30 transcript pages (p580-600) are a later printed equity opinion on setting aside land decrees for fraud, bound with this case."
+ },
+ {
+  "id": "rancho-san-ramon-norris",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256618/files/cubanc_lcf_nd287.pdf",
+  "pdf_pages_stated": 138,
+  "pages_read": [
+   "1-12",
+   "25,27,29,31,33,35,37,39 (sampled)",
+   "131,137,143,147,150,152,154,155 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 287 / NORTHERN DISTRICT / PART OF SAN RAMON GRANT / GEORGE NORRIS \"LEO\" CLAIMANT'; Board transmittal, transcript p138 (PDF p155): 'in Case No. 349...wherein George Norris is the Claimant against the United States, for the place known by the name of \"Part of San Ramon\"'. The register's {Norris} tag matches."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The title is dated 1834, not 1835. Titulo, transcript p31 (PDF p37): 'Dado en Monterrey a primero de Agosto de mil ocho cientos treinta y cuatro' (1 August 1834). Its recitals, transcript p29 (PDF p35): 'de conformidad con el acuerdo de la Exma Diputacion Territorial del dia 31 de Julio ppdo aprobando la concesion del citado terreno de San Ramon hecha en decreto de 22 de Enero del presente año al referido Ciudno Jose Maria Amador'. Expediente proceedings run 1833-34: cover 'Año de 1833' (transcript p19, PDF p25); Figueroa's referral 'Monterrey Julio 28 de 1834...pase a la Excelentisima Diputacion Territorial para su aprobacion. Figueroa' and Diputacion action 'Monterrey Julio 29 de 1834' (transcript p27, PDF p33). The petition agrees: transcript p5 (PDF p9) 'was granted to Jose Maria Amador on the 1st day of August 1834 by Don Jose Figueroa Political Chief of the Territory of Upper California'. Hoffman's 1834 is right and the register's 1835 is wrong. The file's only 1835 item is a SEPARATE later application by Amador for an ADJACENT tract, with Figueroa's decree 'Monterrey Julio 24 de 1835' (transcript p32, PDF p38)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "transcript p29 (PDF p35): 'Jose Figueroa General de Brigada de la Republica Mejicana y Comandante General Inspector y Jefe Superior Politico del Territorio de la Alta California. Por cuanto el Ciudo Jose Maria Amador...he venido en concederle el repetido terreno'; expediente decree transcript p27 (PDF p33) 'El Sor. D. Jose Figueroa General de Brigada, Comandante General, Inspector y Jefe Superior Politico del Territorio de la Alta Calif.a asi lo mando decreto y firmo de que doy fe. Jose Figueroa. Agustin V. Zamorano, Sno.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Expediente cover transcript p19 (PDF p25): 'Espediente sobre el paraje nombrado las Juntas de San Ramon solicitado por Jose Maria Amador'; petition 'Mision de Sn. Jose 15 de Abril de 1833. Jose Maria Amador' (transcript p21, PDF p27); titulo transcript p29 (PDF p35) 'Por cuanto el Ciudo Jose Maria Amador Mejicano por nacimiento ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Sn Ramon'. Leo (George) Norris is the U.S.-era claimant who bought from Amador on 25 October 1850 (petition transcript p5, PDF p9)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 287 NORTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 287 ND PAGES 138'; page stamps '287 ND'; filename cubanc_lcf_nd287.pdf; Commission docket No. 349 (transcript p2, PDF p7)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 1 Aug 1854 (transcript p4, PDF p10: 'Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim (vide page 117 of this Transcript)'); U.S. notice of appeal filed 22 Nov 1855 (transcript p114, PDF p131); District Court decree of confirmation entered 10 September 1857, and Ogden Hoffman's order of 19 August 1863 (transcript p130, PDF p147): 'it appearing to the Court that a decree of confirmation was entered herein September 10. 1857, and that no appeal has been applied for in behalf of the United States from said decree within the five years prescribed by law, and that the said claimant is entitled to a survey and patent'; claimant's waiver of his own appeal, 30 July 1857 (transcript p126, PDF p143)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1834 -- titulo 'Dado en Monterrey a primero de Agosto de mil ocho cientos treinta y cuatro' (transcript p31), on a concession decree of 22 January 1834 approved by the Diputacion 31 July 1834"
+  },
+  "notes": "Claimant's forename was corrected on the record from George to Leo by Board order of 18 April 1854 (transcript p2, PDF p7), which later caused a survey-notice dispute (transcript p135, PDF p152) -- H. W. Carpentier, the San Ramon (322 ND) patentee, intervened to have the survey returned. The register's 1835 appears to come from Amador's separate 1835 application for an adjoining tract, not from this grant."
+ },
+ {
+  "id": "rancho-san-simeon",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268944/files/cubanc_lcf_sd320.pdf",
+  "pdf_pages_stated": 65,
+  "pages_read": [
+   "1-12",
+   "13,15,17,19,21,23,25,27 (sampled)",
+   "63,67,71,73,75,77 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 320 / SOUTHERN DISTRICT / SAN SIMEON GRANT / JOSE MIGUEL GOMEZ CLAIMANT'; transcript title page (PDF p5) 'for the place named \"San Simeon\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition, transcript p4 (PDF p8): 'That on the 1st day of December AD 1842 Juan B. Alvarado Governor of California by virtue of authority in him vested granted to Jose Ramon Estrada the tract of land called \"San Simeon\"'; confirmed by the granting governor himself -- deposition of Juan B. Alvarado, transcript p10 (PDF p14): 'I remember that in 1842 I made a grant to Jose Ramon Estrada of the Rancho of San Simeon...it is a true of the copy grant made by me when I was Governor in 1842'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Alvarado's own deposition, transcript p10 (PDF p14): 'My name is Juan B. Alvarado...I remember that in 1842 I made a grant to Jose Ramon Estrada of the Rancho of San Simeon...made by me when I was Governor in 1842'; H. W. Halleck's deposition describing the lost originals, transcript p20 (PDF p24): '1st. The original grant signed by Juan B. Alvarado as Governor and Manuel Jimeno as Secretary. I know the hand writing of both having often seen them write, their signatures to this paper I believe to be genuine.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was Jose Ramon Estrada, not Gomez. Petition transcript p4 (PDF p8): 'Juan B. Alvarado Governor of California...granted to Jose Ramon Estrada the tract of land called \"San Simeon\"...That the said Jose Ramon Estrada died in Monterey California in the year 1844 and that his testamentary executor on the 24th day of June AD 1844 sold and conveyed the said tract of land to Thomas B. Park'; Alvarado, transcript p10 (PDF p14): 'I made a grant to Jose Ramon Estrada of the Rancho of San Simeon'; David Spence (Estrada's executor), transcript p6 (PDF p10): 'I was Executor of the Estate of Jose Ramon Estrada and as such sold the Rancho called \"San Simeon\" to Thomas B. Park in 1844'. Jose Miguel Gomez is the U.S.-era CLAIMANT, fourth in the chain Estrada -> Park -> Tefft -> Gomez (petition transcript p4-5)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 320 SOUTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 320 pgs.65'; page stamps '320 SD'; filename cubanc_lcf_sd320.pdf; Commission docket No. 504 (transcript p1-2, PDF p5, p7); District Court caption 'Docket No. 320 / Transcript No. 504' (transcript p51, PDF p63)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 8 May 1855 (transcript p3, PDF p9: 'Commissioner R. Aug Thompson delivered the Opinion of the Board confirming the claim (vide page 47 of this Transcript)'); District Court decree, December Term 1856 before Judge Isaac S. K. Ogier (transcript p59, PDF p71): 'Ordered, adjudged and decreed, that the decision of said Board of Land Commissioners confirming unto the above named appellee, Jose Miguel Gomez, the land described and set forth in his petition to the said Board of Land Commissioners...'; endorsement (transcript p61, PDF p73) 'Decree Affirming Decision of Land Commissioners and Confirming Claim. Filed Jany 15th 1857'; Surveyor General's certificate filed 20 Dec 1863 (transcript p65, PDF p77)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Ramon Estrada, per the petition (transcript p4) and Governor Alvarado's own sworn deposition (transcript p10): 'I made a grant to Jose Ramon Estrada of the Rancho of San Simeon'"
+  },
+  "notes": "Dominant error class: the register's grantee 'Jose Miguel Gomez' is the U.S.-era claimant; Hoffman's 'Jose Ramon Estrada' agrees with the case file against the register. The original title papers were lost at sea when Judge Henry A. Tefft drowned in San Luis Obispo Bay in February 1852 carrying them to San Francisco (transcript p5 and p8, PDF p9 and p13), so the claim was proved by archive copies plus the testimony of Alvarado, Halleck, Spence and Dana."
+ },
+ {
+  "id": "rancho-san-vicente-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266046/files/cubanc_lcf_sd005.pdf",
+  "pdf_pages_stated": 152,
+  "pages_read": [
+   "1-12",
+   "25,31,37,43,49,55,61,67 (sampled)",
+   "151,161,171,176,181,286,290,293 (sampled)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 5 / SOUTHERN DISTRICT / SAN VICENTE GRANT / CONCEPCION MUNRAS, ET AL, CLAIMANT'; transcript title page (PDF p5) 'Concepcion Munras et al, Heirs of Stephen Munras, Claimant...for the place named San Vicente'. The register's '(Munrass)' tag matches the claimant family."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Expediente A No. 1 opens in 1835: transcript p10A (PDF p289) Soto's petition 'Monterey 16 de Agosto de 1835' with the political chief's marginal decree 'Monterey, Agosto 31 de 1835. De conformidad con las leyes i reglamentos de la materia informe el Ayuntamiento de este capital...'; and the title itself is 1835 per Ignacio del Valle's sworn deposition, transcript p114A (PDF p290): 'Look upon a document here shown you purporting to be a grant of land for the place called San Vicente by Jose Castro to Francisco Soto, bearing date the 16th of December 1835...I recognize the signatures of the said Castro & Negrete where they appear therein, as their genuine signatures.' The claimants' own petition (transcript p4, PDF p9) instead dates the Soto title 20 September 1836 -- the file is internally inconsistent on this, but 1835 is documented."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Substantively right (all the grantors were interim/acting heads of the territorial government) but the register names none of the three the file identifies. Soto's title: 'a grant of land for the place called San Vicente by Jose Castro to Francisco Soto' (transcript p114A, PDF p290), Castro being 'President of the Territorial Deputation, & Political Chief (ad interim) of the Territory of Upper California' (petition transcript p4, PDF p9). The concurrent 1836 grant of the same two sitios: transcript p54 (PDF p61) 'Nicholas Gutierrez, Teniente Coronel de Caballeria, permanente Comandante General y Inspector y Jefe Politico de la Alta California. Por cuanto el Ciudadano Francisco Figueroa Mejicano por nacimiento ha pretendido...el terreno...conocido con el nombre de Rancho de San Vicente...he venido en concederle el terreno mencionado.' The 2.5-league augmentation: transcript p42 (PDF p49) 'Juan Bta. Alvarado, Gobernador Constitucional del Departamento de las Californias. Por cuanto Don Esteban Munras ha obtenido en compra el Rancho nombrado San Vicente y pretende la estension de dos sitios y medio de ganado mayor...he venido en concederle el terreno mencionado', dated 11 March 1842 (transcript p114A)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "No instrument in the file grants to Concepcion Munras. The original grantee is Francisco Maria Soto: expediente A No. 1, transcript p19 (PDF p25) 'A Record of Proceedings on the location named San Vicente solicited for by the Serjeant Francisco Soto'; his petition 'El ciudadano Franco Ma Soto, Sargto de la compañia de caballeria Presidial de Monterey' (transcript p10A, PDF p289); title 'by Jose Castro to Francisco Soto' (transcript p114A, PDF p290). The same two sitios were also granted to Francisco Figueroa by Gutierrez in 1836 (transcript p54, PDF p61), and the 2.5-league augmentation to Esteban (Stephen) Munras by Alvarado in 1842 (transcript p42/p36). Concepcion Munras is Esteban's daughter and the lead U.S.-era claimant: petition transcript p4 (PDF p9) 'Your petitioners, to wit: Concepcion, Antonia, Anita, Engracia, Narcisso, Doloris, & Manuel Munras (the seven children & heirs of deceased Stephen Munras)'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 5 SOUTHERN DISTRICT'; PDF p2 typed slip 'LAND CASE 5 SD PAGES 152 + supplementary pp. 1/2A - 120A'; page stamps '5 SD'; filename cubanc_lcf_sd005.pdf; Commission docket No. 145 (transcript p1-2, PDF p5, p9); District Court caption 'Heirs of Estevan Munras Appellees vs United States Appellant, No. 5 (No. 145 of Transcript)' (transcript p118A, PDF p291)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: transcript p3 (PDF p8) 'San Francisco Feb. 14, 1853. In case No. 145 Concepcion Munras et al for the place named \"San Vincente\" Commissioner Harry J. Thornton delivered the opinion and the decree of Final Confirmation of this Board'; U.S. petition for review filed in the District Court 4 December 1854 (transcript p139, PDF p151); District Court decree of Judge Isaac S. K. Ogier filed 20 February 1856 (transcript p118A, PDF p291), followed by 'Ordered by the Court, that an appeal be granted the United States, to the Supreme Court of the United States, from the judgment of this Court against the said United States in the above entitled cause, rendered on or about the 20th day of February AD 1856' (filed 7 March 1856). Index of the record confirms the sequence: '55. Opinion. 56. Decree of Confirmation. 57. Order of Survey' (transcript p149, PDF p286)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Maria Soto, per the expediente (transcript p19, p10A) and the title of 16 December 1835 from Jose Castro (transcript p114A). The same tract was regranted to Francisco Figueroa by Nicolas Gutierrez in 1836 (transcript p54); Esteban Munras acquired both by purchase and took the 1842 Alvarado augmentation.",
+   "governor": "Jose Castro, political chief ad interim, for the 1835 Soto title; Nicolas Gutierrez for the 1836 Figueroa grant; Juan B. Alvarado for the 11 March 1842 augmentation to Esteban Munras"
+  },
+  "notes": "Dominant error class again, one generation on: the register's grantee is the lead U.S.-era claimant, Esteban Munras's daughter. Hoffman's governor string ('Jose Castro, September 20th 1836, by Nicolas Gutierrez, and 2 1/2 square leagues November 11th 1842, by Juan B. Alvarado') matches the file's three-layer title, except that the file's own witness dates the Alvarado augmentation 11 MARCH 1842, not 11 November. 293 images (152 pages + a 120-page supplementary series stamped 'A'); read in pypdf excerpts."
  }
 ]

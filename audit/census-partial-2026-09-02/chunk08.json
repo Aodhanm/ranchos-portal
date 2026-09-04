@@ -377,5 +377,136 @@
    "grantee": "Maximo Alanis, not Antonio del Valle. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres'."
   },
   "notes": "TWO substantive register errors on one record, both confirmed against the original Spanish decree and its sworn translation. Note the register is internally inconsistent as well: its own era field reads 'micheltorena' while its governor field reads 'Alvarado'. The claim chain in the file is Maximo Alanis (grantee, d. 1851) -> his heirs sell Nov 1851 to William Jones and W. T. B. Sanford -> Jones conveys to Benjamin D. Wilson 4 Jan 1852 (petition PDF p7-8, transcript p4-5); Wilson is the register's patentee, which is consistent. One sitio de ganado mayor; register's 4,438.69 patent acres is about one league. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-lorenzo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256629/files/cubanc_lcf_nd300.pdf",
+  "pdf_pages_stated": 124,
+  "pages_read": [
+   "1-14",
+   "17-28",
+   "128-134"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 300 / NORTHERN DISTRICT / SAN LORENZO GRANT / BARBARA SOTO, et al CLAIMANT'; Board decree PDF p129 (transcript p112): 'The Land of which confirmation is hereby given is known by the Name of San Lorenzo situate in the late County of Contra Costa now Alameda'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Sworn petition, PDF p11 (transcript p5): 'A portion of said lands, to wit, One league or Sitio thereof, a little more or less was granted to Francisco Soto On the 16th of October 1842 by D.n Juan B Alvarado Constitutional Governor of California And the remainder thereof, to wit, the additional quantity of one half league or Sitio, was granted On the 20th January 1844 to the same grantee by D.n Manuel Michelttorena then Governor of California.' Corroborated by Guillermo Castro, PDF p13 (transcript p6): 'Francesco Soto received a grant from Governor Alvarado in the year 1842 of the tract of Land called San Lorenzo ... Afterwards Soto received another grant in augmentation of the former tract'; by surveyor J. J. H. Grammont, PDF p25 (transcript p19): 'I have a Copy of a grant made to Francesco Soto in 1842'; and by the Board's opinion, PDF p128 (transcript p111), quoting Micheltorena's own endorsement 'Monterey 20th January 1844 - In conformity with the foregoing report (Signed) Michelttorena'. Nothing in the pages read supports the register's 1841. Hoffman's 1842 agrees against the register."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Alvarado is right for the FIRST grant but the rancho rests on two acts by two governors. Petition PDF p11 (transcript p5): the original league 'by D.n Juan B Alvarado Constitutional Governor of California', the half-league augmentation of 20 Jan 1844 'by D.n Manuel Michelttorena then Governor of California'. Board opinion PDF p128 (transcript p111): 'We are not able to give the foregoing report any other construction than that Governor Micheltorena intended thereby to concede to the applicant the prayer of her petition agreeable to the recommendation of his Secretary.' Register names only Alvarado."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was FRANCISCO SOTO; Barbara Soto is his widow and the U.S.-era claimant, suing for his heirs. Board decree caption PDF p129 (transcript p112): 'Barbara Soto et al in trust for the Heirs of Francisco Soto dec.d vs The United States.' Petition PDF p11 (transcript p5): 'said land was granted to Francisco Soto ... Said Francisco Soto died prior to the filing of this petition and about seven years ago, leaving the said D.a Barbara his widow, and the said other claimants his Children and only heirs'. Guillermo Castro, PDF p13 (transcript p6): 'I was acquainted with Francesco Soto who died about seven years ago. He left a widow named Barbara Castro and seven children'. W. H. Davis, PDF p14 (transcript p7): 'Are you acquainted with the Rancho San Lorenzo claimed in this case and did you know the grantee Francesco Soto'. Hoffman's 'Francisco Soto' agrees against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 300 NORTHERN DISTRICT'; PDF p2 'Land Case 300 ND'; page stamps '300 ND'; District Court wrapper PDF p132 'U.S. DISTRICT COURT, Northern District of California, No. 300 ... Barbara Soto et al ... In Case No. 524'; filename cubanc_lcf_nd300.pdf. Board docket no. 524."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board CONFIRMED, and that much is verified: opinion PDF p128 (transcript p111) ends 'We are of the opinion that this Claim is well made out and a decree of Confirmation will be entered ... Confirmed', and the decree itself, PDF p129 (transcript p112), signed R. Aug. Thompson and S. B. Farwell, filed 24 April 1855: 'it is adjudged by the Commission that the claim of the said petitioner is valid, it is therefore decreed that their application for a confirmation thereof be allowed' (amended on the claimants' motion 1 May 1855, docket PDF p9/transcript p4). But the appeal was NOT abandoned: Attorney General's notice PDF p133 (transcript p115), Washington 3 December 1855, states 'the appeal in the district court of the United States for the Northern district of California WILL be prosecuted by the United States.' The District Court record occupies the remainder of this 336-image volume and was not reached within the page budget, so the final decree is unverified here."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1842, not 1841 (original league, 16 Oct 1842); the augmentation followed 20 Jan 1844. Petition PDF p11 (transcript p5): 'One league or Sitio thereof ... was granted to Francisco Soto On the 16th of October 1842 by D.n Juan B Alvarado Constitutional Governor of California'. CAVEAT: the grant decrees themselves (exhibits H.H. Nos. 1 and 2, annexed to Guillermo Castro's deposition) were not located within the pages read; this correction rests on the sworn petition plus three concordant witnesses and the Board's opinion, all in the file.",
+   "grantee": "Francisco Soto, not Barbara Soto. Board decree caption PDF p129 (transcript p112): 'Barbara Soto et al in trust for the Heirs of Francisco Soto dec.d'. Barbara is the widow and lead U.S.-era claimant; her co-claimants are the seven Soto children."
+  },
+  "notes": "Two register errors (year, grantee) plus an incomplete governor field. Note the file's own internal correction of Hoffman: Hoffman's printed line pairs 1842 with Micheltorena and 20 Jan 1844 with Alvarado, which is the reverse of what the petition and the Board opinion say (1842 = Alvarado, 20 Jan 1844 = Micheltorena). This is a very large volume (336 images, 124-page Board transcript plus a long District Court record); a re-reader wanting the final decree and the Spanish grant texts should start after PDF p134. No patent copy in the pages read (register claims GLO 132, 14 April 1877)."
+ },
+ {
+  "id": "rancho-san-lorenzo-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264416/files/cubanc_lcf_nd029.pdf",
+  "pdf_pages_stated": 345,
+  "pages_read": [
+   "1-14",
+   "15-24",
+   "352-359"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 29 / NORTHERN DISTRICT / PART OF SAN LORENZO GRANT / GUILLERMO CASTRO CLAIMANT'; transcript title PDF p5 'for the place named \"Part of San Lorenzo\"'; grant decree PDF p17 (transcript p11) 'del parage nombrado San Lorenzo'."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The rancho grant is dated 25 October 1843, not 1841. Micheltorena's concession decree, Spanish, PDF p17 (transcript p11): 'Monterey 25 de Octubre de 1843. Vista la peticion con que da principio este espediente, los informes que preceden ... declaro a D. Guillermo Castro, dueño en propiedad del parage nombrado San Lorenzo, colindante con el Rancho de S.r Amador, con el de San Ramon, con el del S.r Moraga, con el de los Peraltas, con el del S.r Estudillo, con el del S.r Vallejo, y con el de D. Fran.co Soto'; the titulo itself closes PDF p16 (transcript p10) 'Dado en Monterrey a 25 de Ob.e de 1843'. Sworn translation PDF p20-22 (transcript p14-16): 'Monterey 25th Oct. 1843 ... I declare D.n Guillermo Castro, owner in property of the place named San Lorenzo' / 'Given in Monterey this 25th Oct 1843'. The District Judge's own bench notes, PDF p354 (transcript p340), state flatly: 'Estudillo did not obtain his grant until 1842 - & Castro not until 1843.' The register's 1841 belongs to a far smaller anterior title (see corrections)."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Micheltorena granted the rancho. Title heading PDF p15 (transcript p9): 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano, Ayudante Gral de la Plana Mayor y Comandante Gral y Gobernador del Departam.to de las Californias. Por cuanto D.n Guillermo Castro ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de San Lorenzo ... he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras'; Micheltorena also signed the referral of 13 Oct 1843 (PDF p14, transcript p8, 'Monterey Oct.e 13 de 1843. Inf.e el S. S.rio del Despacho. Michellt.a') and the added condition of 24 Oct 1843 (PDF p16, transcript p10, 'Michellt.a'), on Manuel Jimeno's report of 23 Oct 1843 (PDF p15). Hoffman agrees against the register."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree PDF p17 (transcript p11): 'declaro a D. Guillermo Castro, dueño en propiedad del parage nombrado San Lorenzo'; title PDF p15 'Por cuanto D.n Guillermo Castro ha pretendido para su beneficio personal y el de su familia'. Castro is both grantee and U.S.-era claimant. (His father Carlos Castro filed the petitions on his behalf: PDF p14 'Carlos Castro Mejicano por nacimiento y vecino del Pueblo de San Jose', PDF p24 'Carlos Castro a nombre de su hijo Guillermo'.)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 29 NORTHERN DISTRICT'; PDF p2 'LAND CASE 29 ND pgs. 345'; page stamps 'CASE 29 ND'; District Court notice PDF p358 (transcript p344) 'The United States v. Guillermo Castro. IN LAND CASES. Dist. Court No. 29. Land Com. No. 285'; filename cubanc_lcf_nd029.pdf."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board confirmation verified but not shown to be final. Docket PDF p8 (transcript p3): 'San Francisco Feby 14, 1853. In Case No. 285 Guillermo Castro, for the place named \"San Lorenzo\" Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation of this Board.' The case was then litigated for years in the District Court over the boundary with Estudillo: the volume's last leaves are the judge's 'Notes of Argument on re-hearing' (PDF p357, transcript p343) and a deposition notice dated 12 July 1861 (PDF p358, transcript p344). No District Court final decree was reached within the pages read; it sits somewhere in PDF p25-352 of this 359-image volume."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1843 (25 October) for the rancho itself. The register's 1841 is the year of a much smaller anterior title: expediente No. 1, cover PDF p23 (transcript p17), 'Jurisdiccion del Pueblo de San Jose de Alvarado. Año de 1841. Espediente promovido por el Ciudadano Guillermo Castro en solicitud de SEIS CIENTAS VARAS de terreno en el paraje de San Lorenzo'. The 1843 title expressly distinguishes the two, PDF p16 (transcript p10, condition 3): 'El terreno de que se hace donacion es de SEIS SITIOS DE GANADO MAYOR a mas de las seis cientas varas de terreno que tiene concedido por titulo anterior' (translation PDF p21/transcript p15: 'six sitios of ganado mayor, beside the six hundred varas which he holds conceded by anterior title'). The 600 varas square is a house-lot-scale parcel; the six sitios are the rancho.",
+   "governor": "Manuel Micheltorena. Title heading PDF p15 (transcript p9): 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano ... y Gobernador del Departam.to de las Californias'. Alvarado's role was confined to the 1840-41 preliminaries on the 600-vara petition (his marginal decree PDF p24, transcript p18: 'Monterey Ag.to 10 de 1840. Informe el Mayordomo de S. Jose ... Alvarado')."
+  },
+  "notes": "The register appears to have taken its year and governor from the subordinate 1841 Alvarado concession of 600 varas rather than from Micheltorena's 25 Oct 1843 grant of six sitios de ganado mayor, which is the rancho. Both documents are in the file (expediente No. 1 = 1841, expediente No. 2 = 1843), so the error is a choice of the wrong one, not an invention. Hoffman's 1843/Micheltorena is correct. The judge's bench notes PDF p353 (transcript p339) add that 'The first concession to Castro of July 14 1840 is provisional and requires him not to infringe the rights of Indians. But this reservation is not found in the grant of 1843. And yet the Indians were living there.' This case was heavily litigated (345-page transcript, 359 images) over the Castro-Estudillo boundary and the authenticity of the diseño; a re-reader wanting the District Court decree should search PDF p25-352. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-lucas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266073/files/cubanc_lcf_sd034.pdf",
+  "pdf_pages_stated": 54,
+  "pages_read": [
+   "1-14",
+   "16-24",
+   "95-104"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 34 / SOUTHERN DISTRICT / SAN LUCAS GRANT / JAMES McKINLEY CLAIMANT'; transcript title PDF p5 'for the place named \"San Lucas\"'; grant decree PDF p22 (transcript p16) 'el terreno conocido con el nombre de San Lucas'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish, PDF p23 (transcript p17): 'Dado en Monterey a nueve de Mayo de mil ocho cientos cuarenta y dos. Juan B. Alvarado. Man.l Jimeno S.rio' (= 9 May 1842); sworn translation PDF p21 (transcript p14) 'Given in Monterey 9th of May 1842.' Registered by Jose Maria Castañares 'Monterey Julio 28 de 1842' (PDF p23, transcript p17). The expediente had opened with Estrada's petition of 'Monterey 18 de D.bre de 1841' (PDF p15, transcript p9) and Alvarado's referral 'Monterey En.o 23/842' (PDF p15)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree heading PDF p22 (transcript p16): 'Juan B. Alvarado, Gobernador Constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado' with 'Man.l Jimeno S.rio', PDF p23. Translation PDF p20 (transcript p13) 'Juan B. Alvarado Constitutional Governor of the Department of the Californias'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee was RAFAEL ESTRADA, not McKinlay. Grant decree PDF p22 (transcript p16): 'Por cuanto D. Rafael Estrada ha pretendido para su beneficio personal el terreno conocido con el nombre de San Lucas, colindante con el rancho de D. Mariano Soberanes, con el de San Benito, con la Sierra de San Antonio y las Lomas bajas que dividen el terreno de San Lorenzo ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'; expediente cover PDF p14 (transcript p8) 'Espediente promovido por el Ciudadano Rafael Estrada en pretencion del terreno llamado San Lucas'. McKinlay's own petition PDF p9 (transcript p4) says he 'claims the same in fee by virtue of a grant made unto Raphael Estrada ... by John B. Alvarado, Constitutional Governor of the Californias, bearing date the ninth of May A.D. 1842 ... which said grantee Raphael Estrada did transfer in due form by a deed bearing date the fourteenth of December 1850 unto your petitioner all his right, title & interest'. W. S. Johnson, Recorder of Monterey County, authenticated that deed, PDF p13 (transcript p7): 'a transfer of certain property known as the Rancho de San Lucas by Rafael Estrada & his wife to James McKinlay dated December 14th A.D. 1850'. Hoffman's 'Rafael Estrada' agrees against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 34 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 34 SD PAGES 54'; page stamps '34 SD'; District Court caption PDF p97 'James McKinlay appellant v. The United States ... No. 34 (Transcript No. 530)'; filename cubanc_lcf_sd034.pdf. Board docket no. 530."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED: docket PDF p8 (transcript p3), 'San Francisco Decem.r 13, 1853. In the same case Commissioner Thompson Campbell delivered the Opinion of the Board rejecting the Claim.' REVERSED on the claimant's appeal: District Court decree PDF p101 (DC record p12), December Term 1855, Judge Isaac S. K. Ogier, filed 21 Jan 1856: 'It is therefore ordered, adjudged and decreed by the Court that the said decision of the said Commissioners be, and the same is hereby reversed, annulled and set aside. And it is further ordered adjudged and decreed by the Court, that the claim of the said James McKinlay for the tract of land called San Lucas ... and of which the original grantee and those claiming under him are proven to be possessed, is a good and valid claim, & that the same be & is hereby confirmed to the extent of two (2) square leagues and no more within the boundaries of said tract of land described in the said grant & map.' Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Rafael Estrada, per the grant decree PDF p22 (transcript p16): 'Por cuanto D. Rafael Estrada ha pretendido para su beneficio personal el terreno conocido con el nombre de San Lucas ... he venido en concederle el terreno mencionado'. James McKinlay is the U.S.-era claimant, who bought from Estrada and his wife Concepcion by deed of 14 December 1850 (PDF p9, p13)."
+  },
+  "notes": "The dominant error class again: the register holds the American purchaser, not the Mexican grantee. Two sitios de ganado mayor (register's 8,874.72 patent acres is about two leagues). Caution for a re-reader: the U.S. moved for and was GRANTED an appeal to the Supreme Court from the District Court decree, on Ord's motion filed 7 March 1856 (PDF p102, DC record p13); the disposition of that appeal is not in the pages read, though Hoffman 1862 records the claim as confirmed and the register reports a patent in 1872. Also note a date discrepancy inside the file: the Board docket dates the rejection 13 Dec 1853 (PDF p8) while McKinlay's District Court petition (PDF p95) recites it as 'on or about the 13th day of December A.D. 1854'; the docket entry is the better authority. Ethnohistorical detail worth flagging: condition 1 of the Spanish grant, PDF p22 (transcript p16), requires Estrada to grant the land 'sin impedir el cultivo que hagan los indigenas Longino y Martin', and J. de Jesus Pico deposed PDF p100 that as late as about 1854 'I saw some Indians living there cultivating small patches'. No patent copy in the pages read."
  }
 ]

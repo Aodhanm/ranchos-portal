@@ -175,5 +175,263 @@
   },
   "corrections": {},
   "notes": "REGISTER CORRECT ON ALL SIX FIELDS; HOFFMAN 1862 IS WRONG ON BOTH FIELDS IT WAS FLAGGED AGAINST. Hoffman's year 1835 is the date of Richardson's petition to Governor Figueroa, not of the grant; Hoffman's grantee 'Jose Antonio Galindo' does not appear in this case file at all (the Galindo Saucelito title is a separate matter and is not the title litigated in ND 83). This is a useful control: the same Hoffman column that is right in most of this chunk is demonstrably wrong here, so Hoffman must never be used to overturn the register without the case file. PDF is 173 MB / 205 images; read via pypdf page-range excerpts. The file also contains Richardson's 1844 application to Micheltorena asking whether his Alvarado title was valid, and Micheltorena's affirmative decree of 16 Dec 1844 (transcript pp.28-29, 40-41) - a confirmation, not a new grant."
+ },
+ {
+  "id": "rancho-shoquel-augmentation",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264180/files/cubanc_lcf_nd343.pdf",
+  "pdf_pages_stated": 89,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 343 ND PAGES 89', transcript pp.1-6)",
+   "PDF 16-29 (transcript pp.10-22)",
+   "PDF 30-43 (transcript pp.23-35, the 1844 augmentation expediente)",
+   "PDF 89-102 (transcript pp.76-89, District Court proceedings and final decree)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 343 / NORTHERN DISTRICT / SHOQUEL GRANT / MARTINA CASTRO / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"Shoquel\"'. The augmentation is named throughout: Guadalupe Castro depo., transcript p11, 'the tract of Land claimed in this Case lying in Santa Cruz County and known as the Augmentation to the \"Rancho de Soquel\"'; Juan Jose Castro, transcript p16, 'the boundaries are on one side the place known as \"Palo de la Yesca\" so called from an Oak tree that formerly stood there from which punk was obtained'; District Court depo. of Francisco Alviso, transcript p78, 'the augmentation grant of Martina Castro in Santa Cruz Co. Cala.'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The augmentation expediente is entirely of 1844. Martina Castro's petition, transcript pp.25/30: 'suplico a V.E. libra mandar se agregue al titulo nuevo que pido, la tierra inmediata al rancho que actualmente poseo, conocida con el nombre del Palo de la Yesca que se halla enteramente baldia. Monterrey 7 de Enero de 1844.' Micheltorena's order of reference, transcript p25: 'Monterey, En.o 11 de 1844. Inf.e el S. Srio del despacho teniendo antes los convenientes. Micheltorena.' Alviso's informe 'Sta Cruz 23 de Enero de 1844'; Jimeno's informe 'Monterrey 8 de Febrero de 1844'; Micheltorena's decree, transcript pp.26/31: 'Monterey Fbro. 9 de 1844. Confe con el anterior informe dense las ordenes...' and, same date, Jimeno's execution order, transcript pp.27/32: 'ocurra la interesada al Juez de Branciforte a quien se le ordena, ponga en posesion a Da Martina Castro de toda la extension que pretende de la Sierra de la Yesca hasta la laguna del Sanjuento y la chuchita, incluyendo la loma Prieta.' Also a Micheltorena decree of '7 de Enero de 1844' on her Oct. 1843 petition, transcript p29/p35. The Board petition, transcript p6, alleges '17th of January 1844'. Every candidate date is in 1844, so the register's 1844 stands."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "For the AUGMENTATION the granting governor is Micheltorena alone (decrees quoted above, transcript pp.25-27 / 30-32, all signed 'Micheltorena', countersigned 'Manuel Jimeno'). Figueroa granted the UNDERLYING Soquel rancho, which is also in this same case file: concession decree, transcript p20, 'Monterrey Nov.re 22 de 1833 ... se declara a Martina de Castro duena en propiedad del terreno conocido con el nombre de Soquel ... El Sr. D. Jose Figueroa Comandte Genl Inspector y Gefe Superior Politico del Territorio de la Alta California asi lo mando, decreto y firmo de que doy fe. Jose Figueroa'; titulo, transcript p22, 'Jose Figueroa Genl de Brigada de los Ejercitos Nacionales Mejicanos ... Por cuanto Martina Castro, esposa de Miguel Lodge, ha pretendido ... el terreno conocido con el nombre de Soquel'; Assembly approval 17 May 1834 and Figueroa's confirming decree 'Monterey Agosto 2 de 1834', transcript p24. So the register's pair of governors describes the case file correctly but is imprecise for a record titled 'Augmentation', where only Micheltorena granted."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Right person, abbreviated. The grantee of both the 1833 rancho and the 1844 augmentation is MARTINA Castro: transcript p18 expediente cover, 'Espediente sobre el paraje nombrado Shoquel solicitado pa su ocupacion y beneficio por Martin[a] de Castro'; 1833 titulo, transcript p22, 'Por cuanto Martina Castro, esposa de Miguel Lodge'; 1844 petition, transcript p30, 'Martina Castro de la vecindad de la villa de Branciforte'; District Court caption throughout, transcript pp.76-88, 'The United States vs Martina Castro'. 'M. Castro' is ambiguous in a file that also contains Rafael Castro (an adjoining owner, transcript p28), Guadalupe Castro and Juan Jose Castro (witnesses, transcript pp.11, 15)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 343 NORTHERN DISTRICT'; PDF p2 'LAND CASE 343 ND PAGES 89'; filename cubanc_lcf_nd343.pdf; every leaf stamped '343 ND PAGE n'; District Court caption, transcript p84, 'D.C. 343: L.C. 593'. Land Commission docket 593 (transcript p1, p2), matching Hoffman's commission_no 593."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board FIRST REJECTED then confirmed: transcript p3, 'San Francisco April 17. 1855. In the same case Commissioner S. B. Farwell delivered the opinion of the Board rejecting the claim'; transcript p4, that decree 'be set aside and the case be reinstated on the trial docket', then 'San Francisco June 26. 1855. In the same case Commissioner S. B. Farwell delivered the opinion of the Board confirming the claim' (opinion transcript p59). U.S. appealed (D.C. 343) and took evidence in 1856 (transcript pp.76-83) but abandoned: Attorney General's letter, transcript p86, '2 Febry 1857 ... In the case of the claim of Martina Castro, confirmed to the claimant by the Commissioners, Case no. five hundred and ninety-three, (593), appeal will not be prosecuted by the United States'; stipulation, transcript p87, 20 March 1857; and the District Court's order, transcript p84, 'At a Stated Term ... Friday the 20th day of March ... 1857. Present: The Honorable OGDEN HOFFMAN, District Judge ... it is ordered adjudged and decreed that claimant have leave to proceed under the decree of the U.S. Land Commission heretofore rendered in his favor, as under Final Decree.' Hoffman's 1862 table marks this claim patented; no patent copy is in this file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "For the augmentation: Manuel Micheltorena alone (transcript pp.25-27/30-32). Jose Figueroa belongs to the 1833/1834 Soquel grant that underlies it (transcript pp.20-24).",
+   "grantee": "Martina Castro (transcript pp.18, 22, 30, 76-88)."
+  },
+  "notes": "Hoffman's flagged year 1834 is NOT a disagreement about the augmentation: Hoffman's own governor column for this row reads 'Jose Figueroa, and surplus lands, known as Palo de la Yesca, described by boundaries, granted January 7th, 1844, by Manuel Micheltorena' - i.e. Hoffman's 1834 is the Figueroa grant and he dates the surplus to 1844, agreeing with the register. Note ND 343 (Board 593) litigated BOTH the 1833/34 Soquel rancho and the 1844 augmentation in one transcript, so a register that splits them into two rows will point both at this same case file. The 1844 file is unusually contentious: the alcalde Francisco Alviso admits in the District Court (transcript p79) that he first 'reported adversely to the grant' on the representation of hostile neighbours and then 'reported a second time and then in favor of the grant'; a U.S. examiner's marginal note at transcript pp.26/31 alleges that words in the informe 'were evidently written originally \"no\" and have subsequently been maliciously changed into \"se\"'. PDF is 87 MB / 102 images."
+ },
+ {
+  "id": "rancho-simi",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265846/files/cubanc_lcf_sd103.pdf",
+  "pdf_pages_stated": 91,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 103 SD 91 pgs.', transcript pp.1-6)",
+   "PDF 16-29 (transcript pp.10-23, incl. Doc No.1 and the 1832 escritura)",
+   "PDF 92-102 (transcript pp.81A-91, District Court and Surveyor General certificates)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 103 / SOUTHERN DISTRICT / SAN JUAN [recte JOSE] DE GRACIA ALIAS SIMI GRANT / JOSE DE LA GUERRA Y NORIEGA / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"San Jose de Gracia, alias Simi\"'; Doc No.1, transcript p13, 'este rancho de San Jose de Gracia y Simi'; Surveyor General's certificate, transcript p87, 'the Rancho \"Simi\" confirmed to J. de la Guerra y Noriega'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Doc No.1 (the three brothers' 1821 petition, annexed to Santiago Arguello's deposition), transcript p13: 'pues este dicho rancho esta dado por el Sor. Gobor. Dn. Diego de Borica q. de Dios goze el ano de 1795'. Governor Sola's ratifying decree on the same paper, transcript p14: 'Monterrey 8 de Marzo de 1821 ... teniendo en consideracion lo dispuesto pr. mi antecesor el Sor Coronel D. Diego de Borica en favor de Patricio Pico, Jabier Pico y Miguel Pico del rancho nombrado Simi q. poseen hace la epoca de veinte y seis anos les ratifico esto mismo' - twenty-six years before 1821 is 1795, an internal check. Petition, transcript p5: 'That in the year 1795, Diego Borica, Governor of California, granted to the brothers Patricio Pico, Javier Pico and Miguel Pico, the tract of land called \"Simi\"'. The original 1795 title was LOST (transcript p5, 'the said title having been lost'), which is why the brothers sought the 1821 replacement."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Diego de Borica, named in the file's own documents: Doc No.1, transcript p13, 'esta dado por el Sor. Gobor. Dn. Diego de Borica q. de Dios goze el ano de 1795'; Sola's decree, transcript p14, 'lo dispuesto pr. mi antecesor el Sor Coronel D. Diego de Borica'. Sola (1821) and Alvarado (1842 regrant to de la Guerra, petition transcript p5) are later actors, not the 1795 grantor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The three Pico brothers. Doc No.1, transcript p13: 'Patricio Pico, Jabier Pico y Miguel Pico todos los nombrados hermanos se presentan con el debido respeto y sumision', signed at transcript p14 'Patricio Pico / Jabier Pico / Miguel Pico'; Sola's decree, transcript p14, 'en favor de Patricio Pico, Jabier Pico y Miguel Pico del rancho nombrado Simi'. The register has correctly recorded the MEXICAN/SPANISH grantees and NOT the U.S.-era claimant (Jose de la Guerra y Noriega, who bought the rancho from Rafael Pico as attorney for his uncles in 1832-42; escritura at transcript pp.15-23)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 103 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 103 SD 91 pgs.'; filename cubanc_lcf_sd103.pdf; every leaf stamped '103 SD PAGE n'; District Court caption, transcript p85, 'Case No. 103 ... Transcript 38'. Land Commission docket 38 (transcript p1, p2), matching Hoffman's commission_no 38."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: transcript p4, 'San Francisco, March 14, 1854. In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim' (opinion transcript p64). The U.S. filed a petition for review (answer of appellee, transcript p81A, served 27 Dec 1855) and the District Court ordered the transcript returned for amendment (transcript p85, filed 17 Dec 1855), but the appeal was abandoned: Attorney General's letter, transcript p83, '29 September 1856 ... In the case of the claim of Jose de la Guerra y Noriega, confirmed to the claimant by the Commissioners, Case no. thirty-eight (38), appeal will not be prosecuted by the United States'; endorsement, transcript p84, '(not prosd Dist Court) Dismissed Dec. 20. 56'. Survey followed: Surveyor General's certificates, transcript pp.87-90, 'the Rancho \"Simi\" confirmed to J. de la Guerra y Noriega has been surveyed by this office, and ... the survey and plat was approved by the U.S. Surveyor General, on the 19th day of March 1861', published 1862-63, filed 1864-65. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "REGISTER CORRECT ON ALL SIX FIELDS; HOFFMAN'S 1842 IS THE WRONG GRANT for a row describing the original Simi title. Hoffman's year column (1842) is the date of Alvarado's ratification/regrant to the purchaser Jose de la Guerra y Noriega (petition, transcript p5: 'on the 25th day of April A.D. 1842, Juan B. Alvarado, then Governor of California, by virtue of power in him vested, ratified & confirmed the said purchase and sale, and regranted the said tract of land to the petitioner'); Hoffman's governor and grantee cells for this row are blank, so there is no Hoffman reading to prefer. TWO CAVEATS a re-reader should know. (1) The register's grantee string 'Patricio Javier y Miguel Pico' lacks a comma and can be misread as two men; the file names THREE brothers - Patricio Pico, Javier (Jabier) Pico and Miguel Pico - so the preferred form is 'Patricio, Javier y Miguel Pico'. (2) An internal conflict about who first received Simi in 1795: the 1832 escritura de venta, transcript p22, says the rancho 'graciosamente obtuvo del Gobierno del Territorio antiguamente el abuelo paterno del vendedor Santiago Pico, y posteriormente se ratifico la concesion por el mismo Gobierno a su difunto padre Patricio Pico y tios expresados' - i.e. the grandfather SANTIAGO PICO got it and the concession was only later ratified to Patricio and his brothers. The 1821 papers (the nearest surviving substitute for the lost 1795 title, and the documents on which the Board acted) put the Borica grant in the three brothers' names; the 1832 deed puts it in Santiago Pico's. I have not resolved this and flag it rather than pick a side. PDF is 98 MB / 102 images."
+ },
+ {
+  "id": "rancho-sisquoc",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268936/files/cubanc_lcf_sd310.pdf",
+  "pdf_pages_stated": 43,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 310 SD 43 pgs.', transcript pp.1-6)",
+   "PDF 13-22 (transcript pp.7-15, the Spanish expediente and its sworn translation)",
+   "PDF 43-52 (transcript pp.34-43, appeal papers and Surveyor General certificates)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 310 / SOUTHERN DISTRICT / SISQUOC GRANT / JAMES B. HUIE / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"Sisquoc\"'; expediente cover, transcript p7, 'Espediente promovido por Da. Maria Antonia Dominguez de Caballero en pretencion del terreno conocido con el Nombre de \"Sisquoc\". 442'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p9 (Spanish): 'Angeles Abril 17 de 1845. Vista la solicitud con que da principio este Espedte. ... se declara a Da. Maria Antonia Dominguez de Caballero duena del terreno conocido con el nombre de Sisquoc'. Sworn translation 'B', transcript p14: 'Angeles April the 17th 1845 ... Dona Maria Antonia Dominguez de Caballero is declared owner of the land known by the name of \"Sisquoc\"'. Her own petition is dated 'Santa Barbara April the 5th 1845' (transcript pp.8, 13); the mission and alcalde informes are of 12 and 13 April 1845 (transcript pp.9, 14). HOFFMAN'S 1833 IS WRONG - there is no 1833 document anywhere in this expediente."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, transcript p9: 'El Sor D. Pio Pico Gobernador Interino del Departamento de Californias, asi lo mando, decreto y firmo al que doy fee. Pico. Juan Bandini Srio.' Translation, transcript p14: 'Senor Don Pio Pico Governor ad interim of the Department of Californias ordered, decreed and signed this, to which I certify. (Signed) Pico. (Signed) Juan Bandini Secretary.' Pico's marginal order of reference, 'Angeles Abril 8 de 1845 ... Pio Pico' (transcript pp.8, 13). Jose Castro's deposition, transcript p5: 'I have looked upon the Exhibit and state that the hand writing of Pio Pico and of Juan Bandini written thereon are genuine.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era PURCHASER, not the grantee. Grant decree, transcript p9/p14: 'se declara a Da. Maria Antonia Dominguez de Caballero duena del terreno' / 'Dona Maria Antonia Dominguez de Caballero is declared owner of the land'. Departmental Assembly approval, transcript p15: 'They approve of the grant made in favor of Dona Maria Antonia Dominguez de Caballero of the tract of land named Sisquoc, in the jurisdiction of Santa Barbara ... Hall of Committee in the City of Los Angeles May 22d 1846.' James B. Huie's own petition, transcript pp.3-4, says the tract was 'granted to Dona Maria Antonia Dominguez de Caballero, on the 17th of April 1845, by Pio Pico' and that 'on the 1st day of October, 1851, and on the 4th day of November, 1851, your petitioner bought the said tract of land'. Joaquin Valenzuela, transcript p6: 'I took possession of this place in 1845 for and under a contract with the grantee ... occupied it seven years from the month of July, 1845, under said contract as tenant of the grantee.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 310 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 310 SD 43 pgs.'; filename cubanc_lcf_sd310.pdf; every leaf stamped '310 SD PAGE n'; District Court endorsement, transcript p35, 'No. 310. U.S. Dist Court South Dist California. J. B. Huie Et al Appellees ads The United States'. Land Commission docket 111 (transcript pp.1-2, p36), matching Hoffman's commission_no 111. (The Mexican expediente carries its own archive number 442, transcript pp.7, 12.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: transcript p2, 'San Francisco April 24, 1855. In the same Case, Commissioner S. B. Farwell delivered the opinion of the Board confirming the Claim' (opinion transcript p33, order p34). The U.S. first noticed an appeal - Attorney General, 3 December 1855, transcript p34, 'the appeal in the district court of the United States for the Southern district of California will be prosecuted by the United States', notice of appeal filed 12 Feb 1856 (transcript p35) - and then abandoned it: Attorney General, 14 Novr 1856, transcript p36, 'In the case of the claim of James B. Huie, confirmed to the claimant by the Commissioners, case no. one hundred and eleven, (111), appeal will not be prosecuted by the United States.' Survey followed: Surveyor General's certificates, transcript pp.38, 40, 42, 'the Rancho \"Sisquoc\" confirmed to J. B. Huie, et al, has been surveyed by this office, and ... the survey and plat was approved by the U.S. Surveyor General, on the fifth day of December 1860', advertised Jan-Mar 1861, copies filed 1865-66. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Dona Maria Antonia Dominguez de Caballero (transcript pp.7, 9, 14, 15). James B. Huie is the purchaser under deeds of 1 Oct and 4 Nov 1851 and the U.S.-era claimant."
+  },
+  "notes": "Classic claimant-for-grantee substitution, and Hoffman is right where he was flagged (his 'Maria Antonio Caballero' = Maria Antonia Dominguez de Caballero) but WRONG on the year he was flagged for: Hoffman gives 1833, the file gives 17 April 1845 in both the Spanish decree and the sworn translation. The register's 1845 and Pio Pico are both correct. Two textual points for a re-reader: the alcalde's informe in the Spanish copy is dated 'Sta. Ines Abl. 13 de 1844' (transcript p9) while its own sworn translation renders it 'Santa Ynez April 13th 1845' (transcript p14) - an obvious slip of the pen for 1845, since it answers Pico's marginal decree 'de 8 del presente' of April 1845; and the informe notes as a possible obstacle that 'la solisitante es casada con un individuo que no es naturalizado' (her husband Francisco Caballero was an unnaturalised foreigner). PDF is 47 MB / 52 images."
+ },
+ {
+  "id": "rancho-soulajule",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256655/files/cubanc_lcf_nd328.pdf",
+  "pdf_pages_stated": 65,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 328 ND 65 pgs.', transcript pp.1-7)",
+   "PDF 41-52 (transcript pp.33-42, Board order/certificate and District Court appeal papers)",
+   "PDF 65-78 (transcript pp.54-65, District Court depositions and 1878 Surveyor General papers)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 328 / NORTHERN DISTRICT / PART OF SOULAJULLE GRANT / GEORGE N. CORNWELL / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED part of \"Soulajulle\"'. The register's disambiguator is defensible in either spelling: the case label, the Board certificate (transcript p34) and the District Court papers all read CORNWELL, and he signs his petition 'George N Cornwell' (transcript p5), but the U.S. Surveyor-General's 1878 accounts, transcript pp.54-55, write 'The Rancho Soulajule, (Confirmed in part to Vasquez, Watkins, Gormley, Brackett, & Cornwall)'. Preferred form: Cornwell."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition to the Board, transcript p4: 'he claims the same in fee by virtue of a grant made to Jose Ramon Mesa under the authority of the Mexican Government by Manuel Micheltorena Governor of the Department of the Californias bearing date March 29th 1844'. District Court petition of appeal, transcript p39: 'he derives his title by Mesne Conveyances from Jose Ramon Mesa to whom the said Ranch was granted by Manuel Micheltorena on 29 March 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition, transcript p4, and appeal petition, transcript p39, both name Manuel Micheltorena. Ramon Mesa, deposing before the Board (transcript p6): 'I cannot read or write but I know that this paper is the title to my Rancho. I know that Micheltorena and also Jimeno signed this paper. They signed it in my presence.' Thomas O. Larkin, District Court deposition of 28 Nov 1856, transcript pp.58-59, identifies 'the document now shewn you from the office of the U.S. Surveyor General for California, purporting to be the original grant, for the tract of land called Soulajulle, in favor of Ramon Mesa' and swears the signatures of 'Manuel Micheltorena, and of Manuel Jimeno ... are their true, and genuine signatures.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era purchaser. The grantee is Jose Ramon Mesa. Petition, transcript p4: 'a grant made to Jose Ramon Mesa ... the said grantee on the sixth day of December 1849 transferred his rights in said land to your Petitioner jointly with one Lewis D. Watkins who on the sixth day of August 1850 conveyed all his rights in said land to your Petitioner'. Mesa's own District Court deposition, transcript p62: 'Q2. Was the Ranch granted to you? A. It was. I have sold it and conveyed it by deed, and now have no interest in it whatever. The Ranch was granted to me by the name of the Soulajille Ranch. Q3. Why was it called Ramon Mesa Ranch? A. I changed the name and called it after myself.' John Martin, transcript p61: 'I know the Ranch by that name, and also by another name. The other name was the Ranch of Ramon Mesa.' Larkin, transcript p58: 'the original grant, for the tract of land called Soulajulle, in favor of Ramon Mesa'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 328 NORTHERN DISTRICT'; PDF p2 'LAND CASE 328 ND 65 pgs.'; filename cubanc_lcf_nd328.pdf; every leaf stamped '328 ND PAGE n'; District Court wrapper, transcript p44 area, 'U.S. DISTRICT COURT, Northern District of California. No. 328. THE UNITED STATES vs George Cornwell. TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 234. Filed November 7th 1855'. Land Commission docket 234 (transcript pp.1-2, 34), matching Hoffman's commission_no 234."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: transcript p3, 'San Francisco April 17, 1855. In the same Case Commissioner R. Aug. Thompson delivered the Opinion of the Board, rejecting the claim' (opinion transcript p33, order p35). Cornwell appealed - notice of appeal, transcript p37, 'the claimant in this case intends to prosecute an appeal from the decision of the Board of the United States Land Commission, rejecting his claim', filed 22 Dec 1855; petition of appeal, transcript pp.39-40, praying 'a reversal of the decision of the Board and that his title may be confirmed by the proper decree' and stating the ground of rejection ('the claim was rejected by the Board on the ground that the Ranch was called \"Soulajulle\" in the grant, while in the Mesne Conveyances it was called \"San Ramon\"'); U.S. answer denying validity, transcript p42. The appeal SUCCEEDED: U.S. Surveyor-General's Office accounts of 3 Dec 1878, transcript pp.54-55, are headed 'The Rancho Soulajule, (Confirmed in part to Vasquez, Watkins, Gormley, Brackett, & Cornwall)' and charge for 'Copying Descriptive Notes, decrees, Etc, and preparing for transmission to Washington'; the transmittal wrapper, transcript p57, covers 'Nos 328, 329, 331, 334 & 352 - 328 The United States vs George N Cornwell; 329 U.S. vs Joshua L Brackett; 331 U.S. vs Pedro J. Vasquez; 334 U.S. vs Martin J. Gormly; 352 U.S. vs Lewis D. Watkins. Filed December 12th 1878.' Register's 'Confirmed' is therefore right on the final result. CAVEAT: I did not read the District Court decree itself, which lies in the unread stretch transcript pp.43-53; the confirmation is established here by the Surveyor General's own 1878 description and the survey/transmission to the GLO. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Ramon Mesa (transcript pp.4, 6, 39, 58, 62). George N. Cornwell took by mesne conveyances of 6 Dec 1849 and 6 Aug 1850 and is the U.S.-era claimant."
+  },
+  "notes": "Hoffman 1862 agrees with the case file against the register: grantee is Ramon Mesa. Year (1844) and governor (Micheltorena) in the register are correct. IMPORTANT STRUCTURAL POINT for the register: the single Micheltorena grant of 29 March 1844 to Jose Ramon Mesa was broken up by sale into FIVE separate U.S. land cases, all of Soulajule and all with different claimants - ND 328 (George N. Cornwell), ND 329 (Joshua L. Brackett), ND 331 (Pedro J. Vasquez), ND 334 (Martin J. Gormly), ND 352 (Lewis D. Watkins) - see transcript p57 and pp.54-55. So the register's two Soulajule rows (Cornwell ND 328 and Watkins ND 352) are two of five, and in every one of them the correct grantee is the same man, Jose Ramon Mesa. Note also that the ORIGINAL grant paper is not in this transcript: the petition, transcript p5, says 'The original grant of said land is filed in the case of Joshua L. Brackett No ___ to which you are referred', and the grant was proved here by Mesa's deposition taken in Board case 233 (Brackett) and by Larkin in the District Court. My year/governor citations therefore rest on the pleadings plus two sworn identifications of the original grant, not on the decree text itself, which is in the Brackett file (ND 329). PDF is 59 MB / 78 images."
+ },
+ {
+  "id": "rancho-soulajule-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264189/files/cubanc_lcf_nd352.pdf",
+  "pdf_pages_stated": 473,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 352 ND 473 pgs.', transcript pp.1-6)",
+   "PDF 13-24 (transcript pp.7-18, incl. the Micheltorena grant in Spanish and its sworn translation)",
+   "PDF 477-488 (transcript pp.462-473, District Court opinion and survey-contest papers)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 352 / NORTHERN DISTRICT / SOULAJULLE GRANT / LEWIS D. WATKINS / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"Soulejulle\"'; Board transmittal, transcript p473, 'for the place known by the name of \"Part of Soulajulle\"'; grant itself, transcript p15, 'el parage conocido con el nombre de Soulajulle'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "THE GRANT ITSELF IS IN THIS FILE (unlike ND 328). Spanish original, transcript pp.15-16 ('Exhibit No. 1 A.F. annexed to Depo. of Jose Ramon Mesa. Novr. 10. 1853'), closes: 'Dado en Monterey a veinte y nueve de mil ocho cientos cuarenta y cuatro. Manuel Michelt.a Manuel Jimeno Srio.' Sworn translation 'C', transcript p18: 'Given in Monterey this 29th day of March 1844. (Signed) Manl Micheltorena (Signed) Manl Jimeno Secy.' Petition, transcript p4: 'a grant made to Jose Ramon Mesa, alias Ramon Mesa ... bearing date the twenty ninth day of March in the year 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, transcript p15: 'El Ciudadano Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante General de la Plana Mayor del mismo, Gobernador Comandte. General e Inspector del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras.' Translation, transcript p17: 'Citizen Manuel Micheltorena Brigadier General of the Mexican Army ... Governor Commandant General and Inspector of the Department of the Californias ... I have thought proper to grant unto him the above mentioned land.' The stamped paper itself is countersigned 'Micheltorena / Pablo de la Guerra' (transcript p15). Mesa, transcript p7: 'I know that Micheltorena and also Jimeno signed this paper. They signed it in my presence.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era purchaser. Grant, transcript p15: 'Por Cuanto el Ciudadano Ramon Mesa ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de Soulajulle colindante con la Laguna de San Antonio, con el terreno nombrado de Nicacio y con el Rancho de D. Juan Martin'. Translation, transcript p17: 'Whereas the Citizen Ramon Mesa has petitioned for his own personal use and that of his family, for the land known by the name of \"Soulajulle\"'. Petition, transcript p5: 'the said Grantee, Jose Ramon Mesa on the sixth day of December 1849 transferred all his ... right in said two and three quarters square miles of land to George N. Cornwell & Your Petitioner jointly'; Watkins then bought out Cornwell's remaining share (deeds of 6 Aug 1850 and 6 Dec 1853) 'by virtue of which conveyances your petitioner became the sole owner in fee'. Jose de la Rosa, transcript pp.13-14: 'I know said Mesa and the said Rancho at the time of the American occupation of the country it was in the possession of said Mesa who was living on it, immediately after he obtained his grant, he built a house on it.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 352 NORTHERN DISTRICT'; PDF p2 'LAND CASE 352 ND 473 pgs.'; filename cubanc_lcf_nd352.pdf; every leaf stamped '352 ND PAGE n'; District Court caption, transcript p467, 'IN LAND CASES. Dist. Court No. 352. Land Com. No. 246.' Land Commission docket 246 (transcript pp.1-2, 473), matching Hoffman's commission_no 246."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: transcript p3, 'San Francisco April 17. 1855. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board rejecting the claim' (opinion transcript p37, order p39); the wrapper endorsement, transcript p472, reads 'L. D. Watkins ... Part of Soulajulle Marin Co. Rejected. Wm Blanding'. The District Court REVERSED: opinion, transcript p471, 'The claim of the appellant in this case depends upon the validity of the original title confirmed in Case No 329. A decree of confirmation to so much of the claim of the appellant as is embraced within that tract originally granted must therefore be entered.' The bulk of this 473-page file is the later contest over the SURVEY, which presupposes confirmation: intervenors' points, transcript p464, 'All the tracts of land confirmed have been surveyed, the surveys approved and due publication made. None of them have been ordered into Court or objected to except this of Watkins', and transcript p463 lists 'Mesa by his deed to Cornwall and Watkins, M. F. Gormley, Fuller and Vasquez in the order named'. Depositions run to 1861 and the SG papers in the companion file ND 328 date the transmission to the GLO to Dec. 1878. No patent copy in the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Ramon Mesa, alias Ramon Mesa (grant, transcript pp.15, 17; petition p4-5). Lewis D. Watkins is the purchaser under the deeds of 6 Dec 1849, 6 Aug 1850 and 6 Dec 1853, and the U.S.-era claimant."
+  },
+  "notes": "Hoffman 1862 agrees with the case file against the register: grantee Ramon Mesa. Year (1844) and governor (Micheltorena) in the register are correct. THIS IS THE BEST FILE IN THE SOULAJULE GROUP: it contains the actual Micheltorena title of 29 March 1844 in Spanish (transcript pp.15-16) with a sworn English translation (pp.17-18), where ND 328 (Cornwell) has only pleadings and identifications - so any future re-check of the Soulajule grant should come here, or to ND 329 (Brackett) where the ORIGINAL paper was filed. One transcription trap: the Spanish copy at transcript p16 reads 'Dado en Monterey a veinte y nueve de mil ocho cientos cuarenta y cuatro', omitting the month; the month (March) comes from the sworn translation at p18 and from both petitions. Minor: the register spells the claimant 'Luis D. Watkins' - the red label and the District Court papers read 'Lewis', though the Board's own transmittal (transcript p473) also writes 'Luis'. PDF is 349 MB / 488 images; read via pypdf page-range excerpts (a direct read of the whole file would stall)."
+ },
+ {
+  "id": "rancho-temascal",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266113/files/cubanc_lcf_sd153.pdf",
+  "pdf_pages_stated": 111,
+  "pages_read": [
+   "PDF 1-12 (label, 'LAND CASE 153 SD pgs. 111', transcript pp.1-6)",
+   "PDF 13-22 (transcript pp.7-15, the Spanish expediente and its sworn translation)",
+   "PDF 116-127 (transcript pp.100-111, District Court decree, Supreme Court mandate, and the 1854 deed)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 153 / SOUTHERN DISTRICT / TEMASCAL GRANT / MANUEL ANGUISOLA / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"Temascal\"'; expediente cover in translation, transcript p12, '1843. Report of Proceedings (Expediente) instituted by the citizens Francisco Lopez and Jose Arellanes residents of Santa Barbara for the land called Temascal. No. 520.'; District Court decree, transcript p102, 'the Rancho \"Temascal\" situated in the County of Santa Barbara California'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, transcript p10 (Spanish): 'Angeles. Marzo 17 de 1843. Vista la peticion con que da principio este Espediente ... declaro duenos en propiedad del terreno llamado el Temascal el ciudadano Franc.co Lopez y Jose Arreyanes'. Sworn translation, transcript p15: 'Angeles. March. 17th 1843 ... I declare the citizens Francisco Lopez and Jose Arellanes, the owners of the land called Temascal'. The whole expediente runs Jan-Mar 1843 (petition 'Sta Barbara Jany 12. 1843', transcript p13; prefect's order 'Los Angeles. Jany. 17th [18]43'; Carrillo's informe 'Santa Barbara. Feby. 20. 1843', p14; Arguello's report 'Angeles. Febrero 27 de 1843', p9; Villavaso's report 'San Fernando. March. 3rd 1843', p15). Petition to the Board, transcript p4, agrees: 'dated the 17th of March 1843'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, transcript p10: 'El Sr. Don Manuel Micheltorena Gobernador Comand.te General e Inspector de ambas Californias asi lo mando, decreto y firmo de que doy fe. Micheltoa.' Translation, transcript p15: 'Don Manuel Micheltorena Governor Commandant General and Inspector of both Californias, thus has ordered, decreed and Signed. In faith whereof. Micheltorena.' His two earlier marginal orders of reference are also in the file ('Los Angeles 1o de 1843. Espediente e titulo previas las formalidades de estilo. Micheltorena', transcript p10; 'Angeles Marzo 1o de 1843. Informe el administrador de San Fernando. Michelta.', transcript p9). Covarrubias, transcript p5: 'I am acquainted with the hand Writting and Signatures of Manuel Micheltorena and Francisco Arce and believe their Signatures on said paper to be genuine.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register holds the U.S.-era purchaser. Concession decree, transcript p10/p15: the grantees are 'el ciudadano Franc.co Lopez y Jose Arreyanes' / 'the citizens Francisco Lopez and Jose Arellanes'. Expediente cover, transcript p12: 'instituted by the citizens Francisco Lopez and Jose Arellanes residents of Santa Barbara for the land called Temascal'; their joint petition is signed 'Franco Lopez. Signed by me at the request of Jose Arellanes who does not know how to Sign. Fco Lopez' (transcript p13). Petition to the Board, transcript p4: 'he claims the same in fee in virtue of a grant made to Francisco Lopez and Jose Arellanes ... dated the 17th of March 1843 ... that the said grantees on the 27th of September 1847 transfered their rights to Your petitioner.' Covarrubias, transcript p6: 'A house was built on the land by the grantees immediately after the making of the grant ... Lopez lived in the house with his family until the sale to the present claimant.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 153 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 153 SD pgs. 111'; filename cubanc_lcf_sd153.pdf; every leaf stamped '153 SD PAGE n'; District Court caption, transcript p101, 'Docket No 153'. Land Commission docket 521 (transcript pp.1-2), matching Hoffman's commission_no 521. (The Mexican expediente carries its own archive number 520, transcript pp.7, 12 - do not confuse the two.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: transcript p2, 'San Francisco April 4th 1854. In the same Case Commissioner Alpheus Felch delivered the opinion of the Board rejecting the claim' (opinion transcript p41, order p44). On appeal the parties were substituted (motion filed 20 Feb 1857, transcript p100) because Anguisola had sold the rancho by deed of 6 Dec 1854 (copy at transcript pp.108-110). The District Court REVERSED: 'In the United States District Court for the Southern District of California, December Term 1856, Hon. Isaac S. K. Ogier Judge ... It is ordered adjudged and decreed that the said decision of the said Land Commissioners be reversed, and the same is hereby reversed, and that the claim of the said Appellants Ramon de la Cuesta and Francisco Gonzales Camino to the Rancho \"Temascal\" ... is a good and valid claim, and their title thereto is hereby confirmed to the extent of three square leagues of land and no more to be located agreably to the calls of the original grant' (transcript pp.101-102, filed 21 Feb 1857). AFFIRMED on appeal: U.S. Supreme Court mandate, December Term 1863, No. 118, transcript pp.104-107, 'it is now here ordered adjudged and decreed by this Court that the Decree of the said District Court in this cause be and the same is hereby affirmed', witnessed by Chief Justice Roger B. Taney and filed 18 Oct. 1864. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Lopez and Jose Arellanes (Arreyanes) - concession decree, transcript pp.10 and 15; expediente cover p12; petition p13. Manuel Anguisola bought their rights on 27 Sept 1847 and is the U.S.-era claimant; he in turn sold to Ramon de la Cuesta and Francisco Gonzales Camino on 6 Dec 1854, and they were substituted as appellants."
+  },
+  "notes": "Hoffman 1862 agrees with the case file against the register: grantee 'Francisco Lopez et al.' (the 'et al.' is Jose Arellanes). Year 1843 and governor Micheltorena in the register are both correct. Two things a re-reader should carry forward: (1) the register's own 'outcome: Confirmed' is right, but the confirmation came only on APPEAL - the Board rejected the claim in 1854 and the confirmed parties in the final decrees are neither the grantees nor the register's 'Manuel Anguisola' but his successors Ramon de la Cuesta and Francisco Gonzales Camino; a 'patent_to' field for this rancho should be checked against THEM, not Anguisola. (2) The 1854 deed at transcript p108 describes the same land as 'a certain Rancho lying and Situate in the County of Santa Barbara and known as Rancho \"Piru\", said Rancho Containing Three Square leagues or \"Sitios de ganado Mayor\" more or less' - Piru is an alias for this Temascal grant and is worth carrying in the register's alias field. PDF is 106 MB / 127 images."
  }
 ]

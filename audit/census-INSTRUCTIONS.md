@@ -61,6 +61,23 @@ Every `evidence` string names at least one PDF page. Your final text reply must 
 - Some records have `"scan_record_url": null` (presidio/pueblo claims and unmatched grants). For these, first try a digicoll search: `curl -sL "https://digicoll.lib.berkeley.edu/search?p=<url-encoded rancho name>+land+case"` and look for a Land Case Files record link (`/record/NNNNNN`). If a matching case file is found, note the found URL and proceed normally. If not, grade every field UV with note "no digitized case file located" — do NOT guess.
 - Records whose `hoffman_flags` list substantive disagreements (year/governor/grantee/outcome) are the priority: read far enough to settle each flagged field decisively, quoting the decree.
 
+## Traps confirmed in the field (2026-09-04)
+
+- **Two-volume cases: a wrong filename gets HTTP 200 + an HTML error page, not a
+  404.** ND 136 and ND 199 are bound in two volumes (cubanc_lcf_nd136A/B,
+  nd199A/B); the derived single-volume name answers 200 text/html. Never trust
+  the status code; check the downloaded bytes start with %PDF. The repo helper
+  now does both and prints a MULTI-VOLUME note listing every volume.
+- **A bare "Confirmed" in the register can hide a Commission rejection reversed
+  later, with the final decree sitting in an unread volume B** (seen at
+  rancho-arroyo-seco-1, rejected 27 Feb 1855, vol. A ends mid-appeal). If a
+  multi-volume note appears and the outcome is contested, grade outcome PART/UV
+  and say which volume is unread, do not guess.
+- **Duplicate scan exposures exist inside case files too** (rancho-arroyo-chico:
+  PDF images 15 and 16 are the same leaf, both stamped PAGE 10), so image index
+  and transcript page drift apart mid-file. Cite the STAMPED transcript page in
+  evidence wherever one exists, not just the PDF image number.
+
 ## Execution rule (mandatory)
 
 Work strictly synchronously, one record at a time: `curl -sL -m 300` blocks until the download completes — that is the correct behavior. Do NOT use run_in_background, Monitors, watchers, or paced/queued downloaders; they end your turn with nothing graded. If your output file already contains graded records, skip those ids and continue with the rest. Delete every PDF immediately after grading its record.

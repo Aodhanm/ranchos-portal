@@ -356,5 +356,176 @@
    "grantee": "Jose de Jesus Berreyesa and Sisto Berreyesa, brothers, per Micheltorena's grant of 3 November 1843 as recited in the Board's opinion (PDF p69 / stamped p58) and its decree (PDF p72 / stamped p61). Maria Anastasia Higuera de Berreyesa and Maria Nicolasa Higuera de Berreyesa are the WIVES of the two grantees and took by deed from their husbands; they are the named U.S.-era claimants (and, per the register, the patentees). Hoffman 1862 ('Jose de Jesus y Sisto Berreyesa') agrees with the case file against the register. A variant of the dominant error class: the register carries the claimant/patentee rather than the Mexican grantee."
   },
   "notes": "Chain as pleaded (petition PDF p11-12 / stamped p5-6): 11 Feb 1842, Jose de Jesus and Sisto Berreyesa petition the military commandant of Sonoma for leave to occupy eight sitios provisionally, and Salvador Vallejo grants the licence by marginal order the same day; 16 July 1843 the brothers petition the Governor for the grant; Micheltorena's decrees follow on 26, 27, 28, 30 and 31 October 1843 (the brothers protesting on 28 Oct that the conditions first imposed 'would render the grant in a great measure unavailable'), and the title issued 3 November 1843. The Board waived the Departmental Assembly's approval. Note for anyone reconciling acreage: the Board wrestled at length with the 'bounded by the range of hills' description, since Aaron Vandom's 1852 survey of the exterior lines along the mountain crests returned 103[4],645 acres against the eight leagues intended, and it confirmed by the grant's own natural boundaries with the eight-league limit controlling (PDF p70-71 / stamped p59-60). The register's patented acreage of 35,515.82 reflects that later resolution. MECHANICS: stamped '175 ND PAGE n' = PDF page - 6 at the front and PDF page - 11 by stamped p58; the transcript is 67 pages, certified by Secretary George Fisher 31 Jan 1855 (PDF p75)."
+ },
+ {
+  "id": "rancho-rincon-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264212/files/cubanc_lcf_sd059.pdf",
+  "pdf_pages_stated": 85,
+  "pages_read": [
+   "PDF 1-12 (= red cover, archival note 'LAND CASE 59 SD pgs. 85', stamped 59SD 1-7)",
+   "PDF 41-45 (= stamped 35-39, end of the possession record, the Board's opinion, its decree and the Secretary's certificate)",
+   "PDF 85-93 (= stamped 77-85, the stipulation, the Attorney General's letter, the District Court decree, the transcript index and the District Court opinion)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 59 SOUTHERN DISTRICT / EL RINCON GRANT / TEODORO ARRELLANES CLAIMANT'; transcript title PDF p6 (stamped p1) 'FOR THE PLACE NAMED \"El Rincon\"'; District Court decree PDF p88 (stamped p80) 'is situated in the County of Santa Barbara And is called \"El Rincon\" And is bounded by the \"Arroyo de las Sauces\", the \"Arroyo de la Brea\", the \"Arroyo de las Casitas\" And the Sea Shore.'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Board's opinion, PDF p43 (stamped p37): 'The papers on file in this case show that on the 23rd day of June A.D. 1835 a formal grant for the land known by the name of Rincon was prepared, but before it was signed Governor Figueroa the acting Governor of California died; afterwards to wit on the 1st day of October A.D. 1835 it was made official by Jose Castro who succeeded Figueroa as governor ad interim. The petition contains the allegation that said grant was duly approved by the Departmental Assembly on the 25th day of September A.D. 1835.' District Court opinion PDF p92 (stamped p84): 'The claim in this case is founded on a Grant from Jose Castro to the present claimant, bearing date OCTOBER 1st A.D. 1835.' Claimant's own petition PDF p9 (stamped p4) puts 1834 only on the permission to occupy: 'That on the 30th day of September A.D. 1833 he applied for the tract of land called El Rincon; that on the 8th day of January A.D. 1834 he received permission from the Governor to occupy & cultivate said land; that on the 6th day of June 1835 he asked for a grant in fee of said land; that on the 22 day of June A.D. 1835 Jose Figueroa Governor of California... granted to the petitioner the said tract of land called El Rincon.'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Two officials are involved and the register names only one. Figueroa made the concession decree of 22 June 1835 and the title was drawn in his name on 23 June 1835 (petition PDF p9 / stamped p4: 'the title in due form was made out in the name of Governor Figueroa for the petitioner, but as that officer died about that time the title papers were signed by his successor Jose Castro Governor ad interim of California'); the instrument actually executed is Castro's of 1 October 1835 (Board's opinion PDF p43 / stamped p37; District Court opinion PDF p92 / stamped p84: 'a Grant from Jose Castro to the present claimant, bearing date October 1st A.D. 1835'). Hoffman also gives Figueroa. Register 'Jose Figueroa' is the right granting authority for the concession but omits the signer of the title."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Expediente and title run to Teodoro Arrellanes throughout: transcript title page PDF p6 (stamped p1) 'Teodoro Arrellanes CLAIMANT'; record of juridical possession PDF p41 (stamped p35) 'as Don Teodoro Arrellanes did not know how to write his son Antonio signed for him'; District Court opinion PDF p92 (stamped p84) 'a Grant from Jose Castro TO THE PRESENT CLAIMANT'. Here claimant and original grantee are the same man, so the register's 'T. Arellanes' is correct; Hoffman agrees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 59 SOUTHERN DISTRICT'; PDF p2 archival note 'LAND CASE 59 SD pgs. 85'; transcript title PDF p6 (stamped p1) 'IN CASE NO. 163'; PDF p7 (stamped p2) 'ordered to be filed and docketed with No. 163'; District Court caption PDF p88 (stamped p80) 'Case No 59, Transcript 163, El Rincon'. Register 'SD 059' and Hoffman (commission 163 / court 59) both match; filename cubanc_lcf_sd059.pdf agrees."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "IMPORTANT: the Land Commission REJECTED this claim. Opinion of Com. Thompson Campbell, PDF p44 (stamped p38): 'we consider the boundaries so entirely uncertain & indefinite that it is impossible to identify the tract granted. We are therefore of opinion that the claim should be rejected'; DECREE PDF p44 (stamped p38): 'it is adjudged by the Commission that the said claim of the petitioner is not valid & his application for a confirmation thereof is therefore DENIED', signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson, filed 22 Nov 1853. The U.S. DISTRICT COURT REVERSED. District Court opinion PDF p93 (stamped p85): 'This shews such an equity in favour of the Claimant as I think ought to entitle him to a confirmation of the land, though his grant tested by strict legal rules be not... a full legal title. The claim of appellant is therefore Confirmed and a decree will be entered Reversing the decision of the Commissioners.' DECREE PDF p88-89 (stamped p80-81), filed 18 March 1858: 'It is ordered, adjudged and decreed that said decision of said Board rejecting the Claim of the Appellant be & is hereby Reversed, And further that the appellant's Claim be Confirmed to the extent of one square League of land to be contained within the boundaries described in the grant.' Attorney General to the U.S. Attorney, 10 Sept 1858, PDF p86 (stamped p78): 'In the case of the claim of Teodoro Arrellanes... and also confirmed on appeal by the District Court, appeal in the Supreme Court WILL NOT BE PROSECUTED by the United States.' Register 'Confirmed' is therefore right on the final result."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1835. The concession decree is Figueroa's of 22 June 1835, the title was drawn 23 June 1835 and executed by Jose Castro on 1 October 1835, and the Departmental Assembly approved 25 September 1835. The register's 1834 corresponds only to the 8 January 1834 licence to occupy and cultivate. Hoffman 1862 ('1835') agrees with the case file against the register.",
+   "governor": "Best stated as 'Jose Figueroa (concession, 22 June 1835); title issued by Jose Castro, governor ad interim, 1 October 1835 after Figueroa's death'."
+  },
+  "notes": "FLAG FOR THE REGISTER: this record's 'Confirmed' is correct only because the District Court reversed the Land Commission. The Commission's decree of 22 Nov 1853 DENIED the claim for indefiniteness of boundaries, holding also that the juridical possession of 13 May 1850 was worthless because it postdated the cession ('the measurement of 1850 can be considered in no other light than as a mere private survey unauthorized by law & of no binding force or effect whatever', PDF p44 / stamped p38). District judge (Southern District) reversed on equity, striking the map from evidence but confirming one square league within the natural boundaries; the U.S. let it stand. Any register field that summarizes 'Land Commission decision' separately from 'final decision' must not read 'confirmed' for the former. Confirmation is capped: 'And should there be Contained Within said boundaries More than one Square League, then this Confirmation is for one Square league And no more' (PDF p88 / stamped p80), which is why the patented acreage is about one league. A useful finding aid sits at PDF p90 (stamped p82), an 'Index of Transcript, Case No. 59 - El Rincon' listing: petition pp. 3-4; P. de la Guerra deposition p. 5; A. M. de la Guerra deposition p. 6; 'Papers having no connexion with Claimant's Title' pp. 7-11; Espediente and Territorial Deputation approval pp. 11-16; TRANSLATION OF ESPEDIENTE pp. 18-23; GRANT TO CLAIMANT pp. 24-25; TRANSLATION OF GRANT pp. 26-27; record of survey and juridical possession pp. 29-31; translation of same pp. 32-35; Board's opinion pp. 36-37; decree p. 38. I did not read pp. 18-27, so the grant's verbatim words are unquoted here; every date above comes from the two courts' own recitals plus the claimant's petition. MECHANICS: stamped '59 SD PAGE n' = PDF page - 5 at the front and PDF page - 8 by stamped p77; the Commission transcript is 37 pages (certificate PDF p45), and the District Court record runs stamped 40-85."
+ },
+ {
+  "id": "rancho-rincon-esteros",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256573/files/cubanc_lcf_nd239.pdf",
+  "pdf_pages_stated": 310,
+  "pages_read": [
+   "PDF 1-12 (= red cover, archival note 'LAND CASE 239 ND pgs. 310', stamped 239ND 1-7)",
+   "PDF 49-53 (= stamped 42-45, the Board's opinion, decree and certificate)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 239 NORTHERN DISTRICT / RINCON DE LOS ESTEROS GRANT / FRANCISCO BERREYESA, ET AL CLAIMANT'; transcript title PDF p5 (stamped p1) 'FOR THE PLACE NAMED \"Rincon de los Esteros\"'; Board's decree PDF p52 (stamped p44) 'the North West half of the Rancho known by the name of \"Rincon de las Esteros\"'. The register's parenthetical '(Berryessa)' correctly distinguishes this half from the White claim in ND 238."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board's opinion, PDF p51 (stamped p43): 'The title of said Alviso [is] shown by proof of a grant of the Rancho called Rincon de las Esteros, of which the present claim is a part, to him by Governor Alvarado ON THE 10TH DAY OF FEBRUARY 1838, the approval of the Departmental Assembly May 26, 1840, & evidence of the full performance of the condition of the grant by personal residence upon and cultivation of the land.' Claimants' petition PDF p9 (stamped p4) agrees: 'on the 10th day of February A.D. 1838 Juan B. Alvarado... granted to Ygnacio Alviso... a certain tract of Land... known and called by the name of Rincon de las Esteros.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p51 (stamped p43): 'a grant... to him BY GOVERNOR ALVARADO on the 10th day of February 1838'. Petition PDF p9 (stamped p4): 'Juan B. Alvarado then Political Chief, Functionary Pro tempore of Upper California & exercising the powers of Governor of said Department and authorized to make grants of lands belonging to the Republic of Mexico [under the] Congress of 1824 and the Regulations of 1828'. Deposition of James Alexander Forbes PDF p10 (stamped p6): 'I recognize the signatures of Juan B. Alvarado and Manuel Jimeno... At the time said signatures were attached to said Document Alvarado was acting as Governor and Jimeno was acting as Secretary of the Departmental Government of California.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Board's DECREE, PDF p52 (stamped p44): the premises 'were ORIGINALLY GRANTED SAID YGNACIO ALVISA'. Opinion PDF p51 (stamped p43): 'The Claimants are the children of Guadalupe Berryesa and Dolores Alviso his wife, both of whom died in the Autumn of 1857. The petitioners claim the property by inheritance from the Mother as her heirs at Law. HER TITLE WAS DERIVED UNDER THE WILL OF HER FATHER YGNACIO ALVISO... By the provisions of the Will the Land claimed in this Case was bequeathed to Dolores, the daughter of the testator and Mother of the claimants.' Claimants' own petition PDF p9 (stamped p4) says Alvarado 'granted to Ygnacio Alviso THE GRANDFATHER OF YOUR PETITIONERS ON THEIR MOTHER'S SIDE'. Francisco Berreyesa is thus a grandson of the grantee and one of the U.S.-era claimants, not the grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 239 NORTHERN DISTRICT'; PDF p2 archival note 'LAND CASE 239 ND pgs. 310'; transcript title PDF p5 (stamped p1) 'IN CASE NO. 277'; PDF p7 (stamped p2) 'ordered to be filed and docketed with No. 277'; Secretary's certificate PDF p53 (stamped p45) 'in Case No. 277 on the Docket of the said Board, wherein Francisco Berreyesa et al (Heirs of Guadalupe Berreyesa) are the Claimants... for the place known by the name of \"Rincon de los Esteros\"'. Register 'ND 239' and Hoffman (commission 277 / court 239) both match; filename cubanc_lcf_nd239.pdf agrees."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p51 (stamped p43): 'The Claimants are entitled to a Confirmation and a decree will be entered accordingly. CONFIRMED', filed 26 Dec 1854. DECREE PDF p52 (stamped p44): 'it is adjudged by the Commission that the claim of the said petitioners is valid and it is therefore decreed that the same be confirmed. The Land of which confirmation is hereby made is the North West half of the Rancho known by the name of \"Rincon de las Esteros\"... being the same premises which were bequeathed by Ygnacio Alvisa by his last Will & testament to Dolores Alvisa the mother of said claimants', signed Alpheus Felch, R. Aug. Thompson, S.B. Farwell, filed 26 Dec 1854. Register 'Confirmed' matches. The portfolio runs to 310 pages against a 46-page Commission transcript, so a substantial District Court record follows which I did not read; the register's 1873 patent (GLO 140) is consistent with the confirmation standing."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Ygnacio (Ignacio) Alviso, per the Board's decree ('were originally granted said Ygnacio Alvisa', PDF p52 / stamped p44) and its opinion (PDF p51 / stamped p43). Francisco Berreyesa and his siblings are the grantee's great-grandchildren-in-line: Alviso (d. 10 Aug 1848) devised this north-west half to his daughter Dolores Alviso, who married Guadalupe Berreyesa; both died in the autumn of 1857 and their children Francisco, Susana, Paulina, Pancho and Guadalupe Berreyesa filed as heirs. Hoffman 1862 ('Ygnacio Alvisu') agrees with the case file against the register. Dominant error class."
+  },
+  "notes": "This rancho was split between two Land Commission cases and the register carries both as separate rows: case 277 / ND 239 (this record, the NORTH WEST half, Berreyesa heirs) and case 292 / ND 238 (Ellen E. White). BOTH rest on the SAME single Mexican grant, Alvarado to Ygnacio Alviso, 10 February 1838, approved by the Departmental Assembly 26 May 1840, so both rows should carry Alviso as grantee. Chain for this half (opinion PDF p51 / stamped p43 and petition PDF p9-10 / stamped p4-5): Alviso's will directed that the part between the Arroyo Cazate and the Penitencia be sold to pay his debts and that the north-west half of the remainder go to his daughter Dolores; Dolores and her husband Guadalupe Berreyesa died in autumn 1857; their son Enrique died in spring 1852 [the petition's own sequence is internally odd here and a re-reader should check stamped p4-5 against the will, Exhibits E and F]; the surviving children filed 28 June 1852. Boundaries confirmed: NW by the esteros of the Bay of San Francisco, SW by the Arroyo de Cazate, SE by a line from the old bridge of Santa Clara over the Guadalupe river taking in a large tree standing on the plain and extending to the Arroyo de Cazate. MECHANICS: stamped '239 ND PAGE n' = PDF page - 4 at the front and PDF page - 8 by stamped p43; Commission transcript is 46 pages, certified by Secretary George Fisher 7 July 1855 (PDF p53)."
+ },
+ {
+  "id": "rancho-rincon-esteros-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256572/files/cubanc_lcf_nd238.pdf",
+  "pdf_pages_stated": 78,
+  "pages_read": [
+   "PDF 1-12 (= red cover, archival note 'LAND CASE 238 ND pgs. 78', stamped 238ND 1-7)",
+   "PDF 63-71 (= stamped 56-62, the affidavit of loss, the Board's opinion, its decree and the Secretary's certificate)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 238 NORTHERN DISTRICT / RINCON DE LOS ESTEROS GRANT / ELLEN E. WHITE CLAIMANT'; transcript title PDF p5 (stamped p1) 'FOR THE PLACE NAMED \"Rincon de los Esteros\"'; Board's decree PDF p67 (stamped p60) 'a part of the place called Rincon de los Esteros in Santa Clara County'. Register's parenthetical '(White)' correctly distinguishes this parcel from the Berreyesa claim in ND 239."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board's opinion, PDF p65 (stamped p58): 'The land claimed is alleged in the petition to be the Eastern part of the Rancho called Rincon de los Esteros which was granted to Ygnacio Alviso by Governor Juan B. Alvarado FEBRUARY 10, 1838. THE GRANT IS GIVEN IN EVIDENCE. The proof also shows that it received the approval of the Departmental Assembly on the 26th day of May 1840.' Register 1838 agrees; Hoffman agrees. (Caution: the claimant's own petition, PDF p9 / stamped p4, misdates the grant '14th day of February A.D. 1838'; the Board, holding the grant itself, says the 10th, which is also the date given in the companion case ND 239.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p65 (stamped p58): 'granted to Ygnacio Alviso BY GOVERNOR JUAN B. ALVARADO February 10, 1838'. Petition PDF p9 (stamped p4): 'granted to Ignacio Alviso... by the Mexican Government through Governor Juan B. Alvarado, the then Governor of the Californias, who acted under and by virtue of the laws then existing and in force with reference to the granting of lands in the Departments of the Californias.'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Board's opinion PDF p65 (stamped p58): the tract 'was GRANTED TO YGNACIO ALVISO by Governor Juan B. Alvarado February 10, 1838'; decree PDF p67 (stamped p60): the lands confirmed 'are a part of the place called Rincon de los Esteros in Santa Clara County FORMERLY OCCUPIED BY YGNACIO ALVISO'. Ellen E. White's own petition, PDF p9 (stamped p4), states the whole derivative chain: Alviso died 8 Aug 1848 leaving a will directing that the portion between the Coyote and Penitencia creeks 'be sold for the payment of his debts'; 'in pursuance thereof the said portion of said Rancho was duly sold in legal form and purchased by CHARLES WHITE of said County on the 28th day of August A.D. 1848. That on the 4th of November A.D. 1851 said Charles White sold and conveyed said land to your Petitioner by deed of that date.' Ellen E. White is therefore the second purchaser downstream of the grantee's executor."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 238 NORTHERN DISTRICT'; PDF p2 archival note 'LAND CASE 238 ND pgs. 78'; transcript title PDF p5 (stamped p1) 'IN CASE NO. 292'; PDF p7 (stamped p2) 'ordered to be filed and docketed with No. 292'; Secretary's certificate PDF p69 (stamped p62) '64 pages... in Case No. 292 on the Docket of the said Board, wherein Ellen E. White is the Claimant... for the place known by the name of \"Rincon de los Esteros\"'. Register 'ND 238' and Hoffman (commission 292 / court 238) both match; filename cubanc_lcf_nd238.pdf agrees."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p66 (stamped p59): 'We think the claim entitled under the evidence to a decree of confirmation', filed 19 Dec 1854. DECREE PDF p67-68 (stamped p60-61): 'it is adjudged by the Commission that the claim of the said petitioner is valid and it is therefore hereby decreed that the same be confirmed... That portion of the above described property of which confirmation is hereby made comprises the land which lies between the Arroyo de la Penitencia and the Arroyo de Coyote... Said premises containing two thousand acres of land be the same more or less', signed Alpheus Felch, R. Aug. Thompson, S.B. Farwell, filed 19 Dec 1854. Register 'Confirmed' matches (and its patented acreage, 2,308.17, is close to the 2,000 acres the Board described). The 78-page portfolio contains further papers I did not read; the register's patent of 23 May 1862 (GLO 139) is consistent."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Ygnacio (Ignacio) Alviso, per the Board's opinion and decree (PDF p65, p67 = stamped p58, p60). Ellen E. White is the U.S.-era claimant: her late husband Charles White bought this eastern strip from Alviso's executor Agustin Alviso in late August 1848 for $2,000 under the power in the will, and conveyed it to her 4 November 1851. Hoffman 1862 ('Ygnacio Alvisu') agrees with the case file against the register. Dominant error class."
+  },
+  "notes": "PAIR WITH rancho-rincon-esteros (ND 239): both rows in the register are parts of the SAME single grant, Alvarado to Ygnacio Alviso, 10 February 1838, approved by the Departmental Assembly 26 May 1840, so both should carry Alviso as grantee. Boundaries of this parcel (decree PDF p67-68 / stamped p60-61): the land between the Arroyo de la Penitencia and the Arroyo de Coyote, bounded NE by the Penitencia, NW by the estuaries of the Bay, SE by the Coyote, and SW by the continuation of the line drawn from the old bridge over the Guadalupe through the lone sycamore on the plain. Evidentiary wrinkle worth recording: the ORIGINAL executor's deed to Charles White was LOST, and the claim survived on a copy plus the affidavit of C. T. Ryland, one of the claimant's attorneys, sworn 5 Dec 1854 (PDF p63-64 / stamped p56-57), which states that Charles White 'was killed on board the Steamer Jenny Lind sometime in April A.D. 1853 while on his way to the City of San Francisco', and on James Alexander Forbes's deposition (PDF p10-11 / stamped p6-7) that he himself drew the Spanish-language conveyance and was one of the assisting witnesses; a Probate Court order of 10 April 1852 ratified the conveyance. MECHANICS: stamped '238 ND PAGE n' = PDF page - 4 at the front and PDF page - 7 by stamped p58; Commission transcript is 64 pages, certified by Secretary George Fisher 30 June 1855 (PDF p69). Minor observation, hedged: the stamped headers on the leaves I read as stamped 56 and 57 appear at this resolution to read '239 ND' rather than '238 ND' while the surrounding leaves read 238; that may be a genuine Bancroft stamping slip or merely an artifact of the scan, and I did not verify it at higher magnification."
+ },
+ {
+  "id": "rancho-rincon-puente-monte",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265844/files/cubanc_lcf_sd101.pdf",
+  "pdf_pages_stated": 84,
+  "pages_read": [
+   "PDF 1-12 (= red cover, archival note 'LAND CASE 101 SD 84 pgs.', stamped 101SD 1-7)",
+   "PDF 54-61 (= stamped 45-51, the translation of the juridical possession and the opening of the Board's opinion)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 101 SOUTHERN DISTRICT / RINCON DE LA PUENTE DEL MONTE GRANT / TEODORO GONZALEZ CLAIMANT'; transcript title PDF p5 (stamped p1) 'FOR THE PLACE NAMED \"Rincon de la Puente del Monte\"'; Board's opinion PDF p61 (stamped p51) 'a tract of land called Rincon de la Punta del Monte situated in the present County of Monterey'. NOTE the file itself uses both PUENTE (cover, transcript title, docket entry PDF p7) and PUNTA (petition, expediente, possession record, opinion); the fuller form in the possession translation is 'Rincon de la Punta del Monte de la Soledad' (PDF p55 / stamped p46). Register 'Rincon De La Puente Del Monte' matches the Bancroft's own portfolio title, so OK."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board's opinion, PDF p61 (stamped p51): 'The original petition for the grant was made by the grantee, & present claimant Teodoro Gonzalez, on the 8th of September 1836, & after making the customary enquiries & investigations, a decree of concession was entered, & THE GRANT OR TITLE IN FORM WAS MADE OUT & SIGNED BY THE GOVERNOR NICOLAS GUTIERREZ & the Secretary ON THE 20TH OF SEPTEMBER 1836.' Gonzalez's own request for juridical possession, translated at PDF p55 (stamped p46), refers to 'the 3 Article of the title to said land granted to him on the twentieth of September A.D. eighteen hundred & thirty six.' Register 1836 agrees; Hoffman agrees."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The file names the granting governor; the register does not. Board's opinion PDF p61 (stamped p51): 'the grant or title in form was made out & signed by the Governor NICOLAS GUTIERREZ & the Secretary on the 20th of September 1836.' Petition PDF p9 (stamped p4): 'That NICOLAS GUTIERREZ, then Governor of said California, referred the whole subject to the Ayuntamiento of Monterey, to the Administrator of the Mission de Soledad, & to the first Alcalde of Monterey... That all said reports being made in favor of your petitioner, said Governor Gutierrez on the 20th day of September 1836 by virtue of the authority vested in him as Constitutional Governor of California, declared your petitioner the owner of said land.' Deposition of Jose Abrego, 30 Dec 1852, PDF p11-12 (stamped p6-7): 'one purporting to be the original grant from Nicolas Gutierrez to Teodoro Gonzalez, of the land called Rincon de la Punta del Monte de la Soledad... I know the signatures thereto attached, especially that of Nicolas Gutierrez attached to the original grant & I know all of them to be genuine.' The register's 'the interim government' is a generic placeholder rather than a wrong attribution, hence PART."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The man is TEODORO Gonzalez, masculine; the register's grantee field spells it 'Teodora Gonzales', feminine. Board's opinion PDF p61 (stamped p51): 'The original petition for the grant was made by THE GRANTEE, & PRESENT CLAIMANT TEODORO GONZALEZ'; juridical possession PDF p55 (stamped p46) 'Translation of the possession of the Rancho known by the name of Rincon de la punta del Monte to citizen Teodoro Gonzalez, given the 11th day of December 1840', and PDF p58 (stamped p49) 'the said Gonzalez tore up grass on the land and made other demonstrations & acts of possession as owner of the land of which juridical possession was given to him', signed among others 'Teodoro Gonzalez'. Substantively the register has the right person, and unusually for this chunk the grantee and the U.S.-era claimant are THE SAME MAN; only the form of the name is wrong. The register's own patent_to field already reads 'Teodoro Gonzales'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 101 SOUTHERN DISTRICT'; PDF p2 archival note 'LAND CASE 101 SD 84 pgs.'; transcript title PDF p5 (stamped p1) 'IN CASE NO. 502'; PDF p7 (stamped p2) 'ordered to be filed and docketed with No. 502'; opinion caption PDF p61 (stamped p51) 'Case No 502'. Register 'SD 101' and Hoffman (commission 502 / court 101) both match; filename cubanc_lcf_sd101.pdf agrees."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Index of proceedings, PDF p8 (stamped p3): 'San Francisco February 7, 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board CONFIRMING THE CLAIM (vide page 50 of this Transcript)'; the opinion so referenced begins at stamped p51 = PDF p61 and is captioned 'Opinion of the Board by Comr R. Aug. Thompson'. Register 'Confirmed' matches. CAVEAT: I read only the opinion's first page and not the decree, and the opinion opens by flagging that the claim as pleaded overstates the grant: 'The petition in this case presents a claim for a tract of land called Rincon de la Punta del Monte... containing SEVEN leagues of land; it goes on however & describes the land by metes & bounds as set out in the act of juridical possession shewing the quantity to be much less, & THE GRANT ITSELF IS FOR BUT FOUR LEAGUES.' The juridical possession of 11 Dec 1840 measured 'four square leagues' (PDF p58 / stamped p49), and the register's patented figure of 15,218.62 acres is about three and a half leagues, so the confirmation was evidently limited. A re-reader wanting the decree should read stamped pp. 52-56."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Nicolas Gutierrez, who signed the title of 20 September 1836 (Board's opinion PDF p61 / stamped p51; Abrego's deposition PDF p11-12 / stamped p6-7). The register's 'the interim government' should be replaced with his name; Hoffman 1862 ('Gutierrez') agrees with the case file. The petition styles him 'Constitutional Governor of California', so the register's 'interim' characterization is not what the file says either.",
+   "grantee": "Teodoro Gonzalez (masculine), not 'Teodora'. Fix the spelling to match the register's own patent_to field."
+  },
+  "notes": "One of the few records in this chunk where the register's grantee is the right person: Teodoro Gonzalez petitioned for the grant, received it, took juridical possession, and filed the U.S. claim himself, so there is no claimant-for-grantee substitution here. Documented sequence: petition to the governor 8 or 9 September 1836; Gutierrez referred it to the Ayuntamiento of Monterey, the administrator of Mission Soledad and the first alcalde of Monterey; concession decree and formal title 20 September 1836; NOTHING further until 22 May 1840, when the expediente went to the Departmental Junta, which approved it 26 May 1840; Manuel Jimeno's certificate of 4 June 1840 records that the complete expediente and the original title were then taken out by the party; Gonzalez applied to the alcalde 7 December 1840 and juridical possession was given 11 December 1840 by Justice of the Peace David Spence, with measurers Serafino Guimo and Ygnacio Aroyo using a hempen cord and a fifty-vara Mexican rod, neighbours Juan Malarin, Gabriel de la Torre and Francisco Soto present, boundaries running from a large oak between the two houses near Mission Soledad. Registers using acreage should note the grant is FOUR leagues while the U.S. petition claimed seven. MECHANICS: stamped '101 SD PAGE n' = PDF page - 4 at the front and PDF page - 10 by stamped p51; portfolio is 84 pages."
  }
 ]

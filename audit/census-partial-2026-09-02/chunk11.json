@@ -175,5 +175,310 @@
    "governor": "Pablo Vicente de Sola, Governor of the Province of California (decree 4 Oct 1821, possession 23 Oct 1821). The Sola grant was afterwards recognised and augmented by Governor Juan B. Alvarado's decree of concession of 14 February 1839 (PDF p60, 228 ND p.46)"
   },
   "notes": "337MB / 442 PDF images; stated 415 pages. Hoffman (year 1821, governor P. V. de Sola, grantee Jose Higuera, confirmed) agrees with the case file on every point; the register's 'The' and 'a Spanish governor' are the defective values. The bulk of this very large file is the 1857-61 SURVEY contest (Twitchell survey vs the official survey, Calaveras valley), which did not disturb the confirmation. NOTE for a re-reader: the register's year 1821 is right but the amended petition at 228 ND p.5 (PDF p10) appears to read '4th of October 1828', which cannot be correct - Sola left office in 1822 - and the Board's opinion, the act of possession and the original petition all read 1821."
+ },
+ {
+  "id": "rancho-tulucay",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264432/files/cubanc_lcf_nd045.pdf",
+  "pdf_pages_stated": 62,
+  "pages_read": [
+   "1-14",
+   "21-34",
+   "49-54",
+   "66-71"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 45 / NORTHERN DISTRICT / TULUCAY GRANT / CAYETANO JOARES CLAIMANT'; PDF p5 transcript 'for the place named \"Tulucay\"'; Spanish grant PDF p22 (45 ND p.16) 'el parage conocido con el nombre de Tulucay'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish original titulo, PDF p23 (45 ND p.17): 'Dado en Monterrey a veinte y seis de Octubre de mil ochocientos cuarenta y uno' (26 October 1841); Board opinion PDF p49 (45 ND p.41) 'the grant was duly made by competent authority on the 26th of October 1841'; District Court opinion PDF p70 (45 ND p.60) 'a grant made by Manuel Jimeno to claimant on 26. October 1841'"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The grant was NOT made by Alvarado. The titulo itself, PDF p22 (45 ND p.16), is headed: 'Manuel Jimeno Casarin 1er vocal propietario de la Excma Junta Departamental en ejercicio del Gobierno del mismo. Por cuanto el ciudadano Cayetano Juares ha pretendido... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he benido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras', subscribed at PDF p23 'Manuel Jimeno / Jose L. Fernandez Srio into'. Board opinion PDF p49 (45 ND p.41): 'a grant made by Manuel Jimeno Governor ad interim'; District Court PDF p70 (45 ND p.60): 'Jimeno was, at the time Governor ad interim'. Alvarado's name appears nowhere on the instrument"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p22 (45 ND p.16) 'el ciudadano Cayetano Juares'; Board's decree of final confirmation PDF p49-50 (45 ND pp.41-42) confirms to the claimant Cayetano Juares; PDF p1 red label 'CAYETANO JOARES CLAIMANT'. Grantee and claimant are the same man"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 45 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 45 ND pgs. 62'; District Court wrappers 'No. 45 / No. 126' (PDF p68, p70); filename cubanc_lcf_nd045.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry PDF p9 (45 ND p.4), 'San Francisco April 11th 1853. In case No. 126 Cayetano Juares for the place named \"Tulucay\" Commissioner Harry I. Thornton delivered the Opinion and the Decree of final Confirmation'; the decree itself PDF p49-50 (45 ND pp.41-42), 'It is decreed that the said Claim be Confirmed to the Claimant to the extent and quantity of two square leagues or 2 sitios de ganada mayor... Witness our hands this 11th day of April 1853. Hiland Hall / Harry I. Thornton, Commissioners.' The U.S. appealed (Attorney General's notice, PDF p66 = 45 ND p.44, 11 Sept 1854, 'the appeal in the district court of the United States for the Northern district of California will be prosecuted by the United States'), and the District Court AFFIRMED: PDF p70 (45 ND p.60), 'A decree must be entered affirming the decision of the Commissioners in favor of the validity of this claim'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno (Manuel Jimeno Casarin), 1er vocal of the Departmental Junta 'en ejercicio del Gobierno' - i.e. Governor ad interim - who signed the titulo at Monterey 26 October 1841 (PDF p22-23). Register's 'Alvarado' is wrong on the face of the grant."
+  },
+  "notes": "69MB / 71 PDF images; stated 62 pages. Hoffman's 'governor: Manuel Jimeno' agrees with the case file against the register. Contrast with SD 052 (Tujunga) in this same chunk, where the letters ARE headed 'Juan B. Alvarado Gobernador Constitucional' even though Jimeno signed the concession decree - there the register's 'Alvarado' stands; here it does not, because the instrument runs in Jimeno's own name. Grant approved by the Departmental Assembly 16 June 1845; judicial possession given by Salvador Vallejo, juez of Sonoma, 17 April 1842 (PDF p25-31, 45 ND pp.18-25)."
+ },
+ {
+  "id": "rancho-ulistac",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256650/files/cubanc_lcf_nd323.pdf",
+  "pdf_pages_stated": 140,
+  "pages_read": [
+   "1-14",
+   "36-49",
+   "139-150"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 323 / NORTHERN DISTRICT / ULISTAC GRANT / JACOB D. HOPPE. CLAIMANT'; PDF p5 transcript 'for the place named \"Ulistac\"'; Spanish titulo PDF p40 (323 ND p.34) 'el terreno llamado Ulistac'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish titulo, PDF p41 (323 ND p.35): 'Dado en la Ciudad de los Angeles Capital del Departamento de California a diez y nueve de Mayo de mil ochocientos cuarenta y cinco. Pio Pico'; sworn translation PDF p43 (323 ND p.37): 'Given in the city of Los Angeles the Capitol of the Department of the Californias, the nineteenth day of May, one thousand eight hundred and forty five'; Board opinion PDF p47 (323 ND p.42) 'a grant issued in pursuance thereof by Governor Pio Pico dated the 19th day of May 1845'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p40 (323 ND p.34), heading of the titulo: 'Pio Pico Gobernador interino del Departamento de California'; translation PDF p42 (323 ND p.36) 'Pio Pico, Governor ad interim of the Department of the Californias'; signed 'Pio Pico' at PDF p41"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant runs to three Indians of Mission Santa Clara, not to Hoppe. PDF p40 (323 ND p.34): 'Por cuanto los indigenas de la Mision de Santa Clara Marcelo, Pio y Cristobal han pretendido para su beneficio personal y el de su familia el terreno llamado Ulistac... he venido en concederles el terreno mencionado declarandoles la propiedad por las presentes letras'; translation PDF p42 (323 ND p.36) 'Whereas the Natives of the Mission of Santa Clara, Marcelo, Pio, and Cristoval have solicited... I have in the name of the Mexican Nation and by virtue of the Authority in me vested granted to them the above mentioned land'. Board opinion PDF p47 (323 ND p.42): 'an Expediente of three Neophyte Indians, of the names of Marcello, Cristobal & Pico'. Jacob D. Hoppe is the U.S.-era CLAIMANT and purchaser: deed from Cristoval, 14 June 1850, $2,000, one undivided third (PDF p45-46, 323 ND pp.40-41); deed from Marcelo, 25 July 1850, $500 (PDF p44, 323 ND pp.38-39), Marcelo signing by mark"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 323 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 323 ND 140 pgs.'; District Court papers docketed 'U.S. v. 323 Heirs of Hoppe' (PDF p150, 323 ND p.141); filename cubanc_lcf_nd323.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry PDF p9 (323 ND p.4) 'San Francisco May 5 1855. In the same case Commissioner J. B. Farwell delivered the Opinion of the Board confirming the Claim'; opinion at PDF p47 (323 ND p.42). The confirmation was then acquiesced in by the government and only the SURVEY was litigated: Judge Hoffman's opinion of 6 Sept 1859 on the motion to strike exceptions, PDF p147 (323 ND p.139), 'when the confirmation has been made to the claimant and the correctness of the decree acquiesced in by the U.S. and all that remains to be done is to designate by a survey to be approved by the Court the land confirmed'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Marcelo, Pio and Cristobal, emancipated/neophyte Indians of Mission Santa Clara (grant of 19 May 1845). Jacob D. Hoppe is the 1852 claimant, who bought their interests in 1850."
+  },
+  "notes": "112MB / 150 PDF images; stated 140 pages. Hoffman's grantee 'Marcelo Pio and Cristoval' agrees with the case file against the register - the dominant claimant-for-grantee error. Underlying expediente: petition of Marcelo, Pio and Cristobal at Monterey 21 March 1844, referred by Micheltorena/Jimeno to the First Alcalde of San Jose (Antonio Ma. Pico reported 2 May 1845); grant 19 May 1845; approved by the Departmental Assembly 3 June 1846 (PDF p38-39, 323 ND pp.32-33). Jacob D. Hoppe himself died during the case, leaving Lucy Hoppe and six children (PDF p47), which is why the register's patent_to reads 'the heirs of Jacob D. Hoppe'."
+ },
+ {
+  "id": "rancho-unnamed",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267521/files/cubanc_lcf_sd058.pdf",
+  "pdf_pages_stated": 39,
+  "pages_read": [
+   "1-16",
+   "22-25",
+   "38-47"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 58 / SOUTHERN DISTRICT / A LOT OF GROUND AT SAN GABRIEL GRANT / JOSE DOMINGO CLAIMANT'; PDF p5 transcript 'for the place named A lot of ground at San Gabriel'; Spanish expediente wrapper PDF p11 (58 SD p.6) '1845. Espediente promovido por Felipe natural de Sn Gabriel en pretencion de un corto terreno de la Mision'. The register's 'Unnamed grant (SD 058)' is a placeholder; the case file does give the tract a designation, though it is descriptive rather than a rancho name"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish expediente, PDF p12 (58 SD p.7): petition 'San Gabriel [Abril] 16 de 1845. Felipe', marginal 'Angeles Abril 18 de 1845... Pico', concession 'Angel[es] Abril 19 de 1845. Se le concede al interesado el terreno que pretende; estiendole el titulo respectivo para su resguardo. Pico'; English translation PDF p14 (58 SD p.9) 'Angeles April 19th 1845. The tract solicited by the petitioner is granted to him. Let the appropriate title be made out for his protection. Pico'; the titulo itself, translated at PDF p22 (58 SD p.16), 'Given in the City of Los Angeles ... 1845'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p22 (58 SD p.16), translation of the title Doc. H.H. No.1: 'Pio Pico Senior Member of the Most Excellent Departmental Assembly and Governor ad interim of the Department... (Signed) Pio Pico. (Signed) Juan Bandini Secy.'; the Spanish expediente is addressed 'Exmo Senor Gobernador Interino del departamento' and the decrees are subscribed 'Pico' (PDF p12, 58 SD p.7)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant runs to FELIPE, not to Jose Domingo. PDF p22 (58 SD p.16): 'Whereas Felipe Ind[ian] of San Gabriel has petitioned for his own benefit and that of his family the ownership of a piece of land three hundred and fifty varas in length & two hundred and fifty varas in width situate northeasterly of said Mission... I have concluded to grant him the ownership of the said land'; Spanish petition PDF p12 (58 SD p.7) 'Felipe indigena segregado de la Ex-Mision de San Gabriel'; Fr. Thomas Estenaga's report 'Se le puede conceder al Neofito Felipe casado con dos hijos el terreno que solicito por sus meritos personales'. Jose Domingo is the son and the U.S.-era CLAIMANT, taking by Felipe's will: petition PDF p9 (58 SD p.4) 'The Petition of Jose Domingo an Indian of San Gabriel and Son of the late Felipe an emancipated Indian of San Gabriel... granted in full property unto said Felipe... the said Felipe died about the year 1848 leaving a will whereby said lot of land was bequeathed to your petitioner'; Michael White's deposition PDF p10 (58 SD p.5) 'The said Felipe Huaynern is the same person to whom the grant was made by Governor Pio Pico[;] Jose Domingo in whose favor the will was made is the Son of Felipe'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 58 SOUTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 58 SD PAGES 39'; District Court papers 'Case No. 58 ... Transcript 467' (PDF p43, 58 SD p.33); filename cubanc_lcf_sd058.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry PDF p8 (58 SD p.3), 'San Francisco Nov. 22 1853. In Case No 467 Jose Domingo for a lot near San Gabriel Commissioner Thompson Campbell delivered the Opinion of the Board confirming the Claim'; opinion at PDF p24 (58 SD p.18). The U.S. appealed (petition for review by U.S. Attorney Pacificus Ord, PDF p41-42, 58 SD pp.30-31) and then abandoned it: Attorney General's letter 3 Feb 1857, PDF p46 (58 SD p.37), 'In the case of the claim of Jose Domingo, confirmed to the claimant by the Commissioners, Case no. four hundred and sixty-seven (467), appeal will not be prosecuted by the United States'; order of dismissal, PDF p45 (58 SD p.35), March Term 1857, 'it is Ordered by the Court, that the appeal in said Cause be dismissed, & that the claimant have leave to proceed upon the decree of the Commissioners heretofore rendered in his favor as a final decree. Isaac S. K. Ogier, U S Dis Judge'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Felipe (Felipe Huaynern), an emancipated neophyte Indian of the ex-Mission San Gabriel, grant of 19 April 1845. Jose Domingo is his son and the 1852 claimant/devisee.",
+   "name": "Case-file designation: 'A lot of ground at San Gabriel' / 'un corto terreno de la Mision' - 350 x 250 varas"
+  },
+  "notes": "47MB / 47 PDF images; stated 39 pages. Hoffman's grantee 'Felipe' agrees with the case file against the register; his rancho column ('350 by 250 varas') also matches the grant's own description. Judicial possession given by Hugo Reid, acting Justice of the Peace, at San Gabriel 5 May 1845, witnesses Felipe Reid and Prospero (PDF p23, 58 SD p.17). The Board's opinion notes the original title paper was 'very much mutilated' but 'sufficiently authenticated and proved to establish its genuineness beyond all question' (PDF p24), and that no approval by the Departmental Assembly was ever proved."
+ },
+ {
+  "id": "rancho-valle-san-felipe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268952/files/cubanc_lcf_sd329.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-16",
+   "63-74"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 329 / SOUTHERN DISTRICT / VALLE DE SAN FELIPE GRANT / JUAN FOSTER CLAIMANT'; PDF p4 transcript 'for the place named \"Valle de San Felipe\"'; Spanish grant PDF p14 (329 SD p.10) 'el terreno conocido con el nombre de Valle de San Felipe al Este de la frontera en la jurisdiccion de San Diego'; District Court decree PDF p66 (329 SD p.58) 'known as \"Valle de San Felipe\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish original grant, PDF p15 (329 SD p.11): 'Dado en la Ciudad de los Angeles en este papel comun por falta de sellado a treinta de mayo de mil ochocientos cuarenta y seis. Pio Pico. Jose Matias Moreno Srio Into' (30 May 1846); Abel Stearns's deposition PDF p9 (329 SD p.5) 'A paper is now show me purporting to be a grant to Felipe Castillo, dated may 30th 1846'; petition PDF p8 (329 SD p.4) 'bearing date the thirtieth day of mai 1846'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p14 (329 SD p.10), heading of the original grant: 'Pio Pico Gobernador Constitucional del Departamento de las Californias'; translation PDF p16 (329 SD p.12) 'Pio Pico, Constitutional Governor of the department of the Californias'; signed 'Pio Pico / Jose Matias Moreno Srio Into' at PDF p15"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant runs to FELIPE CASTILLO. PDF p14 (329 SD p.10): 'Por cuanto el Ciudadano [Fe]lipe Castillo ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Valle de San Felipe... he venido por decreto de este dia en concederle el espresado terreno declarandole la propiedad de el por las presentes letras'; translation PDF p16 (329 SD p.12) 'Inasmuch as the citizen Felipe Castillo has solicited for his personal benefit and that of his family the land known by the name of \"Valle de San Felipe\"... I have by a decree of this day concluded to grant him the said land'. Juan Forster (spelled 'Juan Foster' on the red label and in the Board papers) is the U.S.-era CLAIMANT: petition PDF p8 (329 SD p.4) 'he claims the same by virtue of a grant made to Felipe Castillo... the interest of the said [Castillo] in and to said land was purchased by your petitioner under an order of Court from Loreto Castillo the executor of the last will and testament of the said Felipe Castillo, deceased'; corroborated by Santiago E. Arguello, PDF p12-13 (329 SD pp.7-8), who saw Castillo's mayordomo and stock on the rancho in 1844 and says 'About 1846 or 1847 said Castillo [died] and after that the administrator of his estate told me the rancho was sold to Don Juan Foster'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 329 SOUTHERN DISTRICT'; every leaf stamped '329 SD'; District Court papers 'Case No 329 / Transcript No 461' (PDF p65, p71); filename cubanc_lcf_sd329.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry PDF p7 (329 SD p.3), 'San Francisco May 22d 1855. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (vide page 39 of this Transcript)'. District Court AFFIRMED: decree PDF p65-66 (329 SD pp.57-58), 'That the Decision of said Board of Commissioners be and the same hereby affirmed. And it is further adjudged and decreed that the claim of the above named appellee, is good and valid, and the same is hereby confirmed to him... known as \"Valle de San Felipe\", to the extent of three square leagues, and no more', Isaac S. K. Ogier, filed Feb 23, 1857. The U.S. then abandoned its Supreme Court appeal: AG letter 2 Feb 1857 (PDF p69, 329 SD p.61), stipulation (PDF p71, 329 SD p.63), and order vacating the appeal so 'the Claimants have leave to proceed under said decree as under a final Decree' (PDF p67-68, 329 SD pp.59-60)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Felipe Castillo (grant of 30 May 1846). Juan Forster is the 1852 claimant, who bought the rancho from Loreto Castillo, executor of Felipe Castillo's estate."
+  },
+  "notes": "70MB / 74 PDF images; no 'pgs.' leaf, internal stamped pages run to at least 66. Hoffman's grantee 'Felipe Castillo' agrees with the case file against the register - the dominant claimant-for-grantee error; note that the rancho NAME ('San Felipe') and the grantee's given name are the same word, which is probably how the register lost the grantee. The 4th condition of the grant is unusual and worth flagging for the register's notes: 'El agraciado cuidara de que los indios gentiles de San Felipe se mantengan siempre en paz y observen buena conducta' (PDF p14, 329 SD p.10). Survey approved by the U.S. Surveyor General 18 Dec 1858 and advertised in 1861 (PDF p71, 329 SD p.65) - no patent copy is in the file."
+ },
+ {
+  "id": "rancho-valle-san-jose",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265880/files/cubanc_lcf_sd144.pdf",
+  "pdf_pages_stated": 154,
+  "pages_read": [
+   "1-16",
+   "17-24",
+   "137-152",
+   "153-164"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 144 / SOUTHERN DISTRICT / VALLE DE SAN JOSE GRANT / SILVESTRE DE LA PORTILLA CLAIMANT'; PDF p5 transcript 'for the place named \"Valle de San Jose\"'; Spanish expediente wrapper PDF p11 (144 SD p.6) 'Jurisdiccion de Sn Diego. Ano de 1834. Expediente sobre el parage nombrado Valle de S. Jose solicitado por Dn Silvestre de la Portilla'. The register's '(Portilla)' disambiguator is correct and necessary: a rival claim to the same valley, 'Valle de San Jose y Agua Caliente' (SD 218, J. J. Warner), was separately confirmed - see PDF p164 (144 SD p.150)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "District Court opinion, PDF p152 (144 SD p.143): 'The claim in this case is based upon a Grant from Nicholas Gutierres Political Chief of Upper California to Sylbestre de la Portilla, the present claimant, bearing date April 16th, 1836'; same date in the court's summary of the expediente, PDF p159 (144 SD p.145), 'Decree of Gutierres dated April 16th 1836 granting the land asked for to Portilla by the name of Valle de San Jose - subject to the approval of the Dep. Junta'; petition PDF p9 (144 SD p.4) 'bearing date the 16th of April 1836'; Santiago Arguello's deposition PDF p10 (144 SD p.5) 'a grant to Silvestre de la Portilla dated 16th of April 1836'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The granting officer is NAMED in the file and the register does not name him. District Court opinion, PDF p152 (144 SD p.143): 'a Grant from Nicholas Gutierres Political Chief of Upper California to Sylbestre de la Portilla... In 1836 Gutierres the Political [Chief] made a decree conceding the land called Valle de San Jose to Portilla and referred the whole proceedings to the Dept Junta'; petition PDF p9 (144 SD p.4) 'by Nicolas Gutierez Governor of the territory of Alta California'; Arguello PDF p10 'I am acquainted with the Signatures of Nicolas Gutierez, Francisco del Castillo Negrete & Rosario Moreno'. Register's 'the interim government' is not false - Gutierrez held the political chieftaincy ad interim in 1836 - but it names no one"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "PDF p152 (144 SD p.143) 'a Grant from Nicholas Gutierres... to Sylbestre de la Portilla, the present claimant'; District Court decree PDF p139-140 (144 SD pp.130-131) confirms to the appellant Silvestre de la Portilla. Grantee and claimant are the same man, so no claimant-for-grantee substitution"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 144 SOUTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 144 SD pgs. 154'; District Court papers 'Case 144 / Transcript 469' (PDF p139, p160); filename cubanc_lcf_sd144.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED: docket entry PDF p8 (144 SD p.2), 'San Francisco, Feby. 21, 1854. In the same Case, Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim (vide page 40)'. District Court REVERSED and CONFIRMED: decree PDF p139-140 (144 SD pp.130-131), 'It is ordered adjudged and decreed, That the Decision of said Board of Commissioners be, and the same hereby is, in all things Reversed. And it is further adjudged and decreed that the Claim of the Appellant, to the lands herein claimed, called Valle de San Jose and situate in the County of San Diego, is good and valid, and the same are hereby Confirmed to him to the extent of Four (4) square leagues and no more', Isaac S. K. Ogier, U.S. Dist. Judge. The U.S. appeal to the Supreme Court was DISMISSED: mandate, PDF p141-144 (144 SD pp.132-135), December Term 1863, 'on the motion of Mr Attorney General Bates and of Counsel for the appellants, it is now here considered ordered and decreed by this Court that this cause be and the same is hereby dismissed', filed Aug 1, 1864"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Nicolas Gutierrez, Political Chief (gefe politico) of Upper California, decree of concession 16 April 1836 (PDF p152). The register's 'the interim government' should name him."
+  },
+  "notes": "134MB / 164 PDF images; stated 154 pages. Hoffman's 'governor: Gutierrez' agrees with the case file against the register's unnamed 'interim government'. Long prior history in the file that a register note could use: Portilla first petitioned Figueroa 20 Feb 1834; Figueroa's decree of concession is dated Monterey 30 July 1834 (PDF p20, 144 SD p.15, 'se declara al ciudadano Silvestre de la Portilla dueno en propiedad del terreno conocido con el nombre del Valle de San Jose'), but the Territorial Diputacion on 31 July 1834 RESERVED the expediente 'hasta que se verifique la secularizacion de las Misiones de la Alta California' (PDF p21-22, 144 SD pp.16-17), so the operative grant is Gutierrez's of 16 April 1836. The U.S. brief (PDF p163-164, 144 SD pp.149-151) argued Portilla abandoned the land and removed to Sonora, and that the same valley had been regranted to Jose Antonio Pico (Alvarado, 8 June 1840) and to J. J. Warner (Micheltorena, 28 Nov 1844, SD 218, confirmed) - the court rejected that argument. Survey plat transmitted to Washington for patent 20 Feb 1879 (PDF p148, 144 SD p.138), consistent with the register's 1880 patent date; no patent copy is in the file."
+ },
+ {
+  "id": "rancho-yokaya",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265809/files/cubanc_lcf_nd217.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-16",
+   "289-300",
+   "304-317"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 217 / NORTHERN DISTRICT / YOKAYA GRANT / CAYETANO JUARES CLAIMANT'; PDF p5 transcript 'for the place named \"Yokaya\"'; Spanish expediente wrapper PDF p11 (217 ND p.6) 'Espediente promovido por el Co Cayetano Juarez en pretencion del terreno conocido con el nombre de Yohaya'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish concession decree in the margin of Juarez's petition, PDF p12 (217 ND p.7): 'Angs y Mayo 24 de 1845. Se le concede al interesado lo que pretende y al efecto librese el titulo correspondiente. El Gobor del Departamento asi lo decreto, mando y firmo. Pio Pico'; English translation PDF p15 (217 ND p.10) 'Angeles May 24 1845. That which the person interested requests is Granted to him and for that purpose let the corresponding title [issue]'; the Departmental Assembly's approval of 3 June 1846 recites 'the title issued under date of 24th May of last year' (abstract, PDF p302 = 217 ND p.290; Spanish at PDF p13, 217 ND p.8)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p12 (217 ND p.7), the decree is signed 'Pio Pico' as 'El Gobor del Departamento'; M. G. Vallejo's deposition, PDF p10 (217 ND p.5): 'I know the handwriting of Pio Pico and Juan Bandini, their signatures to the paper marked Exhibit No 1 and filed with this Deposition are genuine'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Right man, defective form. The grantee is CAYETANO JUAREZ, written in full throughout: Spanish petition PDF p12 (217 ND p.7) 'Cayetano Juarez ciudadano Mexicano y establecido en la frontera de Sonoma de la Alta California... Solicito E.S. se sirva concederme ocho sitios mas o menos de ganado Mayor en el terreno conocido por Yohaya'; PDF p1 red label 'CAYETANO JUARES CLAIMANT'; District Court order PDF p289 (217 ND p.267) 'confirming the claim of the said Cayetano Juarez'. The register's 'C. Juares' is Hoffman's abbreviated table form, not a reading of the source"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 217 NORTHERN DISTRICT'; PDF p2 pencil 'Land Case 217 ND'; District Court papers 'No. 217 ... Transcript No 335' (PDF p289, p299); filename cubanc_lcf_nd217.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Confirmation verified; patent not in file (Phase C checks GLO). Board REJECTED: docket entry PDF p8 (217 ND p.3), 'San Francisco November 17 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim', on the ground of vagueness of description (index, PDF p299 = 217 ND p.277: '25. Opinion of Commrs adverse to claim on account of Vagueness of description. 26. Decree of rejection'). The District Court REVERSED and confirmed: order of 1 May 1863, PDF p289 (217 ND p.267), Ogden Hoffman, District Judge, 'It is ordered, that an appeal in behalf of the United States from the decision of this Court, confirming the claim of the said Cayetano Juarez rendered at the present term, be and the same hereby is granted'. The Supreme Court mandate, PDF p291-293 (217 ND pp.269-271), recites that 'the decree of the said District Court was in favor of the appellant' and, December Term 1864, 'on the motion of Mr Attorney General Speed of counsel for the appellants, it is now here ordered, adjudged and decreed by this Court that this cause be and the same is hereby dismissed'. Final order, PDF p295 (217 ND p.273), 29 August 1865: 'the said Claimant may proceed under the decree of confirmation heretofore rendered in his favor in this Court, as under final decree, and that the Surveyor General of the United States proceed accordingly forthwith to make a final survey of the land heretofore confirmed to the said claimant herein.' No patent copy is in the file"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Cayetano Juarez (in full). Register's 'C. Juares' reproduces Hoffman's abbreviation."
+  },
+  "notes": "235MB / 317 PDF images; no typed page-count leaf, internal stamps run to at least 295. Hoffman-1862's 'rejected' is right as of 1862 but was SUPERSEDED: the Board rejected 17 Nov 1854, the District Court confirmed in 1863, and the U.S. appeal was dismissed 16 Jan 1865 - so the register's outcome is directionally right and only the patent step is unverified here. Grant was for 8 sitios de ganado mayor at Yokaya, north-west of Sonoma, 30 leagues distant, bounded south by Fernando Feliz and on the other sides 'con las tribus gentiles'; M. G. Vallejo certified the land vacant, Sonoma 8 April 1845 (PDF p13, 217 ND p.8). NOTE for a re-reader: a supplemental petition of 20 Dec 1852 set out a sale from Juarez to M. G. Vallejo and from Vallejo to Capt. E. Knight (deed 16 Aug 1852) and prayed that KNIGHT be substituted as claimant (index PDF p299, 217 ND p.277; abstract PDF p303, 217 ND p.291); the confirmation nevertheless ran to Juarez, and the register's blank patent_to should be checked against that chain in Phase C."
+ },
+ {
+  "id": "rancho-zayanta",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264179/files/cubanc_lcf_nd342.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-16",
+   "21-28",
+   "376-387"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 342 / NORTHERN DISTRICT / ZAYANTA GRANT / ISAAC GRAHAM et al CLAIMANT'; PDF p5 transcript 'for the place named \"Zayanta\"'; petition PDF p9 (342 ND p.5) 'a certain tract of land called and known by the name of Zayanta near the Mission of Santa Cruz'. Printed briefs spell it 'Zayante' (PDF p384-385, 342 ND pp.368-369)"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "The grant is of 1841, not 1834. Printed brief of the settlers, PDF p385 (342 ND p.369): 'As we have seen, the grant was dated 22d April, 1841, and the measurement made and possession given in the same year. It appears from the espediente just mentioned, that in September, 1843, two years afterwards, Graham petitioned Governor Micheltorena, for a grant of the vacant land adjoining Zayante on the west'. Petition, PDF p9 (342 ND p.5): 'That on the 22d day of April 1841, Joseph L. Majors a Naturalized Citizen of Mexico solicited and obtained from the then Governor J. B. Alvarado a grant of a certain tract of land called and known by the name of Zayanta'. John Parrott's deposition, PDF p11 (342 ND p.7): 'the grant of land was made by Governor Alvarado on the 22d April 1841 in the name of Juan Jose Chrisostomo Major'. James W. Weeks's deposition, PDF p13 (342 ND p.9): 'a grant by said Alvarado to Don Juan Jose Chrisostomo Major dated April 22d 1841'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Only ALVARADO is supported. PDF p9 (342 ND p.5) 'obtained from the then Governor J. B. Alvarado a grant'; PDF p11 and p13 (342 ND pp.7, 9), two witnesses identify the signatures of 'Juan B. Alvarado and Manl Jimeno' on the grant of 22 April 1841. Nothing in the pages read makes Figueroa the granting officer of this title. The register's compound 'Figueroa; Alvarado' most likely absorbs the SUPERSEDED earlier grants of the same tract, which the file records without naming a governor: J. L. Majors's own deposition, PDF p26 (342 ND p.22), 'The Rancho had been granted first to Joaquin Buelna and Bolcoff told me he had given Buelna Judicial possession and then it was granted to Francisco Mo[s] and Bolcoff gave Moss Judicial possession... and then it was granted to me'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee of record is JOSEPH L. MAJORS, the grant running in his Mexican baptismal name. PDF p11 (342 ND p.7), John Parrott: 'the same man to whom the grant of land was made by Governor Alvarado on the 22d April 1841 in the name of Juan Jose Chrisostomo Major... he is the same man to whom the grant was originally made'. Majors's own deposition, PDF p23 (342 ND p.19): 'I am acquainted with said Rancho and it was granted to me for Isaac Graham and others[,] that is it was granted in my name because I was a Mexican Citizen and could hold the land and I held it for Graham and others who not being Citizens could not hold it in their own name. The other persons were William Ware, Peter Lassen, Frederick Heaple.' Graham and Ware are the CLAIMANTS, who took Majors's legal title by transfer of 22 May 1852 (petition, PDF p9 = 342 ND p.5: 'the said Joseph L. Majors has held the said Rancho of Zayanta in trust for your petitioners up to the 22d day of May last when he transferred to your petitioners all his right title and interest')"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 342 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 342 ND'; Board docket 'No. 260' (PDF p5, p7); every leaf stamped '342 ND'; filename cubanc_lcf_nd342.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry PDF p8 (342 ND p.4), 'San Francisco June 26, 1855. In the same Case Commissioner R. Aug. Thompson delivered the Opinion of the Board Confirming the Claim (Vide page 71 of this Transcript.) And the following Order was made, to wit: (Vide page 74)'. The confirmation was not afterwards disturbed - the remaining and very large part of the file is the SURVEY contest with the settlers, which presupposes a confirmed claim: printed brief of John B. Williams, Attorney for the Settlers, January 1861, PDF p385 (342 ND p.369), 'the Court is now asked to affirm the order already entered, directing a new survey to be made, except that the western line shall be run so as to include only the potrero within which is the landmark denoting the western extremity of the latitudinal line, in order that the survey shall strictly conform to the juridical measurement'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1841 - 'the grant was dated 22d April, 1841' (PDF p385, 342 ND p.369); register's 1834 is wrong for this title.",
+   "grantee": "Joseph L. Majors, the grant issued in the name 'Juan Jose Crisostomo Majors'; he held in trust for Isaac Graham, William Ware, Peter Lassen and Frederick Heaple, who as non-citizens could not take in their own names (PDF p23, 342 ND p.19). Graham and Ware are the 1852 claimants.",
+   "governor": "Juan B. Alvarado (grant countersigned by Manuel Jimeno). Figueroa is not supported by the pages read."
+  },
+  "notes": "254MB / 387 PDF images. Typed leaf carries no total but warns 'Pp. 75-76 missing. Replaced with copies 6/18/85'; internal stamps run to at least 379. Hoffman-1862 (year 1841, grantee 'Juan Jose Crisostomo Mayor') agrees with the case file against the register on BOTH flagged fields. The register's '1834 / Figueroa' pairing is probably a conflation with the earlier, superseded grants of the same tract to Joaquin Buelna and then Francisco Mo[s] that Majors describes at 342 ND p.22 - the file gives no date or governor for those, so I have not asserted one. Judicial possession was given by Jose Bolcoff, First Alcalde of Santa Cruz, in 1841 (Bolcoff's deposition, PDF p19-22, 342 ND pp.15-18); Majors received the adjoining San Agustin rancho at the same time and took possession of both on the same day (PDF p384, 342 ND p.368)."
  }
 ]

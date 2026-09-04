@@ -84,8 +84,17 @@ def record_url_for(docket):
 
 
 def head_size(url):
+    """Size of the remote file, or None if the URL does not serve a PDF.
+
+    ⚠ digicoll answers a WRONG filename with HTTP 200 and an HTML error page,
+    not a 404 (verified 2026-09-04 on the two-volume cases ND 136 and ND 199:
+    cubanc_lcf_nd136.pdf is 200 text/html, the real files are nd136A/nd136B).
+    So a status check is worthless; require the %PDF magic bytes.
+    """
     try:
-        with _open(url, headers={"Range": "bytes=0-0"}, timeout=60) as r:
+        with _open(url, headers={"Range": "bytes=0-7"}, timeout=60) as r:
+            if not r.read(5).startswith(b"%PDF"):
+                return None
             cr = r.headers.get("Content-Range")
             if cr:
                 return int(cr.rsplit("/", 1)[1])
@@ -107,14 +116,19 @@ def pdf_url_for(record_url, docket):
             html = r.read().decode("utf-8", "replace")
     except Exception as e:
         raise SystemExit(f"could not read record page {record_url}: {e}")
-    m = re.search(r"files/(cubanc_lcf_[^\"'>?]+\.pdf)", html)
-    if not m:
+    names = list(dict.fromkeys(re.findall(r"files/(cubanc_lcf_[^\"'>?]+\.pdf)", html)))
+    if not names:
         raise SystemExit(f"no cubanc_lcf PDF listed on {record_url}")
-    note = None
-    if slug and f"cubanc_lcf_{slug}.pdf" != m.group(1):
-        note = (f"docket mismatch: register says {docket!r} (expected "
-                f"cubanc_lcf_{slug}.pdf) but the Bancroft file is {m.group(1)}")
-    return f"{record_url}/files/{m.group(1)}", note
+    pick = names[0]
+    notes = []
+    if len(names) > 1:
+        notes.append(f"MULTI-VOLUME case: record lists {', '.join(names)}; using "
+                     f"{pick}. The decree may sit in a later volume; re-run with "
+                     f"--pdf-url for the others.")
+    if slug and f"cubanc_lcf_{slug}.pdf" != pick:
+        notes.append(f"docket mismatch: register says {docket!r} (expected "
+                     f"cubanc_lcf_{slug}.pdf) but the Bancroft file is {pick}")
+    return f"{record_url}/files/{pick}", ("; ".join(notes) or None)
 
 
 def download(url, dest, expect=None, tries=4):
@@ -145,6 +159,11 @@ def download(url, dest, expect=None, tries=4):
     if not have or (expect and have != expect):
         raise SystemExit(f"download incomplete: {have} bytes"
                          + (f" of {expect}" if expect else ""))
+    with open(dest, "rb") as fh:
+        if not fh.read(5).startswith(b"%PDF"):
+            dest.unlink(missing_ok=True)
+            raise SystemExit("server sent HTML instead of a PDF (digicoll answers a "
+                             "wrong filename with 200 + an error page); URL is wrong")
     print(f"got   {have/1e6:.1f}MB -> {dest}", file=sys.stderr)
     return dest
 

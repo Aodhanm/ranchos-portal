@@ -1,0 +1,129 @@
+[
+ {
+  "id": "rancho-cienegas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268975/files/cubanc_lcf_sd353.pdf",
+  "pdf_pages_stated": 57,
+  "pages_read": [
+   "1-14",
+   "38-56"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 353 / SOUTHERN DISTRICT / LAS CIENEGAS GRANT / JANUARIO ABILA CLAIMANT'; decree of confirmation PDF p49 (stamped 353 SD PAGE 41): 'known by the name of \"Las Cienegas\"'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Board opinion PDF p47 (stamped PAGE 39): the grant 'was dated in 1822 or 1823'; decree of confirmation PDF p49: land 'held by the present claimants and their ancestors ever since the year 1823'. Register's 1843 is the year of the Sanchez boundary arbitration, not of any grant: opinion PDF p48 (PAGE 40) says of the 1843 application to Micheltorena 'no formal action was ever had upon it'"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Board opinion PDF p47 (stamped PAGE 39): 'The grant was made by Don Jose de la Guerra y Noriega then acting as military commandant of the southern portion of the Territory, under Don Luis Arguello, who was in command at Monterey and exercised the civil functions of Governor'. Micheltorena appears only as the official who in 1843 referred the Abila-Sanchez boundary dispute to three commissioners (PDF p46, stamped PAGE 38)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Board opinion PDF p45 (stamped PAGE 37): 'purports to be founded on a grant made to Francisco Abila the father of the present claimants'; PDF p47: 'of whom the grantee Francisco Abila was one'; stipulation PDF p41 (PAGE 35): 'in evidence of the original grantee Francisco Abila having been a retired soldier'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 353 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd353.pdf; PDF p2 typed slip 'LAND CASE 353 SD pgs. 57'. Board (commission) docket was No. 372 (PDF p5 transcript title page), a different numbering system"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Land Commission decree of confirmation, PDF p49 (stamped PAGE 41), filed June 26 1855, signed R. Aug. Thompson and S. B. Farwell. But the United States appealed: Attorney General's notice PDF p52 (PAGE 44), Washington 31 Dec 1855, 'the appeal in the district court of the United States for the Southern district of California will be prosecuted by the United States'; Notice of Appeal filed Feb 12 1856, PDF p53 (PAGE 45). No District Court decree and no patent in the pages read (Bancroft foliation runs to PAGE 57; pp. 46-57 not read)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1822 or 1823 per Board opinion, PDF p47: 'and was dated in 1822 or 1823'; confirmation decree PDF p49 dates possession from 1823",
+   "governor": "Jose de la Guerra y Noriega, acting as military commandant of the southern portion under Don Luis Arguello (who exercised the civil functions of Governor) - PDF p47. NOT Micheltorena."
+  },
+  "notes": "The original expediente was lost; U.S. Surveyor General John C. Hays certified 17 Feb 1855 (PDF p43, stamped PAGE 36) that he found 'no paper or papers, record or other evidence whatsoever for a concession or grant purporting to have been made to Francisco or Januario Abila, of a tract of land called \"La Cienega\"'. The Board therefore confirmed in equity on possession plus the 1843 prefect's records, not on a producible grant decree. The register's '1843 / Micheltorena' pairing conflates the 1843 boundary arbitration Micheltorena ordered with the grant itself; the grantee name (Francisco Abila) is right and is NOT the claimant (claimant was his son Januario Abila), so this record does not show the dominant claimant-for-grantee error."
+ },
+ {
+  "id": "rancho-corte-madera-novato",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265494/files/cubanc_lcf_nd134.pdf",
+  "pdf_pages_stated": 47,
+  "pages_read": [
+   "1-10",
+   "30-47"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 134 / NORTHERN DISTRICT / CORTE DE MADERA DE NOVATO GRANT / JUAN MARTIN CLAIMANT'; decree of confirmation PDF p35 (stamped 134 ND PAGE 27): 'known by the name of \"Corte de Madera de Novato\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn translation of the grant, PDF p31 (stamped PAGE 24): 'Given in Monterey the sixteenth day of October Eighteen hundred and thirty nine'. Board opinion PDF p33 (PAGE 25) agrees: petition to the prefect of the 1st district 'On the 16th of October of the same year [1839] ... a formal grant issued by that Officer on the same day'"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The grant itself is signed by Manuel Jimeno, not Alvarado. Sworn translation, PDF p31 (stamped PAGE 24): 'Given in Monterey the sixteenth day of October Eighteen hundred and thirty nine / Manuel Jimeno / Francisco Arce, First Official'. The petition, PDF p9 (stamped PAGE 4), likewise says 'a decree issued on the same day under the signature of Manuel Jimeno, first Vocal of the Departmental Assembly declaring your petitioner the lawful Owner of said land'. Alvarado's name appears nowhere in the pages read"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Correct person, initial only. Grant translation PDF p31 and confirmation decree PDF p35 (PAGE 27) name 'Juan Martin'; Board opinion PDF p33 (PAGE 25): 'Juan Martin the present claimant presented his petition'. Register's 'J. Martin' is the right man in abbreviated form"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 134 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd134.pdf; PDF p2 typed slip 'LAND CASE ND 134, 47 pages.' The Land Commission docket was No. 223 (PDF p5 transcript title page, and District Court caption PDF p47: 'Case No 134; Transcript 223')"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation filed Feb 14 1854, PDF p35 (stamped PAGE 27), signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson. US appealed (AG notice 17 Jan 1855, PDF p38, PAGE 30; appeal notice filed Feb 20 1855, PDF p39). District Court, Ogden Hoffman, Sept 8 1857, PDF p47 (PAGE 38): 'The Attorney General ... having given notice that no appeal to the Supreme Court of the United States will be prosecuted in this case, and a stipulation having been entered into by the District Attorney that no further appeal shall be taken ... it is Ordered, Adjudged and decreed that the claimant have leave to proceed under the decree of this Court heretofore rendered in his favor, as under Final Decree.' Confirmation therefore final"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Jimeno per the grant's sworn translation, PDF p31: 'Given in Monterey the sixteenth day of October Eighteen hundred and thirty nine / Manuel Jimeno / Francisco Arce, First Official'",
+   "grantee": "Juan Martin (register gives 'J. Martin')"
+  },
+  "notes": "Two-stage title: provisional marginal decree signed by Vallejo (commandant general) 9 March 1839, then the formal grant of 16 Oct 1839 signed Manuel Jimeno, approved by the Departmental Assembly 22 May 1840 (Board opinion, PDF p33, stamped PAGE 25). Register's 'Alvarado' is defensible only if the field means the administration rather than the signing officer; the document names Jimeno (as first vocal of the Departmental Assembly acting for the departmental government). A re-reader should settle that convention before treating this as a hard error. Claimant and original grantee are the same man here, so no claimant-for-grantee substitution. District Court file runs to Bancroft PAGE 47; pp. 39-47 not read (patent not expected there)."
+ },
+ {
+  "id": "rancho-eight-square-leagues-on-stanislaus-river",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264188/files/cubanc_lcf_nd351.pdf",
+  "pdf_pages_stated": 39,
+  "pages_read": [
+   "1-8",
+   "9-26",
+   "27-42"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 351 / NORTHERN DISTRICT / LAND ON THE RIVER STANISLAUS GRANT / A. B. THOMPSON CLAIMANT'. The Board's own caption at PDF p27 (stamped 351 ND PAGE 22) reads 'Alfias B. Thompson vs The United States | \"8 Sq Leagues\" \"Lands on the River Stanislaus\"', and the District Court caption PDF p36 (PAGE 30) reads 'Transcript No 158 | 8 Leagues on Stanislaus River'. The register's 'Eight Square Leagues On The Stanislaus River' is the file's own alternate designation"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish original grant, PDF p23 (stamped PAGE 16): 'Dado en la Ciudad de los Angeles capital del Departamento de Californias ... a los trece dias del mes de Junio del año de mil ocho cientos cuarenta y seis'; sworn translation PDF p27 (PAGE 20): 'Given in the City of Los Angeles ... on the thirteenth day of the month of June, one Thousand eight hundred and forty six'. Departmental Assembly approval 27 June 1846 (PDF p28, PAGE 21)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, Spanish, PDF p22 (stamped PAGE 15): 'Pio Pico Gobernador Constitucional del Departamento de Californias'; translation PDF p25 (PAGE 18): 'Pio Pico, Constitutional Governor of the Department of Californias'; signed '(Signed) Pio Pico' with 'Jose Matias Moreno, Secretary ad interim' (PDF p27, PAGE 20). Board opinion PDF p27 (PAGE 22): 'a grant issued in pursuance thereof by Pio Pico dated the 13th day of June'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, Spanish, PDF p22 (PAGE 15): 'el ciudadano por naturalizacion Alfeas Basilio Thompson ha pretendido para su beneficio personal y el de su familia un terreno baldio'; translation PDF p25 (PAGE 18): 'the naturalised Citizen Alfias Basilio Thompson has, for his own personal benefit and that of his family, petitioned for a vacant land'. Same man as the claimant; register's 'A. B. Thompson' is the file's own short form (red label p1, transcript title page p5)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 351 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd351.pdf; PDF p2 typed slip 'LAND CASE 351 ND 39 pgs.'; District Court cover PDF p32 stamped '351 ... ND'. Land Commission docket was No. 158"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion (Commr Farwell) PDF p27 (PAGE 22), filed June 19 1855: 'We think this claim from the evidence to be well established and valid and a decree of confirmation will be entered. Confirmed.' Decree PDF p28 (PAGE 23). US appealed (AG notice 31 Dec 1855, PDF p33, PAGE 26; notice of appeal filed Feb 11 1856, PDF p34). District Court decree, Ogden Hoffman, stated term Sept 12 1856, PDF p38-39 (PAGES 32-33): 'the said decision be and the same is hereby, in all things affirmed ... the said claim be and the same is hereby confirmed to the extent and quantity of Eight Square Leagues'. Final decree Dec 24 1856, PDF p41 (PAGE 35): no Supreme Court appeal, claimant to proceed 'as under Final Decree'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record: every graded field matches the grant and the decrees. Grantee full form in the grant is 'Alfeas/Alfias Basilio Thompson' (Alpheus Basil Thompson), the same person as the claimant, so no claimant-for-grantee substitution. Patent not in the file; Bancroft foliation runs to 39 and I read to PAGE 35, so pages 36-39 (4 leaves) unread - a patent copy is unlikely but not excluded. Register's patent date of May 18 1858 is consistent with the Dec 1856 final decree."
+ }
+]

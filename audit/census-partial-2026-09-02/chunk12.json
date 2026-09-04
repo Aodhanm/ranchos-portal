@@ -1,0 +1,482 @@
+[
+ {
+  "id": "u-93",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256586/files/cubanc_lcf_nd254.pdf",
+  "pdf_pages_stated": 306,
+  "pages_read": [
+   "1-12",
+   "309-322 (file tail)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 254 / NORTHERN DISTRICT / THREE SUERTES OF LAND, IN SAN JOSE GRANT / THE WIDOW AND HEIRS OF ANASTASIO CHABOLLA CLAIMANT'; PDF p5 transcript title page, Case No. 777, 'Three Suertes of land in San Jose'"
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "No grant document exists in the file. The only statement of date is the claim petition, PDF p9 (transcript p3): 'That about the 1785 a grant was made by authority of the King of Spain to Ma[z]ario Saez, one of the original founders or settlers of the Pueblo of San Jose... containing three suertes'. Register's 1785 reproduces that allegation exactly, but it is unproved: the Board rejected the claim for want of any proof (PDF p11). Hoffman's 1862 row (1848) is contradicted by the case file"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Register's phrase is verbatim from the petition, PDF p9: 'a grant was made by authority of the King of Spain'. No decree or concession paper is in the file, so the granting authority is not verifiable beyond the petition's own words"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "PDF p9 (transcript p3) names the alleged original grantee; a 200-dpi crop of the line reads 'Ma[z]ario Saez' - given name Mazario/Macario, surname begins with a capital that is ambiguous between S and L (register has 'Laez'). The register is at least naming the alleged Spanish-era grantee and not the U.S.-era claimant (the widow and heirs of Anastasio Chabolla, PDF p1). No decree in file to verify the name"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 254 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 254 ND 306 pgs.'; PDF filename cubanc_lcf_nd254.pdf. Board docket no. was 777 (PDF p5)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "PDF p11 (transcript p5), Board opinion/decree: no proofs were offered in support of the claim and it was rejected, 30 Jan 1855; the file tail (PDF pp.309-322) ends with the Board's certified transcript and transmittal (July 1855) - no district court decree in this file. Hoffman 1862 also records 'rejected'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Rejected pueblo-suerte claim. The petition states the original title papers were lost or destroyed; the bulk of the 306-page file is documentary evidence about pueblo land law (incl. a Spanish copy of the 1783 instruction, 'Es copia Chihuahua 18 de Noviembre de 1783'). The register's year/governor/grantee all trace to the petition's unproved allegation, not to any decree. Hoffman's 1862 row for court no. 254 (1848 / Pio Pico / B. Bernal) does NOT match this case file at all - flag Hoffman, not the register."
+ },
+ {
+  "id": "mission-mission-dolores-bernal",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265525/files/cubanc_lcf_nd165.pdf",
+  "pdf_pages_stated": 321,
+  "pages_read": [
+   "1-12",
+   "15-26"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 165 / NORTHERN DISTRICT / A LOT AT MISSION DOLORES GRANT / CARMEN S. DE BERNAL, ET AL. CLAIMANT'; PDF p5 transcript, Case No. 671, 'A Lot at Mission Dolores'. Register's 'Mission Dolores (Bernal)' identifies the same claim in a constructed form, not the case's own name"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original grant paper is not in the file (petition, PDF p9: title lost when the house was robbed in 1846). Year established by the evidence the Board adopted: PDF p17 (Board opinion) - Jose Castro testifies that in December 1834 Bernal's wife went to Monterey and Governor Figueroa decreed the grant in the margin of her petition; M. G. Vallejo testifies 'that a grant for a solar in the Mission Dolores was made by Governor Figueroa to said Bernal in the year 1834'. Petition PDF p9 likewise says 'about the year 1834'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "PDF p17 Board opinion: the decree was made by 'Governor Figueroa'; petition PDF p9 'Jose Figueroa Governor of California by virtue of authority in him vested granted to the said Jose Cornelio Bernal'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition PDF p9 and Board decree PDF p19 name 'Jose Cornelio Bernal' as the person to whom the lot was granted and who occupied it; register's 'Jose C. Bernal' is the standard abbreviation. The U.S.-era claimants are his widow Carmen S. de Bernal and heirs (PDF p1), and the register did NOT put them in the grantee field"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 165 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 165 ND pgs 321'; filename cubanc_lcf_nd165.pdf. Board docket no. 671 (PDF p5)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. For the record: the Board confirmed, decree PDF p19 (8 Aug 1854, opinion by Commissioner Felch PDF pp.17-18), and the United States filed notice of appeal (PDF pp.23-26, 1855). District court result lies beyond the pages read"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant paper lost/stolen Dec 1846; title proved by depositions of Jose Castro and M. G. Vallejo. Register agrees with the case file on 1834 / Figueroa / Jose Cornelio Bernal; Hoffman 1862 agrees too. No patent copy in the pages read - GLO check deferred to Phase C."
+ },
+ {
+  "id": "mission-mission-dolores-guerrero-y-palomares",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265491/files/cubanc_lcf_nd131.pdf",
+  "pdf_pages_stated": 47,
+  "pages_read": [
+   "1-12",
+   "13-24"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 131 / NORTHERN DISTRICT / A LOT AT THE MISSION OF DOLORES GRANT / JOSEFA PALOMARES, ET AL, HEIRS OF FRANCISCO GUERRERO CLAIMANT'; the tract is titled on PDF p13 'Terreno nombrado las Manzanitas en la Mision de Dolores'. Register's 'Mission Dolores (Guerrero Y Palomares)' is a constructed form of the same claim"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish concession, PDF p14 (transcript p9-10): 'Monterey Nbre 30 de 1836... se le conceden al Ciudo. Franco Guerrero cuatro cientas varas Cs...'; sworn translation PDF pp.17-18: 'Monterey Nov. 30th 1836. Having previously seen the report of the Administrator of the Mission of Dolores... there are granted to Citizen Francisco Guerrero four hundred varas in the place petitioned for'. Board opinion PDF p20: 'The concession is dated November 30, 1836'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession signed 'Nicolas Gutierrez' (Spanish PDF p14; translation PDF p18); Board opinion PDF p20: 'is signed by Nicolas Gutierrez the Governor'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The decree runs to 'el Ciudadano Franco Guerrero' / 'Citizen Francisco Guerrero' (PDF p14, p18); his own petition of 28 Oct 1836 is signed 'Franco Guerrero' (PDF p14) and the claim petition calls him 'Francisco Guerrero Palomares' (PDF p9). Register spells the surname 'Guerroro' - right person, misspelled"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 131 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 131 ND 47 pages.'; filename cubanc_lcf_nd131.pdf. Board docket no. 229 (PDF p5, and marginal '229' on PDF p14)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. The file shows the Board confirmed to the widow Josefa Palomares and the heirs of Francisco Guerrero, decree PDF p22 (opinion PDF pp.20-21), filed 14 March 1854"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Guerrero (y Palomares) - decree PDF p14/p18 'al Ciudo. Franco Guerrero'; register's 'Guerroro' is a misspelling"
+  },
+  "notes": "Clean expediente: Guerrero's petition S. Franco 28 Oct 1836, mission administrator's favorable report, concession by Nicolas Gutierrez at Monterey 30 Nov 1836, recorded in the Alcalde's Book B of Spanish Records 6 Feb 1850. Register's 1836 / Gutierrez are exactly right."
+ },
+ {
+  "id": "mission-mission-santa-clara",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264198/files/cubanc_lcf_nd361.pdf",
+  "pdf_pages_stated": 495,
+  "pages_read": [
+   "1-12",
+   "114-123 (Bancroft stamps 100-109)",
+   "124-135 (stamps 110-120)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 361 / NORTHERN DISTRICT / TWO LOTS OF LAND IN AND NEAR THE MISSION STA CLARA GRANT / MARY S. BENNETT CLAIMANT'; transcript title PDF p7. Register's 'Mission Santa Clara' is a shortened constructed name for the two-lot claim"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion, PDF p117 (Bancroft stamp 103): 'That the same was duly issued by Governor Pio Pico in the Month of November 1845 to Narciso Bennett'; the marginal decree quoted verbatim at PDF p119 (stamp 105): 'Angeles Nov 29th 1845. His prayer is granted, let the corresponding title be issued. Signed Pico'. Tingley's deposition (summarised PDF p117) says the original grant 'was dated in the latter part of the year 1845 and signed by Pio Pico'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Marginal concession 'Angeles Nov 29th 1845... Signed Pico' (PDF p119, stamp 105); Board opinion 'issued by Governor Pio Pico' (PDF p117)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Board opinion PDF p117 (stamp 103): grant 'to Narciso Bennett'; PDF p118 (stamp 104): expediente A contains 'the petition of Narciso Bennett an American by birth' and 'Narciso Bennett and Winston Bennett are the same person'; PDF p120 (stamp 106): 'the witnesses generally speak of the grants as made to Mrs. Bennett. But... the land being petitioned for and granted in the name of her son Narciso Bennett for himself and family'. Mary S. Bennett is the U.S.-era claimant (successor by conveyance, PDF p121), and the register correctly carries the grantee, not the claimant"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 361 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 361 ND 495 pgs.'; filename cubanc_lcf_nd361.pdf. Board docket no. 718 (PDF p7)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. The file shows: Board decree of confirmation, PDF p123 (stamp 109), filed 10 July 1855; U.S. appeal (PDF pp.127-129); District Court decree of Ogden Hoffman, 28 Feb 1857, PDF pp.130-131 (stamps 116-117), affirming the Commission and confirming one solar 140 varas square 'as held and occupied by the appellee since the year 1845' plus the 2000 x 1000 vara tract; stipulation of 14 April 1857 that no further appeal be taken, decree final (PDF p133, stamp 119)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Large file (495 leaves; PDF index runs about 14-15 ahead of the Bancroft page stamps). Original grant lost with an iron safe shipped Santa Cruz to San Francisco in Sept 1852 (affidavit PDF p115, stamp 101); title proved by two traced expedientes from the archives (A and B) certified by the U.S. Surveyor General, plus depositions of Andres Pico, Antonio Maria Pico and G. B. Tingley. Register's 1845 / Pico / Narciso Bennett all confirmed by the Board's own opinion."
+ },
+ {
+  "id": "mission-san-juan-bautista",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268974/files/cubanc_lcf_sd352.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "15-26",
+   "33-43 (survey grid)",
+   "38-40"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 352 / SOUTHERN DISTRICT / LAND NEAR SAN JUAN BAUTISTA GRANT / PATRICK BREEN CLAIMANT'; transcript title PDF p4 'Land near San Juan Bautista'. Register's 'Mission San Juan Bautista' is a constructed name; the grant is of a 1500-vara-square labor lot adjoining the mission orchard, not the mission itself"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish grant, PDF p18 (Bancroft p14): 'Dado en papel comun... en la Ciudad de los Angeles a trece de Abril de mil ocho cientos cuarenta y seis. Pio Pico. Jose Matias Moreno'; sworn translation PDF p20 (p16): 'Given on common paper... In the City of Los Angeles on 13th April 1846'; Board opinion PDF p23 (p19): 'a grant made by Governor Pio Pico to Jose Castro, on the 13th of April 1846'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant headed 'Pio Pico Gobernador Constitucional del Departamento de Californias' and signed 'Pio Pico' (PDF p18, translation PDF pp.20-21)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant: 'el Senor Coronel de Caballeria D. Jose Castro ha solicitado por su beneficio personal y el de su familia un pedazo de terreno para labor en el pueblo de S. Juan Bautista' (PDF p18); translation 'the General Commander of Cavalry Don Jose Castro' (PDF p20). Patrick Breen is only the U.S.-era claimant, who bought from Castro and his wife Modesta by deed at Monterey 7 Feb 1849 (PDF pp.19, 21-22) - the register correctly holds the grantee, not the claimant"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 352 SOUTHERN DISTRICT'; internal stamps read '352 SD PAGE n' throughout (e.g. PDF p4 'PAGE 1'); filename cubanc_lcf_sd352.pdf. Board docket no. 560 (PDF p4, p23)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. The file shows: Board opinion and decree of confirmation, PDF pp.23-24 (Bancroft pp.19-20), filed 26 June 1855; Attorney General's notice 7 Feb 1857 that the appeal would not be prosecuted (PDF p38, stamp 31); District Court order of Judge Isaac S. K. Ogier, June term 1858 (PDF p40, stamp 33): 'the said appeal be and the same is hereby dismissed. And that the decision of the Board of Land Commissioners confirming said claim be and the same is hereby made final'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "43 images; no typed page-count leaf visible at the front of this file, so pdf_pages_stated left null. Register's 1846 / Pico / Jose Castro all confirmed verbatim from the Spanish grant and its sworn translation. Hoffman 1862 agrees. Claim confirmed and made final in 1858; patent (register: Patrick Breen, 22 Jan 1877) not in the file - Phase C GLO check."
+ },
+ {
+  "id": "presidio-barbara",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; digicoll searches for 'presidio santa barbara land case' and 'presidio land case' (run 2026-09-03) return no Land Case Files record for the presidio itself - the only Santa Barbara municipal claim in the Land Case Files is SD 242, Municipal Lands, graded separately"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (see name)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank in any case"
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register's 'Spanish Crown' cannot be checked against any land case"
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank, and Hoffman has no docket for a Santa Barbara presidio claim"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. Presidio reservations passed to the United States as military property and were never adjudicated as private land claims, so no Bancroft land case file exists to grade against. Searches run: https://digicoll.lib.berkeley.edu/search?p=presidio+santa+barbara+land+case (0 land-case hits) and ?p=presidio+land+case (hits are Corte de Madera del Presidio ND 183, Tamalpais ND 185, Parage del Arroyo ND 218, Nine Leagues north of Presidio Ruso ND 96, Four Leagues south of Yerba Buena ND 424, Temascal SD 374 - none is a presidio claim)."
+ },
+ {
+  "id": "presidio-diego",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; digicoll search 'presidio san diego land case' (2026-09-03) returned only Temascal [Riverside County], Case no. 374 SD (record/268994), which is unrelated"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (see name)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register's 'Spanish Crown' cannot be checked"
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank and no Hoffman docket is supplied"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. Same structural reason as the other presidios: a presidio was crown/military property, not a private claim before the Land Commission."
+ },
+ {
+  "id": "presidio-francisco",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; digicoll search 'presidio san francisco land case' (2026-09-03) returned only neighbouring private claims - Four Leagues South of Yerba Buena and the Presidio, ND 424 (Limantour, record/264268); Parage del Arroyo en el Presidio de San Francisco, ND 218 (record/265810); Ojo de Agua de Figueroa, ND 401 (record/264248) - none is a claim to the presidio itself"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (see name)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register's 'Spanish Crown' cannot be checked"
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. The San Francisco presidio became a U.S. military reservation; the digitized Land Case Files contain only private claims adjoining it. If a later phase wants documentary confirmation of the 1776 founding it will have to come from a source other than the land case files."
+ },
+ {
+  "id": "pueblo-branciforte",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; digicoll searches 'villa de branciforte land case', 'branciforte land case', 'Branciforte', 'Santa Cruz city lands', 'santa cruz pueblo land case' (2026-09-03) return no Land Case Files record (the bare 'Branciforte' search returns unrelated items: record/257078 'Rosbale', record/265362 'Ecuba', etc.)"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (see name)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register's 'Borica' cannot be checked against a case file"
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register's 'Villa de Branciforte' cannot be checked"
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no digitized case file located; register cell is blank"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. Unlike Los Angeles (SD 386), Monterey (SD 382) and Santa Barbara (SD 242), no pueblo-lands claim for the Villa de Branciforte / Santa Cruz appears in the digitized Bancroft Land Case Files, and the input record carries no Hoffman docket. Do not guess: 1797/Borica remains unverified by this audit."
+ },
+ {
+  "id": "pueblo-city-angeles",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269005/files/cubanc_lcf_sd386.pdf",
+  "pdf_pages_stated": 205,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "53-55",
+   "40/55/70/85/100/115 (low-res survey)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 386 / SOUTHERN DISTRICT / LOS ANGELES PUEBLO LANDS GRANT / CITY OF LOS ANGELES CLAIMANT'; PDF p5 transcript title, Case No. 422, place named 'Pueblo Lands'. Register's 'City Lands Of Los Angeles' names the same claim in a constructed form (the case calls them pueblo lands / ejidos, claimed by the City as successor)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Exhibit B, the sworn translation of Exhibit A filed with the petition, ends at PDF p55 (Bancroft stamp 43): 'Mission of San Gabriel May 26th 1781. Phelipe de Neve. Filed in Office Oct 26th 1852'; its opening (PDF p53, stamp 41) reads 'For the foundation of the Pueblo of la Reina de los Angeles in the neighborhood of the River of Porciuncula...'. The petition, PDF p9 (stamp 4), says the same: 'in the year 1781, Governor Phelipe de Neve... gave formal directions (herewith submitted, marked A with a translation marked B) for the foundation of the Pueblo de la Nuestra Senora la Reina de los Angeles'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The founding instructions are signed 'Phelipe de Neve' (PDF p55, stamp 43, verified on a 220-dpi crop of the signature line); the petition (PDF p9) calls him 'Governor Phelipe de Neve, Commandant General of the Internal Provinces of the West'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The claim is for the pueblo's own lands: petition PDF p9 (stamp 4) recites the 1781 foundation of the Pueblo and the 1786 delivery of possession of building and farming lots to the settlers by Governor Fages' commission (4 Sept 1786); the U.S.-era claimant is the City of Los Angeles as successor (PDF p1, p5). Register's 'Pueblo of Los Angeles' names the original holder, not the claimant"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 386 SOUTHERN DISTRICT'; PDF p4 typed leaf 'LAND CASE 386 SD pgs. 205'; internal stamps '386 SD PAGE n'; filename cubanc_lcf_sd386.pdf. Board docket no. 422 (PDF p5, and '422' written at the head of many leaves)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. Docket entry at PDF p8 (stamp 3) records that on 5 Feb 1856 Commissioner S. B. Farwell delivered the opinion of the Board confirming the claim, with the order following. District court and patent stages lie beyond the pages read"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The transcript's translation of Neve's founding instructions is dated in this clerk's copy 'May 26th 1781' (PDF p55, high-res crop). Quote it as the file reads; do not silently normalise it to the August date used in some printed accounts - I did not verify any external date. ⚠ This case file is INCOMPLETE: the front matter (PDF p4) notes 'Pages 1 to 205 (83 missing)'. Depositions read (Agustin Olvera, Jose Antonio Carrillo, Manuel Requena, PDF pp.13-24, stamps 9-19) concern the extent of the ejidos, not the founding date. Hoffman's 1862 row gives no year/governor/grantee for this claim, so the register is not contradicted by him."
+ },
+ {
+  "id": "pueblo-city-monterey",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269001/files/cubanc_lcf_sd382.pdf",
+  "pdf_pages_stated": 119,
+  "pages_read": [
+   "1-12",
+   "16-27"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 382 / SOUTHERN DISTRICT / MONTEREY PUEBLO LANDS GRANT / CITY OF MONTEREY CLAIMANT'; PDF p4 transcript title, Case No. 714, place named 'Pueblo lands'. Register's 'City Lands Of Monterey' is a constructed form of the same claim"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The claimant's title document is the acta of the Diputacion: PDF p18 (stamp 14) 'Sesion del 23 de Julio' and PDF p20 (stamp 16) 'Sesion del 24 de Julio', where 'se paso a tratar con respecto a los ejidos que la corporacion propone para la poblacion de Monterrey y se aprobo la siguiente demarcacion que hizo el Sor. Castro. Desde la desembocadura del Rio de Monterrey en el Mar, hasta el sitio de los Pilarcitos...'. Surveyor General Samuel D. King certifies (PDF p21, stamp 17) that these four traced pages are true copies of part of 'Secreta. de la Excma. Diputacion de la Alta California: Cuaderno limpio de Sesiones publicas para el ano de 1830' on file in the Spanish archives. English translation at PDF pp.24-25 (stamps 19-20), certified by W. E. P. Hartnell, State Translator, Monterey 4 Jan 1853. The petition (PDF p10, stamp 5) likewise pleads confirmation of the boundaries by the Departmental Legislature in July 1830"
+   },
+   "governor": {
+    "grade": "NA",
+    "evidence": "Register's governor cell is blank, which is defensible: the Monterey ejidos were demarcated by the Diputacion, not conceded by a governor. For enrichment, the acta of 23-24 July 1830 is signed first by 'Jose Ma. de Echeandia' as Sr. Presidente of the Diputacion, then Antonio Buelna, Salvio Pacheco, Jose Tiburcio de Castro, Carlos Castro, and 'Juan Bauta. Alvarado, Secretario' (PDF pp.19-20, stamps 15-16)"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The 1830 acta designates the ejidos 'para la poblacion de Monterrey' - the town/pueblo (PDF p20, stamp 16). 'City of Monterey' is the U.S.-era corporate claimant form used on the red label and in the petition ('the corporate authorities of the City of Monterey a Municipal Corporation', PDF p9, stamp 4). Right entity, later name; compare this register's own 'Pueblo of Los Angeles' / 'Pueblo of Santa Barbara' usage"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 382 SOUTHERN DISTRICT'; PDF p3 typed leaf 'LAND CASE 382 SD pgs. 119'; PDF p2 curatorial note 'Pages 1-119, Maps nos 1175-1176'; internal stamps '382 SD PAGE n'; filename cubanc_lcf_sd382.pdf. Board docket no. 714 (PDF p4)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank. Docket entry PDF p8 (stamp 3): 'San Francisco Jany 22 1856. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim (vide page 115 of this Transcript)', with the order at transcript p117. Later stages not read"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register's otherwise-odd 1830 is CORRECT and well founded: it is the year of the Diputacion sessions (23-24 July 1830) that fixed Monterey's ejidos, certified out of the Spanish archives by the U.S. Surveyor General. Witnesses J. B. Alvarado (secretary of the Territorial Deputation) and Jose Castro authenticated the exhibits (PDF pp.13-16, 22-23). Hoffman gives no year/governor/grantee for court no. 382, so nothing conflicts."
+ },
+ {
+  "id": "pueblo-pueblo-santa-barbara",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267583/files/cubanc_lcf_sd242.pdf",
+  "pdf_pages_stated": 140,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "119-130",
+   "40/60/80/100/120/140 and 160/170/178/184/190/194 (low-res survey)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "PDF p1 red label: 'CASE NO. 242 / SOUTHERN DISTRICT / MUNICIPAL LANDS GRANT \"SANTA BARBARA\" / THE MAYOR AND COMMON COUNCIL OF SANTA BARBARA CLAIMANT'; PDF p6 transcript title, Case No. 543, place named 'Municipal Lands'. Register's 'Pueblo Lands Of Santa Barbara' is a constructed form; the file's own term is municipal lands"
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "No grant of land dated 1834 exists in this file. The petition itself dates the origin of the settlement to 1782: 'That in the year 1782 the Spanish Government established the Presidio or Post of Santa Barbara, where the City of that name now is; that subsequently small tracts or lots of land were distributed at that place to settlers and discharged soldiers by the several Military Commandants... that subsequently this Presidio settlement was organised into a Pueblo or Municipality' (PDF p10, stamp 3). The register's 1834 does match the pueblo-organisation evidence put in on appeal: the translated 'Expediente containing the Election of the Ayuntamiento for the year 1835... Sta Barbara 21 Dec. 1834' and the ward elections of 7 and 14 Dec 1834 (PDF pp.125-131, stamps 70-75). So 1834 = the year the ayuntamiento/pueblo organisation is documented, not the year of any land grant"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Figueroa made no grant in this file. He appears as the officer to whom the 21 Dec 1834 election expediente was addressed: 'To the Political Chief, Jose Figueroa' (translation, PDF p125, stamp 70), signed Carlos Antonio Carrillo, President, with secretaries Joaquin Carrillo and Jacinto Lorenzana. Right officeholder for 1834, wrong implication if read as the granting governor: the claim was proved by ancient possession and municipal organisation, not by a Figueroa concession"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The claim runs in favour of the municipality and its successor: petition PDF pp.10-11 (stamps 3-4) 'the land belonging to this said municipality, the dominion and ownership of which it has held for a long period of years... this said Pueblo, City or Town of Santa Barbara existed on the 7th day of July 1846 and continues to exist'; District Court confirmed to the Mayor and Common Council as appellants (PDF p194, stamp 139). Register's 'Pueblo of Santa Barbara' names the original entity, not a private claimant"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 242 SOUTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 242 SD pgs. 140'; internal stamps '242 SD PAGE n'; U.S. District Court wrapper 'No. 242 ... Transcript of the Record ... In Case No. 543' (PDF p18); filename cubanc_lcf_sd242.pdf. Board docket no. 543 (PDF p6)"
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register's outcome cell is blank, but the file's course is unusual and worth recording: the Board REJECTED the claim, opinion of Alpheus Felch, 1 Aug 1854 (PDF p14, stamp 6): 'No effort has been made in this case to sustain any of the allegations contained in the Petition by evidence. In the absence of all proofs the claim cannot be confirmed. Rejected', with a decree that the claim 'is not valid' and confirmation 'be denied'. The city appealed (notice 31 May 1855, PDF p21, stamp 9; petition for review filed 8 Oct 1855, PDF pp.23-24, stamps 11-13). The District Court reversed and confirmed, decree entered 8 March 1861 (PDF p178, stamp 123, and the decree text at PDF p194, stamp 139: the Board's decision 'be and is hereby set aside and reversed, And that the claim of the appellants be held as firm and valid and is hereby confirmed as follows, to wit: bounded on the East by the Arroyo de Carpenteria, on the South by the sea shore, on the West by the Rancho of Dos Pueblos, and on the North by the Sierra, containing four leagues and no more'). The U.S. appeal to the Supreme Court was dismissed on motion, December Term 1863 (PDF p190, stamp 135)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1834 is the ayuntamiento/pueblo-organisation year evidenced in the file (Dec 1834 election expediente, PDF pp.125-131); the case file itself dates the settlement's origin to 1782 (petition, PDF p10). No 1834 land grant exists in the file",
+   "governor": "Figueroa appears only as 'the Political Chief, Jose Figueroa' addressed by the ayuntamiento in Dec 1834 (PDF p125); he granted nothing in this case"
+  },
+  "notes": "Hoffman's 'confirmed' is right only because the DISTRICT COURT reversed the Board; the Commission rejected this claim outright in 1854. The four leagues confirmed in 1861 are consistent with the register's 17,826.17 patent acres (four square leagues is about 17,712 acres); Hoffman's '8 1/2 square leagues' is the claim as filed, not as confirmed. Decree quotations at stamps 123/135/139 were read from a 55-dpi survey render; they are legible and consistent with the 1861/1863 dates on the same leaves, but re-render those three leaves before quoting them in print."
+ }
+]
