@@ -18,12 +18,13 @@ overall and 42.4% on grantee against the published 5.3% and 16.7%, and that
 comparison is meaningless.
 
 The control: splitting the random blind 100 the same way gives its flagged subset
-14.2% overall and 40.7% grantee (n=27) against the census flagged records' 13.1%
-and 42.4%. Two independent passes agree. Re-weighting both strata to their true
-share of the register (23.8% flagged) puts the register-wide estimate at 4.4-4.7%
-overall and 15.2-15.6% grantee, at or just below the published numbers.
+14.2% overall and 40.7% grantee (n=27) against the census flagged records' 13.5%
+and 47.2% (n=127, recomputed 2026-09-04 at 141 graded). Two independent passes
+agree. Re-weighting both strata to their true share of the register (23.8%
+flagged) puts the register-wide estimate at roughly 4.5% overall and about 16.8%
+grantee, in line with the published numbers.
 
-**The published blind-100 figures stand and are mildly conservative. Do not
+**The published blind-100 figures stand. Do not
 restate them from census data.** Finish the census for the corrections it yields.
 
 ## DONE + LIVE (verified on the domain, not from local files)
@@ -67,6 +68,11 @@ resolves a docket to its Bancroft PDF, downloads it **with resume**, and cuts ou
 a page range. Use it instead of `curl -sL -m 300` on anything large:
 
     python3 scripts/fetch_case_pages.py "ND 419" --pages 1-30 --discard-full
+
+⚠ NEW 09-04: a WRONG filename gets HTTP 200 + an HTML error page from digicoll,
+not a 404 (two-volume cases ND 136 = nd136A/B, ND 199 = nd199A/B). The helper now
+requires %PDF magic bytes and prints a MULTI-VOLUME note; never hand-roll curl
+checks against the status code.
 
 Verified end to end on ND 060 (43.8MB, 49 pages, 16s) and ND 419 Pueblo Lands of
 San Jose (486.5MB, 585 pages, 4m20s), both producing legible excerpts.
