@@ -314,5 +314,47 @@
    "grantee": "Jose Gorgonio and his son Jose Ramon, emancipated neophytes of Mission Santa Clara, per the sworn translation of Alvarado's grant of 30 June 1840 (PDF p27 / stamped p22) and the Board's opinion (PDF p32 / stamped p27). Juana Briones de Miranda bought the rancho from them for $300 by deed of 7 November 1844, executed before the alcalde of San Jose with Micheltorena's licence; she is the U.S.-era claimant, not the grantee. Hoffman 1862 ('Jose Gorgonio and Jose Ramon') agrees with the case file against the register. Dominant error class."
   },
   "notes": "Documented chain: (1) petition of 'Citizen Jose Gorgonio, together with Jose Ramon & Calistro, persons of the same class, all three being neophytes of the Mission of Santa Clara', Pueblo of Alvarado, 25 Nov 1836 (translation PDF p24-26 / stamped p19-21), reciting a piece of land already granted to Gorgonio and Jose Ramon 'by the deceased Senor Figueroa' and complaining that Tulare Indians had wounded the son and burned the house; (2) Alvarado's emancipation order, Santa Clara 12 June 1837; (3) Alvarado's decrees of 10 Dec 1839 and 22 May 1840 ordering measurement; (4) the GRANT, Alvarado to Gorgonio and his son Jose Ramon, Monterey 30 June 1840, one square league, boundaries 'on the west the sierra, on the north west & north the Arroyo del Matadero, on the south and east the Arroyo of San Antonio'; (5) Juana Briones's petition to Micheltorena of 30 Oct 1844 for licence to buy, Micheltorena's decree of the same date and Manuel Jimeno's referral to the magistrate of San Jose (translations PDF p28-29 / stamped p23-24); (6) the sale, San Jose Guadalupe, 7 Nov 1844, signed with crosses by Jose Gorgonio and Jose Ramon before alcalde Maximo Martinez, and Gorgonio's confirmatory instrument of 25 June 1847 acknowledging $300 (PDF p30 / stamped p25). Witness Maximo Martinez, PDF p12 (stamped p7): 'It was first occupied in 1837 by Jose Gorgonio, a Neophyte of the Mission of Santa Clara & his family... The grant was made in 1840 to Jose Gorgonio & his family. The present claimant Briones purchased the rancho of Gorgonio in 1844 by the permission of Gov. Micheltorena.' MECHANICS: stamped '130 ND PAGE n' = PDF page - 5 throughout the front of the file; the Commission transcript is 27 pages, certified by Secretary George Fisher 30 Oct 1854 (PDF p34), and the rest of the 171-page portfolio is the District Court record."
+ },
+ {
+  "id": "rancho-putas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265535/files/cubanc_lcf_nd175.pdf",
+  "pdf_pages_stated": 67,
+  "pages_read": [
+   "PDF 1-12 (= red cover, archival note, stamped 175ND 1-6)",
+   "PDF 68-77 (= stamped 58-64, the Board's opinion, decree, certificate, District Court wrapper and Attorney General's appeal notice)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 175 NORTHERN DISTRICT / LAS PUTAS GRANT / MARIA ANASTASIA HIGUERA, ET AL CLAIMANT'; transcript title PDF p5 (stamped p1) 'FOR THE PLACE NAMED \"Las Putas\"'; Board's opinion PDF p69 (stamped p58) 'For the place called Las Putas in Yolo County, containing eight square leagues of land'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board's opinion, PDF p69 (stamped p58): 'In support of this Claim the Petitioners have produced in evidence a grant of the land in question made by Governor Manuel Micheltorena to the brothers Jose de Jesus and Sisto Berryesa DATED NOVEMBER 3rd 1843, the approval of the assembly is waived and possession is proved.' Decree of confirmation PDF p72 (stamped p61): 'being the same land which was granted to said Jose de Jesus and Sisto Berryesa in 1843.' Register 1843 agrees; Hoffman agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p69 (stamped p58): 'a grant... made by GOVERNOR MANUEL MICHELTORENA'. Claimants' petition PDF p11-12 (stamped p5-6) traces Micheltorena's successive decrees of 26, 27, 28, 30 and 31 October 1843 on the brothers' petitions, the last 'ordering the said Secretary to issue the title for which said Petitioners had prayed'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Board's opinion PDF p69 (stamped p58): the grant was 'made by Governor Manuel Micheltorena TO THE BROTHERS JOSE DE JESUS AND SISTO BERRYESA'. PDF p72 (stamped p61) is explicit about the register's confusion: 'Among the documentary evidence introduced into this case are two deeds of the premises claimed, one from Jose de Jesus Berryesa to Anastasia Higuera, HIS WIFE, and the other from Sisto Berryesa to Nicolasa Higuera HIS WIFE. The Petition in the case asks a confirmation in the name of these two grantees, THE WIVES OF THE PERSONS TO WHOM THE ORIGINAL GRANT WAS MADE BY THE GOVERNOR. If the husbands were not themselves joined as petitioners in this case a question not free from difficulty would arise as to the effect of the conveyances from husband to wife.' Claimants' petition PDF p11 (stamped p5) likewise: 'on the 11th day of February 1842 the said Jose Jesus Berryesa and Sisto Berryesa... made their Petition in writing signed by them addressed to the Military Commandant of Sonoma praying for license to occupy provisionally eight sitios de ganado mayor... the said land being known as Las Putas.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red cover 'CASE NO. 175 NORTHERN DISTRICT'; PDF p2 archival note 'Land Case no. 175, Northern District'; transcript title PDF p5 (stamped p1) 'IN CASE NO. 236'; PDF p7 (stamped p2) 'ordered to be filed and docketed with No. 236'; Secretary's certificate PDF p75 (stamped p63) '67 pages... in Case No. 236 on the Docket of the said Board'; District Court wrapper PDF p76 'U.S. District Court, Northern District of California, No. 175, The United States vs. Maria Anastasia Higuera et al de Berreyesa, Transcript of the Record from the Board of U.S. Land Commissioners in Case No. 236, Filed February 5th 1855.' Register 'ND 175' and Hoffman (commission 236 / court 175) both match; filename cubanc_lcf_nd175.pdf agrees."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board's opinion PDF p72 (stamped p61): 'as they all joined in the Petition and as the title in them is without controversy, we see no difficulty in entering a decree of Confirmation according to the case made in the Record. CONFIRMED', filed 5 Sept 1854. DECREE OF CONFIRMATION PDF p72-73 (stamped p61-62): 'it is adjudged by the Commission that the claim of the Petitioners is valid and it is therefore decreed that the same be confirmed. The lands of which confirmation is hereby made are situated in Yolo County and known by the name of Las Putas... being a deep valley bounded by the Range of hills which encircle it named Loyaca, Cerro Bali and Un cantol [Uncastol], containing eight square leagues a little more or less, the foot of said hills being the boundaries', signed Alpheus Felch, R. Aug. Thompson, S.B. Farwell, filed 5 Sept 1854. The United States APPEALED: Attorney General to U.S. Attorney, Washington 7 April 1855, PDF p77 (stamped p64), 'the appeal in the district court of the United States for the Northern district of California WILL BE PROSECUTED by the United States.' Register 'Confirmed' matches the Commission decree; the District Court outcome is not in the pages read, but the register's patent of 5 Jan 1863 (GLO 83) is consistent with the confirmation standing."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose de Jesus Berreyesa and Sisto Berreyesa, brothers, per Micheltorena's grant of 3 November 1843 as recited in the Board's opinion (PDF p69 / stamped p58) and its decree (PDF p72 / stamped p61). Maria Anastasia Higuera de Berreyesa and Maria Nicolasa Higuera de Berreyesa are the WIVES of the two grantees and took by deed from their husbands; they are the named U.S.-era claimants (and, per the register, the patentees). Hoffman 1862 ('Jose de Jesus y Sisto Berreyesa') agrees with the case file against the register. A variant of the dominant error class: the register carries the claimant/patentee rather than the Mexican grantee."
+  },
+  "notes": "Chain as pleaded (petition PDF p11-12 / stamped p5-6): 11 Feb 1842, Jose de Jesus and Sisto Berreyesa petition the military commandant of Sonoma for leave to occupy eight sitios provisionally, and Salvador Vallejo grants the licence by marginal order the same day; 16 July 1843 the brothers petition the Governor for the grant; Micheltorena's decrees follow on 26, 27, 28, 30 and 31 October 1843 (the brothers protesting on 28 Oct that the conditions first imposed 'would render the grant in a great measure unavailable'), and the title issued 3 November 1843. The Board waived the Departmental Assembly's approval. Note for anyone reconciling acreage: the Board wrestled at length with the 'bounded by the range of hills' description, since Aaron Vandom's 1852 survey of the exterior lines along the mountain crests returned 103[4],645 acres against the eight leagues intended, and it confirmed by the grant's own natural boundaries with the eight-league limit controlling (PDF p70-71 / stamped p59-60). The register's patented acreage of 35,515.82 reflects that later resolution. MECHANICS: stamped '175 ND PAGE n' = PDF page - 6 at the front and PDF page - 11 by stamped p58; the transcript is 67 pages, certified by Secretary George Fisher 31 Jan 1855 (PDF p75)."
  }
 ]

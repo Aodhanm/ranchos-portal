@@ -131,5 +131,49 @@
    "grantee": "Francisco Lopez and Pedro Lopez (grant of 1840). Alexander and Mellus are the 1852 claimants, remote purchasers through Miguel Triunfo."
   },
   "notes": "175MB / 190 PDF images; stated 178 pages. Hoffman's 'Pedro Lopez et al.' agrees with the case file against the register - this is the dominant claimant-for-grantee error. TWO title papers are in the file and they do not have the same date or the same signer: the Surveyor-General's certified archive expediente (52 SD pp.9-16, certified by Saml D. King 6 Sept 1852, PDF p21-22) carries a titulo in the name of Juan B. Alvarado dated 5 Dec 1840, while the claimants' original document H.H. No. 1 (52 SD pp.173-175) is issued by Manuel Jimeno Casarin as acting governor and dated 7 Nov 1840 - the date Abel Stearns gave in his deposition (PDF p11, 52 SD p.6: 'a grant to Francisco & Pedro Lopez dated Nov 7th 1840 & a testimonial of judicial possession attached dated in February 1841'). The wrappers at 52 SD pp.10-11 show TWO 1840 expedientes, one for Tujunga and one for 'un sitio contiguo a Tojunga', which is the likeliest explanation. Either way the year (1840) and the grantees (the Lopez brothers) are the same in both."
+ },
+ {
+  "id": "rancho-tularcitos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256562/files/cubanc_lcf_nd228.pdf",
+  "pdf_pages_stated": 415,
+  "pages_read": [
+   "1-14",
+   "56-69",
+   "431-442"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 228 / NORTHERN DISTRICT / LOS TULARCITOS GRANT / THE HEIRS OF JOSE HIGUERA CLAIMANT'; PDF p5 transcript 'for the place named \"Los Tularcitos\"'; decree of confirmation PDF p63 (228 ND p.49) 'is known by the name of Los Tularcitos'. The register's parenthetical '(Higuera)' matches the file's grantee"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board's opinion, PDF p59 (228 ND p.45): 'said Jose Higuera applied to Governor Sola for a grant of the premises called Los Tularcitos... that under date of October 4, 1821, a decree was entered directing that said Higuera be put in possession of the land'; PDF p61 (228 ND p.47) 'Higuera went into possession of the premises soon after the concession was made by Sola in 1821'. Corroborated by the printed act of possession at PDF p431 (228 ND p.404): 'OCTOBER 23, 1821.-In compliance with the foregoing superior decree of the Superior Governor of the Province, Col. Don Pablo Vicente de Sola, ordering that possession of the place called Los Tularcitos be given to the invalid soldier, Jose Higuera... LUIS PERALTA'"
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "The granting governor is named repeatedly: PDF p431 (228 ND p.404) the decree is subscribed 'SOLA' and the act of possession recites 'the superior decree of the Superior Governor of the Province, Col. Don Pablo Vicente de Sola'; petition PDF p9 (228 ND p.4) 'Pablo Vicente de Sola Governor of the Province of California... granted to Jose Higuera (Father of these petitioners) a tract of land called De los Tularcitos'; Juan B. Alvarado's own deposition, PDF p14 (228 ND p.9), Q. 'whether Governor Sola and yourself were not acting as Governor of California respectively at the date of these grants. Answer. We were.' Register's 'a Spanish governor' is true in kind but unnamed"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Register's grantee field holds the single word 'The' - a truncated fragment, not a name. The grantee is JOSE HIGUERA: PDF p431 (228 ND p.404) 'possession of the place called Los Tularcitos be given to the invalid soldier, Jose Higuera'; Board opinion PDF p59 (228 ND p.45) 'said Jose Higuera applied to Governor Sola for a grant of the premises called Los Tularcitos'; PDF p1 red label 'THE HEIRS OF JOSE HIGUERA CLAIMANT'. The claimants are his twelve children (Antonia, Fulgencio, Dolores, Valentin, Mariano, Josefa, Encarnacion, Florencio, Micaela, Rita, Refugio and Agustina de Higuera), PDF p9 (228 ND p.4)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 228 NORTHERN DISTRICT'; PDF p2 typed leaf 'LAND CASE 228 ND. 415 PAGES'; every leaf stamped '228 ND'; filename cubanc_lcf_nd228.pdf resolved 200"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner Alpheus Felch, PDF p62 (228 ND p.48), 'the equities of the original Grantee are established, a decree will be entered in favor of the petitioners, his children and heirs at law. Confirmed.'; Decree of Confirmation, PDF p63 (228 ND p.49), filed Nov 28, 1854, signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, Commrs: 'it is adjudged by the Commission that the Claim of the said petitioners is valid, and it is therefore decreed that the same be confirmed.' The confirmation became FINAL without appeal - printed brief, PDF p440 (228 ND p.413): 'the decree of the Board, signed by the attorney for the claimants, and from which they took no appeal, but joined in a stipulation giving it finality'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Higuera (an invalid soldier of the San Jose jurisdiction). The register's 'The' is a truncation of the claimant string 'The heirs of Jose Higuera'.",
+   "governor": "Pablo Vicente de Sola, Governor of the Province of California (decree 4 Oct 1821, possession 23 Oct 1821). The Sola grant was afterwards recognised and augmented by Governor Juan B. Alvarado's decree of concession of 14 February 1839 (PDF p60, 228 ND p.46)"
+  },
+  "notes": "337MB / 442 PDF images; stated 415 pages. Hoffman (year 1821, governor P. V. de Sola, grantee Jose Higuera, confirmed) agrees with the case file on every point; the register's 'The' and 'a Spanish governor' are the defective values. The bulk of this very large file is the 1857-61 SURVEY contest (Twitchell survey vs the official survey, Calaveras valley), which did not disturb the confirmation. NOTE for a re-reader: the register's year 1821 is right but the amended petition at 228 ND p.5 (PDF p10) appears to read '4th of October 1828', which cannot be correct - Sola left office in 1822 - and the Board's opinion, the act of possession and the original petition all read 1821."
  }
 ]

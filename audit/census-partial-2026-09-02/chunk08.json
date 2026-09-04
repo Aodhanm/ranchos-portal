@@ -333,5 +333,49 @@
    "year": "1840, not 1838. Grant decree PDF p18 (transcript p13): 'Monterey 3 de Octubre de 1840 ... declaro dueño en propiedad a D.n Ignacio Pacheco del parage nombrado San Jose', title closing PDF p19 'Dado en Monterey a tres de Octubre de mil Ocho cientos cuarenta.' 1838 is the year the EXPEDIENTE opened, not the grant: Pacheco's petition is dated 'Sonoma M.zo 12 de 1838' (PDF p14, transcript p9), Alvarado's referral decree 'Sta Clara Marzo 24 de 1838', and Vallejo's informe 'Sonoma Ab.l 24 de 1838' (PDF p15, transcript p10). Hoffman's 1840 agrees against the register."
   },
   "notes": "Do not confuse the two titles bound in this expediente. Title No. 1 (PDF p16-17 Spanish, PDF p22-23 translation) is Mariano Chico's grant of AGUA CALIENTE near Petaluma and Sonoma to Pacheco, 'Monterey Mayo siete de mil ochocientos treinta i seis' (7 May 1836); Pacheco surrendered it because the land was unfit for cultivation and asked instead for San Jose between Sonoma and San Rafael (his 1838 petition, translation PDF p23/transcript p16). The San Jose title is the 3 Oct 1840 Alvarado grant. Caution for a re-reader: the clerk's English translation of the title's closing date, PDF p25 (transcript p20), reads as 'the 3rd of October 1844'; the Spanish original PDF p19 says 'mil Ocho cientos cuarenta' and the translation's own heading PDF p24 says 'Monterey Oct 3rd 1840', so 1840 governs. No patent copy in the pages read."
+ },
+ {
+  "id": "rancho-san-jose-buenos-ayres",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268931/files/cubanc_lcf_sd305.pdf",
+  "pdf_pages_stated": 72,
+  "pages_read": [
+   "1-14",
+   "16-26",
+   "68-78"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 305 / SOUTHERN DISTRICT / SAN JOSE BUENOS AYRES GRANT / BENJAMIN D. WILSON, ET AL. CLAIMANT'; transcript title PDF p3 'for the place named \"San Jose Buenos Ayres\"'; grant decree PDF p18 'el parage conocido con el nombre de San Jose Buenos Ayres'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish, PDF p19 (transcript p16): 'Dado en la Ciudad de los Angeles a veinte y cuatro de Febrero de mil ochocientos cuarenta y tres. Man.l Michellt.a. Fran.co Arce S.rio int.o' (= 24 February 1843); registered 'Ang.s Febrero 25 de 1843 ... Arguello' on the same leaf. Petition PDF p7 (transcript p4) agrees: 'dated February 24th A.D. 1843'."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The grant decree is Micheltorena's, not Alvarado's. PDF p18 (transcript p14): 'Manuel Michelttorena Gobernador Comandante General e Ynspector de ambas Californias. Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres'; signed PDF p19 'Man.l Michellt.a'. Sworn translation PDF p26 (transcript p22): '(Grant.) Manuel Michelttorena, Governor, Commandant General and Inspector of both Californias.' Abel Stearns authenticated 'The signatures of Manuel Michletorena, Francisco Arce ... I believe to be genuine' (PDF p10, transcript p7). Petition PDF p7: 'by deed of grant made by Manuel Michaltorena as Governor of the Californias dated February 24th A.D. 1843'. Hoffman agrees against the register."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee is MAXIMO ALANIS. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Judicial possession was given to him 6 April 1846: PDF p21 (transcript p17) 'anuente a la solicitud verval que hizo Don Macsimo Alanis para que se le de posecion juridica de un terreno conocido con el nombre de San Jose Buenos Ayres'. His son Marcos Alanis deposed PDF p13-14 (transcript p9-10): 'To whom was that rancho first originally granted...? To My Father ... My Father, Maximo Alanis ... continued in the occupation of said Rancho until his death which I believe took place in the Year 1851.' Wilson and Sanford are purchasers from the heirs (petition PDF p7-8). 'Antonio del Valle' appears nowhere in this file; he is the grantee of a different rancho. Hoffman agrees against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 'CASE NO. 305 SOUTHERN DISTRICT'; PDF p2 'LAND CASE 305 SD 72 pgs.'; page stamps '305 SD'; District Court caption PDF p69 (transcript p63) 'Case No. 305 ... Transcript 368'; filename cubanc_lcf_sd305.pdf. Board docket no. 368."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket PDF p6 (transcript p3), 'San Francisco February 20, 1855. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim.' U.S. appealed (Ord's petition for review served 5 Feb 1857, PDF p71-72, transcript p65-66), then abandoned it: Attorney General's letter PDF p75 (transcript p69), 26 Jan 1857, 'In the case of the claim of Benjamin D. Wilson et al, confirmed to the claimants by the Commissioners, Case no. three hundred and sixty-eight, (368), appeal will not be prosecuted by the United States'; District Court order PDF p69-70 (transcript p63-64), Judge Ogier, 4 June 1857: 'the order of this Court made on the 24th day of February AD 1857, granting an appeal to the Supreme Court from the Decree of Confirmation of this Court in this case, be and hereby is vacated; and that the Claimants have leave to proceed under said Decree as under a final Decree.' Register 'Confirmed' correct and final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Manuel Micheltorena, not Alvarado. Grant decree PDF p18 (transcript p14): 'Manuel Michelttorena Gobernador Comandante General e Ynspector de ambas Californias'; signed 'Man.l Michellt.a', PDF p19.",
+   "grantee": "Maximo Alanis, not Antonio del Valle. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres'."
+  },
+  "notes": "TWO substantive register errors on one record, both confirmed against the original Spanish decree and its sworn translation. Note the register is internally inconsistent as well: its own era field reads 'micheltorena' while its governor field reads 'Alvarado'. The claim chain in the file is Maximo Alanis (grantee, d. 1851) -> his heirs sell Nov 1851 to William Jones and W. T. B. Sanford -> Jones conveys to Benjamin D. Wilson 4 Jan 1852 (petition PDF p7-8, transcript p4-5); Wilson is the register's patentee, which is consistent. One sitio de ganado mayor; register's 4,438.69 patent acres is about one league. No patent copy in the pages read."
  }
 ]

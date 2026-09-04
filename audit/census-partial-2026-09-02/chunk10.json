@@ -134,5 +134,46 @@
    "grantee": "Antonio Yorba and Juan Pablo Peralta (transcript pp.5, 21, 23, 54). Bernardo, Teodocio and Ramon Yorba are their heirs and the U.S.-era claimants."
   },
   "notes": "Hoffman 1862 agrees with the case file on year (1810) and grantee-in-part (it gives 'Antonio Yorba', omitting Juan Pablo Peralta) but its governor column, 'Jose Figueroa', is DEMONSTRABLY WRONG for this claim - the grant is Arrillaga's, and no Figueroa document is in the transcript. The register's 'a Spanish governor' is therefore closer to the truth than Hoffman here. Register also puts the second grantee's surname as none; the second grantee is Peralta, not a Yorba. Register's grantee list matches exactly the three heirs summoned by the District Court."
+ },
+ {
+  "id": "rancho-saucelito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265445/files/cubanc_lcf_nd083.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "PDF 1-12 (label + transcript pp.1-7)",
+   "PDF 35-48 (transcript pp.28-41, incl. the grant)",
+   "PDF 192-205 (transcript pp.182-194, incl. the District Court register abstract and index to the record)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 83 / NORTHERN DISTRICT / SAUSALITO GRANT / GUILLERMO A. RICHARDSON / CLAIMANT'; transcript p1 'FOR THE PLACE NAMED \"Sausalito\"'; the grant itself, transcript p36, 'el terreno conocido con el nombre de Saucelito'. Both spellings are used interchangeably in the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The grant title, transcript pp.36-37, closes: 'Es dado en Monterrey del Departamento de las Californias a once de Febrero de mil ocho cientos treinta y ocho. Juan B. Alvarado. Franco. Arce Oficial Primero.' (Monterey, 11 February 1838.) Petition, transcript p4: 'That a grant issued thereupon on the 11th of February 1838, under the signature of Governor Juan B. Alvarado giving and granting your petitioner the tract of land petitioned for.' Register's 1838 is right; HOFFMAN'S 1835 IS WRONG. 1835 is the year Richardson first PETITIONED (transcript p4: 'on the 18th day of February 1835, he made & presented his Petition in writing to Jose Figuera then Governor of California'); the grant did not issue for three more years."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title, transcript p36: 'El Ciudadano Juan B. Alvarado, Gefe Politico de la Alta California. Por cuanto Dn. Guillermo Antonio Richardson estrangero naturalizado en la Republica Mejicana ha pretendido ... el terreno conocido con el nombre de Saucelito ... he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras'; signed p37 'Juan B. Alvarado'. Index to the record, transcript p191: 'Page 36 Grant of Alvarado; 42 Translation of Grant'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Here uniquely in this chunk the claimant IS the grantee. Grant, transcript p36: 'Por cuanto Dn. Guillermo Antonio Richardson estrangero naturalizado en la Republica Mejicana ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Saucelito'. Judicial possession of 12-15 Oct 1841 by Salvador Vallejo runs throughout to 'D. Guillermo Richardson' as owner (transcript pp.31-34). No Galindo appears anywhere in the pages read. Register's 'William (Guillermo) A. Richardson' matches; HOFFMAN'S 'Jose Antonio Galindo' IS WRONG for this claim."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 83 NORTHERN DISTRICT'; PDF p2 pencil 'Land Case 83 ND'; filename cubanc_lcf_nd083.pdf; every leaf stamped '83 ND PAGE n'; District Court register abstract, transcript p183, 'No: 83. The United States vs G. A. Richardson - \"Saucelito\"'. Land Commission docket 104 (transcript p1, p2, p191), matching Hoffman's commission_no 104."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: transcript p3, 'San Francisco December 27, 1853. In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim' (opinion transcript pp.53-54, decree p55). District Court register abstract, transcript p183: '1855 January 8 Filed notice of appeal from Atty Genl ... 1856 Feby 11 Decree Confirming Claim (page 246 decrees) ... 1857 April 2 Stipulation & order vacating appeal.' Endorsement, transcript pp.193-194: 'Notice from Atty Genl dated Jany 9. 1857, that appeal will not be prosecuted & stipulation therewith.' The remaining docket entries 1860-1877 are survey litigation only. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "REGISTER CORRECT ON ALL SIX FIELDS; HOFFMAN 1862 IS WRONG ON BOTH FIELDS IT WAS FLAGGED AGAINST. Hoffman's year 1835 is the date of Richardson's petition to Governor Figueroa, not of the grant; Hoffman's grantee 'Jose Antonio Galindo' does not appear in this case file at all (the Galindo Saucelito title is a separate matter and is not the title litigated in ND 83). This is a useful control: the same Hoffman column that is right in most of this chunk is demonstrably wrong here, so Hoffman must never be used to overturn the register without the case file. PDF is 173 MB / 205 images; read via pypdf page-range excerpts. The file also contains Richardson's 1844 application to Micheltorena asking whether his Alvarado title was valid, and Micheltorena's affirmative decree of 16 Dec 1844 (transcript pp.28-29, 40-41) - a confirmation, not a new grant."
  }
 ]
