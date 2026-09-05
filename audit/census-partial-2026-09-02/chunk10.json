@@ -433,5 +433,89 @@
    "grantee": "Francisco Lopez and Jose Arellanes (Arreyanes) - concession decree, transcript pp.10 and 15; expediente cover p12; petition p13. Manuel Anguisola bought their rights on 27 Sept 1847 and is the U.S.-era claimant; he in turn sold to Ramon de la Cuesta and Francisco Gonzales Camino on 6 Dec 1854, and they were substituted as appellants."
   },
   "notes": "Hoffman 1862 agrees with the case file against the register: grantee 'Francisco Lopez et al.' (the 'et al.' is Jose Arellanes). Year 1843 and governor Micheltorena in the register are both correct. Two things a re-reader should carry forward: (1) the register's own 'outcome: Confirmed' is right, but the confirmation came only on APPEAL - the Board rejected the claim in 1854 and the confirmed parties in the final decrees are neither the grantees nor the register's 'Manuel Anguisola' but his successors Ramon de la Cuesta and Francisco Gonzales Camino; a 'patent_to' field for this rancho should be checked against THEM, not Anguisola. (2) The 1854 deed at transcript p108 describes the same land as 'a certain Rancho lying and Situate in the County of Santa Barbara and known as Rancho \"Piru\", said Rancho Containing Three Square leagues or \"Sitios de ganado Mayor\" more or less' - Piru is an alias for this Temascal grant and is worth carrying in the register's alias field. PDF is 106 MB / 127 images."
+ },
+ {
+  "id": "rancho-tomales-baulines",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264452/files/cubanc_lcf_nd068.pdf",
+  "pdf_pages_stated": 272,
+  "pages_read": [
+   "1-30 (PDF images; stamped transcript pp. 1-23)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE NO. 68 NORTHERN DISTRICT - TAMALES y BAULENES GRANT - RAFAEL GARCIA CLAIMANT'; stamped p1 transcript title: place named 'Tamales y Baulenes'. Register's 'Tomales Y Baulines' is the modern standardized spelling of the same rancho."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p16: dated Monterrey 18 de Marzo de 1836, '...se declara dueno en propiedad del terreno conocido con el nombre de Tamales y Vaulenes al C.no Rafael Garcia...'; land-commission approval stamped p17: 'concedido en 18 de Marzo de este ano', Monterrey 27 June 1836."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Stamped p16 decree signed 'Nicolas Gutierrez'; stamped p22 translation: 'The Honorable Don Nicolas Gutierrez (Gefe Superior Political) ad interim of the Territory of Upper California'. Register's 'the interim government' names the right regime but omits the granting official; Hoffman 1862 agrees on Gutierrez."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Stamped p16 grant decree: 'se declara dueno en propiedad del terreno... al C.no Rafael Garcia'; petition stamped p4 and espediente title stamped p7 likewise Rafael Garcia."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE NO. 68 NORTHERN DISTRICT'; every transcript leaf stamped '68 ND'; filename cubanc_lcf_nd068.pdf. (Board docket was No. 114, stamped p1-2 - different numbering system, not the court docket.)"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Stamped p3: 22 Nov 1853, 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim'. Board confirmation verified; final District Court decree lies beyond pages read (file runs 272 pp). Hoffman 1862 lists disposition 'confirmed', consistent."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Nicolas Gutierrez, Gefe Superior Politico interino, per grant decree stamped p16 and translation stamped p22"
+  },
+  "notes": "Grant chain: petition 15 June 1835 (stamped p4/p8); Figueroa referral 28 July 1835; Gutierrez interim-governor decree of ownership 18 March 1836 (stamped p16); comision de terrenos approval 27 June 1836 and junta departamental approval July 1836 (stamped p17); Alvarado order for testimonio 17 April 1839, signed Manuel Jimeno (stamped p18). Register year 1836 and grantee solid. Outcome graded only to Board confirmation - district-court decree sits past p30 of 272."
+ },
+ {
+  "id": "rancho-tomales-baulines-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264264/files/cubanc_lcf_nd418.pdf",
+  "pdf_pages_stated": 248,
+  "pages_read": [
+   "1-30 (PDF images; stamped transcript pp. 1-24)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "ERR",
+    "evidence": "The cited case is NOT a Tomales y Baulines case. PDF p1 red label: 'CASE NO. 418 NORTHERN DISTRICT - PUNTA REYES GRANT - BETHUEL PHELPS CLAIMANT'; transcript title stamped p1: 'for the place named Punta Reyes'; petition stamped p6: 'known by the name of the Rancho of Punta Reyes'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition stamped p6: 'Said tract was granted on the 17th of March 1836'. (If the row instead intends the Tomales y Baulines grant, that too is 1836: Gutierrez decree 18 March 1836, ND 068 stamped p16.) Grant decree itself lies past p30; petition + Hoffman 1862 concur on 1836."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Petition stamped p6: granted 'by Don Nicolas Gutierrez Governor or Political Chief of the Territory of California'; Richardson dep stamped p7: 'the then Commandante of California Don Nicolas Gutierrez' (early 1836). Register's 'the interim government' names the right regime but omits the official. Same granting official under either rancho reading."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Dominant error class: register records the U.S. claimant, not the Mexican grantee. Petition stamped p6: granted 17 March 1836 'to James Richard Berry', conveyed by Berry to Stephen Smith 14 Feb 1844 and by Smith to Phelps 25 Sept 1845; Cooper dep stamped p12: 'the Rancho claimed in this Case and granted to James Richard Berry'; Black dep stamped p15: 'originally claimed by said Berry and now claimed by Bethuel Phelps'. (If the row intends Tomales y Baulines, the grantee was Rafael Garcia, ND 068 stamped p16 - under no reading is Phelps the grantee.)"
+   },
+   "land_case": {
+    "grade": "ERR",
+    "evidence": "Mechanically the docket resolves (red label CASE NO. 418 ND; every leaf stamped 418 ND; filename cubanc_lcf_nd418.pdf; Board docket No. 525, stamped p1-2), but ND 418 is Phelps's Punta de los Reyes claim (grantee J.R. Berry), not a Tomales y Baulines case. For a row named 'Tomales Y Baulines (Phelps)' whose patent data (no. 37, Feb 26 1866, 13,644.66 ac) belongs to the Tomales y Baulines Phelps patent, this docket is mis-assigned."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Stamped p5: 7 Aug 1855, 'Commissioner S.B. Farwell delivered the opinion of the Board confirming the claim'; 8 Feb 1856 amended decree of confirmation substituted. Board confirmation verified; final District Court decree lies beyond pages read (248 pp). Hoffman 1862 lists disposition 'confirmed', consistent."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Rancho of case ND 418 is 'Punta Reyes' (Punta de los Reyes), red label p1 + petition stamped p6",
+   "grantee": "James Richard Berry, per petition stamped p6 ('granted on the 17th of March 1836 to James Richard Berry by Don Nicolas Gutierrez') and Cooper dep stamped p12",
+   "governor": "Nicolas Gutierrez, per petition stamped p6"
+  },
+  "notes": "REGISTER ROW IS A CONFLATION OF TWO PHELPS CLAIMS. The row's name + patent fields (patent_to Phelps, Feb 26 1866, GLO no. 37, 13,644.66 ac) describe Phelps's share of Rancho Tomales y Baulines (companion row rancho-tomales-baulines has the Garcia share, patent no. 38), but the docket and scan_record_url point to ND 418, Phelps's separate Punta de los Reyes claim (8 sq leagues, grant 17 March 1836 to J.R. Berry, Berry->Smith 1844, Smith->Phelps 1845, juridical possession 16 June 1842 given by Salvador Vallejo as magistrate, dep stamped p10). Hoffman 1862 court no. 418 (Punta Reyes / Berry / 1836 / Gutierrez) agrees with the case file against the register on name and grantee. Fix requires locating the docket that actually carried the Phelps Tomales y Baulines interest (possibly within the Garcia case ND 068 - NOT verified here). Typed leaf PDF image 2: 'LAND CASE 418 ND 248 pgs.'"
  }
 ]

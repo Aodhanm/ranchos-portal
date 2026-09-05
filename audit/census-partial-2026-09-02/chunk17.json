@@ -1,0 +1,161 @@
+[
+ {
+  "id": "rancho-unnamed-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266129/files/cubanc_lcf_sd171.pdf",
+  "pdf_pages_stated": 96,
+  "pages_read": [
+   "images 1-24 (label; stamped pp.1-15)",
+   "images 90-105 (stamped pp.81-96)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'HUERTA DE QUATI GRANT'; stamped p1 transcript title 'Huerta de Quati'. Register's 'Cuati' is the standard orthographic variant of the file's 'Quati' (also 'Cuate' at stamped p87)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p8 (Spanish): 'Es dado en Sta Barbara a doce de octubre de mil ochocientos trienta y ocho'; sworn translation stamped p9: 'Given at Sta Barbara the twelfth of October one thousand eight hundred and thirty eight.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Juan B. Alvarado', styled 'Gefe Politico into de la Alta California' (stamped p8); translation stamped p9: 'Juan B. Alvarado Chief civil Magistrate ad interim of Upper California'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant decree (stamped p8/p9) names the grantee 'Bartolome de Rey, a neophyte of the Ex-Mission of San Gabriel'; J.J. Warner deposition stamped p7: 'He is now known by the name of Victoria Reid, and is the widow of Hugo Reid'; Board opinion stamped p10 accepts 'Bartolome de Rey and Victoria Reid are the same person'. Register's 'Victoria Reid, an' is the right person but the decree names her Bartolome de Rey, and the register string is truncated mid-phrase ('an' = likely 'an Indian')."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 171 SOUTHERN DISTRICT'; every leaf stamped '171 SD'; PDF filename cubanc_lcf_sd171.pdf. Commission docket was No. 455 (stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED Aug 1, 1854 (decree stamped p12: 'her application for a confirmation thereof be denied'), but on appeal the District Court gave judgment against the US on Oct 4, 1855 (recited in appeal order stamped p81), the US dropped its Supreme Court appeal (AG letter 18 Sept 1856, stamped p85: 'confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted'), and the court made the confirmation decree FINAL, June Term 1857 (stamped p83, Judge Isaac S.K. Ogier: 'the claimant have leave to proceed under the decree of this Court heretofore rendered in his favor as a final decree'). Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "hoffman_flag 'docket-not-found-in-hoffman': Hoffman's table evidently lists this case under a different head; the file itself is unambiguous (SD court docket 171, Commission No. 455). Patent claim (June 30, 1859, No. 421, 128.26 ac) not checked here; confirmation chain verified through the final 1857 decree; Phase C checks GLO. Duplicate-exposure note: PDF image count 105 vs 96 stamped pages, blanks and covers account for the drift; stamped pages cited throughout."
+ },
+ {
+  "id": "rancho-yajome",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264426/files/cubanc_lcf_nd039.pdf",
+  "pdf_pages_stated": 197,
+  "pages_read": [
+   "images 1-28 (label; stamped pp.1-21)",
+   "images 60-75 (stamped pp.52-65)",
+   "images 188-207 (stamped pp.178-197)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Sworn translation of the expediente, stamped p19: 'I declare Don Damaso A. Rodrigues owner in fee of the land known by the name of Yajome'; depositions call it 'Rancho called Yajome' (stamped p9). The red label and transcript use the variant 'LLAJOME'. Hoffman's 'Llajomc' is a misprint of Llajome, same rancho."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, Monterrey 'Marzo 13 de 1841' (stamped p13; translation stamped p19: 'Monterey, March 13th 1841'); formal titulo 'Dado en Monterrey diez y seis de Marzo de mil ochocientos cuarenta y uno' (stamped p16)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree, stamped p13: 'El Sor Dn Juan Bta Alvarado Gobor Constitucional del Departamento de las Californias asi lo mando decreto y firmo... Alvarado, Manl Jimeno Srio'; titulo signed 'Alvarado' (stamped p16)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee is DAMASO Antonio Rodriguez, not 'Tomaso'. Exhibit A wrapper, stamped p11: 'Espediente instruido por Dn Damaso Antonio Rodriguez del Sitio llamado Llajome'; decree stamped p13: 'declaro a Dn Damaso A. Rodrigz dueno en propiedad del parage'; titulo stamped p15: 'Por Cuanto Dn Damaso Antonio Rodriguez'; petition signed 'Dam. A. Rodrigz' (stamped p14); translation stamped p19: 'I declare Don Damaso A. Rodrigues owner in fee'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE NO. 39 NORTHERN DISTRICT / LLAJOME GRANT / SALVADOR VALLEJO CLAIMANT'; leaf stamps 'CASE 39 ND'; filename cubanc_lcf_nd039.pdf. Commission docket No. 194 (stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of final confirmation 'Given under our hands this 21st day of Feby 1853', Hiland Hall + Harry I. Thornton (stamped p52: 'decreed that the said claim be confirmed to the claimant to the extent and quantity of one sitio and a half'); AG letter 22 Nov 1856 (stamped p60): 'appeal will not be prosecuted by the United States'; District Court order 9 Feb 1857, Judge Ogden Hoffman (stamped p63): appeal dismissed, 'the Claimant have leave to proceed under the decree of the Land Commission heretofore rendered in his favor, as under Final Decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Damaso Antonio Rodriguez, per the concession decree (stamped p13: 'declaro a Dn Damaso A. Rodrigz dueno en propiedad') and titulo (stamped p15: 'Por Cuanto Dn Damaso Antonio Rodriguez'). Hoffman 1862 prints the same 'Tomaso A. Rodriguez' error; the register evidently copied it."
+  },
+  "notes": "hoffman_flag name-mismatch resolved: 'Llajomc' (Hoffman OCR/misprint) = Llajome = Yajome, one rancho. Grantee sold to claimant Salvador Vallejo 14 Oct 1842 (petition stamped p5). File's later half is 1861 survey-location litigation (depositions to stamped p197) postdating final confirmation. Patent claim (Sept 16, 1864, No. 77) not in pages read; Phase C checks GLO."
+ },
+ {
+  "id": "u-102",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record. Register itself records no docket (hoffman flag: no-parseable-docket-in-register)."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No digitized case file located; digicoll searches 'Matzultaquea', 'Mazultaquea', 'Matzultakea', 'Ramon Carrillo' (+ Land Case filter) return no Land Case Files record. Register outcome field is blank."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. Nearest digicoll candidates checked and excluded: record/264211 and record/265510 (Rancho Mallacomes/Moristul, Sonoma Co.) both trace to grantee Jose de los Santos Berreyesa; neither page mentions Matzultaquea or Carrillo. A Pico-era grant that never reached the Land Commission would have no Bancroft case file, consistent with the register's blank docket/outcome."
+ },
+ {
+  "id": "u-116",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256591/files/cubanc_lcf_nd259.pdf",
+  "pdf_pages_stated": 25,
+  "pages_read": [
+   "images 1-30 (label; stamped pp.1-23)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Expediente wrapper, stamped p7: 'Espediente promovido por Don Guillermo Flugg en solicitud del parage nombrado Rio de las Plumas. Ano de 1844. Numero 349' \u2014 the register's name (flagged '(in Jimeno's Index)') matches the expediente head. The grant itself names the tract 'Boga' (translation stamped p19: 'on the west side of Rio de las Plumas in the centre of a tract of land called Boga'); red label reads 'BOGA or FLUGGES RANCHO GRANT'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p9: 'Monterrey, 21 de Febrero de 1844. Vista la peticion...'; translation of the titulo, stamped p20: 'Given in Monterey on this 21st of Feby 1844.' Departmental Assembly approval June 13, 1845 (stamped p11)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo translation, stamped p19: 'Manuel Micheltorena Brigadier General of the Mexican Army... Governor Commandant & Inspector General of the Department of the Californias'; Spanish decree signed 'Michelt.o' (stamped p9)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped p19: 'Don Carlos Guillermo Flugge, Mexican by naturalization' (= Charles William Flugge; he signs 'C. W. Flugge', stamped p16). Register 'Charles W. Flugge' is the same man in English form; petition stamped p3 names him 'Charles W. Flugge deceased'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE NO. 259 NORTHERN DISTRICT'; leaf stamps '259 ND'; filename cubanc_lcf_nd259.pdf; Commission docket No. 664 (stamped p1/p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Commr. R. Aug. Thompson, stamped p21: 'This document is unsustained by other proof and is of itself insufficient... A decree rejecting the claim will therefore be entered', filed Jan 23, 1855; decree stamped p22: 'the claim of the petitioner is not valid... his application for a confirmation thereof be denied' (Felch, Thompson, Farwell). No confirmation anywhere in the 25-page file; Hoffman 1862 also lists it rejected."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "hoffman_flag name-mismatch resolved: Hoffman prints the rancho as '5 square leagues' (a quantity, not a name); the expediente names the place Rio de las Plumas and the grant calls the tract Boga. Claimant was Leonce Hoover, administrator of Flugge's estate (docketed No. 664, filed March 1, 1853, stamped p2-3). The rival Larkin claim to the same Boga tract is mentioned at stamped p4 ('claim numbered 129'); cf. register u-27 (ND 358)."
+ }
+]

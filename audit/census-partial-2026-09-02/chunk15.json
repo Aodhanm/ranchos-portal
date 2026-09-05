@@ -1,0 +1,208 @@
+[
+ {
+  "id": "rancho-omochumnes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265541/files/cubanc_lcf_nd182.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-20",
+   "88-99",
+   "138-154"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 182 NORTHERN DISTRICT / OMOCHUMNES GRANT'; grant Spanish original stamped p81: 'Rancheria de los Omuchumenes'; transcript title (stamped p1): 'for the place named Omochumnes'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant (Ex. A) stamped p82: 'Dado en Monterey a los ocho dias del mes de Enero de mil ochocientos cuarenta y cuatro'; translation stamped p86: 'Given in Monterey the Eighth day of the month of January one thousand eight hundred and forty four' = 8 Jan 1844"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant stamped p81: 'El Ciudo. Manuel Micheltorena... Gobernador, Comandante General e Inspector del Departamento de Californias'; signed 'Manl. Michelta.' with 'Manuel Jimeno Srio.' (p82)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant stamped p81: 'Por cuanto D. Joaquin Sheldon, mejicano por naturalizacion...'; translation p85 'whereas Joachin Sheldon a Mexican by naturalization'. Sutter dep. stamped p9 Q19 confirms Joaquin Sheldon = Jared Sheldon (claimants are his estate)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label p1: CASE NO. 182 NORTHERN DISTRICT; PDF filename cubanc_lcf_nd182.pdf; court captions stamped p126/p128: 'D.C. 182: L.C. 173' (Board docket was 173)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming 10 Oct 1854 (stamped p4 docket entry); District Court opinion affirming Board decree, dated Dec. 5 1856 (stamped p135-136); order vacating US appeal and letting claimants proceed 'as under Final Decree', Hoffman, 6 Aug 1857 (stamped p131); AG letter 1 June 1857 'appeal will not be prosecuted' (p129)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Board docket no. 173, District Court no. 182 (captions read 'D.C. 182: L.C. 173'); the register's ND 182 matches the Bancroft binding. Hoffman flag docket-not-found-in-hoffman likely stems from this dual numbering. Surveyor General certificate of survey/publication Feb 27 1868 at stamped p133 (confirmed to 'Catharine Sheldon et als'); no patent copy in file - register's patent claim (July 1, 1870, no. 95) left for Phase C."
+ },
+ {
+  "id": "rancho-potrero-rincon-san-pedro-reglado",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269002/files/cubanc_lcf_sd383.pdf",
+  "pdf_pages_stated": 117,
+  "pages_read": [
+   "1-24",
+   "76-89",
+   "108-127"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "District Court decree stamped p107: land 'known by the name of the Potrero y Rincon de San Pedro de Reglado' (the Board decree p75 spells it 'Regalado'). Case itself is bound as 'LAND IN SANTA CRUZ COUNTY GRANT' (p1 red label) and covers a second tract, 'Mesa del Ojo de Agua', as well"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Board decree stamped p75: 'the grant made by Jose Bolcoff and Manuel Jimeno to Jose Arena on the 15th of August 1842'. For the Buelna tract no dated grant survives: petition p6 alleges only 'some time previous to the years 1838'; Bolcoff dep. p100: title from Micheltorena to Buelna 'was dated in 1842, 1843, or 1844'; Buelna dep. (per opinion p71) says title received 1842. Register's 1838 matches no grant document in the file"
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "Opinion p70/decree p75: 'Jose Ramon Estrada' as Prefect (register gives wrong initial 'Jose E.'); opinion p74: 'Manuel Jimeno, 1st Vocal of the Departmental Junta acting as Governor' approving/granting the Arana tract (register gives 'Jose Jimeno')"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Opinion p70: grant alleged to 'Jose Ramon Buelna'; decree p75: grant 'to Jose Arena' (Arana). Register 'Jose R. Buelna; Jose Arana' matches both original grantees"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 383 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd383.pdf; DC captions p110: 'In D.C. No 383 ... In L.C. No 747' (Board docket 747)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board 23 Oct 1855 (p74-76): Arana tract confirmed, Buelna tract rejected. District Court decree in open court 18 June 1859 (p106-108, Ogier J.): Board AFFIRMED as to Potrero y Rincon de San Pedro de Reglado and REVERSED as to the Mesa del Ojo de Agua tract, confirming both to claimants. US appeal to Supreme Court dismissed on motion of Atty Gen. Bates, Dec. Term 1863; mandate filed 10 Aug 1864 (p114-115). Final = confirmed"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1842 for the confirmed Arana grant, per Board decree p75: 'grant made by Jose Bolcoff and Manuel Jimeno to Jose Arena on the 15th of August 1842'; Buelna-tract grant date never established (lost/burned title)",
+   "governor": "Jose Ramon Estrada (Prefect) for the Buelna tract; Manuel Jimeno (1st Vocal of the Departmental Junta, acting Governor) for the Arana tract (opinion p70, p74)"
+  },
+  "notes": "Two-tract case (claimants Thomas Russell + Farnham heirs). Register's patent_date 'June 18, 1859' equals the DISTRICT COURT decree filing date (p109 'Filed in Office 18th June 1859'), which looks like a conflation - Phase C should verify the actual patent. Hoffman's name-mismatch flag: Hoffman row garbles rancho/grantee columns; case file confirms the tract names. Register year 1838 traces to the petition's vague allegation for the REJECTED-then-reversed Buelna tract, not to any grant."
+ },
+ {
+  "id": "rancho-prietos-najalayegua",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (digicoll searches: 'Najalayegua', 'Nojalayegua', 'Najalayegue', 'Los Prietos y Najalayegua', 'land case files Prietos', 'cubanc_lcf prietos' all NO MATCH; 'Prietos'/'Los Prietos' hits are unrelated posters/photos; 'Land Case Dominguez Santa Barbara' returns only Casmari SD 284, Sisquoc SD 310, and an 1844 Rojo deed)"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (digicoll searches: 'Najalayegua', 'Nojalayegua', 'Najalayegue', 'Los Prietos y Najalayegua', 'land case files Prietos', 'cubanc_lcf prietos' all NO MATCH; 'Prietos'/'Los Prietos' hits are unrelated posters/photos; 'Land Case Dominguez Santa Barbara' returns only Casmari SD 284, Sisquoc SD 310, and an 1844 Rojo deed)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (digicoll searches: 'Najalayegua', 'Nojalayegua', 'Najalayegue', 'Los Prietos y Najalayegua', 'land case files Prietos', 'cubanc_lcf prietos' all NO MATCH; 'Prietos'/'Los Prietos' hits are unrelated posters/photos; 'Land Case Dominguez Santa Barbara' returns only Casmari SD 284, Sisquoc SD 310, and an 1844 Rojo deed)"
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (digicoll searches: 'Najalayegua', 'Nojalayegua', 'Najalayegue', 'Los Prietos y Najalayegua', 'land case files Prietos', 'cubanc_lcf prietos' all NO MATCH; 'Prietos'/'Los Prietos' hits are unrelated posters/photos; 'Land Case Dominguez Santa Barbara' returns only Casmari SD 284, Sisquoc SD 310, and an 1844 Rojo deed)"
+   },
+   "land_case": {
+    "grade": "NA",
+    "evidence": "register land_case is blank by design (no-parseable-docket flag); no digitized case file located to supply one"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no digitized case file located (digicoll searches: 'Najalayegua', 'Nojalayegua', 'Najalayegue', 'Los Prietos y Najalayegua', 'land case files Prietos', 'cubanc_lcf prietos' all NO MATCH; 'Prietos'/'Los Prietos' hits are unrelated posters/photos; 'Land Case Dominguez Santa Barbara' returns only Casmari SD 284, Sisquoc SD 310, and an 1844 Rojo deed)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "no digitized case file located. Register has no docket; digicoll's Land Case Files collection shows no volume for Los Prietos y Najalayegua under any spelling tried. Phase C / another source (GLO, Hoffman appendix, Bowman index) needed to settle the 1845 Pico grant to Jose Dominguez claim chain."
+ },
+ {
+  "id": "rancho-prospero",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265874/files/cubanc_lcf_sd135.pdf",
+  "pdf_pages_stated": 37,
+  "pages_read": [
+   "1-46 (all images; stamped pp.1-37)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "No rancho name in the file: red label p1 styles it '446 BY 264 VARAS SQUARE, SAN GABRIEL GRANT'; grant (stamped p7-8) names no place, only a tract adjoining the garden 'Cuati' at Mission San Gabriel. 'Prospero' is a conventional name taken from the grantee"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p8: 'Given in the City of Los Angeles the 16th of May 1843'; Spanish original p7: '...de mil ochocientos cuarenta y tres'; Board opinion p9: 'original grant made by Governor Manuel Micheltorena which bears date the 16th of May AD 1843'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant p7: 'El Ciudadano Manuel Micheltorena Gobernador Comandante General e Inspector del Departamento de ambas Californias', signed 'Manl. Michelta.', Francisco Arce Secy ad interim"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant p7: 'el Indigena de la Mision de San Gabriel llamado Prospero' - the grant names him only 'Prospero', an Indian of Mission San Gabriel; no surname anywhere in the file. 'Valenzuela' is the WIDOW's surname (claimant Rafaela Valenzuela, petition p4). Register's 'Prospero Valenzuela' attaches her surname to him"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label p1: 'CASE NO. 135 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd135.pdf; DC docket 135, Board transcript no. 418 (p18)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation 28 Feb 1854 (stamped p11, Felch/Campbell/Thompson). US filed petition for review (p18-20) but AG letter 9 Feb 1857 (stamped p36, filed 1 Feb 1858): 'confirmed to the claimant by the Commissioners, case no. 418, appeal will not be prosecuted by the United States'. Confirmation final"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Prospero (an Indian of Mission San Gabriel; no surname in grant, p7-8). Register/patent tradition adds 'Valenzuela' from his widow Rafaela Valenzuela"
+  },
+  "notes": "Size discrepancy inside the sources: grant p7 reads 'cuatrocientos sesenta y seis varas' (466) x 264, as does Hoffman, but the Bancroft label and Board certificate p13 say '446 by 264'. Grant month: translation and petition and opinion all say 16 May 1843; the Spanish original's month word at p7 is ambiguous at this resolution (could read Marzo) - year 1843 certain either way. No patent copy in file; register patent (Dec 4 1875, no. 419) left to Phase C. Hoffman name-mismatch flag is because Hoffman's rancho column is the size, not a name."
+ },
+ {
+  "id": "rancho-punta-reyes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264236/files/cubanc_lcf_nd385.pdf",
+  "pdf_pages_stated": 73,
+  "pages_read": [
+   "1-20",
+   "62-84"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Board decree stamped p61: land 'known by the name of Punta de Reys, situated in Marin County'; opinion heading p59: 'For the place called Punta de Reyes in Marin County containing two leagues of Land in a square'. Bancroft binding styles the case 'Land in Marin County' (p1 red label), which explains the Hoffman name-mismatch flag"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Board decree p61: 'being the same land granted to Jose Francisco Snook by Governor Alvarado on the 8th day of June 1839'. The register's 1836 is the date of the EARLIER 8-league grant to Berry: petition p5, 'on the 17th of March 1836 Nicolas Gutierrez then Governor of California by due form of law ceded a tract of Land to one James Richard Berry' - not the grant confirmed here"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board decree p61: 'granted to Jose Francisco Snook by Governor Alvarado on the 8th day of June 1839'. (Note: paired with the register's 1836/Berry this is impossible - the 1836 Berry grant was by Gutierrez, petition p5. Alvarado is right only for the confirmed 1839 Snook grant)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Board decree p61: the confirmed land is 'the same land granted to Jose Francisco Snook by Governor Alvarado on the 8th day of June 1839'. Berry (register's grantee) was the 1836 grantee of the surrounding tract who expressly released these 2 leagues to Snook (petition p5, p8-9); title chain confirmed: Snook -> Osio (28 Sept 1839) -> Randall (8 Jan 1852) (opinion p59)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 385 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd385.pdf; DC caption p62: 'No 385: L.C. 772'"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion + decree confirming, filed 11 Sept 1855 (p59-61, Felch/Thompson/Farwell); District Court decree of confirmation, Ogden Hoffman, 28 Dec 1857, Board decision 'in all things affirmed', US Attorney consenting (p62-63); AG notice 7 Feb 1857 no appeal (p67); order vacating appeal, claimant to proceed 'as under Final Decree', 24 May 1858 (p64-66)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1839 (8 June) per Board decree p61",
+   "grantee": "Jose Francisco (Joseph Francis) Snook per Board decree p61; register's Berry is the 1836 grantee of the surrounding tract (grant by Gutierrez, petition p5)"
+  },
+  "notes": "Hoffman 1862 prints the same hybrid row (1836/Alvarado/Berry) the register carries, so Hoffman agrees with the register AGAINST the case file - the decree governs. Randall was dead by summer 1856; Shafter affidavit p69 (June 1859): lands sold on execution to McMillan, conveyed 6 May 1857 to Heydenfeldt, O.L. Shafter, J.McM. Shafter, T.W. Park, who were substituted as parties (p70-72). No patent copy in file; register patent (4 June 1860, no. 33) left to Phase C."
+ }
+]

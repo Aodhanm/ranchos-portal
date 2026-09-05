@@ -1,0 +1,171 @@
+[
+ {
+  "id": "rancho-san-gabriel-5",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267600/files/cubanc_lcf_sd259.pdf",
+  "pdf_pages_stated": 62,
+  "pages_read": [
+   "img 1-30 (stamped pp.1-19)",
+   "img 46-71 (stamped pp.39-62)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'LAND NEAR THE MISSION OF SAN GABRIEL GRANT'; transcript title stamped p.1: 'Land near the Mission of San Gabriel'; District Court decree stamped p.50 heading: 'Lot at San Gabriel'. Register's bare 'San Gabriel' is the right place but not the case-file name; this is a 500-varas-square lot, not a rancho named San Gabriel (Hoffman's table likewise gives '500 varas square')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree (Spanish original) stamped p.13: 'Monterrey Mayo 19 de 1842 ... conceder y mandar que se de posesion al Sr. Dn. Vicente de la Osa'; Board opinion stamped p.41: 'a Grant to the premises from Juan B. Alvarado dated the 19th day of May 1842'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree signature stamped pp.14-15: 'Asi yo Juan B. Alvarado Gob. del Departam.to de las Californias lo decrete, mande y firme'; Board opinion stamped p.41 names Juan B. Alvarado."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p.13: possession conceded 'al Sr. Dn. Vicente de la Osa de las quinientas varas de terreno'; Board opinion stamped p.41: grant 'to Vicente de la Osa'. (Daniel Sexton is the U.S.-era claimant only, per p1 red label.)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 259 SOUTHERN DISTRICT'; stamp on every leaf '259 SD'; filename cubanc_lcf_sd259.pdf. Commission docket was No. 377 (transcript title stamped p.1), court docket 259."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 'Confirmed', filed Nov 14 1854 (stamped p.41); Board decree stamped p.42; District Court decree affirming and confirming the claim, rendered ~27 Feb 1856, filed Feb 28 1856 (stamped pp.50-52); AG letter 29 Sept 1856 stamped p.56: 'appeal in the Supreme Court will not be prosecuted by the United States'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case-file name: 'Land near the Mission of San Gabriel' (a 500-varas-square lot), p1 red label and transcript title stamped p.1"
+  },
+  "notes": "hoffman_flags name-mismatch settled: Hoffman's '500 varas square' matches the case file's description; register's 'San Gabriel' is a loose place-name for this mission-lot claim. Grant is a vineyard lot at the edge of the San Gabriel mission oak grove. Chain: de la Osa (grantee 1842) -> Agustin Olvera (deed 25 Jan 1844) -> Daniel Sexton (deed 6 Oct 1848), all per Board opinion stamped p.41. No patent copy in file."
+ },
+ {
+  "id": "rancho-san-gabriel-7",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267576/files/cubanc_lcf_sd235.pdf",
+  "pdf_pages_stated": 72,
+  "pages_read": [
+   "img 1-24 (stamped pp.1-8)",
+   "img 25-35 (stamped pp.21-31)",
+   "img 64-83 (stamped pp.55-72)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'LAND NEAR THE MISSION OF SAN GABRIEL GRANT'; transcript title stamped p.1: 'Land near the Mission of San Gabriel'; District Court summons stamped p.62 calls it 'Lot near San Gabriel'. Register's bare 'San Gabriel' is the right place but not the case-file name; a 1000-varas-square building lot/garden, not a rancho named San Gabriel."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, Spanish, stamped p.22: 'Dado en Monterey a cinco de Noviembre de mil ochocientos cuarenta y uno'; sworn translation stamped p.30: 'Given in Monterey on the 5th November 1841'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree heading stamped p.21: 'Manuel Jimeno Casarin 1er Vocal propietario de la Exma [Junta] Departamental en ejercicio del Gobierno del mismo'; translation stamped p.29: 'Manuel Jimeno Casarin... Exercising the powers of Governor'. Pio Pico deposition stamped pp.7-8 confirms Jimeno acted as governor ad interim during Alvarado's illness."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p.21: 'Por cuanto Dn. Jose Ma. Ramirez, Teniente de Caballeria del Presidio de S. Diego... he venido en concederle las mil varas indicadas'; translation stamped p.29: 'Jose Maria Ramirez Lieutenant of Dragoons of the Garrison of San Diego... I have in the Name of the Mexican nation granted to him the one thousand varas'. (Daniel Sexton is the U.S.-era claimant, deed from Ramirez 30 Aug 1847 per petition stamped p.6.)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 235 SOUTHERN DISTRICT'; every leaf stamped '235 SD'; filename cubanc_lcf_sd235.pdf. Commission docket No. 376 (transcript title stamped p.1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree stamped p.55: claim 'valid... decreed that the same be confirmed', filed Oct 10 1854; District Court decree stamped pp.70-71 (Dec Term 1856, filed Dec 30 1856): Board decision 'hereby affirmed... confirmed to the extent of one thousand varas square and no more in accordance with the grant', Ogier J.; AG letter 26 Jan 1857 stamped p.68: 'appeal will not be prosecuted by the United States'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case-file name: 'Land near the Mission of San Gabriel' (1000 varas square), p1 red label"
+  },
+  "notes": "hoffman_flags name-mismatch settled: Hoffman's rancho column ('1' fragment in input) reflects the case having no rancho name; register 'San Gabriel' is a loose place-name. Departmental Assembly approved the grant 3 Sept 1845 (stamped p.24, Pio Pico presiding). No patent copy in file."
+ },
+ {
+  "id": "rancho-san-joaquin",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266037/files/cubanc_lcf_nd003.pdf",
+  "pdf_pages_stated": 327,
+  "pages_read": [
+   "img 1-16 (label + stamped pp.1-10)",
+   "img 142-152 (stamped pp.135-145)",
+   "img 290-305 (stamped pp.273-288)",
+   "img 325-344 (stamped pp.308-327)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'SAN JOAQUIN OR ROSA MORADA GRANT'; transcript title stamped p.1: '\"San Joaquin\" or \"Rosa Morada\"'. Register's 'San Joaquin' is the primary name; alias Rosa Morada omitted."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p.140: 'Given in Monterey on the 1st of April 1836'; recorded 'Monterey April 2 1836. Castillo' (same page); petition stamped p.3: 'grant issued on the 1st day of April 1836'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p.138: 'Nicolas Gutierrez Lieut-Colonel of the permanent Cavalry, Comandant General, Inspector & Superior Political Chief ad interim of the Territory of Alta California'; signature stamped p.140: 'Nicolas Gutierrez'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant translation stamped p.138: 'Whereas Citizen Cruz Cervantes, a Mexican by birth, has applied for his own benefit & that of his family for the parcel of land known by the name of San Joaquin... I have thought proper by a decree of this day's date and in the name of the Mexican Nation, to grant to him the aforementioned parcel of land'. The grantee is Cruz Cervantes, who is also the claimant (red label p1). 'G. C. Yount' appears nowhere in this case file."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 3 NORTHERN DISTRICT'; every leaf stamped 'CASE NO. 3 ND'; filename cubanc_lcf_nd003.pdf. Commission docket was No. 56 (transcript title stamped p.1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Chain per file: Board confirmed (DC petition stamped p.277); District Court special term Oct 1853 reversed in favor of US (answer stamped p.273); US Supreme Court Dec Term 1853 reversed the District Court (stamped pp.273-274); on remand DC decreed claim 'confirmed, to the extent of two square leagues or sitios de ganado mayor, and for no more' (quoted in SCOTUS mandate stamped p.286); Supreme Court Dec Term 1855: 'the decree of the said District Court in this cause be and the same is hereby affirmed' (mandate stamped p.288). Final outcome = Confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Cruz Cervantes, per grant translation stamped p.138: 'Whereas Citizen Cruz Cervantes... to grant to him the aforementioned parcel of land'"
+  },
+  "notes": "Register grantee 'G. C. Yount' is wholly foreign to this file (looks like a row-shift from George C. Yount's Napa grants, e.g. La Jota/Caymus). Everything else in the register row (year 1836, Gutierrez, ND 003, Confirmed, patent to Cruz Cervantes 1874) matches the Cervantes case. Juridical possession 10/18 Feb 1841 by Judge Juan Miguel Anzar (stamped pp.3, 141-145). Case was twice before the US Supreme Court (Cervantes v. US, Dec Terms 1853 and 1855). No patent copy seen in file."
+ },
+ {
+  "id": "rancho-san-jose-sur-chiquito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268993/files/cubanc_lcf_sd373.pdf",
+  "pdf_pages_stated": 376,
+  "pages_read": [
+   "img 1-40 (label + stamped pp.1-26)",
+   "img 356-387 (stamped pp.345-376)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'SAN JOSE Y SUR CHIQUITO GRANT'; final decree stamped p.355: 'the place called Rancho San Jose y Sur Chiquito, in Monterey County'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Final decree stamped p.356: land 'described in the Expediente of the grant to Marcelino Escobar by Governor Alvarado, bearing date April 16th, 1839'; petition stamped p.4 says 14 April 1839; Abrego deposition stamped p.10: 'granted by Alvarado in 1839 or 1840'. Register year 1839 is right (exact day varies 14th vs 16th between petition and decree)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Final decree stamped p.356: 'grant to Marcelino Escobar by Governor Alvarado'. (An earlier 1835 concession of Sur Chiquito to Gabriel de la Torre by Jose Castro as 'Gefe Politico interino', stamped pp.353-354, was renounced to Mission San Carlos; the land then became vacant and Alvarado granted it to Escobar, per exhibit note stamped p.356.)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Final decree stamped p.356: 'the grant to Marcelino Escobar by Governor Alvarado'; petition stamped p.4: 'a grant made to Marcelius [Marcelino] Escobar'. Claimant Jose Castro (red label) bought through Josefa Abrego for the Monterey presidio cavalry company; Emery/Spaulding/Bassett were substituted as successors of Castro, deceased (decree caption p.355)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 373 SOUTHERN DISTRICT'; every leaf stamped '373 SD'; filename cubanc_lcf_sd373.pdf. Commission docket No. 546 (transcript title stamped p.1)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board REJECTED the claim 28 Aug 1855 (docket stamped p.3; recited in Circuit Court decree stamped p.359); Circuit Court (Field, Circuit Judge) affirmed the rejection 1 Nov 1864 (stamped pp.359-360); cause later reheard and by final decree of the District Court (Ogden Hoffman, Dist. Judge), heard 16 May 1882, filed and entered 2 June 1882, the claim was adjudged 'valid' and CONFIRMED to two square leagues (stamped pp.355-357, wrapper p.358). Confirmation verified; patent not in file (Phase C checks GLO for the May 4, 1888 patent)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register 'Patented' conceals a violent history: rejection 1855, rejection affirmed 1864 (Field), then reversal of fortune with the 1882 Hoffman confirmation decree naming Emery, Spaulding (admr of Abner Bassett) and Mary Ann Bassett as successors in interest of Jose Castro. This matches the register's 1888 patent to 'Joseph S. Emery and Nathan W. Spaulding, administrators'. The exact grant day differs between petition (Apr 14 1839) and 1882 decree (Apr 16 1839); register carries only the year so no flag. Trap pattern: outcome graded only after finding the LAST decree in the volume, not the Board's."
+ }
+]

@@ -101,7 +101,7 @@
   "verdicts": {
    "name": {
     "grade": "OK",
-    "evidence": "PDF p1 red label 'CASE NO. 52 / SOUTHERN DISTRICT / TUJUNGA GRANT'; PDF p5 transcript 'for the place named \"Tujunga\"'; Spanish expediente wrapper PDF p15 (52 SD p.10) 'Expediente promovido por los CC. Francisco y Pedro Lopez en solicitud del parage conocido con el nombre de Tojunga. A\u00f1o de 1840'"
+    "evidence": "PDF p1 red label 'CASE NO. 52 / SOUTHERN DISTRICT / TUJUNGA GRANT'; PDF p5 transcript 'for the place named \"Tujunga\"'; Spanish expediente wrapper PDF p15 (52 SD p.10) 'Expediente promovido por los CC. Francisco y Pedro Lopez en solicitud del parage conocido con el nombre de Tojunga. Año de 1840'"
    },
    "year": {
     "grade": "OK",
@@ -480,5 +480,47 @@
    "governor": "Juan B. Alvarado (grant countersigned by Manuel Jimeno). Figueroa is not supported by the pages read."
   },
   "notes": "254MB / 387 PDF images. Typed leaf carries no total but warns 'Pp. 75-76 missing. Replaced with copies 6/18/85'; internal stamps run to at least 379. Hoffman-1862 (year 1841, grantee 'Juan Jose Crisostomo Mayor') agrees with the case file against the register on BOTH flagged fields. The register's '1834 / Figueroa' pairing is probably a conflation with the earlier, superseded grants of the same tract to Joaquin Buelna and then Francisco Mo[s] that Majors describes at 342 ND p.22 - the file gives no date or governor for those, so I have not asserted one. Judicial possession was given by Jose Bolcoff, First Alcalde of Santa Cruz, in 1841 (Bolcoff's deposition, PDF p19-22, 342 ND pp.15-18); Majors received the adjoining San Agustin rancho at the same time and took possession of both on the same day (PDF p384, 342 ND p.368)."
+ },
+ {
+  "id": "u-35",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266087/files/cubanc_lcf_sd050.pdf",
+  "pdf_pages_stated": 102,
+  "pages_read": [
+   "img 1-30",
+   "img 34-44",
+   "img 45-64",
+   "img 92-111"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE No. 50 SOUTHERN DISTRICT / CAHUENGA GRANT / DAVID W. ALEXANDER CLAIMANT'; stamped p1 transcript title: 'for the place named \"Cahuenga\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p18, sworn translation of the grant: 'Given at the City of Los Angeles on the fifth day of May eighteen hundred & forty three'; Spanish original stamped p9: 'a cinco de Mayo de mil ochocientos cuarenta y tres'. (The Commission opinion, stamped p29, misstates it as '5th day of April A.D. 1843'; the decree governs.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p17, grant translation heading: 'Manuel Micheltorena, Governor, General Commandant and Inspector of the Department of both Californias'; signed 'Manl Micheltor(en)a' at stamped p18; Spanish original stamped p9"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p17, grant translation: 'Whereas the Indian Jose Miguel Triunfo, a native of the Mission of San Fernando, has claimed... a tract in the neighborhood of the place called Cahuenga... I have come to grant him the aforesaid tract declaring unto him the ownership thereof'. Register correctly records the Mexican grantee, not the U.S. claimant (Alexander et al.)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 50 SOUTHERN DISTRICT'; every stamped leaf reads '50 SD'; filename cubanc_lcf_sd050.pdf. Register writes 'S.D. 50' (non-standard formatting vs the register's usual 'SD 050' style, same docket)"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Commission confirmed undivided 3/4 (decree stamped p32, filed Nov 15 1853: 'the said land be and the same is hereby confirmed to them', Alexander & Mellus one half, Olvera one fourth). U.S. appealed (notices stamped p34-35). District Court decree, December Term 1856, filed 13 Dec 1856 (stamped p91-92, Ogier J.): 'the decision of said Board of Commissioners... is affirmed in part; And it is further decreed that the claim of the Appellees is good & valid & the same is hereby Confirmed to them', with modified bounds. Atty General 3 Feb 1857 (stamped p93): 'appeal will not be prosecuted by the United States'; order signed in open court 4 June 1857 (stamped p97-98) vacates the Supreme Court appeal and gives claimants 'leave to proceed under the said Decree as under a final Decree'. Confirmation verified final; NO patent copy in file, so 'Patented' is not verifiable here (Phase C checks GLO)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "hoffman_flags settled: Hoffman-1862 'rejected' is CONTRADICTED by the case file itself. The District Court confirmed the claim (decree filed 13 Dec 1856) and made it final 4 June 1857 after the U.S. dropped its Supreme Court appeal; Hoffman's printed table entry for No. 465/SD 50 appears simply wrong for this case. The case file governs. Grantee chain in file: Triunfo (grantee, 5 May 1843) -> exchange/deed to Pedro & Francisco Lopez 13 Mar 1845 -> Francisco Lopez 1/4 to Agustin Olvera 29 Sep 1851 -> sheriff's sale of Pedro Lopez's half to Alexander & Mellus 30 Oct 1852; Commission confirmed only 3/4 (the Lopez-heirs 1/4 not before the Board). Unread: images 31-33 and 65-91 (stamped ~24-25, 56-82: deed translations, U.S. answer continuation, depositions incl. Andres Pico depo partially read at stamped p39-44) - none bears on the graded fields. Grant extension of one-fourth league ordered 21 May 1844 (stamped p13-14, Jimeno/Micheltorena 'Conforme')."
  }
 ]

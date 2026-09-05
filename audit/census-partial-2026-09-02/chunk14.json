@@ -101,7 +101,7 @@
    },
    "year": {
     "grade": "OK",
-    "evidence": "Spanish original grant, PDF p23 (stamped PAGE 16): 'Dado en la Ciudad de los Angeles capital del Departamento de Californias ... a los trece dias del mes de Junio del año de mil ocho cientos cuarenta y seis'; sworn translation PDF p27 (PAGE 20): 'Given in the City of Los Angeles ... on the thirteenth day of the month of June, one Thousand eight hundred and forty six'. Departmental Assembly approval 27 June 1846 (PDF p28, PAGE 21)"
+    "evidence": "Spanish original grant, PDF p23 (stamped PAGE 16): 'Dado en la Ciudad de los Angeles capital del Departamento de Californias ... a los trece dias del mes de Junio del a\u00f1o de mil ocho cientos cuarenta y seis'; sworn translation PDF p27 (PAGE 20): 'Given in the City of Los Angeles ... on the thirteenth day of the month of June, one Thousand eight hundred and forty six'. Departmental Assembly approval 27 June 1846 (PDF p28, PAGE 21)"
    },
    "governor": {
     "grade": "OK",
@@ -125,5 +125,169 @@
   },
   "corrections": {},
   "notes": "Clean record: every graded field matches the grant and the decrees. Grantee full form in the grant is 'Alfeas/Alfias Basilio Thompson' (Alpheus Basil Thompson), the same person as the claimant, so no claimant-for-grantee substitution. Patent not in the file; Bancroft foliation runs to 39 and I read to PAGE 35, so pages 36-39 (4 leaves) unread - a patent copy is unlikely but not excluded. Register's patent date of May 18 1858 is consistent with the Dec 1856 final decree."
+ },
+ {
+  "id": "rancho-entre-napa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256576/files/cubanc_lcf_nd242.pdf (ND 242, Patchett claim, located via digicoll search; register has no docket)",
+  "pdf_pages_stated": 30,
+  "pages_read": [
+   "1-42 (all PDF images; stamped transcript pp. 1-28)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label: 'PART OF ENTRE NAPA GRANT'; stamped p1 transcript title: 'for Part of the place named \"Entre Napa\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Stamped p16, Board opinion (Comm. A. Felch): grant 'is shown to have been made by Governor Manuel Chico to Nicolas Higuera on the ninth day of May 1836'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Stamped p16: 'Governor Manuel Chico' (register 'Chico' matches surname; file gives given name as Manuel, though the governor's name was Mariano Chico - the opinion's own wording)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Stamped p16 opinion and p17 decree: 'part of the place known by the name of Entre Napa which was Granted to Nicholas Higuera'; register: Nicolas Higuera"
+   },
+   "land_case": {
+    "grade": "NA",
+    "evidence": "Register blank. No single docket exists: the Higuera grant was subdivided among at least 9 ND dockets (80, 113, 152, 171, 176, 177, 231, 242, 260) per digicoll search; ND 242 read here"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "For ND 242 (Patchett portion): Board confirmed 9 Jan 1855 (stamped p16-17); District Court order affirming 23 Feb 1857, decree entered nunc pro tunc 20 Jan 1880, signed Ogden Hoffman (stamped p25-28). Register's bare 'Confirmed' verified only for this portion; the other 8 derivative dockets were not read"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "scan_record_url was null; digicoll search found 9 Entre Napa case files (all derivative claims to parts of the Higuera league). ND 242 chosen as it carries the Board opinion reciting the grant. Opinion also records juridical possession given 11 Jan 1842. Register's blank patent fields consistent: no patent copy in this file."
+ },
+ {
+  "id": "rancho-fernandez",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264228/files/cubanc_lcf_nd377.pdf",
+  "pdf_pages_stated": 42,
+  "pages_read": [
+   "1-52 (all PDF images; stamped transcript pp. 1-42)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Case file styles the claim only 'Land in Butte County' (red label; stamped p1) / 'Four leagues in Butte County' (index, stamped p39); no rancho name appears in the grant. Register's 'Fernandez' is the conventional name from the grantees, not a name in the file"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant (Doc. B, stamped p16): 'Dado en la ciudad de los Angeles... de Junio de mil ochocientos cuarenta y seis'; Board opinion stamped p21 and index p39: grant by Gov. Pico 'dated the 12th day of June 1846'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant header, stamped p16: 'Pio Pico Gobernador Constitucional del Departamento de Californias'; opinion p21: 'a grant issued... by Governor Pio Pico'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant (Doc. B, stamped p16) names only 'Maximo y Dionisio Zenon Hernandez [Fernandez]'; index p39: 'grant by Governor Pico to Maximo & D.Z. Fernandez'. Josiah Belden and William R. Basham were NOT grantees: they took an undivided 2/3 by deed of 16 Aug 1850 (stamped p19, 'Deed to Belden &c') and joined as claimants"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE NO. 377 NORTHERN DISTRICT'; PDF filename cubanc_lcf_nd377.pdf; Board docket was 109"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comm. Farwell, confirmed, filed 17 July 1855 (stamped p21-22); District Court decree Stated Term 2 March 1857 'in all things affirmed... claim... hereby confirmed', signed Ogden Hoffman (stamped p31-32); order of 9 March 1857 gives leave to proceed 'as under Final Decree' (stamped p34)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Maximo Zenon Fernandez and Dionisio Zenon Fernandez only, per grant decree stamped p16 and index p39; Belden and Basham were purchasers of 2/3 (deed 16 Aug 1850, stamped p19) and U.S.-era co-claimants - the claimant-for-grantee error class"
+  },
+  "notes": "Orthography: the Spanish grant and the Bancroft red label spell the family 'Hernandez' ('Maximo y Dionisio Zenon Hernandez', stamped p16; label 'DIONISIO HERNANDEZ et al'); the family signed and the court records style them 'Fernandez'. Hoffman 1862 (grantee 'Dionisio and Maximo Fernandez') agrees with the case file against the register's four-name entry. No patent copy in file; register's patent 1857 not checkable here (Phase C)."
+ },
+ {
+  "id": "rancho-gatos-santa-rita",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268903/files/cubanc_lcf_sd276.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "1-32",
+   "42-67",
+   "(stamped transcript pp. 1-23, 33-56)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label: 'LOS GATOS O' SANTA RITA GRANT'; transcript title stamped p1: 'Los Gatos o Santa Rita'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado's marginal decree dated 'Monterrey Sepe 30 de 1837' (Spanish, stamped p16; translation stamped p20: 'Monterey September 30th 1837'); District Court decree stamped p51: 'granted or regranted on the 30th day of September A.D. 1837'. Juridical possession 10 Oct 1837 (stamped p17-18/22-23)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Marginal decree signed 'Alvarado' (stamped p16/p21); District Court decree stamped p51: 'by Governor Juan B. Alvarado'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grantee was JOSE TRINIDAD ESPINOSA: expediente petition and decree (stamped p16/p20-21), Board opinion stamped p34 ('granted... to Jose Trinidad Espinosa the father of the petitioner about the year 1824', regranted 1837), District Court decree stamped p51 ('to Jose Trinidad Espinosa'). 'Fermina Espinosa de Perez' was the CLAIMANT, the grantee's daughter (Hartnell deposition stamped p7: 'She is the grantee's daughter'); register also garbles her given name to masculine 'Fermin'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE NO. 276 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd276.pdf; Board docket 531"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation filed 23 Jan 1855 (stamped p36-37, Felch + Thompson); District Court, Dec. Term 1856, Judge Isaac S.K. Ogier, decision 'in all things... hereby affirmed', decree filed 31 Jan 1857 (stamped p50-52); AG letter 10 Feb 1857: appeal will not be prosecuted (stamped p53)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Trinidad Espinosa, per Alvarado decree of 30 Sept 1837 (stamped p20-21) and District Court decree (stamped p51). Register recorded the U.S.-era claimant (his daughter Fermina Espinosa de Perez, misspelled 'Fermin') - the claimant-for-grantee error class"
+  },
+  "notes": "The 1837 Alvarado decree is a recognition/regrant: Board opinion (stamped p34) says the tract was originally granted to Espinosa by a former governor c.1820/1824, papers lost. Surveyor General certificate (stamped p55, dated 2 Oct 1867): survey approved 4 Aug 1859, 'confirmed to D. Perez et al' - consistent with register's patent_to 'Domingo Perez et al', but no patent copy in file (Phase C checks GLO)."
+ },
+ {
+  "id": "rancho-james-meadows",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266119/files/cubanc_lcf_sd159.pdf",
+  "pdf_pages_stated": 55,
+  "pages_read": [
+   "1-28",
+   "37-65",
+   "(stamped transcript pp. 1-22, 30-55)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Case file has NO rancho name: red label 'LAND IN MONTEREY COUNTY GRANT - JAMES MEADOWS CLAIMANT'; transcript title stamped p1 'Land in Monterey County'. 'James Meadows' is the claimant's name used as the conventional tract name (GLO 'Meadows Tract'); Hoffman likewise lists 'land in Monterey county'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original titulo (Doc. H.H. No.1, stamped p20-21): 'Dado en... Monterrey a veinte y siete de Enero de mil ochocientos cuarenta' (27 Jan 1840); Board opinion stamped p35 and decree p37: grant 'made by Governor Alvarado on the 27th day of Jany 1840'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo header stamped p20: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias', signed '(Signed) Juan B. Alvarado' with Manuel Jimeno (stamped p21)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p20: 'Por cuanto el Cno. Antonio Romero ha pretendido... he venido en concederle las mencionadas Lomas'; expediente promoted by 'Jose Antonio Romero' (stamped p6); Board decree p37: 'granted to Antonio Romero'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE NO. 159 SOUTHERN DISTRICT'; PDF filename cubanc_lcf_sd159.pdf; Board docket 573"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation filed 14 March 1854 (stamped p37, Felch/Campbell/Thompson); District Court, Dec. Term 1856, Ogier: Board decision 'hereby affirmed... good and valid title', filed 13 Jan 1857 (stamped p42-43); AG letter 9 Feb 1857 no appeal (p54); order making decree final, filed 2 Feb 1858 (stamped p50-52)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Chain of title: Romero -> Wm. R. Garner (deed 30 Jan 1847, stamped p31), Garner -> T.O. Larkin (1 Mar 1847, p33), Larkin -> Meadows (16 Aug 1848, petition p4). Minor: the Surveyor-General-certified expediente translation (stamped p18) misdates the titulo 'seventh of January 1840'; the Spanish original H.H. No.1 (p21) and every court document read 27 Jan 1840. No patent copy in file; register's Aug 1866 patent is Phase C."
  }
 ]

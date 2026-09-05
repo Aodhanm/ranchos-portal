@@ -1,0 +1,84 @@
+[
+ {
+  "id": "u-6",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268900/files/cubanc_lcf_sd218.pdf",
+  "pdf_pages_stated": 100,
+  "pages_read": [
+   "1-46",
+   "66-105"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'VALLE DE SAN JOSE Y AGUAS CALIENTES GRANT'; Board opinion caption (stamped PAGE 61): 'For the place called Agua Caliente y Valle de San Jose in San Diego County'. Register's 'Agua Caliente or Valle de San Jose' matches; strictly two adjoining/overlapping grants (Agua Caliente 1840 to Pico; Valle de San Jose 1844 to Warner) covered by one case."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped PAGE 61: 'the first made by Governor Juan B. Alvarado to Jose Antonio Pico on the 8th day of June 1840'; concession decree in the Pico expediente, stamped PAGE 39: dated at Monterey, June 1840."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped PAGE 39: 'El Sor Don Juan B. Alvarado Gobr. Constitucional del departamento de las Californias asi lo mando, decreto y firmo... Alvarado.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped PAGE 39: 'declaro al Tente. Dn. Jose Antonio Pico dueno en propiedad del parage conocido con el nombre de la Agua Caliente'. Register correctly holds the original Mexican grantee, not U.S. claimant J. J. Warner (red label p1: 'J. J. Warner claimant')."
+   },
+   "land_case": {
+    "grade": "ERR",
+    "evidence": "Register blank, but a docket exists: red label p1 'CASE No. 218 SOUTHERN DISTRICT'; transcript cover stamped PAGE 1 'Case No. 254' (Land Commission); D.C. cover (stamped PAGE 69 area): 'U.S. District Court, Southern District... No. 218... In Case No. 254'."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission opinion 'Confirmed', filed Oct 10 1854 (stamped PAGE 62); Board decree stamped PAGE 63; District Court final decree 'the said decision of said Commissioners be affirmed... the same be and is hereby confirmed', filed Feb 13 1856 (stamped PAGES 81-82, Ogier J.); Atty General letter 29 Sept 1856 (stamped PAGE 83): 'appeal in the Supreme Court will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "land_case": "SD 218 (U.S. District Court No. 218; Land Commission docket No. 254), per red label p1 and transcript cover stamped PAGE 1"
+  },
+  "notes": "scan_record_url was null; digicoll search found https://digicoll.lib.berkeley.edu/record/268900 (cubanc_lcf_sd218.pdf, 100 stamped pp / 105 images). Case covers TWO grants: Agua Caliente, 8 June 1840, Alvarado to Jose Antonio Pico (expediente stamped PAGES 37-41, archive exp. no. 228) and Valle de San Jose, 28 Nov 1844, Micheltorena to J. J. Warner (expediente stamped PAGES 23-36, exp. no. 40-something, approved by Assembly 21 May 1845). Register keys the entry to the 1840 Pico grant, consistent with year/governor/grantee. Pico conveyed his interest to Warner 13 June 1852 (power/transfer, stamped PAGE 58, citing 'title granted me by Juan B Alvarado governor of California dated 8th of June 1840'). Plat transmitted to Washington for patent 26 Feb 1879 (Surveyor General cert., stamped PAGE 98); no patent copy in file."
+ },
+ {
+  "id": "u-65",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266129/files/cubanc_lcf_sd171.pdf",
+  "pdf_pages_stated": 96,
+  "pages_read": [
+   "1-23 (images 1-30)",
+   "77-96 (images 86-105)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'HUERTA DE QUATI GRANT'; transcript cover stamped PAGE 1: 'Huerta de Quati'; District Court caption stamped PAGE 87: 'Quati'. Register's 'Huerta de Quati or Cuati' matches both spellings."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped PAGE 9: 'Given at Sta Barbara the twelfth of October one thousand eight hundred and thirty eight. Juan B. Alvarado.' Spanish original stamped PAGE 8: 'Es dado en Sta Barbara a doce de octubre de mil ochocientos treinta y ocho.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Juan B. Alvarado' (stamped PAGES 8-9); instrument styles him 'Gefe Politico interino de la Alta California' / 'Chief civil Magistrate ad interim of Upper California' (he was governor ad interim, Oct 1838)."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The grant itself names 'Bartolome de Rei, neofita de la ex-Mision de San Gabriel' (stamped PAGE 8; translation PAGE 9: 'Whereas Bartolome de Rey a neophyte of the Ex Mission of San Gabriel has claimed for her personal benefit...'). Sworn testimony identifies her as the claimant: Warner dep., stamped PAGE 7: 'He is now known by the name of Victoria Reid, and is the widow of Hugo Reid'; Board opinion PAGE 10: 'Bartolome de Rey and Victoria Reid are the same person... intermarried subsequent to the date of the grant.' Register's 'V. Reid' is the right person under her later married name, not the name in the grant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 171 SOUTHERN DISTRICT'; filename cubanc_lcf_sd171; Land Commission docket No. 455 (transcript cover stamped PAGE 1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission REJECTED 1 Aug 1854 ('claim of the said petitioner is not valid... application for a confirmation thereof be denied', decree stamped PAGE 12), but on appeal the District Court confirmed: order stamped PAGE 81 recites 'the judgment of this Court against the United States... rendered on or about the 4th day of October A.D. 1855'; AG letter 18 Sept 1856 (stamped PAGE 85): 'confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted'; order filed 3 June 1857 (stamped PAGE 83): Supreme Court appeal vacated, claimant may 'proceed under the decree of this Court heretofore rendered in his favor as a final decree' (Ogier, J.). Register 'Confirmed' matches the final outcome."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = 850 varas of land in the garden that belonged to her deceased former husband Pablo (translation stamped PAGE 9). Grantee named in grant as Bartolome de Rei/Rey; she signed by mark as Victoria Reid (affidavit stamped PAGE 79). hoffman_flag 'docket-not-found-in-hoffman' noted; case file proves SD 171 / L.C. 455. Register glo_patent_no 421 not checkable here (no patent copy in file; Phase C checks GLO). AG letter PAGE 85 misstates that the Commissioners confirmed; the Commission decree PAGE 12 is a rejection, reversed by the District Court (draft opinion stamped PAGES 89-96: 'such decision should be reversed')."
+ }
+]

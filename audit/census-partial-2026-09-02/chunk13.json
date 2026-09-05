@@ -1,0 +1,211 @@
+[
+ {
+  "id": "rancho-alcatraz",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266041/files/cubanc_lcf_nd429.pdf",
+  "pdf_pages_stated": 416,
+  "pages_read": [
+   "1-16",
+   "17-40",
+   "410-433"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'CERTAIN ISLANDS & LANDS IN CALIFORNIA GRANT, JOSE Y. LIMANTOUR CLAIMANT'; stamped PAGE 5 petition claims four tracts: First the Farallones, 'Second. The Island called Alcatraces', Third Yerba Buena island, Fourth Punta del Tiburon. 'Alcatraz' names only one of four tracts in the case; Hoffman's 'Islands of Farrallones' is likewise partial."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Stamped PAGE 6 petition: grant 'bearing date on the 16th day of December A.D. 1843'; District Court opinion stamped PAGE 408: 'that of the 16th December (the islands grant) has an approval dated March 1st 1844'. Purported grant dated 1843 (adjudged forged)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Stamped PAGE 6 petition: grant 'under the authority of the Mexican Government by Manuel Micheltorena Governor of the Californias'; DC opinion stamped PAGE 405 discusses 'the certificate of Micheltorena'. (Grant adjudged forged.)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "p1 red label and transcript title (stamped PAGE 1): 'Jose Y. Limantour, Claimant'; stamped PAGE 5 petition of Jose Yves Limantour claiming in fee by virtue of the grant made to him. Grantee = claimant here by design of the purported grant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 429 NORTHERN DISTRICT'; stamp '429 ND' on every leaf; filename cubanc_lcf_nd429.pdf. Commission docket 549 (transcript title, stamped PAGE 1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 'confirming the claim' Jan 12 1856 (stamped PAGE 4), but District Court opinion (stamped pp. 397-413) finds the Limantour titles forged: 'the forged rubric of Pablo de la Guerra... papers which... could not have been prepared for any honest purpose' (PAGE 410); 'the proofs of fraud in these cases have the force and certainty of a demonstration' (PAGE 410); 'these cases are without parallel in the judicial history of the Country' (PAGE 412). Register 'Rejected' matches the DC disposition, which supersedes the Board."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "This is the Limantour fraud case (Commission No. 549 / ND 429, companion to No. 548/ND 424 for the SF pueblo lands). hoffman_1862 'confirmed' reflects only the Board's Jan 1856 decision; the District Court opinion in the file demonstrates fraud and the claim was rejected. Formal decretal page of rejection not among pages read (sits in unread middle pages 41-409); the opinion text is decisive. Register name 'Alcatraz' isolates one of the four tracts claimed; Hoffman's table calls the same docket 'the Islands of Farrallones' - both partial names for the same multi-tract case."
+ },
+ {
+  "id": "rancho-ausaymas-san-felipe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265827/files/cubanc_lcf_sd079.pdf",
+  "pdf_pages_stated": 131,
+  "pages_read": [
+   "1-52",
+   "86-96"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label 'AUSAYMAS GRANT'; transcript title (stamped PAGE 1) 'for the place named Ausaymas'; expediente styles the tract 'los Ausaymas y Canada de los Osos' (stamped PAGE 19, 23). The San Felipe pairing is supported: juridical possession executed 'On the rancho of Sn Felipe Guadalaxarita' (stamped PAGE 14) and Sanchez deposition 'Ausaymas and San Felipe are both one' (stamped PAGE 10), but the case file itself never uses the compound register form 'Ausaymas Y San Felipe'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Figueroa's concession decree, stamped PAGE 30-31: 'Monterey Novre 21 de 1833... se declara a Dn. Francisco Pacheco dueno en propiedad del Terreno conocido con el nombre de los Ausaymas'; formal title stamped PAGE 33 and original exhibit stamped PAGE 82: 'Dado en Monterrey a veinte y seis de Noviembre de mil ochocientos treinta y tres'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "First grant signed 'Jose Figueroa' as 'Gefe Supr. Politico' (stamped PAGES 31-33; original title stamped PAGES 80-82). Two-league ampliacion decreed 'Febrero 6 de 1836... El S. D. Nicolas Gutierrez Gefe Politico interino de esta Alta California asi lo mando decreto e firmo - Nicolas Gutierres' (stamped PAGES 38-39). Both register governors verified against decrees."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped PAGE 32 (and original, PAGE 80): 'Por cuanto D. Francisco Perez Pacheco ha pretendido... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Register's 'F. P. Pacheco' = Francisco Perez Pacheco, grantee and claimant (p1 red label)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 79 SOUTHERN DISTRICT'; every leaf stamped '79 SD'; filename cubanc_lcf_sd079.pdf. Commission docket No. 63 (transcript title, stamped PAGE 1)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board 'Decree of Final Confirmation' delivered Jan 5 1853 (stamped PAGE 3); decree text confirming two square leagues signed 'this 5th of June 1853, Hiland Hull, Harry I. Thornton, Commissioners' (stamped PAGE 78). US appeal noticed by Atty Genl Cushing 13 July 1854 (stamped PAGE 86). District Court disposition sits in unread stamped pages 88-131; confirmation verified only to Board level. Hoffman 1862 lists it confirmed and patented."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "PDF label leaf says 'LAND CASE 79 SD page 131'. Case file documents BOTH grants behind the register's double governor entry: Figueroa decree 21 Nov 1833 + title 26 Nov 1833 (Diputacion approval 17 May 1834, stamped PAGE 34), and Gutierrez ampliacion decree 6 Feb 1836 (petition recital says new title issued 6 Apr 1836, stamped PAGE 7). Original Figueroa title on sealed paper is Exhibit C (stamped PAGES 80-83). Hoffman's 'rancho' entry for this docket is just '2 square leagues', explaining the name-mismatch flag; real name verified here."
+ },
+ {
+  "id": "rancho-boga",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264195/files/cubanc_lcf_nd358.pdf",
+  "pdf_pages_stated": 308,
+  "pages_read": [
+   "1-30",
+   "36-64",
+   "96-101",
+   "306-322"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'FLUGGE,S RANCHO OR BOGA GRANT'; grant (stamped PAGE 30): 'cinco sitios de Ganado Mayor al lado Occidental del Rio de las Plumas y en el Centro en un terreno que llaman Boga'; Decree of Confirmation (stamped PAGE 86): land 'called Boga situate in the County of Butte'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original grant, stamped PAGE 31: 'Dado en Monterrey a veintiuno de Febrero de mil ocho cientos cuarenta y cuatro - Manl. Michelta - Manl. Jimeno Srio'; translation stamped PAGE 33: 'Given in Monterey this twenty first day of February one thousand Eight hundred and forty four'. Departmental Assembly approval 13 June 1845 (stamped PAGE 38)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Manl. Michelta' (stamped PAGE 31); heading 'El Ciudadano Manuel Micheltorena General de Brigada... Gobernador Comandte. Gral e Inspector del departamento de Californias' (stamped PAGE 30); Board opinion stamped PAGE 85: 'a grant issued... by Governor Micheltorena on the 21st day of February 1844'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Grant, stamped PAGE 30: 'Por cuanto Don Carlos Guillermo Flugge mejicano por naturalizacion... he venido en concederle el terreno mencionado'; translation stamped PAGE 32: 'Whereas Charles William Flugge... I have come to the conclusion to grant unto the petitioner the above mentioned lands'. Larkin was only the purchaser-claimant: 'a deed of conveyance from the said Flugge dated the 21st day of January 1847' (Board opinion, stamped PAGE 85). Register records the U.S.-era claimant, not the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 358 NORTHERN DISTRICT'; every leaf stamped '358 ND'; filename cubanc_lcf_nd358.pdf. Commission docket No. 129 (transcript title, stamped PAGE 1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 'this claim is valid' filed 17 July 1855 (stamped PAGE 85) + Decree of Confirmation (stamped PAGE 86); District Court FINAL DECREE filed Jan 15 1863: tract 'containing 22,184 61/100 acres... finally confirmed to the said Thomas O. Larkin - Ogden Hoffman' (stamped PAGES 292-293); Supreme Court mandate: 'this cause be and the same is hereby dismissed' Dec. term 1864 (stamped PAGE 299); mandate filed and decree left standing, DC order 26 June 1865 (stamped PAGE 301)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Charles William (Carlos Guillermo) Flugge, per grant of 21 Feb 1844, stamped PAGES 30-33; Larkin took by conveyance of 21 Jan 1847 (stamped PAGES 11, 85)"
+  },
+  "notes": "Explains the 'docket-not-found-in-hoffman' flag indirectly: Hoffman's table would list this under Flugge/Boga with Larkin as claimant. DC final decree acreage 22,184 61/100 differs in the cents place from register patent_acres 22,184.66 - the patent (Oct 1865) is a Phase C check. Original expediente is Mexican archive No. 349 ('Numero 349', stamped PAGE 34; translation heading says No. 340, stamped PAGE 41 - transcription slip in the translation)."
+ },
+ {
+  "id": "rancho-bosquejo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256658/files/cubanc00007236_ae_a.pdf",
+  "pdf_pages_stated": 105,
+  "pages_read": [
+   "1-30",
+   "40-66",
+   "100-117"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'BOSQUEJO GRANT, PETER LASSON CLAIMANT'; transcript title (stamped PAGE 1) 'for the place named Bosquejo'; DC final decree (stamped PAGE 98): 'the land heretofore confirmed to Peter Lassen, known as Bosquejo'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The claim rests on Micheltorena's GENERAL TITLE: 'en Monterrey a veinte y dos de Diciembre de mil ocho cientos cuarenta y cuatro - Sigo. Manuel Micheltorena' (Exhibit No. 4, stamped PAGE 37; Sutter certified copy 26 Dec 1844); provisional-occupation order 'Ocupelo provisionalmte... Micheltorena' Monterey 26 July 1844 (stamped PAGE 50). Register year 1844 matches the granting acts."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "General title signed 'Manuel Micheltorena' (stamped PAGE 37); Board opinion (stamped PAGE 58): 'the general title issued by Governor Micheltorena... intended to operate as provisional title to all the applicants... in the vicinity of the Sacramento and New Helvetia who had... obtained a favorable report... by Capt. John A Sutter'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Lassen's own expediente: petition 'Pedro Lassen natural de Dinamarca... se llaman Bosquejo... cinco leguas en cuadro', Monterey 11 Oct 1843 (Exhibit H.H. No. 1, stamped PAGE 49); Board opinion: 'the evidence in this case shows clearly that this claim is one included in said [general] title... Confirmed' (stamped PAGE 58); DC decree 'confirmed to Peter Lassen' (stamped PAGE 96, 98)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 367 NORTHERN DISTRICT'; every leaf stamped '367 ND'; DC final decree caption 'No. 367: L.C. 182, Bosquejo' (stamped PAGE 94). Commission docket No. 182 (stamped PAGE 1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion 'Confirmed', filed 24 July 1855 (stamped PAGE 58); DC decree of confirmation to Lassen filed 2 Mar 1857 and made final decree by order 29 July 1857 (recited stamped PAGE 96); Henry Gerke, Lassen's grantee, substituted 30 Nov 1859 after Lassen's death (stamped PAGES 92-93); FINAL DECREE 5 Feb 1861: land 'containing... 22,206 22/100 acres... finally confirmed to the said Henry Gerke - Ogden Hoffman' (stamped PAGES 96-99)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Nonstandard PDF filename cubanc00007236_ae_a.pdf (record page lists only volume _a; not multi-volume as downloaded). Register patent_to 'Henry Gerke' is consistent with the DC substitution and final decree; patent itself (Jan 1862) not in pages read - Phase C. Final decree acreage 22,206 22/100 vs register 22,206.27 - check at Phase C. Board opinion (stamped PAGE 58) misquotes the general title date as '22d day of October 1844'; the exhibit itself (stamped PAGE 37) reads 22 DECEMBER 1844. Transcript also contains, as comparison exhibits, the Toomes 'Rio de los Molinos' expediente (stamped PAGES 40-48) - do not confuse with the Lassen grant."
+ },
+ {
+  "id": "rancho-buena-vista-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267548/files/cubanc_lcf_sd204.pdf",
+  "pdf_pages_stated": 52,
+  "pages_read": [
+   "1-30",
+   "42-59"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'BUENA VISTA GRANT'; transcript title (stamped PAGE 1) 'for the place named Buena Vista'; expediente exhibit A titled 'Posecion del rancho de Buenavista' (stamped PAGE 8)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sola's decree: petition dated 'Presidio de Monterrey... Mayo 28 de 1822', decree same date - 'pongase en posecion de los dos sitios de Ganado mayor y caballar nombrados Buenavista a Dn. Jose Santiago Estrada... firme yo Don Pablo Vicente de Sola' (stamped PAGES 9-10). Regranted by Arguello 10 June 1823, juridical possession 11 June 1823 (stamped PAGES 10-11)."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Register says only 'a Spanish governor'; the decree names him: 'yo Don Pablo Vicente de Sola, Gobernador politico y Militar de esta provincia de la Alta California' (stamped PAGE 10); regrant by 'Don Luis Antonio Arguello... Gefe Superior Politico y Militar', Monterrey 10 June 1823 (stamped PAGE 10). Estrada's own affidavit: '28th day of May A.D. 1822 Pablo Vicente de Sola the then Governor of upper California made and executed to him a Grant' (stamped PAGE 47)."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Original grantee is Jose Santiago Estrada alone: Sola decree 'pongase en posecion... a Dn. Jose Santiago Estrada' (stamped PAGE 10); his 1822 petition signed 'Jose Santiago Estrada' (stamped PAGE 9). Mariano Malarin is the U.S.-era attorney/claimant (p1 red label 'MARIANO MALARIN, ATTORNEY, CLAIMANT') who later bought part of the land (petition, stamped PAGE 4). Register leads with the claimant; the true grantee appears only inside the attorney formula."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 204 SOUTHERN DISTRICT'; every leaf stamped '204 SD'; filename cubanc_lcf_sd204.pdf. Commission docket No. 153 (stamped PAGES 1-2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim', 26 Sept 1854 (stamped PAGE 3). District Court: stipulation filed 14 Jan 1857 'that the appeal be dismissed and that the claimant have leave to proceed upon the Decree of the Land Commissioners heretofore rendered in his favor' (stamped PAGES 36-37). Estrada's 1860 affidavit further recites 'the Decree of the United States District Court affirming the Decree of the said Board' (stamped PAGE 49). Confirmation verified."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Pablo Vicente de Sola (grant 28 May 1822), regranted by Luis Antonio Arguello (10 June 1823) - stamped PAGES 9-10",
+   "grantee": "Jose Santiago Estrada, per Sola's decree stamped PAGE 10; Malarin was attorney-claimant"
+  },
+  "notes": "1860 bill-of-review affidavits (stamped PAGES 38-50) show the confirmed SURVEY was located on the wrong (south) side of the Salinas River per the Estradas; Surveyor General certificate of publication (stamped PAGE 51, issued 27 Apr 1867) says rancho 'confirmed to M. Malarin', survey approved 19 Sept 1859. Register patent fields (patent 15 Sept 1869 to Malarin as attorney) are Phase C. Petition frames the 1822 Sola grant as 'granted under the Mexican Government' (stamped PAGE 4) even though Sola was the Spanish-appointed governor - era label 'spanish' is a judgment call, May 1822 is after Mexican independence."
+ }
+]
