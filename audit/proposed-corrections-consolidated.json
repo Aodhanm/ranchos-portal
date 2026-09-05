@@ -1,0 +1,1509 @@
+{
+ "note": "CONSOLIDATED proposed corrections from the blind-100 audit + the Phase B census - NOT applied; data/ranchos-register.* stays byte-identical to Zenodo v1.0 until Aodhan cuts v1.1. Census is still in progress; re-run scripts/build_corrections.py to refresh.",
+ "census_records_graded": 171,
+ "count": 149,
+ "new_beyond_v11_staged": 119,
+ "by_field": {
+  "grantee": 83,
+  "year": 37,
+  "governor": 24,
+  "land_case": 2,
+  "name": 2,
+  "outcome": 1
+ },
+ "entries_missing_correction_text": [
+  "rancho-tomales-baulines-1/land_case"
+ ],
+ "corrections": [
+  {
+   "id": "rancho-brea",
+   "field": "governor",
+   "register_value": "Echeandía",
+   "correction": "Jose Antonio Carrillo, First Alcalde / President of the Ayuntamiento of Los Angeles (pueblo grant, April 8, 1828), NOT Gov. Echeandia. Per Board opinion transcript p17 and Carrillo's deposition transcript p9-10.",
+   "evidence": "This is a PUEBLO grant, not a gubernatorial grant. The concession was made by Jose Antonio Carrillo, First Alcalde / President of the Ayuntamiento of Los Angeles, decree dated April 8, 1828 (grant translation, transcript p12, PDF p13: '...Carrillo'). Carrillo's own deposition (transcript p9-10, PDF p15-16): 'A paper is now shown me purporting to be a permission to occupy land given to Antonio Jose Roca and Nemesio Dominguez dated April 8 1828. My own genuine signature is on said paper... I was at the time First Alcalde and Judge of the First Instance... I was President of the Ayuntamiento.' Board opinion (transcript p17, PDF p23): 'a grant issued by Jose Antonio Carrillo Alcalde of the Los Angeles District bearing date the 8th day of April 1828.' Echeandia (the register's value) had no part in it; Hoffman's 'Jose Antonio Carrillo' agrees with the case file.",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-corral",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Casarin), 1st vocal of the departmental junta in exercise of the government, per grant decree transcript p.11: 'Manuel Jimeno Casarin 1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo'",
+   "evidence": "Decree transcript p.11 (PDF p17): 'El Sor Dn Manuel Jimeno Casarin, 1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo asi lo mando decreto y firmo... Jimeno'. Titulo header transcript p.12 (PDF p18) repeats 'Manuel Jimeno Casarin... en ejercicio del Gobierno'. Register 'Alvarado' is wrong; Hoffman ('Manuel Jimeno') agrees with the case file.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-herrera",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Casarin), 1st vocal in exercise of the government, per grant decree transcript p.10; Alvarado's role was limited to ratifying the departmental assembly's approval in 1840",
+   "evidence": "Decree transcript p.10 (PDF p15): 'El Senor Dn Manuel Jimeno Casarin primer vocal propietario de la Excma Junta del Departto de las Californias, lo mando, Decreto y firmo de que Doy fee. Manuel Jimeno'; translation p.16: 'Don Manuel Jimeno Casarin 1st Member of the Most Excellent Assembly... ordered, decreed & signed it'. Alvarado only ratified the junta approval later (13 June 1840, transcript p.11). Register 'Alvarado' is wrong; Hoffman ('Manuel Jimeuo' = Jimeno, OCR-garbled) agrees with the case file.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-pala",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Jose Castro, Prefect of the First District (San Jose), who issued and signed the grant 10 Aug 1839 under authority delegated to prefects by Governor Alvarado's administration (Ley Reglamentaria of 1837). Per grant instrument transcript p.27 and Board opinion transcript p.28. The register's 'Alvarado' identifies the delegating governor, not the actual grantor; Hoffman's 'Jose Castro' is the granting officer of record.",
+   "evidence": "This is a PREFECT grant, not a gubernatorial concession. Grant instrument transcript p.27: 'The Same Dn Jose Castro Prefect of the 1st District that orders decrees and signs which I attest. Jose Castro / Jose Ma Covarrubias Secy.' Board opinion transcript p.28: 'a grant issued by Jose Castro... the said Castro was the prefect of the district in which the land was situated at the time of the issue of the grant, and that his signature attached to said grant is genuine... the land was comprised of a part of the common lands of the Pueblo of San Jose'. Alvarado's own deposition transcript p.21 (PDF p25): 'The Prefectures were established during my administration as Governor, I issued an order conferring authority upon the Prefect of the first District to grant lands... Jose Castro was Prefect of the first District at the time that this document bears date, and was clothed with such authority'. Register 'Alvarado' names the delegating governor, not the granting officer; Hoffman ('Jose Castro') matches the grantor of record.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-chualar",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (acting governor / gobernador interino), per grant stamped p14-15: 'Manuel Jimeno Casarin... en ejercicio del gobierno del mismo... Dado en Monterrey a siete de Septiembre de mil ochocientos treinta y nueve. Manl. Jimeno.' Not Alvarado.",
+   "evidence": "Grant (stamped p14): 'Manuel Jimeno Casarin primer Vocal propietario de la Exma Junta del Departamento de las Californias en ejercicio del gobierno del mismo', signed 'Manl. Jimeno' (stamped p15); translation (stamped p26): 'Acting as Governor of the same'; DC opinion (stamped p171): 'a grant from Jimeno the Governor ad interim of California'. Alvarado's name appears only on the testimonio of the Junta's 26 May 1840 approval, issued 23 July 1840 (stamped pp16-17), which likely caused the register's error. Hoffman agrees with the case file.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cienegas",
+   "field": "governor",
+   "register_value": "Micheltorena",
+   "correction": "Jose de la Guerra y Noriega, acting as military commandant of the southern portion under Don Luis Arguello (who exercised the civil functions of Governor) - PDF p47. NOT Micheltorena.",
+   "evidence": "Board opinion PDF p47 (stamped PAGE 39): 'The grant was made by Don Jose de la Guerra y Noriega then acting as military commandant of the southern portion of the Territory, under Don Luis Arguello, who was in command at Monterey and exercised the civil functions of Governor'. Micheltorena appears only as the official who in 1843 referred the Abila-Sanchez boundary dispute to three commissioners (PDF p46, stamped PAGE 38)",
+   "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-corte-madera-novato",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno per the grant's sworn translation, PDF p31: 'Given in Monterey the sixteenth day of October Eighteen hundred and thirty nine / Manuel Jimeno / Francisco Arce, First Official'",
+   "evidence": "The grant itself is signed by Manuel Jimeno, not Alvarado. Sworn translation, PDF p31 (stamped PAGE 24): 'Given in Monterey the sixteenth day of October Eighteen hundred and thirty nine / Manuel Jimeno / Francisco Arce, First Official'. The petition, PDF p9 (stamped PAGE 4), likewise says 'a decree issued on the same day under the signature of Manuel Jimeno, first Vocal of the Departmental Assembly declaring your petitioner the lawful Owner of said land'. Alvarado's name appears nowhere in the pages read",
+   "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-estero-americano",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (acting Governor of California), per petition PDF p11 / transcript p5: 'on the 4th day of September A.D. 1839, Manuel Jimeno Governor of California... granted to Edward Manuel McIntosh'; corroborated by James Black deposition PDF p13. Not Alvarado.",
+   "evidence": "The grant was signed by Manuel Jimeno, NOT Alvarado. Petition (PDF p11, transcript p5): 'on the 4th day of September A.D. 1839, Manuel Jimeno Governor of California by virtue of authority in him vested, granted to Edward Manuel McIntosh'; James Black deposition (PDF p13): 'Governor Jimeno gave McIntosh a title to this Rancho in 1839.' Alvarado was the constitutional governor and the Departmental Junta approval of 22 May 1840 fell in his term, which likely produced the register's error; but the concession itself was made by Jimeno as acting governor. Hoffman ('Manuel Jimeno') agrees with the case file against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-llano-buena-vista",
+   "field": "governor",
+   "register_value": "a Spanish governor",
+   "correction": "Luis Antonio Arguello, governor of Alta California under Mexico, per petition PDF p9 / transcript p5 and the depositions of Cantua, Vallejo, Soberanes and Spence. Register's 'a Spanish governor' is wrong on both count and era: the petition claims 'under a Mexican Grant' (PDF p8).",
+   "evidence": "PDF p9 (transcript p5): 'The Original Title was derived of Governor Don Luis Antonio Arguello in 1823'; PDF p16 (transcript p12) David Spence's own deposition: 'the Rancho Llano de Buenavista had been granted to the said Jose Mariano Estrada by Don Luis Arguello Governor of Upper California in the year 1823'; PDF p10 (transcript p6) Guadalupe Cantua: 'It was granted to said Estrada by Luis Arguello Governor in 1823'; PDF p14 (transcript p10) Mariano Soberanes: 'granted in 1823 by Governor Arguello to Mariano Estrada'. The petition itself, PDF p8, styles it 'a Mexican Grant' - Arguello was the first governor under Mexican rule, not a Spanish governor.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-molinos",
+   "field": "governor",
+   "register_value": "Jose Figueroa",
+   "correction": "Nicolas Gutierrez granted El Molino (1836); Figueroa granted only the exchanged-away Ojotska tract (Dec 1833). Per petition transcript p4 and Vallejo deposition transcript p7; Hoffman corroborates 'Feb. 24th 1836, by Nicolas Gutierrez'.",
+   "evidence": "The El Molino (Molinos) tract was granted by NICOLAS GUTIERREZ, not Figueroa. Petition (transcript p4): 'Nicolas Gutierez Governor of California by virtue of authority in him vested Issued to the petitioner a title for the aforesaid tract of Levanta hyeme.' Vallejo (transcript p7, who as Cooper's agent handled the exchange and got the El Molino title): 'granted... in 1836 by Governor Gutierez... The arrangement was made with Governor Figueroa before his death, but was completed by Governor Gutierez.' Figueroa granted only the exchanged-away Ojotska tract (decree transcript p25, título p27, Dec 1833).",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-nuestra-senora-refugio",
+   "field": "governor",
+   "register_value": "a Spanish governor",
+   "correction": "Jose Figueroa (Jefe Superior Politico of Alta California), PDF p27 and PDF p29-30.",
+   "evidence": "PDF p27 (PAGE 21): 'El Senor Don Jose Figueroa, general de Brigada, Comandante general, Inspector y Jefe Superior Politico del Territorio de la Alta California asi lo mando, decreto y firmo' (signed Jose Figueroa / Agustin V. Zamorano Srio.); PDF p29-30 (PAGES 23-24) titulo issued in Figueroa's name. Not a Spanish governor: the grant is Mexican-era.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-penasquitos",
+   "field": "governor",
+   "register_value": "Castro",
+   "correction": "Luis Antonio Arguello ('Gefe Superior Politico y Militar', PDF 27-28; DC decree tp69 'Antonio Arguello then Governor of California') for the original 1823 grant; Figueroa for the 1834 addition, approved by Alvarado 1840. Register 'Castro' is wrong",
+   "evidence": "Register 'Castro' is wrong. Original grantor = Luis Antonio Arguello: Doc B petition addressed to 'Sr Gefe Supor Politico y Militar de la Na California, Captn Dn Luis Anto. Arguello', decree signed 'Luis Antonio Arguello, Gefe Superior Politico y Militar de esta Provincia de la Alta California' (PDF 27-28). DC decree tp69: 'granted to Francisco Maria Ruiz by Antonio Arguello then Governor of California on the 15th day of June A.D. 1823'. The 1834 addition was by Figueroa, approved 1840 by Alvarado. Jose Castro appears nowhere in this file. Hoffman ('Luis Antonio Arguello') agrees with the file against the register",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-petaluma",
+   "field": "governor",
+   "register_value": "Figueroa",
+   "correction": "Micheltorena, per the decrees signed by him at Monterey in Oct 1843 (p45, p46). Register 'Figueroa' is not supported by any document in the case file.",
+   "evidence": "p45 marginal decree 'Monterey Oct [2]4 1843. Let the Secretary of State of this Supreme Departmental Government report. (signed) Micheltorena'; p46 'In conformity with the report, let the title be issued with the conditions of the law. (signed) Micheltorena'. No Figueroa document appears anywhere in the expediente; the only granting governor of record is Micheltorena.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-potrero-rincon-san-pedro-reglado",
+   "field": "governor",
+   "register_value": "Jose E. Estrada (Prefect); Jose Jimeno",
+   "correction": "Jose Ramon Estrada (Prefect) for the Buelna tract; Manuel Jimeno (1st Vocal of the Departmental Junta, acting Governor) for the Arana tract (opinion p70, p74)",
+   "evidence": "Opinion p70/decree p75: 'Jose Ramon Estrada' as Prefect (register gives wrong initial 'Jose E.'); opinion p74: 'Manuel Jimeno, 1st Vocal of the Departmental Junta acting as Governor' approving/granting the Arana tract (register gives 'Jose Jimeno')",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-pulgas",
+   "field": "governor",
+   "register_value": "a Spanish governor",
+   "correction": "Not a Spanish governor. The granting authority of record is the Mexican political chief / acting governor of Alta California in 1835, named in the claimants' petition (PDF p19 / stamped p17) as Jose Castro, with the Territorial Deputation's approval of 18 Dec 1835.",
+   "evidence": "The operative documents are of November 1835, i.e. the MEXICAN period, not Spanish. Claimants' petition PDF p19 (stamped p17) names the granting officer: the October 1835 decree in their favour 'was made on the 3rd day of October 1835 by Don Jose Castro who was on that day the Political Chief or Governor of Alta California', and it was 'the said Governor or Political Chief' who on 26 November 1835 issued the decree of concession. No Spanish-period title paper appears among the exhibits, and the Board's opinion (PDF p429-431 / stamped p383-385) rests entirely on the 1835 documents.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-jacinto-viejo",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (acting/interim Governor, 'Gobernador Interino'), per the concession decree of 21 Dec 1842 (transcript p.16): 'El Exmo Senor Gobernador asi lo mando decreto y firmo. Jimeno', confirmed by the judicial possession (transcript p.22): 'conferido por el Exmo Sr Gobernador Interino del Departamento Dn Manuel Jimeno' and by the Board's own opinion. Register 'Alvarado' is wrong; Alvarado only referred the petition to the Prefect on 11 Aug 1842",
+   "evidence": "The GRANT was made by Manuel Jimeno as acting governor, NOT Alvarado. Concession decree (image 22, transcript p.16): 'Monterrey. 21 de Dbre de 1842... El Exmo Senor Gobernador asi lo mando decreto y firmo. Jimeno'; judicial possession (image 30, transcript p.22): 'el respetivo titulo que se le ha conferido por el Exmo Sr Gobernador Interino del Departamento Dn Manuel Jimeno con fecha veinte y uno de Diciembre de mil ochocientos quarenta y dos'; Board opinion (image 57, transcript p.31): 'It was granted on the 21st of December 1842 by Manuel Jimeno Vocal of the Departmental Assembly and acting Governor of California to Jose Antonio Estudillo'. Alvarado appears in the espediente only as the governor who on 11 Aug 1842 referred the petition to the Prefect (marginal order, image 26), a preliminary step, not the grant",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-jose-buenos-ayres",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Micheltorena, not Alvarado. Grant decree PDF p18 (transcript p14): 'Manuel Michelttorena Gobernador Comandante General e Ynspector de ambas Californias'; signed 'Man.l Michellt.a', PDF p19.",
+   "evidence": "The grant decree is Micheltorena's, not Alvarado's. PDF p18 (transcript p14): 'Manuel Michelttorena Gobernador Comandante General e Ynspector de ambas Californias. Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres'; signed PDF p19 'Man.l Michellt.a'. Sworn translation PDF p26 (transcript p22): '(Grant.) Manuel Michelttorena, Governor, Commandant General and Inspector of both Californias.' Abel Stearns authenticated 'The signatures of Manuel Michletorena, Francisco Arce ... I believe to be genuine' (PDF p10, transcript p7). Petition PDF p7: 'by deed of grant made by Manuel Michaltorena as Governor of the Californias dated February 24th A.D. 1843'. Hoffman agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-lorenzo-2",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Micheltorena. Title heading PDF p15 (transcript p9): 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano ... y Gobernador del Departam.to de las Californias'. Alvarado's role was confined to the 1840-41 preliminaries on the 600-vara petition (his marginal decree PDF p24, transcript p18: 'Monterey Ag.to 10 de 1840. Informe el Mayordomo de S. Jose ... Alvarado').",
+   "evidence": "Micheltorena granted the rancho. Title heading PDF p15 (transcript p9): 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano, Ayudante Gral de la Plana Mayor y Comandante Gral y Gobernador del Departam.to de las Californias. Por cuanto D.n Guillermo Castro ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de San Lorenzo ... he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras'; Micheltorena also signed the referral of 13 Oct 1843 (PDF p14, transcript p8, 'Monterey Oct.e 13 de 1843. Inf.e el S. S.rio del Despacho. Michellt.a') and the added condition of 24 Oct 1843 (PDF p16, transcript p10, 'Michellt.a'), on Manuel Jimeno's report of 23 Oct 1843 (PDF p15). Hoffman agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-pascual",
+   "field": "governor",
+   "register_value": "Figueroa",
+   "correction": "Juan B. Alvarado per the expediente, authenticated by Alvarado himself (pdf p20), by J.J. Warner (pdf p27-28) and by Manuel Dominguez (pdf p98-99). Register's 'Figueroa' is wrong.",
+   "evidence": "Granting governor is Juan B. Alvarado (with Juan Bandini as secretary), not Figueroa. Alvarado authenticated his own signature on the 1838 expediente (pdf p20, transcript p14-15); J.J. Warner (pdf p27-28, transcript p21-22): 'I am acquainted with the signatures of Juan B. Alvarado and Juan Bandini... their signatures in said original document... are genuine'; Manuel Dominguez (pdf p98-99, transcript) likewise authenticates the Alvarado order. Register 'Figueroa' is wrong; Hoffman 'Juan B. Alvarado' agrees. (A later augmentation was sought from Micheltorena/Pico, but the principal grant is Alvarado's.)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-santa-margarita",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Casarin), 1st vocal of the Departmental Junta in exercise of the government (acting governor), per titulo p16/p18: signed 'Man'l Jimeno', given Monterey 27 Sep 1841. Register's 'Alvarado' appears in the file only as the custom-house stamp-paper habilitation signature for 1839-40 (p17/p19), which may be the source of the confusion.",
+   "evidence": "The grant was NOT made by Alvarado. Titulo stamped p15/p17: 'Manuel Jimeno Casarin 1st Regular Vocal of the Most Excellent Departmental Junta in exercise of the Government of the same... I have granted him the aforesaid land', signed 'Man'l Jimeno' (p16/p18). Board opinion p19: 'a grant made to the present claimant by Manuel Jimeno 1st Vocal... exercising the functions of Governor, dated September 27th 1841'; US brief p41 says the same. Hoffman ('Manuel Jimeno') agrees with the case file against the register.",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-rosa-1",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Jimeno Casarin), gobernador interino / acting governor, 30 July 1839 - per grant decree transcript p24 and U.S. court decree transcript p89-90; second grant 19 Nov 1845 by Pio Pico. NOT Alvarado.",
+   "evidence": "Grant decree, transcript p24: 'El Senor Don Manuel Jimeno Casarin Gobernador Interino del Departamento de las Californias asi lo mando, decreto y firmo de que doy fe. Manuel Jimeno.' Court decree, transcript p89-90: 'granted to the said Francisco Cota ... the first by Manuel Jimeno, acting governor of said department, on the 30th day of July, 1839, and the second by governor Pio Pico on the 19th day of November, 1845.' Alvarado appears in this file ONLY on the later order of 10 June 1840 (transcript p25): 'El Sr. D. Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias asi lo proveyo y firmo... Alvarado' - i.e. he ordered the testimonio of the Assembly's approval issued in confirmation of the terreno 'que otorgo en treinta de Julio de mil ochocientos treinta y nueve'. He did not make the concession.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-rosa-island",
+   "field": "governor",
+   "register_value": "Alvarado; Micheltorena",
+   "correction": "Manuel Micheltorena, alone (transcript p8/p15). Alvarado has no part in this grant.",
+   "evidence": "The only granting officer in the file is Micheltorena. Transcript p8: 'Manuel Micheltorena General de Brigada del Ejercito Mejicano Gobernador y Comandante General del departamento de ambas Californias ... he venido en concederle exclusivte. la Isla mencionada declarandoles la propriedad de ella por las presentes letras'. Translation p15: 'Manuel Micheltorena General of Brigade of the Mexican Army Governor & commanding General of the Department of Both Californias ... I have granted to them exclusively the said Island'. Alvarado does not appear in the grant, the petition, the deed of transfer, or the judicial possession; 'Manuel Jimeno' appears only as Secretary countersigning.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tulucay",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Manuel Jimeno Casarin), 1er vocal of the Departmental Junta 'en ejercicio del Gobierno' - i.e. Governor ad interim - who signed the titulo at Monterey 26 October 1841 (PDF p22-23). Register's 'Alvarado' is wrong on the face of the grant.",
+   "evidence": "The grant was NOT made by Alvarado. The titulo itself, PDF p22 (45 ND p.16), is headed: 'Manuel Jimeno Casarin 1er vocal propietario de la Excma Junta Departamental en ejercicio del Gobierno del mismo. Por cuanto el ciudadano Cayetano Juares ha pretendido... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he benido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras', subscribed at PDF p23 'Manuel Jimeno / Jose L. Fernandez Srio into'. Board opinion PDF p49 (45 ND p.41): 'a grant made by Manuel Jimeno Governor ad interim'; District Court PDF p70 (45 ND p.60): 'Jimeno was, at the time Governor ad interim'. Alvarado's name appears nowhere on the instrument",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-zanjones",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Manuel Jimeno (Casarin), acting governor / 'Governor ad interim', per the grant titulo (stamped p20) and DC opinion (transcript p172). NOT Alvarado.",
+   "evidence": "Grant (titulo/despacho) in the expediente signed 'Man'l Jimeno... primer vocal de la Exma. Junta de este Departamento, EN EJERCICIO DEL GOB[IERN]O del mismo' (Manuel Jimeno Casarin, acting governor), Monterey Dec 15 1840 (stamped pp20-21). US District Court opinion (transcript p172): 'The claim in this case is founded upon a grant from Manuel Jimeno, Governor ad interim of California, to one Gabriel De la Torre, bearing date the 20th August 1839.' The 'Alvarado. Antonio M. Osio' text on the 1842 deed leaf (stamped p14) is only the revenue-stamp (sello) habilitation for the paper, NOT the grantor. Register 'Alvarado' is wrong; the grant was made/signed by Manuel Jimeno (acting governor). Matches Hoffman (Manuel Jimeno).",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-arroyo-chico",
+   "field": "grantee",
+   "register_value": "John Bidwell",
+   "correction": "William Dickey (Sp. 'Guillermo Dickey'), per the grant decree of 18 Nov 1844, PDF p14 (PAGE 9): 'declaro á D. Guillermo Dickey mejicano por naturalizacion dueño en propiedad de un parage situado en el Rio de Sacramento'. John Bidwell was the U.S. claimant, who took title through George McKinstry Jr. in 1849 and Justus McKinstry in 1851.",
+   "evidence": "THE REGISTER RECORDS THE U.S.-ERA CLAIMANT, NOT THE MEXICAN GRANTEE. The grant decree (PDF p14, PAGE 9) declares 'á D. Guillermo Dickey mejicano por naturalizacion dueño en propiedad de un parage situado en el Rio de Sacramento'; the title itself (PDF p15, PAGE 10) recites 'Por cuanto D. Guillermo Dickey mejicano por naturalizacion ha pretendido para su beneficio personal y el de su familia cinco sitios de ganado mayor, entre las margenes del Rio Sacramento ... he venido en concederle provisionalmente dho. terreno'; the expediente cover is headed '1844. Espediente promovido por D. Guillermo Dickey en solicitud del terreno que se espresa' (PDF p10, PAGE 5). Bidwell's own petition says so plainly (PDF p9, PAGE 4): 'That on the 18th Nov. 1844 a grant of five leagues was made with a provisional title to William Dickey by Gov. Micheltorena ... that said grant was sold and conveyed to Geo. McKinstry Jr. by deed dated 7th May 1849 who conveyed one undivided half thereof to your Petitioner by deed dated July 4th 1849'. The District Court index lists the chain: 'Deed Dickey to McKinstry / Deed McKinstry to Bidwell / Dickey to Bidwell - derivation of title to Bidwell' (PDF p138, PAGE 123). Hoffman's 'William Dickey' agrees with the case file against the register.",
+   "audit_source": "chunk01.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-boga",
+   "field": "grantee",
+   "register_value": "Thomas O. Larkin",
+   "correction": "Charles William (Carlos Guillermo) Flugge, per grant of 21 Feb 1844, stamped PAGES 30-33; Larkin took by conveyance of 21 Jan 1847 (stamped PAGES 11, 85)",
+   "evidence": "Grant, stamped PAGE 30: 'Por cuanto Don Carlos Guillermo Flugge mejicano por naturalizacion... he venido en concederle el terreno mencionado'; translation stamped PAGE 32: 'Whereas Charles William Flugge... I have come to the conclusion to grant unto the petitioner the above mentioned lands'. Larkin was only the purchaser-claimant: 'a deed of conveyance from the said Flugge dated the 21st day of January 1847' (Board opinion, stamped PAGE 85). Register records the U.S.-era claimant, not the Mexican grantee.",
+   "audit_source": "chunk13.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-bolsa-potrero-moro-cojo-sagrada-familia",
+   "field": "grantee",
+   "register_value": "John B. R. Cooper",
+   "correction": "Jose Joaquin de la Torre (grant of June 22, 1822); Cooper is claimant/purchaser only. Per decree transcript p10-11: 'le concedo a nombre de S.M. Imperial la gracia que solicita... de las Bolsas del Potrero y Moro Cojo'.",
+   "evidence": "Original grantee = Jose Joaquin de la Torre, 'Cadete de la Compania de Caballeria de este Imperial Presidio de Monterey' (petition + Sola's decree, transcript p9-11, PDF p13-15). John B. R. Cooper was the PURCHASER: de la Torre sold him the rancho by escritura of Oct 2, 1829 before alcalde Jose Tiburcio Castro (transcript p12-15, PDF p16-19), and Cooper acquired Milligan's half from executor Hartnell Aug 21, 1834 (transcript p16-17, PDF p20-21). Hoffman's 'F. Tico' is also wrong.",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cachil-dehe-rancheria",
+   "field": "grantee",
+   "register_value": "Thomas O. Larkin and John S. Missroon",
+   "correction": "Manuel Jimeno, per the grant of 4 Nov 1844 (translation PDF p30: 'Whereas Don Manuel Jimeno has petitioned ... I have just granted to him the said land'); Larkin and Missroon took by deed 30 Aug 1847 and were only the claimants",
+   "evidence": "The grantee was Don Manuel Jimeno, not the claimants. Grant translation, PDF p30 (case p24): 'Whereas Don Manuel Jimeno has petitioned for his personal benefit for the tract of land which is unoccupied between the Ranch which has been granted to the children of Don Tomas O. Larkin, the River Sacramento ... I have just granted to him the said land'. Expediente decree PDF p25 (case p19): 'declaro a D. Manuel Jimeno dueño de once sitios de ganado mayor'. Larkin and Missroon are the PURCHASERS under the deed of conveyance of 30 August 1847 (PDF p21-22, case p15-16: 'comparecio D.n Manuel Jimeno y dijo: que ... vende y da en venta publica ... a D.n Tomas O. Larkin ... y a D.n Juan S. Missroon'), and thereby the U.S.-era claimants. District Court opinion PDF p139 (case p134) states it flatly: 'The original grant by Governor Micheltoreno to Manuel Jimeno bears date November 1844. The conveyance to the present claimants is dated August 30. 1847.'",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cajon",
+   "field": "grantee",
+   "register_value": "T. W. Sutherland",
+   "correction": "María Antonia Estudillo de Pedrorena, per the grant decree of 23 Sept 1845 (PDF p23 / case p16: 'declaro a Da. Maria Antonia Estudillo de Pedrorena dueña del terreno nombrado \"Cajon\"'). T. W. Sutherland was guardian of her four minor children and the claimant before the Board, not the grantee.",
+   "evidence": "The grantee was Doña María Antonia Estudillo de Pedrorena. Grant decree PDF p23 (case p16): 'declaro a Da. Maria Antonia Estudillo de Pedrorena dueña del terreno nombrado \"Cajon\" inmediato a la predicha Mision de S.n Diego'; translation PDF p31 (case p24). The expediente is captioned 'Espediente promovido por Da. Maria Antonia Estudillo de Pedrorena, en solicitud del terreno nombrado el Cajon' (PDF p15, case p9). Thomas W. Sutherland is the U.S.-era CLAIMANT only, in the capacity of guardian: petition PDF p9 (case p4) is brought for 'Victoria, Isabel, Miguel and Helena Minor children of Miguel de Pedrorena and Maria Antonia Estudillo de Pedrorena ... both deceased', and the Supreme Court mandate PDF p81 (case p67) styles the appellee 'Thomas W. Sutherland, Guardian of Victoria, Isabel, Miguel, and Helena, minor children & heirs of Miguel de Pedrorena and Maria Antonia Estudillo de Pedrorena, deceased'. Witness Santiago Argüello likewise calls her 'the Original grantee' (PDF p12, case p6).",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-campo-franceses",
+   "field": "grantee",
+   "register_value": "Charles M. Weber",
+   "correction": "Guillermo (William) Gulnac, per the grant of 13 Jan 1844 quoted in the Board opinion, PDF p110 (case p100): 'Whereas Don Guillermo Gulnac Mexican by Naturalization has asked for his own personal benefit and that of his family, and Eleven other families for the land known by the name of \"Campo de los Franceses\"'; and Commissioner Farwell, PDF p113 (case p103): 'The grant then was to Gulnac.' Charles M. Weber bought Gulnac's interest by deed of 3 April 1845 and was the claimant before the Board.",
+   "evidence": "The grantee was Don Guillermo (William) Gulnac; Weber was the purchaser and U.S.-era claimant. Grant decree as quoted in the Board opinion, PDF p110 (case p100): 'Whereas Don Guillermo Gulnac Mexican by Naturalization has asked for his own personal benefit and that of his family, and Eleven other families for the land known by the name of \"Campo de los Franceses\" in extent Eleven Square leagues between the Rio de San Joaquin on the East and the Laguna called McCloud...'; PDF p111 (case p101): 'I have granted to him the said Land declaring to him the Ownership of it by these letters'. Commissioner Farwell states it flatly at PDF p113 (case p103): 'The grant then was to Gulnac.' Weber acquired by deed of 3 April 1845: translation of the conveyance, PDF p108 (case p98), 'appeared and presented himself citizen Gulnac ... all the rights and property he possessed in the Rancho known and called \"El Campo de los Franceses\" to Don Carlos Maria Weber, a naturalized citizen of Mexico ... which (Rancho) he acquired by a grant made to him by his Excellency the Governor and Commandant General of this Department Don Manuel Micheltorena, under date of the 13th day of January A.D. 1844'. The District Judge's reviewer likewise calls Gulnac 'the grantee' (PDF p332, case p307) and describes Weber as the purchaser (PDF p333, case p308).",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-guadalupe",
+   "field": "grantee",
+   "register_value": "Robert E. Eaton",
+   "correction": "Jacob P. Leese ('Jacobo Luis de Leese') per grant decree transcript p.20/translation p.24; claimant of this 700-acre parcel was Robert S. Eaton (not 'Robert E.'), via Leese-to-Ridley deed of exchange Dec 1849 and Ridley-to-Eaton deed 29 Oct 1851 (transcript pp.10-17)",
+   "evidence": "Grant decree transcript p.20 (PDF p24): 'declaro a Dn Jacobo P. Leese dueno en propiedad del terreno'; translation p.24: 'I do declare Jacob P. Leese owner in full property'. Register's 'Robert E. Eaton' is the CLAIMANT, not the grantee, and the transcript title (PDF p5) and red label give him as Robert S. Eaton. Hoffman (Jacob P. Leese) agrees with the case file.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-jonive",
+   "field": "grantee",
+   "register_value": "Jasper O'Farrell",
+   "correction": "James Black (Santiago Black) per grant decree transcript p.13 and titulo transcript pp.11-12; Jasper O'Farrell is the claimant/purchaser (deed Black to O'Farrell, May 1850)",
+   "evidence": "Grant made to Santiago (James) Black: decree transcript p.13 (PDF p19): 'declaro a Dn Santiago Black dueno del terreno conocido bajo el Nombre de Jonive'; DC opinion transcript p.51: 'The original grant to James Black the grantor of appellee'. Register's 'Jasper O'Farrell' is the CLAIMANT, who bought from Black in May 1850 (O'Farrell deposition, transcript p.7, PDF p12). Hoffman (James Black; the '13' in the input is table noise) agrees with the case file.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-osos-pecho-islay",
+   "field": "grantee",
+   "register_value": "Victor Linares",
+   "correction": "James (Diego) Scott and John (Juan) Wilson per the operative 24 Sept 1845 Pico grant, transcript p.23. If the register instead means the original grant, the whole row should read 1842 / Alvarado / Victor Linares (Osos portion only, transcript pp.10-11) - as Hoffman has it. The current 1845/Pico/Linares mix matches no document.",
+   "evidence": "The 24 Sept 1845 Pico grant runs to 'los Senores Dn Diego Scott y Dn Juan Wilson' (James Scott and John Wilson), transcript p.23 (PDF p29); assembly approval likewise 'en favor de los Senores Dn Diego Scott y Dn Juan Wilson' of 7.5 sitios (transcript p.24). Victor Linares was grantee only of the 1842 Alvarado grant of Canada de los Osos (4 sitios, transcript pp.10-11), which he sold to Wilson 30 Sept 1843/29 May 1844 (exhibit E, transcript pp.21-22). Register pairs the 1845/Pico grant with the 1842 grantee - a conflation.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-san-miguelito",
+   "field": "grantee",
+   "register_value": "Juana Tico de Rodríguez",
+   "correction": "Ramon Rodriguez (Ramon Rodrigues), resident of the Presidio of Santa Barbara, per the decree PDF p20 and titulo PDF p21.",
+   "evidence": "Grant decree PDF p20 (transcript p15): 'se declara al Ciudadano RAMON RODRIGUEZ dueno en propiedad del parage'; titulo PDF p21: 'Por cuanto el Ciudadano Ramon Rodriguez ha pretendido para su beneficio personal y el de su familia el terreno nombrado Canada de San Miguelito'. Halleck affidavit PDF p12 (transcript p7): 'Ramon Rodrigues the Grantee in this case was killed in the service of the United States near Santa Barbara in 1848'. Register's 'Juana Tico de Rodriguez' is the GRANTEE'S WIDOW and the U.S.-era claimant (p1 label 'CLAIMANT'; petition PDF p9 'Juana Tico de Rodrigues, widow ... children of Don Ramon Rodrigues deceased').",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cholame",
+   "field": "grantee",
+   "register_value": "Ellen E. White",
+   "correction": "Mauricio Gonzalez, per grant title stamped p10: 'el Ciudadano Mauricio Gonzalez... he venido en concederle el terreno mencionado' (7 Feb 1844). Ellen E. White belongs in the claimant/patentee columns, not grantee.",
+   "evidence": "Grant title (stamped p10): 'Por cuanto el Ciudadano Mauricio Gonzalez, ha pretendido... he venido en concederle el terreno mencionado'; decree (stamped p9): grants Cholam 'a Dn. Mauricio Gonzalez'. Ellen E. White was only the CLAIMANT, who bought the rancho via Mauricio Gonzalez's deed to Jose Rafael Gonzales (12 Sept 1851, stamped p16) and Rafael's deed to White (6 Oct 1851, stamped p17). Hoffman 1862 agrees with the case file against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-chualar",
+   "field": "grantee",
+   "register_value": "Mariano Malarin",
+   "correction": "Juan Malarin, per grant stamped p14: 'Por cuanto Dn. Juan Malarin ha pretendido... he venido en concederle el mencionado terreno del Chualar.' Mariano Malarin was only executor/claimant.",
+   "evidence": "Grant (stamped p14): 'Por cuanto Dn. Juan Malarin ha pretendido... he venido en concederle el mencionado terreno del Chualar'; Junta approval quote (stamped p16): 'en la persona de D. Juan Malarin'; DC opinion (stamped p171): grant 'to Juan Malarin'. Mariano Malarin was Juan's son and executor, the CLAIMANT (red label: 'MARIANO MALARIN, EXR.'). Hoffman agrees with the case file.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cosumnes",
+   "field": "grantee",
+   "register_value": "Salvador Oslo",
+   "correction": "William E. P. Hartnell, per appellees' answer stamp p174: \"granted to the said W.E.P. Hartnell by Governor Micheltorena on the 3d day of November A.D. 1844\"",
+   "evidence": "Grantee was William E. P. Hartnell, not 'Salvador Oslo'. p1 red label: 'Wm. E P. HARTNELL CLAIMANT'; p185 (stamp p174) appellees' answer: tract 'On the River Cosumnes' or 'Rancho de Hartnell', granted to the said W.E.P. Hartnell by Governor Micheltorena on the 3d day of November A.D. 1844'; p220 (stamp p209) memo: 'Nov 3 1844 Cosumne 11 l. to W.E.P.H. by M[icheltoren]a admitted to be genuine'.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-cruces",
+   "field": "grantee",
+   "register_value": "Vicente Cordero",
+   "correction": "Miguel Cordero (original Mexican grantee, grant of 11 May 1837); Vicente Cordero named in the register is Miguel's son and one of nine heirs, and the lead claimant in the 1879 confirmation petition. Per grant decree printed p73 / Surveyor General cert printed p70",
+   "evidence": "The GRANT was made to MIGUEL CORDERO, not Vicente. Concession decree printed transcript p73 (PDF p362): 'the citizen, Miguel Cordero, is declared owner in property of the tract of land known by the name of Las Cruces'; Surveyor General Stratton certification printed p70 (PDF p359): 'a true, full and correct copy of the original Espediente of the grant to Miguel Cordero of the Rancho of Las Cruces... Jimeno's Index No. 137'; Hopkins affidavit printed p79 (PDF p368): 'a grant of land made by the Governor of California to one Miguel Cordero of a place or Rancho called Las Cruces'; abstract PDF p4-5: 'granted by the Mexican Government of California to Miguel Cordero' who 'died... in March 1851... leaving... nine children: I. Vicente...'. Vicente Cordero is Miguel's SON and one of nine heirs; he (et al) filed the 1879 petition for confirmation",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-cuyama-1",
+   "field": "grantee",
+   "register_value": "María Antonia de la Guerra y Lataillade",
+   "correction": "Grantee = Cesario Lataillade per grant decree PDF p16-17 (PAGE 13-14): 'al Sor Dn Cesareo de Lataillade dueno... del parage de Cuyama'. Register's 'Maria Antonia de la Guerra y Lataillade' is the grantee's widow and a claimant-heir, not the grantee.",
+   "evidence": "The GRANT was to Cesario Lataillade, NOT the register's 'Maria Antonia de la Guerra y Lataillade'. Grant decree PDF p16-17 (PAGE 13-14): 'declaro... al Sor Dn Cesareo de Lataillade dueno en propiedad del parage de Cuyama'; English translation PDF p27-28 (PAGE 27-28): 'I declare Don Cesario Lataillade owner of the place of Cuyama'. Petition PDF p7 (PAGE 4) names Maria Antonia de la Guerra y Lataillade as 'widow... of Don Cesario Lataillade deceased' -- an heir/claimant, not the grantee. Hoffman 1862 grantee 'Cesario Lataillade' agrees with the file against the register.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-estero-americano",
+   "field": "grantee",
+   "register_value": "Jasper O'Farrell",
+   "correction": "Edward(o) Manuel McIntosh, per petition PDF p11 / transcript p5 and James Black deposition PDF p13. Jasper (Gaspar) O'Farrell was the claimant who bought the rancho from McIntosh 16 Oct 1851 (petition PDF p11).",
+   "evidence": "The grant was to Edward Manuel McIntosh, NOT Jasper O'Farrell. Petition (PDF p11, transcript p5): '...Manuel Jimeno Governor of California... granted to Edward Manuel McIntosh, the tract of land called \"Estero Americano\"'; James Black deposition (PDF p13): 'it was first occupied in 1836 or 1837 by Edwardo Manuel McIntosh... he sold it to O'Farrell, the present claimant, in 1848.' O'Farrell was the CLAIMANT/purchaser: petition (PDF p11): 'on the 16th day of October A.D. 1851 the said McIntosh sold and conveyed to the petitioner [O'Farrell] the aforesaid tract of land... marked E.' Red label names O'Farrell 'CLAIMANT', not grantee. Hoffman ('Ed. Manuel McIntosh') agrees with the case file against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-fernandez",
+   "field": "grantee",
+   "register_value": "Dionisio Z. Fernandez, Máximo Z. Fernandez, Josiah Belden, and William R. Basham",
+   "correction": "Maximo Zenon Fernandez and Dionisio Zenon Fernandez only, per grant decree stamped p16 and index p39; Belden and Basham were purchasers of 2/3 (deed 16 Aug 1850, stamped p19) and U.S.-era co-claimants - the claimant-for-grantee error class",
+   "evidence": "Grant (Doc. B, stamped p16) names only 'Maximo y Dionisio Zenon Hernandez [Fernandez]'; index p39: 'grant by Governor Pico to Maximo & D.Z. Fernandez'. Josiah Belden and William R. Basham were NOT grantees: they took an undivided 2/3 by deed of 16 Aug 1850 (stamped p19, 'Deed to Belden &c') and joined as claimants",
+   "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-gatos-santa-rita",
+   "field": "grantee",
+   "register_value": "Fermin Espinoza de Perez",
+   "correction": "Jose Trinidad Espinosa, per Alvarado decree of 30 Sept 1837 (stamped p20-21) and District Court decree (stamped p51). Register recorded the U.S.-era claimant (his daughter Fermina Espinosa de Perez, misspelled 'Fermin') - the claimant-for-grantee error class",
+   "evidence": "Grantee was JOSE TRINIDAD ESPINOSA: expediente petition and decree (stamped p16/p20-21), Board opinion stamped p34 ('granted... to Jose Trinidad Espinosa the father of the petitioner about the year 1824', regranted 1837), District Court decree stamped p51 ('to Jose Trinidad Espinosa'). 'Fermina Espinosa de Perez' was the CLAIMANT, the grantee's daughter (Hartnell deposition stamped p7: 'She is the grantee's daughter'); register also garbles her given name to masculine 'Fermin'",
+   "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-honcut",
+   "field": "grantee",
+   "register_value": "Charles Covillaud",
+   "correction": "Teodoro (Theodore) Cordua, per petition PDF p11-13 / transcript pp5-7: Cordua petitioned June 1843 and April 1844, and Micheltorena's decree of concession of 22 Dec 1844 'granted in full Ownership to said Cordua.' Charles Covillaud et al. were the claimants who acquired the rancho by mesne conveyances from Cordua.",
+   "evidence": "The grant was to Theodore (Teodoro) Cordua, NOT Charles Covillaud. Petition (PDF p11, transcript p5): 'That said tract of land was originally petitioned for by Theodore Cordua in June 1843'; (PDF p12, transcript p6): the 22 Dec 1844 decree 'granted in full Ownership to said Cordua, the land petitioned for by him'; (PDF p13, transcript p7): 'That said Theodore Cordua was a naturalized citizen of the Mexican Republic... That said land has come to the present Claimants by mesne conveyances.' Charles Covillaud et al. were the CLAIMANTS/purchasers (red label names them 'CLAIMANTS'). Hoffman ('Teodoro Cordua') agrees with the case file against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-huecos",
+   "field": "grantee",
+   "register_value": "John Roland and J. L. Hornsby",
+   "correction": "Luis Arenas and Juan (John) Roland, per Pío Pico's decree of 6 May 1846 (PDF p12 Spanish / PDF p15 sworn translation, transcript pp7 and 10): 'declare Luis Arenas and John Roland owners of the surplus lands of the Ranchos de las Animas and Pala to the number of nine leagues of the larger size.' J. L. Hornsby was NOT a grantee: he took Arenas's undivided half by devise from James M. Jones (will of 4 Sept 1851), Jones having bought it from Arenas by deed of 2 Oct 1850 (claimants' petition PDF p9; District Court brief PDF p130).",
+   "evidence": "The grant ran to LUIS ARENAS and JUAN (JOHN) ROLAND, not to Roland and Hornsby. Spanish decree, 6 May 1846 (PDF p12, transcript p7): 'declarar á los Señores Dn Luis Arenas y Dn Juan Roland, dueños en propiedad de los terrenos sobrantes que hay en el terreno de las Animas y rancho de Pala, hasta el numero de nueve sitios de ganado mayor'. Expediente caption (PDF p11, transcript p6): 'Los huecos ó sobrantes del terreno... concedidos á Luis Arenas y Juan Roland.' Sworn translation (PDF p15, transcript p10): 'I hereby by these presents declare Luis Arenas and John Roland owners of the surplus lands of the Ranchos de las Animas and Pala to the number of nine leagues of the larger size.' Hornsby's derivative title is stated in the claimants' own petition (PDF p9, transcript p4): the grant was made 'to Luis Arenas and the Petitioner John Roland', and 'another undivided interest of Luis Arenas... was sold and conveyed by him to J M Jones by deed dated the second of October 1850 and by said J M Jones who is now deceased devised to the Petitioner J L Hornsby by last will and testament bearing date the 4th of September 1851'. Confirmed again in the District Court brief (PDF p130, file p108): 'The grant in this case was made on the 6th of May 1846 by Govr Pio Pico to Luis Arenas and the claimant John Roland, one of the Appellants... Luis Arenas conveyed his interest to James M Jones, who died and devised all his property to the Appellant J.L. Hornsby.' Hoffman ('Luis Arenas and John Roland') agrees with the case file against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-huerhuero",
+   "field": "grantee",
+   "register_value": "Francis Branch",
+   "correction": "Original grantee = Mariano Bonilla (grant of 9 May 1842 by Gov. Alvarado per petition transcript p4 and Bonilla deposition transcript p7). Francisco/Francis Branch was the claimant who acquired the rancho from Bonilla 6 Nov 1847.",
+   "evidence": "petition transcript p4: grant was to 'Mariano Bonilla'; Bonilla deposition transcript p7: 'It was granted to me... in 1842'. Register 'Francis Branch' was the claimant/purchaser (Bonilla conveyed to Branch 6 Nov 1847 per petition p4), not the original grantee. Red label p1 confirms Branch = CLAIMANT.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-jacinto",
+   "field": "grantee",
+   "register_value": "William H. McKee",
+   "correction": "Original grantee = Jacinto Rodriguez (grant decree of 2 Sept 1844 by Gov. Micheltorena, translation 'B' transcript p25: 'Inasmuch as Jacinto Rodriguez has besought for his own personal benefit a tract of land... I have granted unto him'). William H. McKee was the purchaser who acquired the rancho from Rodriguez on 25 April 1846 (transfer deed 'C', transcript p30).",
+   "evidence": "Grant decree translation 'B' transcript p25: 'Inasmuch as Jacinto Rodriguez has besought for his own personal benefit a tract of land... I have granted unto him the before mentioned land.' Register 'William H. McKee' was the PURCHASER/claimant: transfer 'C' transcript p30 shows Jacinto Rodriguez 'sells and gives... forever to William H. McKee' on 25 April 1846 for $380. Red label p1 lists McKee as CLAIMANT.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-jesus-maria",
+   "field": "grantee",
+   "register_value": "Luis T. Burton and José Carrillo",
+   "correction": "Original grantees = Lucas Olivera, Antonio Olivera, and Jose Antonio Olivera (grant of 8 April 1837 by Gov. Juan B. Alvarado per petition transcript p3). Lewis T. Burton (2/3) and Jose Carrillo (1/3) were the claimants who acquired the rancho by later conveyances. Register also misspells 'Lewis' as 'Luis'.",
+   "evidence": "Petition transcript p3: the grant of 8 April 1837 was 'to Lucas Olivera, Antonio Olivera, and Jose Antonio Olivera' (the three Olivera brothers). Register 'Luis T. Burton and Jose Carrillo' were the CLAIMANTS/purchasers via mesne conveyances (petition p3-p5: Burton acquired two undivided thirds, Jose Carrillo one third). Red label p1 lists 'LEWIS BURTON, ET AL' as CLAIMANT.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-johnson",
+   "field": "grantee",
+   "register_value": "William Johnson",
+   "correction": "Original grantee = Pablo Gutierrez (grant Summer 1844 under Gov. Micheltorena's general title, issued via Capt. Sutter). William Johnson was the purchaser at the judicial sale conducted by Sutter (as juez of the Sacramento jurisdiction) on 29 April 1845 to satisfy Gutierrez's debts after Gutierrez's assassination (petition transcript p5-7; Bidwell depo p9-10).",
+   "evidence": "Petition transcript p5 + supplemental petition p7: '...said grant was made to Pablo Gutierrez in the Summer of 1844...'. Bidwell deposition transcript p9-10 confirms 'a grant of land was made to Pablo Gutierrez'. Register 'William Johnson' was the PURCHASER at Sutter's judicial sale of 29 April 1845 (petition p5: Sutter 'sold said grant... and conveyed the same to Your Petitioner'). Red label p1 lists William Johnson as CLAIMANT.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-juntas",
+   "field": "grantee",
+   "register_value": "James Swanson, administrator",
+   "correction": "Original grantee = William Welsh (Guillermo Welsh), by Gov. Micheltorena's decree of concession of 21 Nov 1844 (petition transcript p5; expediente p8). The claimant was JOSEPH Swanson, administrator of Welsh's estate - the register both substitutes the administrator for the grantee AND miswrites his first name as 'James'.",
+   "evidence": "Petition transcript p5: the concession decree of 21 Nov 1844 declared 'said William Welsh the owner thereof'; Spanish expediente transcript p8 names 'Guillermo Welsh' as the solicitante/grantee. Register 'James Swanson, administrator' is doubly wrong: the grantee was William Welsh, and Swanson was only the administrator of Welsh's estate prosecuting the claim after Welsh died intestate (petition transcript p3-5) - and even his given name is wrong: the record says JOSEPH Swanson, not James (Board proceedings transcript p2 + petition p3).",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-laguna-merced",
+   "field": "grantee",
+   "register_value": "Josefa de Haro",
+   "correction": "Jose Antonio Galindo per Board opinion tp89 (A p99): 'a grant made to Jose Antonio Galindo by Governor Jose Castro on the 27th of September 1835'; conveyed to Francisco de Haro May 12 1837; Josefa de Haro et al = claimant heirs",
+   "evidence": "Original grantee was Jose Antonio Galindo, NOT Josefa de Haro. Board opinion tp89 (A p99): 'a grant made to Jose Antonio Galindo by Governor Jose Castro on the 27th of September 1835'; tp89: claimants 'derive their title by a Conveyance from Galindo the original grantee to their Ancestor Francisco de Haro dated May 12th 1837'. Josefa de Haro et al are the claimant heirs of the purchaser. Hoffman agrees against the register (grantee Jose Antonio Galindo)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-laguna-seca-1",
+   "field": "grantee",
+   "register_value": "Liberta Ceseña Bull",
+   "correction": "Juan Alvirez (Don Juan Alvirez), per Figueroa's titulo of 22 July 1834, PDF p22-23 / transcript pp16-17. 'Liberta Cesena Bull' was the widow of William Fisher and the 1852 claimant, not the Mexican grantee.",
+   "evidence": "Grant titulo PDF p22 (transcript p16): 'Por cuanto D. Juan Alvirez Mejicano por nacimiento ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de la Laguna Seca ... a nombre de la Nacion Mejicana he venido en conferirle el terreno mencionado'. The register's 'Liberta Cesena Bull' is the U.S.-era CLAIMANT: PDF p8 (transcript p2) 'The Petition of Liberata Cesena Bull et al: (Heirs of William Fisher)'. Chain of title at PDF p10 (transcript p4): Alvirez insolvent 1845, rancho sold to Jose Antonio Aguirre, who sold to William Fisher 29 Nov 1845. Board's own question at PDF p16 (transcript p12) calls Alvirez 'the original grantee'.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-llano-buena-vista",
+   "field": "grantee",
+   "register_value": "David Spence",
+   "correction": "Don Jose Mariano Estrada, per petition PDF p8 / transcript p4. David Spence bought the rancho from Manuel Diaz on 7 Sept. 1850 (PDF p9), Diaz having bought from Estrada 14 July 1847.",
+   "evidence": "PDF p8 (transcript p4) petition: 'the same was granted to Don Jose Mariano Estrada in the year 1823'. David Spence is the U.S.-era claimant: PDF p9 (transcript p5) 'the sale of said land was made to Don Manuel Diaz by Don Jose M. Estrada on the 14th of July 1847 and conveyed by Diaz to your Petitioner on the 7th day of September 1850'; PDF p1 red label names Spence 'CLAIMANT'.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-llano-seco",
+   "field": "grantee",
+   "register_value": "Charles J. Brenham",
+   "correction": "Sebastian Kayser (Keyser), per the Board's opinion PDF p73 / transcript p67 and the petition PDF p9 / transcript p4. Charles J. Brenham was an 1850 purchaser of an undivided 1/18 interest and one of eleven co-petitioners (Chapman, Warbass, Billings, Bolton, Halleck, Hoskins, Brenham, G. G. Pope, et al.).",
+   "evidence": "Board opinion, PDF p73 (transcript p67): 'This claim is based on a grant to Sebastian Kayser. The Evidence shows that in 1844 he applied to the Governor for a grant of the land ...'. Petition, PDF p9 (transcript p4): 'On the 1st day of May A.D. 1844 Sebastian Kayser applied to the Governor of California for a certain tract of land called Llano Seco, which was granted to the said Kayser by Manuel Micheltorena Governor of California on the 26th day of June and 22nd of Decr 1844.' Charles J. Brenham is a U.S.-era purchaser: PDF p11 (transcript p6) 'On the 11th day of April A.D. 1850 the said John F. Pope Sold & Conveyed an undivided 1/18 of Said Rancho to the Petitioner Charles J. Brenham' - i.e. Brenham held ONE EIGHTEENTH of the rancho as one of eleven co-claimants.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-lomerias-muertas",
+   "field": "grantee",
+   "register_value": "José M. Sanchez and, on his death, Vicente Sanchez",
+   "correction": "Jose Antonio Castro, per Alvarado's titulo of 16 Aug. 1842, PDF p21-22 / transcript pp13-14, and the espediente cover PDF p17 / transcript p9. Jose Maria Sanchez bought the rancho from Castro on 8 Sept. 1844 (petition, PDF p9) and died intestate in December 1852, leaving as heirs Vicente, Refugio, Gregorio, Guadalupe and one other Sanchez child (deposition of Samuel C. Head, PDF p13 / transcript p7).",
+   "evidence": "Grant titulo, PDF p21 (transcript p13): 'Por cuanto el Ciudadano Jose Antº Castro ha pretendido para su beneficio personal y el de su familia Las Lomerias muertas ... a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. The espediente cover, PDF p17 (transcript p9), reads 'Espediente Promovido por el Ciudadano Jose Antonio Castro en solicitud del terreno que se espresa. 1842.' Petition, PDF p9 (transcript p4): 'on the 16th day of August A.D. 1842 John B Alvarado Constitutional Governor of the Department of Californias ... granted to Jose Antonio Castro in property a ranch or tract of Land called Lomerias Muertas ... That on the 8th day of September A.D. 1844 the said Jose Antonio Castro granted the aforesaid conveyed in due form all his title and estate ... to Jose Maria Sanchez the petitioner.'",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-moro-cayucos",
+   "field": "grantee",
+   "register_value": "James McKinley",
+   "correction": "Original grantees Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos), per Alvarado April 27 1842; James/Santiago McKinley bought both parcels (Feliz deed Nov 20 1845, transcript p22; Olivera deed Oct 27 1846).",
+   "evidence": "The grants were made to Martín Olivera (El Morro) and Vicente Feliz (Los Cayucos) — títulos 'B' (transcript p16-17 'el Ciudadano Martin Olivera'; p18-20 'el Ciudadano Vicente Feliz'). James (Santiago) McKinley is the PURCHASER/claimant, not the grantee: petition (transcript p4) 'both of said grantees (Martin Olveria and Vicente Feliz) did transfer unto your Petitioner...'; deed 'C' (transcript p22, San Luis Obispo Nov 20 1845) conveys from Vicente Feliz to 'Dn Santiago McKinley'; Olivera's deed dated Oct 27 1846. Hoffman also gives grantee 'Martin Olivera.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-nicasio-2",
+   "field": "grantee",
+   "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "correction": "Original grantees were Pablo de la Guerra (10 sitios de ganado mayor) and Juan (John) B. R. Cooper (6 sitios), 16 square leagues total, per the grant title of 1 Aug 1844 (stamp p27-28, translation p30-31) and the Departmental Assembly approval of 29 Aug 1845 (stamp p29/p41): 'la concesión hecha en propiedad á favor de los C.C. Pablo de la Guerra y Juan Cooper... del parage nombrado Nicasio en fha. 1o de Agosto de 1844.' The register instead lists the American claimants Halleck, Black, and Buckelew (its patent_to).",
+   "evidence": "The grant title names the ORIGINAL grantees as Pablo de la Guerra and Juan Cooper, NOT the American claimants in the register. Spanish (stamp p27): 'Por cuanto D. Pablo de la Guerra y D. Juan Cooper han pretendido para sus beneficios personales la mayor parte del terreno conocido con el nombre de Nicacio... he venido en conceder al esperado D. Pablo de la Guerra, diez sitios de ganado mayor... y á D. Juan Cooper por la sesión que hace de cuatro mil pesos que le adeuda el havier Nacional le concedo Seis Sitios de ganado mayor.' English translation (stamp p30-31): granted to 'Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues)... I grant him [Don Juan Cooper] six sitios.' Assembly approval (stamp p29 Spanish; p32 translation): 'á favor de los C.C. Pablo de la Guerra y Juan Cooper.' The register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S. claimants/patentees (Halleck bought de la Guerra's 9 leagues; Cooper's 6 leagues passed via Buckelew/Black — supplemental petition transcript p8, image 8-9).",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-not-determined",
+   "field": "grantee",
+   "register_value": "James Enright",
+   "correction": "Francisco Garcia (grantee under Micheltorena, Jan 6/16 1845). James Enright is the assignee who bought from Garcia (~1847; corrective deed Nov 16 1848). Per petition transcript p6-7 and Forbes depo p10.",
+   "evidence": "The grantee was FRANCISCO GARCIA, not James Enright. Petition (transcript p6): 'said Governor granted the same to the said Garcia as asked for'; (transcript p7) 'some time in the year 1847 the said Garcia sold and conveyed said land to your Petitioner [Enright]... another conveyance... executed... by said Garcia on the 16th day of November 1848.' Enright is the purchaser/claimant. Hoffman lists grantee 'Francisco Garcia.' Forbes depo (transcript p10): 'the purchase of the land by him [Enright] from Francisco Garcia.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-ojo-agua-coche",
+   "field": "grantee",
+   "register_value": "Bernard Murphy",
+   "correction": "Juan Maria Hernandez per the grant itself, PDF p13 (379 ND PAGE 7): 'Whereas Juan Maria Hernandez has solicited for his benefit and that of his family, the tract known by the name of Ojo de Agua de la Cochi ... I have conceded to him the tract mentioned.' Bernard Murphy acquired it by mesne conveyance (Hernandez to Charles M. Weber, 27 May 1845; Weber to Murphy), PDF p9.",
+   "evidence": "PDF p13 (PAGE 7) title translation: 'Whereas Juan Maria Hernandez has solicited for his benefit and that of his family, the tract known by the name of Ojo de Agua de la Cochi ... in the name of the Mexican Nation, I have conceded to him the tract mentioned, declaring to him the ownership of it by the present letters.' Bernard Murphy is the U.S.-era CLAIMANT, not the grantee: the petition, PDF p9 (PAGE 4), states 'Said land was granted to Juan Maria Hernandez on the 4th day of August 1835, by Jose Figueroa ... Said land is derived to the claimant by conveyance made on the 27th day of May 1845 by said grantee to Chas. M. Weber, and by a subsequent conveyance from said Weber to claimant.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-paso",
+   "field": "grantee",
+   "register_value": "Samuel Norris",
+   "correction": "Eliab Grimes per the grant itself, PDF p16 (CASE 53 ND PAGE 11): 'Whereas Don Eliab Grimes a naturalized Mexican has asked for his personal benefit the location ... named Rancho del Paso'. Samuel Norris took by mesne conveyance: Eliab Grimes (d. 1848) devised the rancho by codicil of 18 April 1845 to his nephew Hiram Grimes, who deeded it to Norris 8 August 1849 (PDF p9, PAGE 4; will and probate at PDF p18-20, PAGES 13-15).",
+   "evidence": "PDF p16 (PAGE 11) title translation: 'Whereas Don Eliab Grimes a naturalized Mexican has asked for his personal benefit the location which forms past-land named Rancho del Paso ... I have in the name of the Mexican Nation ceded to him the before mentioned land declaring him to be the proprietor thereof by these present letters.' The expediente petition, PDF p14 (PAGE 9), is headed 'Presented by the naturalized citizen Eliab Grimes' and signed 'Monterey Dec. 16th 1844 Eliab Grimes'. Samuel Norris is the U.S.-era claimant only: the petition PDF p9 (PAGE 4) states the tract 'was granted by Michel Torrena Govr of Upper California by a concession dated the 21th of Dec 1844 to one Eliab Grimes a naturalized citizen of the Mexican Nation, which said Grimes dying bequeathed said tract of land by a Codicil added to his will dated 18th of April 1845 to one Hiram Grimes and by said Hiram sold and conveyed to this petitioner by deed dated the 8th day of August 1849.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-paso-robles",
+   "field": "grantee",
+   "register_value": "Petrenelo Ríos",
+   "correction": "Pedro Narvaez per the concession decree, PDF p21 (351 SD PAGE 16): 'declaro dueno en propiedad a D.n Pedro Narvaez del parage conocido con el nombre de Paso de Robles'. Petronilo Rios acquired it from Narvaez, first by an act of assignment endorsed on the grant 5 April 1845 and then by a formal deed of sale before the 1st Alcalde of Monterey, 30 March 1846 (petition PDF p9, PAGE 4; deed PDF p23, PAGE 28, signed Manuel Diaz, alcalde, and Pedro Narvaez).",
+   "evidence": "PDF p21 (PAGE 16), the decree itself: 'declaro dueno en propiedad a D.n Pedro Narvaez del parage conocido con el nombre de Paso de Robles'. The expediente is headed (PDF p18, PAGE 13) '1844 Espediente. Promovido por el Sor. Capitan D.n Pedro Narvaes en solicitud del parage conocido con el nombre de Paso de Robles. Numero 375', and the underlying petition (PDF p20, PAGE 15) is signed 'Monterrey Nov.e 26 de 1843. Pedro Narvaez', describing himself as '1er teniente de la armada nacional y capitan de este puerto'. Petronilo Rios is the U.S.-era claimant, a purchaser: the Board's own opinion (PDF p36) says 'The petitioner in this case asks a confirmation as grantee of Don Pedro Narvaez ... and also a deed from the said Narvaez to the present claimant dated the 30th day of March 1846.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-pastoria-borregas",
+   "field": "grantee",
+   "register_value": "Mariano Castro",
+   "correction": "Francisco Estrada per the grant, PDF p20/p24 (97 ND PAGES 16 and 20). Mariano Castro took by conveyance from Jose Maria Estrada, Francisco's father and heir: the cession endorsed on the back of the title reads 'Como heredero del finado Francisco Estrada, digo que cedo voluntariamente a favor del ciud.no Mariano Castro, los dos sitios que se espresan en este titulo. Buenavista, 17 de Marzo 1845. Jose Maria Estrada' (PDF p21, PAGE 17; English at PDF p26, PAGE 22), judicially authenticated before Regidor Ignacio Esquer at San Jose on 27 January 1846 (PDF p27 and p29, PAGES 18-19).",
+   "evidence": "The grant itself, PDF p20 (97 ND PAGE 16): 'Por cuanto D. Francisco Estrada, ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de Pastoria de las Borregas ... he venido en concederle el terreno mencionado, declarando le la propiedad de el por las presentes letras.' Sworn translation PDF p24 (PAGE 20): 'Whereas D.n Francisco Estrada has sought to obtain for his personal benefit & that of his family the tract of land known by the name of Pastoria de las Borregas ... I have conceded to him the said tract of land, declaring to him the ownership thereof by these present letters.' Mariano Castro is the U.S.-era claimant only. The Board's own opinion, PDF p39 (PAGE 34), states it plainly: 'on the 2d day of January A.D. 1842, one Don Francisco Estrada obtained from Governor Alvarado a grant for the place called Pastoria de los Borregas, that some time in the year 1845 the said grantee died, without wife or children ... that the father of said grantee, as heir of his son Francisco ... conveyed all his interest in & to said tract of land to the petitioner in this case.'",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-pescadero-1",
+   "field": "grantee",
+   "register_value": "Hiram Grimes, Francis W. Grimes and William H. McKee",
+   "correction": "Valentin (Balentin) Higuera and Rafael Feliz, per grant decree translation p31-33 and Commission opinion p41. Register value (Grimes/McKee) names the US-era claimants/assignees, not the Mexican grantees. Hoffman 1862 ('Valentin Higuera and Rafael Feliz') agrees with the case file against the register.",
+   "evidence": "grant decree translation p31: 'Whereas the Citizens Balentin Higuera and Rafael Feliz have petitioned... I have just granted to them'; Commission opinion p41 'a grant made by Governor Micheltorena to Balentin Higuera and Rafael Feliz'. Register lists Grimes/McKee, who are downstream CLAIMANTS (McKee by deed 1849; Grimes via Feliz->Cecena->Grimes deeds 1848), not the original grantees.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-posas",
+   "field": "grantee",
+   "register_value": "José de la Guerra y Noriega",
+   "correction": "Jose Carrillo, per concession decree May 15, 1834 (transcript p19: 'se declara a D. Jose Carrillo dueno en propiedad del terreno... las Posas') and Board decree (transcript p62); register's 'Jose de la Guerra y Noriega' is the 1846 purchaser/claimant, who belongs in patent_to, not grantee",
+   "evidence": "Original grantee is JOSE CARRILLO, not Jose de la Guerra y Noriega. Concession decree (pdf p24, transcript p19): 'se declara a D. Jose Carrillo dueno en propiedad del terreno conocido con el nombre de las Posas'; titulo (pdf p26, transcript p21): 'Por cuanto D. Jose Carrillo mejicano por nacimiento...'; Diputacion approval May 22, 1834 of 'la concesion hecha al Ciudadano Jose Carrillo' (pdf p25, transcript p20); Board decree (pdf p69, transcript p62): 'being the same which was granted to Jose Carrillo, by Governor Jose Figueroa on the 28th day of July 1834'. De la Guerra y Noriega was the PURCHASER (deed from Carrillo, June 27, 1846, petition pdf p9, transcript p4) and the claimant before the Board.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-posolmi",
+   "field": "grantee",
+   "register_value": "Robert Walkinshaw",
+   "correction": "Lope Inigo (an emancipated neophyte of Mission Santa Clara), per the District Court's own words 'the grant to Inigo, the original grantee' (PDF p124 / stamped p119) and the Spanish decree 'declaro al Yndigena de Sta Clara dueno de un terreno que se nombra Posolmi' (PDF p75 / stamped p71). Register 'Robert Walkinshaw' is the U.S.-era claimant who bought half the rancho from Inigo by deeds of 9 June 1849 and 31 July 1850 (PDF p11 / stamped p7). Hoffman 1862 ('Lope Inigo') agrees with the case file against the register. This is a textbook instance of the dominant error class.",
+   "evidence": "U.S. District Court survey-contest pleading, PDF p124 (stamped 410ND p119): 'The land confirmed to Claimants is the land laid down in the diseno or map which accompanied the petition for the grant, and is referred to in the grant to Inigo, THE ORIGINAL GRANTEE.' Spanish decree in the archive expediente, PDF p75 (stamped p71): 'declaro al Yndigena de Sta Clara dueno de un terreno que se nombra Posolmi colindante con el sausal, al Sur con el Estero, al Nte con su casa y el ojo de agua que llaman Positas de las animitas. hagasele el correspondiente [titulo].' Supplemental petition of Lope Inigo himself, PDF p13 (stamped p9): 'Micheltorena... granted to your petitioner a tract of land called Poslmi'. Robert Walkinshaw is the U.S.-era CLAIMANT/purchaser: PDF p11 (stamped p7) 'the said Inigo sold and conveyed to the Petitioner one half of the said tract of land, viz: 3042 acres... by the deeds of conveyance dated June 9th 1849 and July 31st 1850'.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-potrero-san-carlos",
+   "field": "grantee",
+   "register_value": "Joaquín Gutierrez",
+   "correction": "Fructuoso del Real (also written Fructuoso de Jesus del Real), a neophyte/native of Mission San Carlos, per the expediente and its sworn translation (PDF p25, p29, p30 = stamped p20, p25, p26) and the Commission opinion (PDF p47 = stamped p40). Register 'Joaquin Gutierrez' names the U.S.-era claimant, who bought in from the grantee's widow Yginia in 1845 and again by deed of 7 April 1852. Hoffman 1862 ('Fructuoso') agrees with the case file against the register. Dominant error class.",
+   "evidence": "Expediente cover PDF p25 (stamped p20): 'Espediente promovido por Frutuoso del Real en pretencion del paraje nombrado el Potrero. No 115'; translation PDF p29 (stamped p25): 'Espediente moved by Fructuoso del Real asking for the place called \"El Potrero\"... Fructuoso del Real, a native of the Mission of San Carlos, before Your Excellency in due and legal form appears... praying that you will be so good as to grant him the place known by the name of \"El Potrero\"'; Mission report PDF p30 (stamped p26): 'The Petitioner Fructuoso del Real is a Neophyte of this Mission'. Commission opinion PDF p47 (stamped p40) calls him 'one Fructuosa an Indian' and says 'the grantee died some years since leaving a wife and three children his heirs'. Joaquin Gutierrez is the U.S.-era CLAIMANT: his own petition PDF p7 (stamped p4) states that Alvarado 'granted to one Fructuoso' and that the widow Yginia 'sold and conveyed the said tract of land to the petitioner' in 1845, re-conveying 7 April 1852.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-puerto",
+   "field": "grantee",
+   "register_value": "Samuel G. Reed and Ruben S. Wade",
+   "correction": "Original grantees were Mariano and Pedro Hernandez (brothers, of Pueblo de San José Guadalupe), per the concession decree of 18 Jan 1844: 'I declare Citizens Mariano and Pedro Hernandez to be the Owners of Three Square Leagues' (translation stamp p25) / 'declaro dueños de tres sitios de ganado mayor' (Spanish stamp p21), and the expediente cover 'promovido por los C.C. Mariano y Pedro Hernandez' (stamp p19). The register lists the U.S. claimants Samuel G. Reid (register: 'Reed') and Reuben S. Wade, who bought via Hiram Grimes.",
+   "evidence": "The grant declares the grantees to be Mariano and Pedro Hernandez, NOT the register's American claimants. Expediente cover, Spanish (stamp p19, image 12 of batch2): 'Espediente promovido por los C.C. Mariano y Pedro Hernandez en solicitud del parage que se espresa. Numero 321.' Petition (stamp p20): 'Mariano y Pedro Hernandez hermanos y vecinos del pueblo de San José Guadalupe.' Concession decree translation (stamp p25, image 18): 'I declare Citizens Mariano and Pedro Hernandez to be the Owners of Three Square Leagues.' The register's 'Samuel G. Reed and Ruben S. Wade' (of Boston) are the CLAIMANTS/purchasers: the Hernandez brothers sold to Hiram Grimes 16 Aug 1847, and Grimes conveyed to Reid/Reed and Wade 11 June 1850 (petition, stamp p5).",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-punta-reyes",
+   "field": "grantee",
+   "register_value": "James Richard Berry",
+   "correction": "Jose Francisco (Joseph Francis) Snook per Board decree p61; register's Berry is the 1836 grantee of the surrounding tract (grant by Gutierrez, petition p5)",
+   "evidence": "Board decree p61: the confirmed land is 'the same land granted to Jose Francisco Snook by Governor Alvarado on the 8th day of June 1839'. Berry (register's grantee) was the 1836 grantee of the surrounding tract who expressly released these 2 leagues to Snook (petition p5, p8-9); title chain confirmed: Snook -> Osio (28 Sept 1839) -> Randall (8 Jan 1852) (opinion p59)",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-purisima-concepcion",
+   "field": "grantee",
+   "register_value": "Juana Briones de Miranda",
+   "correction": "Jose Gorgonio and his son Jose Ramon, emancipated neophytes of Mission Santa Clara, per the sworn translation of Alvarado's grant of 30 June 1840 (PDF p27 / stamped p22) and the Board's opinion (PDF p32 / stamped p27). Juana Briones de Miranda bought the rancho from them for $300 by deed of 7 November 1844, executed before the alcalde of San Jose with Micheltorena's licence; she is the U.S.-era claimant, not the grantee. Hoffman 1862 ('Jose Gorgonio and Jose Ramon') agrees with the case file against the register. Dominant error class.",
+   "evidence": "Grant translation, PDF p27 (stamped p22): 'Whereas Gorgonio, a neophyte of the ex-mission of Santa Clara, has, in his own name & in that of his son Jose Ramon, petitioned for the place named La Purisima Concepcion... I HAVE BY THESE PRESENTS GRANTED TO SAID GORGONIO & TO HIS SON JOSE RAMON, the ownership of the aforementioned place of La Purisima Concepcion, in extent one sitio de ganado mayor (one square league).' Board's opinion PDF p32 (stamped p27): 'founded on a grant made by Governor Juan B. Alvarado, to an emancipated Neophyte of the Mission of Santa Clara, named Gorgonio & his son Jose Ramon... The present claimant derives her title by virtue of a conveyance made to her with the sanction of the Government BY THE SAID GRANTEES Gorgonio & Jose Ramon on the 7th of November 1844.' Juana Briones is the purchaser/claimant, not the grantee: her own 1852 petition PDF p9 (stamped p4) says Alvarado 'granted to Jose Gregorio & his son Jose Ramon, emancipated Neophytes of the Mission of Santa Clara... the tract of land known by the name of La Purisima Concepcion', and that they 'sold & conveyed in due form to the petitioner' on 7 Nov 1844.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-putas",
+   "field": "grantee",
+   "register_value": "María Anastasia Higuera de Berreyesa",
+   "correction": "Jose de Jesus Berreyesa and Sisto Berreyesa, brothers, per Micheltorena's grant of 3 November 1843 as recited in the Board's opinion (PDF p69 / stamped p58) and its decree (PDF p72 / stamped p61). Maria Anastasia Higuera de Berreyesa and Maria Nicolasa Higuera de Berreyesa are the WIVES of the two grantees and took by deed from their husbands; they are the named U.S.-era claimants (and, per the register, the patentees). Hoffman 1862 ('Jose de Jesus y Sisto Berreyesa') agrees with the case file against the register. A variant of the dominant error class: the register carries the claimant/patentee rather than the Mexican grantee.",
+   "evidence": "Board's opinion PDF p69 (stamped p58): the grant was 'made by Governor Manuel Micheltorena TO THE BROTHERS JOSE DE JESUS AND SISTO BERRYESA'. PDF p72 (stamped p61) is explicit about the register's confusion: 'Among the documentary evidence introduced into this case are two deeds of the premises claimed, one from Jose de Jesus Berryesa to Anastasia Higuera, HIS WIFE, and the other from Sisto Berryesa to Nicolasa Higuera HIS WIFE. The Petition in the case asks a confirmation in the name of these two grantees, THE WIVES OF THE PERSONS TO WHOM THE ORIGINAL GRANT WAS MADE BY THE GOVERNOR. If the husbands were not themselves joined as petitioners in this case a question not free from difficulty would arise as to the effect of the conveyances from husband to wife.' Claimants' petition PDF p11 (stamped p5) likewise: 'on the 11th day of February 1842 the said Jose Jesus Berryesa and Sisto Berryesa... made their Petition in writing signed by them addressed to the Military Commandant of Sonoma praying for license to occupy provisionally eight sitios de ganado mayor... the said land being known as Las Putas.'",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-quito",
+   "field": "grantee",
+   "register_value": "Manuel Alviso",
+   "correction": "Jose Z. Fernandez and Jose Noriega, per decree of concession 12 Mar 1841 / formal title 16 Mar 1841 (transcript pp.22-25): 'declaro a Dn Jose Z. Fernandez y a Dn Jose Noriega duenos del parage nombrado Quito'. Manuel Alviso is claimant/patentee only (suggest keeping him in patent_to, not grantee)",
+   "evidence": "the grant runs to Jose Z. Fernandez and Jose Noriega, NOT Manuel Alviso: decree of concession transcript p.22 (image 28) 'declaro a Dn Jose Z. Fernandez y a Dn Jose Noriega duenos del parage nombrado Quito'; Board opinion transcript p.60 (image 70): 'a grant... made to Jose Z. Fernandez and Jose Noriega bearing date March 16th 1841 and signed by Governor Juan B. Alvarado'. Manuel Alviso was the CLAIMANT, deriving title via Noriega's 1844 sale to Ygnacio Alviso and Ygnacio's will (petition, transcript pp.4-5, images 8-9)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-rincon-esteros",
+   "field": "grantee",
+   "register_value": "Francisco Berreyesa",
+   "correction": "Ygnacio (Ignacio) Alviso, per the Board's decree ('were originally granted said Ygnacio Alvisa', PDF p52 / stamped p44) and its opinion (PDF p51 / stamped p43). Francisco Berreyesa and his siblings are the grantee's great-grandchildren-in-line: Alviso (d. 10 Aug 1848) devised this north-west half to his daughter Dolores Alviso, who married Guadalupe Berreyesa; both died in the autumn of 1857 and their children Francisco, Susana, Paulina, Pancho and Guadalupe Berreyesa filed as heirs. Hoffman 1862 ('Ygnacio Alvisu') agrees with the case file against the register. Dominant error class.",
+   "evidence": "Board's DECREE, PDF p52 (stamped p44): the premises 'were ORIGINALLY GRANTED SAID YGNACIO ALVISA'. Opinion PDF p51 (stamped p43): 'The Claimants are the children of Guadalupe Berryesa and Dolores Alviso his wife, both of whom died in the Autumn of 1857. The petitioners claim the property by inheritance from the Mother as her heirs at Law. HER TITLE WAS DERIVED UNDER THE WILL OF HER FATHER YGNACIO ALVISO... By the provisions of the Will the Land claimed in this Case was bequeathed to Dolores, the daughter of the testator and Mother of the claimants.' Claimants' own petition PDF p9 (stamped p4) says Alvarado 'granted to Ygnacio Alviso THE GRANDFATHER OF YOUR PETITIONERS ON THEIR MOTHER'S SIDE'. Francisco Berreyesa is thus a grandson of the grantee and one of the U.S.-era claimants, not the grantee.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-rincon-esteros-1",
+   "field": "grantee",
+   "register_value": "Rafael Alviso",
+   "correction": "Ygnacio (Ignacio) Alviso per the concession of 10 Feb 1838 and Departmental Assembly approval 30 May 1840 (transcript pp.19-23): 'he venido en concederle la propiedad' / 'en la persona del ciudadano Ygnacio Alviso'. Rafael Alviso was a grandson and lead claimant-heir (child of Domingo Alviso, deceased son of grantee Ygnacio), not the original grantee",
+   "evidence": "The GRANT runs to Ygnacio (Ignacio) Alviso, NOT Rafael. Spanish concession (image 27, transcript p.19): 'Ygnacio Alviso Mejicano por nacimiento ha pretendido... he venido en concederle la propiedad'; Departmental Assembly approval 30 May 1840 (image 28): 'en la persona del ciudadano Ygnacio Alviso'; English Exhibit B (image 29): 'Issuance deed given at the Petition of Ignacio Alviso'; Board opinion (image 44): 'granted... to Ygnacio Alviso'. Rafael Alviso is a claimant-heir (grandson via Domingo), not the grantee",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-rincon-esteros-2",
+   "field": "grantee",
+   "register_value": "Ellen E. White",
+   "correction": "Ygnacio (Ignacio) Alviso, per the Board's opinion and decree (PDF p65, p67 = stamped p58, p60). Ellen E. White is the U.S.-era claimant: her late husband Charles White bought this eastern strip from Alviso's executor Agustin Alviso in late August 1848 for $2,000 under the power in the will, and conveyed it to her 4 November 1851. Hoffman 1862 ('Ygnacio Alvisu') agrees with the case file against the register. Dominant error class.",
+   "evidence": "Board's opinion PDF p65 (stamped p58): the tract 'was GRANTED TO YGNACIO ALVISO by Governor Juan B. Alvarado February 10, 1838'; decree PDF p67 (stamped p60): the lands confirmed 'are a part of the place called Rincon de los Esteros in Santa Clara County FORMERLY OCCUPIED BY YGNACIO ALVISO'. Ellen E. White's own petition, PDF p9 (stamped p4), states the whole derivative chain: Alviso died 8 Aug 1848 leaving a will directing that the portion between the Coyote and Penitencia creeks 'be sold for the payment of his debts'; 'in pursuance thereof the said portion of said Rancho was duly sold in legal form and purchased by CHARLES WHITE of said County on the 28th day of August A.D. 1848. That on the 4th of November A.D. 1851 said Charles White sold and conveyed said land to your Petitioner by deed of that date.' Ellen E. White is therefore the second purchaser downstream of the grantee's executor.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-rio-jesus-maria",
+   "field": "grantee",
+   "register_value": "James M. Harbin",
+   "correction": "Original grantee = Tomas M. Hardy (also Tomas Hardy), per grant decree/petition PDF p15: 'granted to Tomas M. Hardy called also Tomas Hardy the tract of land called Rio de Jesus Maria'. Register's 'James M. Harbin' is the American claimant/purchaser, not the grantee.",
+   "evidence": "Petition PDF p15 names ORIGINAL grantee as 'Tomas M. Hardy called also Tomas Hardy'. James M. Harbin is a claimant/purchaser: PDF p16-17 (transcript p10-11) show Hardy died intestate 1848, tract sold by probate to petitioners Harbin, Estell, Tyler, Parrish; Tyler then conveyed to Harbin. Hoffman 'Tomas Hardy' agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-antonio",
+   "field": "grantee",
+   "register_value": "Encarnación Mesa",
+   "correction": "Prado Mesa (styled 'el Alferez Prado Meza' / 'the Sub Lieutenant Prado Mesa') per the concession of 24 March 1839 (Exhibits A and B, transcript pp.22-25): 'he venido en concederle el terreno mencionado' / 'I have determined to grant him the said land'. Encarnacion Mesa was a child and lead claimant-heir, one of the seven children of the deceased grantee Prado Mesa, not the original grantee",
+   "evidence": "The GRANT runs to Alferez / Sub-Lieutenant Prado Mesa, NOT Encarnacion. Spanish grant Exhibit A (image 29, transcript p.22): 'Por cuanto el Alferez Prado Meza ha pretendido para su beneficio personal y el de su familia el terreno... he venido en concederle el terreno mencionado'; English Exhibit B (image 31): 'Whereas the Sub Lieutenant Prado Mesa has petitioned... I have determined to grant him the said land'; Departmental Assembly approval (images 33-34, transcript pp.26-27): 'the grant which the government made to Dn Prado Mesa'; Board decree (image 57, transcript p.48): 'granted by Governor Alvarado to Prado Mesa'. Petition (transcript p.4, image 9) states the petitioners (Encarnacion, Antonio, Majin, Francisca, Ramon, Cristiano and Nicandro Mesa) are the surviving heirs of the original grantee, their father Prado (Pedro) Mesa",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-jacinto-nuevo-potrero",
+   "field": "grantee",
+   "register_value": "T. W. Sutherland, guardian",
+   "correction": "Miguel de Pedrorena, per the grant decree PDF p19 (transcript p13): 'Por cuanto D.n Miguel de Pedrorena ha pretendido para su beneficio personal y el de su familia ... he venido en acordar de este dia en concederle el terreno mencionado y Potrero'. 'T. W. Sutherland, guardian' is the U.S. land-commission claimant, guardian of Pedrorena's minor children Victoria, Isabel, Miguel and Helena, and never a grantee.",
+   "evidence": "The grant decree names MIGUEL DE PEDRORENA, not Sutherland. PDF p19 (transcript p13): 'Por cuanto D.n Miguel de Pedrorena ha pretendido para su beneficio personal y el de su familia el terreno nombrado ... y Potrero del mismo nombre ... he venido en acordar de este dia en concederle el terreno mencionado y Potrero, declarandole la propiedad de el por las presentes letras.' Translation PDF p22 (transcript p17): 'Whereas Don Miguel de Pedrorena has pretended to for his personal benefit & that of his family the land called San Jacinto Nuevo, including the Potrero of the same name.' Thomas W. Sutherland was the U.S.-era claimant only, in his capacity as GUARDIAN of Pedrorena's four orphaned minor children: petition PDF p11 (transcript p4), 'Thomas W. Sutherland ... Guardian of Victoria, Isabel, Miguel, & Helena minor children of Miguel de Pedrorena & Maria Antonia Estudillo de Pedrorena, both late of the County of San Diego ... deceased'. Pedrorena died in the spring of 1850 (J. J. Warner deposition PDF p14, transcript p7). Hoffman's 'Miguel Pedrorena' agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-joaquin",
+   "field": "grantee",
+   "register_value": "G. C. Yount",
+   "correction": "Cruz Cervantes, per grant translation stamped p.138: 'Whereas Citizen Cruz Cervantes... to grant to him the aforementioned parcel of land'",
+   "evidence": "Grant translation stamped p.138: 'Whereas Citizen Cruz Cervantes, a Mexican by birth, has applied for his own benefit & that of his family for the parcel of land known by the name of San Joaquin... I have thought proper by a decree of this day's date and in the name of the Mexican Nation, to grant to him the aforementioned parcel of land'. The grantee is Cruz Cervantes, who is also the claimant (red label p1). 'G. C. Yount' appears nowhere in this case file.",
+   "audit_source": "chunk16.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-jose-buenos-ayres",
+   "field": "grantee",
+   "register_value": "Antonio del Valle",
+   "correction": "Maximo Alanis, not Antonio del Valle. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres'.",
+   "evidence": "The grantee is MAXIMO ALANIS. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos Ayres ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Judicial possession was given to him 6 April 1846: PDF p21 (transcript p17) 'anuente a la solicitud verval que hizo Don Macsimo Alanis para que se le de posecion juridica de un terreno conocido con el nombre de San Jose Buenos Ayres'. His son Marcos Alanis deposed PDF p13-14 (transcript p9-10): 'To whom was that rancho first originally granted...? To My Father ... My Father, Maximo Alanis ... continued in the occupation of said Rancho until his death which I believe took place in the Year 1851.' Wilson and Sanford are purchasers from the heirs (petition PDF p7-8). 'Antonio del Valle' appears nowhere in this file; he is the grantee of a different rancho. Hoffman agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-lorenzo",
+   "field": "grantee",
+   "register_value": "Barbara Soto",
+   "correction": "Francisco Soto, not Barbara Soto. Board decree caption PDF p129 (transcript p112): 'Barbara Soto et al in trust for the Heirs of Francisco Soto dec.d'. Barbara is the widow and lead U.S.-era claimant; her co-claimants are the seven Soto children.",
+   "evidence": "The grantee was FRANCISCO SOTO; Barbara Soto is his widow and the U.S.-era claimant, suing for his heirs. Board decree caption PDF p129 (transcript p112): 'Barbara Soto et al in trust for the Heirs of Francisco Soto dec.d vs The United States.' Petition PDF p11 (transcript p5): 'said land was granted to Francisco Soto ... Said Francisco Soto died prior to the filing of this petition and about seven years ago, leaving the said D.a Barbara his widow, and the said other claimants his Children and only heirs'. Guillermo Castro, PDF p13 (transcript p6): 'I was acquainted with Francesco Soto who died about seven years ago. He left a widow named Barbara Castro and seven children'. W. H. Davis, PDF p14 (transcript p7): 'Are you acquainted with the Rancho San Lorenzo claimed in this case and did you know the grantee Francesco Soto'. Hoffman's 'Francisco Soto' agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-lucas",
+   "field": "grantee",
+   "register_value": "James McKinley",
+   "correction": "Rafael Estrada, per the grant decree PDF p22 (transcript p16): 'Por cuanto D. Rafael Estrada ha pretendido para su beneficio personal el terreno conocido con el nombre de San Lucas ... he venido en concederle el terreno mencionado'. James McKinlay is the U.S.-era claimant, who bought from Estrada and his wife Concepcion by deed of 14 December 1850 (PDF p9, p13).",
+   "evidence": "The grantee was RAFAEL ESTRADA, not McKinlay. Grant decree PDF p22 (transcript p16): 'Por cuanto D. Rafael Estrada ha pretendido para su beneficio personal el terreno conocido con el nombre de San Lucas, colindante con el rancho de D. Mariano Soberanes, con el de San Benito, con la Sierra de San Antonio y las Lomas bajas que dividen el terreno de San Lorenzo ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'; expediente cover PDF p14 (transcript p8) 'Espediente promovido por el Ciudadano Rafael Estrada en pretencion del terreno llamado San Lucas'. McKinlay's own petition PDF p9 (transcript p4) says he 'claims the same in fee by virtue of a grant made unto Raphael Estrada ... by John B. Alvarado, Constitutional Governor of the Californias, bearing date the ninth of May A.D. 1842 ... which said grantee Raphael Estrada did transfer in due form by a deed bearing date the fourteenth of December 1850 unto your petitioner all his right, title & interest'. W. S. Johnson, Recorder of Monterey County, authenticated that deed, PDF p13 (transcript p7): 'a transfer of certain property known as the Rancho de San Lucas by Rafael Estrada & his wife to James McKinlay dated December 14th A.D. 1850'. Hoffman's 'Rafael Estrada' agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-luis-conzaga",
+   "field": "grantee",
+   "register_value": "Francisco Rivera",
+   "correction": "Jose Maria Mejia and Juan Perez Pacheco per grant decree transcript p7 (Mejia conveyed his half to Pacheco 7 Nov 1843 per petition transcript p5)",
+   "evidence": "Grant decree (PDF p11, transcript p7): 'el Capitan Dn Jose Maria Mejia... y Dn Juan Perez Pacheco... he venido en concederla el terreno mencionado'. DC opinion (transcript p67): 'he declares Jose M. Mejia & Juan Perez Pacheco owners of the tract known as San Luis Gonzaga'. Francisco Rivera was the forfeited prior (1841) grantee, not the grantee of the confirmed grant. Hoffman also lists Rivera; the case file overrules both.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-miguel-1",
+   "field": "grantee",
+   "register_value": "P. Apis",
+   "correction": "Raimundo (Reimundo) Olivas and Felipe Lorenzana, per the grant decree PDF p13/p15: 'los ciudadanos Reimundo Olivas y Felipe Lorenzana'",
+   "evidence": "Grant decree PDF p13 (transcript p8): 'Por cuanto los ciudadanos Reimundo Olivas y Felipe Lorenzana han pretendido para sus beneficios personales y el de sus familias, el terreno que media al Sur con el Rio de Santa Clara...he venido en concederles el terreno mencionado'; translation PDF p15 (transcript p10): 'Whereas the citizens Raimundo Olivas & Felipe Lorenzana have asked for their benefit...'. Register 'P. Apis' appears nowhere in the file.",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-miguel-2",
+   "field": "grantee",
+   "register_value": "Guadalupe Vasquez",
+   "correction": "Marcos (Marcus) West, per the 1840 concession decree transcript p47 and Micheltorena's 1844 revalidation transcript p51",
+   "evidence": "Every grant instrument names Marcos (Marcus) West: expediente cover transcript p44 (PDF p48) 'Expediente promovido por el C[iudadan]o Marcos West en solicitud del terreno que expresa'; concession decree transcript p47 (PDF p51) 'I declare Marcos West owner in fee of the place shown marked out on the map...the extent of the land being one and a half square leagues'; Micheltorena 1844 (transcript p51, PDF p55) 'Por cuanto D. Marcos West mejicano por naturaleza y casado con mejicana...'. 'Guadalupe Vasquez' is Guadalupe Vasquez de West, the WIDOW and U.S.-era claimant: petition transcript p5 (PDF p8) 'The petitioners Guadalupe Vasquez de West widow and Marcos West, Guadalupe West, Adalaida West, children of Marcus West deceased'.",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-ramon",
+   "field": "grantee",
+   "register_value": "José Domingo Peralta",
+   "correction": "Bartolome (Bartolo) Pacheco and Mariano Castro, per the concession decree of 5 June 1833 (transcript p43) and the District Court decree (transcript p91). Jose Domingo Peralta was the purchaser of Castro's undivided half and the U.S.-era claimant.",
+   "evidence": "The decree names two grantees, neither of them Peralta: transcript p43 (PDF p49) 'se declara a Bartolome Pacheco y a Mariano Castro dueños en propiedad del terreno'; Diputacion approval transcript p27 (PDF p31) 'Se aprueba la Concesion hecha a los ciudadanos Bartolo Pacheco y Mariano Castro del paraje nombrado San Ramon concedido en diez de Junio de mil ochocientos treinta y tres'; sworn translation transcript p32 (PDF p37) 'The grant of the land named San Ramon made to the citizens Bartolo Pacheco and Mariano Castro on the 10th of June, 1833 is approved'; District Court decree transcript p91 (PDF p95) '...to Bartolo Pacheco and Mariano Castro and formerly occupied by them'. Domingo Peralta is the U.S.-era CLAIMANT who bought Castro's undivided half: petition transcript p4 (PDF p6) 'that in the year 1843 the said Mariano Castro parted with and conveyed to this petitioner all his right and interest in said grant as appears by deed of sale dated Aug 6, 1852'; Castro's deposition transcript p5 (PDF p9) 'I formerly owned it & sold it to Domingo Peralta.'",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-simeon",
+   "field": "grantee",
+   "register_value": "José Miguel Gomez",
+   "correction": "Jose Ramon Estrada, per the petition (transcript p4) and Governor Alvarado's own sworn deposition (transcript p10): 'I made a grant to Jose Ramon Estrada of the Rancho of San Simeon'",
+   "evidence": "The grantee was Jose Ramon Estrada, not Gomez. Petition transcript p4 (PDF p8): 'Juan B. Alvarado Governor of California...granted to Jose Ramon Estrada the tract of land called \"San Simeon\"...That the said Jose Ramon Estrada died in Monterey California in the year 1844 and that his testamentary executor on the 24th day of June AD 1844 sold and conveyed the said tract of land to Thomas B. Park'; Alvarado, transcript p10 (PDF p14): 'I made a grant to Jose Ramon Estrada of the Rancho of San Simeon'; David Spence (Estrada's executor), transcript p6 (PDF p10): 'I was Executor of the Estate of Jose Ramon Estrada and as such sold the Rancho called \"San Simeon\" to Thomas B. Park in 1844'. Jose Miguel Gomez is the U.S.-era CLAIMANT, fourth in the chain Estrada -> Park -> Tefft -> Gomez (petition transcript p4-5).",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-vicente-1",
+   "field": "grantee",
+   "register_value": "Concepción Munras",
+   "correction": "Francisco Maria Soto, per the expediente (transcript p19, p10A) and the title of 16 December 1835 from Jose Castro (transcript p114A). The same tract was regranted to Francisco Figueroa by Nicolas Gutierrez in 1836 (transcript p54); Esteban Munras acquired both by purchase and took the 1842 Alvarado augmentation.",
+   "evidence": "No instrument in the file grants to Concepcion Munras. The original grantee is Francisco Maria Soto: expediente A No. 1, transcript p19 (PDF p25) 'A Record of Proceedings on the location named San Vicente solicited for by the Serjeant Francisco Soto'; his petition 'El ciudadano Franco Ma Soto, Sargto de la compañia de caballeria Presidial de Monterey' (transcript p10A, PDF p289); title 'by Jose Castro to Francisco Soto' (transcript p114A, PDF p290). The same two sitios were also granted to Francisco Figueroa by Gutierrez in 1836 (transcript p54, PDF p61), and the 2.5-league augmentation to Esteban (Stephen) Munras by Alvarado in 1842 (transcript p42/p36). Concepcion Munras is Esteban's daughter and the lead U.S.-era claimant: petition transcript p4 (PDF p9) 'Your petitioners, to wit: Concepcion, Antonia, Anita, Engracia, Narcisso, Doloris, & Manuel Munras (the seven children & heirs of deceased Stephen Munras)'.",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-rosa-1",
+   "field": "grantee",
+   "register_value": "Maria Jesus Olivera de Cota",
+   "correction": "Francisco Cota (Don Francisco Cota) - per grant decree transcript p24, expediente cover p20, Warner stipulation p18. 'Maria Jesus Olivera de Cota' is his widow and the U.S.-era claimant.",
+   "evidence": "Register holds the U.S.-era CLAIMANT, not the Mexican grantee. Transcript p18, stipulation of J. J. Warner: 'he was acquainted with Don Francisco Cota the original grantee in the above entitled cause ... the present claimant Dona Maria Jesus Olivera de Cota is the widow of the said original grantee'. Grant decree p24: 'se declaro a Don Francisco Cota dueno en propiedad del terreno'. Expediente cover, transcript p20: 'Expediente sobre el Paraje nombrado Santa Rosa. Solicitado por Francisco Cota.' Court decree p89: 'the same land which was granted to the said Francisco Cota'.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-rosa-island",
+   "field": "grantee",
+   "register_value": "Manuela Carrillo de Jones",
+   "correction": "Jose Antonio Carrillo and Carlos (Antonio) Carrillo, brothers (transcript p8/p15). Manuela Carrillo de Jones is a purchaser under the 2 Nov 1843 deed and the U.S.-era claimant.",
+   "evidence": "Register holds the PURCHASER/claimant. Grant, transcript p8: 'Por Cuanto Dn. Jose Antonio y D. Carlos Carillo, han pretendido para su beneficios personales y el de sus familias la Isla nombrada Santa Rosa'. Translation p15: 'Whereas Don Jose Antonio & Don Carlos Carillo have for their own personal benefit and that of their families petitioned for the Island called Santa Rosa'. Manuela Carrillo de Jones and Francisca Carrillo de Thompson BOUGHT the island from the two Carrillos by escritura of 2 Nov 1843 for $3,300 (transcript pp.9-11 Spanish, pp.17-19 translation). Claimants' brief, transcript p121: 'The grant was to Jose Antonio Carrillo and Carlos Carrillo: The Commissioners entirely overlooked the conveyance (& translation) from them the grantees to Manuela Carrillo de Jones and Francisca Carrillo de Thompson.'",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santiago-santa-ana",
+   "field": "grantee",
+   "register_value": "Bernardo, Teodoro and Ramón Yorba",
+   "correction": "Antonio Yorba and Juan Pablo Peralta (transcript pp.5, 21, 23, 54). Bernardo, Teodocio and Ramon Yorba are their heirs and the U.S.-era claimants.",
+   "evidence": "Register holds the U.S.-era claimants. Petition, transcript p5: 'The Petition of the Heirs and Legal representatives of Antonio Yorba deceased and Juan Pablo Peralta deceased'. Stipulation with the U.S. Law Agent, transcript p23: 'the United States will not take any objections to the confirmation being made to the Heirs and Legal Representatives of Antonio Yorba and Juan Pablo Peralta.' District Court summons, transcript p54 and p58: 'To Bernardo Yorba, Theodocio Yorba and Ramon Yorba, The Heirs of Antonio Yorba and Juan Pablo Peralta' - i.e. the register's three names are expressly identified in the file as HEIRS, not grantees. Ruiz's report in the expediente, transcript p21, recommends 'that the invalid Sargent Antonio Yorba should live in said Rancho in company with his children and her grandson Juan Pablo Peralta'.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-sisquoc",
+   "field": "grantee",
+   "register_value": "James B. Huie",
+   "correction": "Dona Maria Antonia Dominguez de Caballero (transcript pp.7, 9, 14, 15). James B. Huie is the purchaser under deeds of 1 Oct and 4 Nov 1851 and the U.S.-era claimant.",
+   "evidence": "Register holds the U.S.-era PURCHASER, not the grantee. Grant decree, transcript p9/p14: 'se declara a Da. Maria Antonia Dominguez de Caballero duena del terreno' / 'Dona Maria Antonia Dominguez de Caballero is declared owner of the land'. Departmental Assembly approval, transcript p15: 'They approve of the grant made in favor of Dona Maria Antonia Dominguez de Caballero of the tract of land named Sisquoc, in the jurisdiction of Santa Barbara ... Hall of Committee in the City of Los Angeles May 22d 1846.' James B. Huie's own petition, transcript pp.3-4, says the tract was 'granted to Dona Maria Antonia Dominguez de Caballero, on the 17th of April 1845, by Pio Pico' and that 'on the 1st day of October, 1851, and on the 4th day of November, 1851, your petitioner bought the said tract of land'. Joaquin Valenzuela, transcript p6: 'I took possession of this place in 1845 for and under a contract with the grantee ... occupied it seven years from the month of July, 1845, under said contract as tenant of the grantee.'",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-soulajule",
+   "field": "grantee",
+   "register_value": "George Cornwell",
+   "correction": "Jose Ramon Mesa (transcript pp.4, 6, 39, 58, 62). George N. Cornwell took by mesne conveyances of 6 Dec 1849 and 6 Aug 1850 and is the U.S.-era claimant.",
+   "evidence": "Register holds the U.S.-era purchaser. The grantee is Jose Ramon Mesa. Petition, transcript p4: 'a grant made to Jose Ramon Mesa ... the said grantee on the sixth day of December 1849 transferred his rights in said land to your Petitioner jointly with one Lewis D. Watkins who on the sixth day of August 1850 conveyed all his rights in said land to your Petitioner'. Mesa's own District Court deposition, transcript p62: 'Q2. Was the Ranch granted to you? A. It was. I have sold it and conveyed it by deed, and now have no interest in it whatever. The Ranch was granted to me by the name of the Soulajille Ranch. Q3. Why was it called Ramon Mesa Ranch? A. I changed the name and called it after myself.' John Martin, transcript p61: 'I know the Ranch by that name, and also by another name. The other name was the Ranch of Ramon Mesa.' Larkin, transcript p58: 'the original grant, for the tract of land called Soulajulle, in favor of Ramon Mesa'.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-soulajule-1",
+   "field": "grantee",
+   "register_value": "Luis D. Watkins",
+   "correction": "Jose Ramon Mesa, alias Ramon Mesa (grant, transcript pp.15, 17; petition p4-5). Lewis D. Watkins is the purchaser under the deeds of 6 Dec 1849, 6 Aug 1850 and 6 Dec 1853, and the U.S.-era claimant.",
+   "evidence": "Register holds the U.S.-era purchaser. Grant, transcript p15: 'Por Cuanto el Ciudadano Ramon Mesa ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de Soulajulle colindante con la Laguna de San Antonio, con el terreno nombrado de Nicacio y con el Rancho de D. Juan Martin'. Translation, transcript p17: 'Whereas the Citizen Ramon Mesa has petitioned for his own personal use and that of his family, for the land known by the name of \"Soulajulle\"'. Petition, transcript p5: 'the said Grantee, Jose Ramon Mesa on the sixth day of December 1849 transferred all his ... right in said two and three quarters square miles of land to George N. Cornwell & Your Petitioner jointly'; Watkins then bought out Cornwell's remaining share (deeds of 6 Aug 1850 and 6 Dec 1853) 'by virtue of which conveyances your petitioner became the sole owner in fee'. Jose de la Rosa, transcript pp.13-14: 'I know said Mesa and the said Rancho at the time of the American occupation of the country it was in the possession of said Mesa who was living on it, immediately after he obtained his grant, he built a house on it.'",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-soulajule-2",
+   "field": "grantee",
+   "register_value": "Joshua S. Brackett",
+   "correction": "Jose Ramon Mesa (original grantee, grant of 29 March 1844, PDF p29-30); Joshua S. Brackett was the claimant by purchase",
+   "evidence": "The GRANTEE was Jose Ramon Mesa, not Brackett: grant PDF p29 (transcript p23): 'Por Cuanto El Ciudadano Ramon Mesa ha pretendido... he venido en concederle el terreno mencionado'; governor's decree of concession PDF p21 (transcript p16): 'declaro dueno en propiedad del terreno nombrado Soulajulle al ciudadano Ramon Mesa'; DC decree PDF p66: '(granted to Jose Ramon Mesa March 29, 1844)'. Joshua S. Brackett is the CLAIMANT, holding by mesne conveyances (petition PDF p9, transcript p4: Mesa to Fuller to Vasquez to Brackett, 1850)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-soulajule-3",
+   "field": "grantee",
+   "register_value": "Pedro J. Vasquez",
+   "correction": "Jose Ramon Mesa (original grantee of the Soulajulle grant, 29 March 1844); Pedro J. Vasquez was the claimant by purchase",
+   "evidence": "The GRANTEE was (Jose) Ramon Mesa, not Vasquez: grant translation PDF p20: 'Whereas the Citizen Ramon Mesa has petitioned... I have thought proper to grant unto him the above mentioned land'; governor's decree translation PDF p30 (stamped p22): 'I declare the Citizen Ramon Mesa to be owner in fee of the land called Sulajulle'; DC decree PDF p54: '(granted to Jose Ramon Mesa March 29. 1844)'. Pedro J. Vasquez is the CLAIMANT, by deed from Mesa of 28 March 1850 for $3,000 (deed PDF p31-32, stamped p23-24)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-soulejule",
+   "field": "grantee",
+   "register_value": "Martin F. Gormley",
+   "correction": "Jose Ramon Mesa (original grantee of the Soulajulle grant, 29 March 1844); Martin F. Gormley was the claimant by purchase",
+   "evidence": "The GRANTEE was Jose Ramon Mesa, not Gormley: decree of concession PDF p23: 'declaro dueno en propiedad... al Ciudadano Ramon Mesa'; DC decree PDF p55: '(granted to Jose Ramon Mesa, March 29. 1844)'. Martin F. Gormley is the CLAIMANT, by deed from Mesa of 29 Jan 1850 (petition PDF p8, stamped p4; deed acknowledgment before Wm M. Fuller, Alcalde, 29 Jany 1850, PDF p40, stamped p33)",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-temascal",
+   "field": "grantee",
+   "register_value": "Manuel Anguisola",
+   "correction": "Francisco Lopez and Jose Arellanes (Arreyanes) - concession decree, transcript pp.10 and 15; expediente cover p12; petition p13. Manuel Anguisola bought their rights on 27 Sept 1847 and is the U.S.-era claimant; he in turn sold to Ramon de la Cuesta and Francisco Gonzales Camino on 6 Dec 1854, and they were substituted as appellants.",
+   "evidence": "Register holds the U.S.-era purchaser. Concession decree, transcript p10/p15: the grantees are 'el ciudadano Franc.co Lopez y Jose Arreyanes' / 'the citizens Francisco Lopez and Jose Arellanes'. Expediente cover, transcript p12: 'instituted by the citizens Francisco Lopez and Jose Arellanes residents of Santa Barbara for the land called Temascal'; their joint petition is signed 'Franco Lopez. Signed by me at the request of Jose Arellanes who does not know how to Sign. Fco Lopez' (transcript p13). Petition to the Board, transcript p4: 'he claims the same in fee in virtue of a grant made to Francisco Lopez and Jose Arellanes ... dated the 17th of March 1843 ... that the said grantees on the 27th of September 1847 transfered their rights to Your petitioner.' Covarrubias, transcript p6: 'A house was built on the land by the grantees immediately after the making of the grant ... Lopez lived in the house with his family until the sale to the present claimant.'",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tomales-baulines-1",
+   "field": "grantee",
+   "register_value": "Bethuel Phelps",
+   "correction": "James Richard Berry, per petition stamped p6 ('granted on the 17th of March 1836 to James Richard Berry by Don Nicolas Gutierrez') and Cooper dep stamped p12",
+   "evidence": "Dominant error class: register records the U.S. claimant, not the Mexican grantee. Petition stamped p6: granted 17 March 1836 'to James Richard Berry', conveyed by Berry to Stephen Smith 14 Feb 1844 and by Smith to Phelps 25 Sept 1845; Cooper dep stamped p12: 'the Rancho claimed in this Case and granted to James Richard Berry'; Black dep stamped p15: 'originally claimed by said Berry and now claimed by Bethuel Phelps'. (If the row intends Tomales y Baulines, the grantee was Rafael Garcia, ND 068 stamped p16 - under no reading is Phelps the grantee.)",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-topanga-malibu-sequit",
+   "field": "grantee",
+   "register_value": "Leon V. Prudhomme",
+   "correction": "Jose Bartolome Tapia (original grantee, 1805). Prudhomme = 1852 claimant/purchaser.",
+   "evidence": "PDF p15/p18: the 1805 petition and decree run to 'Jose Bartolome Tapia'. Leon V. Prudhomme is the U.S.-era CLAIMANT (PDF p1 red label 'LEON V. PRUDHOMME CLAIMANT'; PDF p9 petition), who bought the rancho from Tapia's widow Maria Francisca Mauricia Villalobos by deed of 24 Jan 1848 (Spanish deed PDF p19, translation PDF p21)",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tujunga",
+   "field": "grantee",
+   "register_value": "David W. Alexander and Francisc Mellus",
+   "correction": "Francisco Lopez and Pedro Lopez (grant of 1840). Alexander and Mellus are the 1852 claimants, remote purchasers through Miguel Triunfo.",
+   "evidence": "The grant runs to FRANCISCO and PEDRO LOPEZ, not to the register's names. PDF p20-21 (52 SD p.15-16): 'Por cuanto los Ciudadanos Franco y Pedro Lopez han pretendido para su beneficio personal y el de sus familias el terreno conocido con el nombre de Arroyo de Tujunga... he venido en concederles el terreno mencionado'; PDF p19 (52 SD p.14) 'declaro a los Cnos Franco y Pedro Lopez duenos en propiedad del parage conocido con el nombre de Arroyo de Tujunga'. David W. Alexander and Francis Mellus are the U.S.-era CLAIMANTS (PDF p1 red label 'DAVID W. ALEXANDER AND FRANCIS MELLUS CLAIMANT'), who took by a chain of deeds: Lopez brothers -> Miguel Triunfo (15 Mar 1845), Triunfo -> Francisco R. Lopez one half (7 May 1851), Triunfo & wife -> Alexander & Mellus one half (31 Aug 1851), F. R. Lopez -> Agustin Olvera one fourth (29 Sept 1851) - petition PDF p9-10 (52 SD pp.4-5)",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tularcitos",
+   "field": "grantee",
+   "register_value": "The",
+   "correction": "Jose Higuera (an invalid soldier of the San Jose jurisdiction). The register's 'The' is a truncation of the claimant string 'The heirs of Jose Higuera'.",
+   "evidence": "Register's grantee field holds the single word 'The' - a truncated fragment, not a name. The grantee is JOSE HIGUERA: PDF p431 (228 ND p.404) 'possession of the place called Los Tularcitos be given to the invalid soldier, Jose Higuera'; Board opinion PDF p59 (228 ND p.45) 'said Jose Higuera applied to Governor Sola for a grant of the premises called Los Tularcitos'; PDF p1 red label 'THE HEIRS OF JOSE HIGUERA CLAIMANT'. The claimants are his twelve children (Antonia, Fulgencio, Dolores, Valentin, Mariano, Josefa, Encarnacion, Florencio, Micaela, Rita, Refugio and Agustina de Higuera), PDF p9 (228 ND p.4)",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-ulistac",
+   "field": "grantee",
+   "register_value": "Jacob D. Hoppe",
+   "correction": "Marcelo, Pio and Cristobal, emancipated/neophyte Indians of Mission Santa Clara (grant of 19 May 1845). Jacob D. Hoppe is the 1852 claimant, who bought their interests in 1850.",
+   "evidence": "The grant runs to three Indians of Mission Santa Clara, not to Hoppe. PDF p40 (323 ND p.34): 'Por cuanto los indigenas de la Mision de Santa Clara Marcelo, Pio y Cristobal han pretendido para su beneficio personal y el de su familia el terreno llamado Ulistac... he venido en concederles el terreno mencionado declarandoles la propiedad por las presentes letras'; translation PDF p42 (323 ND p.36) 'Whereas the Natives of the Mission of Santa Clara, Marcelo, Pio, and Cristoval have solicited... I have in the name of the Mexican Nation and by virtue of the Authority in me vested granted to them the above mentioned land'. Board opinion PDF p47 (323 ND p.42): 'an Expediente of three Neophyte Indians, of the names of Marcello, Cristobal & Pico'. Jacob D. Hoppe is the U.S.-era CLAIMANT and purchaser: deed from Cristoval, 14 June 1850, $2,000, one undivided third (PDF p45-46, 323 ND pp.40-41); deed from Marcelo, 25 July 1850, $500 (PDF p44, 323 ND pp.38-39), Marcelo signing by mark",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-unnamed",
+   "field": "grantee",
+   "register_value": "José Domingo",
+   "correction": "Felipe (Felipe Huaynern), an emancipated neophyte Indian of the ex-Mission San Gabriel, grant of 19 April 1845. Jose Domingo is his son and the 1852 claimant/devisee.",
+   "evidence": "The grant runs to FELIPE, not to Jose Domingo. PDF p22 (58 SD p.16): 'Whereas Felipe Ind[ian] of San Gabriel has petitioned for his own benefit and that of his family the ownership of a piece of land three hundred and fifty varas in length & two hundred and fifty varas in width situate northeasterly of said Mission... I have concluded to grant him the ownership of the said land'; Spanish petition PDF p12 (58 SD p.7) 'Felipe indigena segregado de la Ex-Mision de San Gabriel'; Fr. Thomas Estenaga's report 'Se le puede conceder al Neofito Felipe casado con dos hijos el terreno que solicito por sus meritos personales'. Jose Domingo is the son and the U.S.-era CLAIMANT, taking by Felipe's will: petition PDF p9 (58 SD p.4) 'The Petition of Jose Domingo an Indian of San Gabriel and Son of the late Felipe an emancipated Indian of San Gabriel... granted in full property unto said Felipe... the said Felipe died about the year 1848 leaving a will whereby said lot of land was bequeathed to your petitioner'; Michael White's deposition PDF p10 (58 SD p.5) 'The said Felipe Huaynern is the same person to whom the grant was made by Governor Pio Pico[;] Jose Domingo in whose favor the will was made is the Son of Felipe'",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-valle-san-felipe",
+   "field": "grantee",
+   "register_value": "Juan Forster",
+   "correction": "Felipe Castillo (grant of 30 May 1846). Juan Forster is the 1852 claimant, who bought the rancho from Loreto Castillo, executor of Felipe Castillo's estate.",
+   "evidence": "The grant runs to FELIPE CASTILLO. PDF p14 (329 SD p.10): 'Por cuanto el Ciudadano [Fe]lipe Castillo ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Valle de San Felipe... he venido por decreto de este dia en concederle el espresado terreno declarandole la propiedad de el por las presentes letras'; translation PDF p16 (329 SD p.12) 'Inasmuch as the citizen Felipe Castillo has solicited for his personal benefit and that of his family the land known by the name of \"Valle de San Felipe\"... I have by a decree of this day concluded to grant him the said land'. Juan Forster (spelled 'Juan Foster' on the red label and in the Board papers) is the U.S.-era CLAIMANT: petition PDF p8 (329 SD p.4) 'he claims the same by virtue of a grant made to Felipe Castillo... the interest of the said [Castillo] in and to said land was purchased by your petitioner under an order of Court from Loreto Castillo the executor of the last will and testament of the said Felipe Castillo, deceased'; corroborated by Santiago E. Arguello, PDF p12-13 (329 SD pp.7-8), who saw Castillo's mayordomo and stock on the rancho in 1844 and says 'About 1846 or 1847 said Castillo [died] and after that the administrator of his estate told me the rancho was sold to Don Juan Foster'",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-vega-rio-pajaro",
+   "field": "grantee",
+   "register_value": "Juan M. Anzar",
+   "correction": "Antonio Maria Castro (invalid corporal, Monterey presidial company); Juan Miguel Anzar bought from Castro's heirs c.1840 and was the US-era claimant",
+   "evidence": "Grant was to Antonio Maria Castro, 'cabo invalido de la Compania del R.l Presidio de Monterrey' (his petition stamped pp15-16, granted by Sola 17 Apr 1820); DC opinion (stamped p79): 'grant ... to Antonio Maria Castro an invalided Spanish soldier ... the present claimants derive their title through a certain mesne conveyance from the heirs of Castro to Juan Anzar'. Register's Juan M. Anzar was the purchaser/claimant, not the grantee",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-yajome",
+   "field": "grantee",
+   "register_value": "Tomaso A. Rodriguez",
+   "correction": "Damaso Antonio Rodriguez, per the concession decree (stamped p13: 'declaro a Dn Damaso A. Rodrigz dueno en propiedad') and titulo (stamped p15: 'Por Cuanto Dn Damaso Antonio Rodriguez'). Hoffman 1862 prints the same 'Tomaso A. Rodriguez' error; the register evidently copied it.",
+   "evidence": "The grantee is DAMASO Antonio Rodriguez, not 'Tomaso'. Exhibit A wrapper, stamped p11: 'Espediente instruido por Dn Damaso Antonio Rodriguez del Sitio llamado Llajome'; decree stamped p13: 'declaro a Dn Damaso A. Rodrigz dueno en propiedad del parage'; titulo stamped p15: 'Por Cuanto Dn Damaso Antonio Rodriguez'; petition signed 'Dam. A. Rodrigz' (stamped p14); translation stamped p19: 'I declare Don Damaso A. Rodrigues owner in fee'.",
+   "audit_source": "chunk17.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-zanjones",
+   "field": "grantee",
+   "register_value": "Mariano Malarin",
+   "correction": "Gabriel de la Torre per the expediente/concession (stamped pp13,20) and DC opinion (transcript p172). Mariano Malarin is the claimant/executor, not the grantee.",
+   "evidence": "Expediente cover (stamped p13, 'Original Title Papers'): 'Concesion y posesion del Rancho nombrado Sanjones al Ciud[adan]o Gabriel de la Torre, el dia once de Diciembre de mil ochocientos cuarenta.' Approval decree (stamped p20): concession 'en la persona del Ciudadano Gabriel de la Torre.' DC opinion (transcript p172): grant 'to one Gabriel De la Torre.' Register 'Mariano Malarin' is the CLAIMANT (executor of the estate of Juan Malarin, who bought Zanjones from de la Torre by deed of 14 Jan 1842, stamped p14) - NOT the original grantee. Correct grantee = Gabriel de la Torre. Matches Hoffman (Gabriel de la Torre).",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-zayanta",
+   "field": "grantee",
+   "register_value": "Isaac Graham and William Ware",
+   "correction": "Joseph L. Majors, the grant issued in the name 'Juan Jose Crisostomo Majors'; he held in trust for Isaac Graham, William Ware, Peter Lassen and Frederick Heaple, who as non-citizens could not take in their own names (PDF p23, 342 ND p.19). Graham and Ware are the 1852 claimants.",
+   "evidence": "The grantee of record is JOSEPH L. MAJORS, the grant running in his Mexican baptismal name. PDF p11 (342 ND p.7), John Parrott: 'the same man to whom the grant of land was made by Governor Alvarado on the 22d April 1841 in the name of Juan Jose Chrisostomo Major... he is the same man to whom the grant was originally made'. Majors's own deposition, PDF p23 (342 ND p.19): 'I am acquainted with said Rancho and it was granted to me for Isaac Graham and others[,] that is it was granted in my name because I was a Mexican Citizen and could hold the land and I held it for Graham and others who not being Citizens could not hold it in their own name. The other persons were William Ware, Peter Lassen, Frederick Heaple.' Graham and Ware are the CLAIMANTS, who took Majors's legal title by transfer of 22 May 1852 (petition, PDF p9 = 342 ND p.5: 'the said Joseph L. Majors has held the said Rancho of Zayanta in trust for your petitioners up to the 22d day of May last when he transferred to your petitioners all his right title and interest')",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tomales-baulines-1",
+   "field": "land_case",
+   "register_value": "ND 418",
+   "correction": null,
+   "evidence": "Mechanically the docket resolves (red label CASE NO. 418 ND; every leaf stamped 418 ND; filename cubanc_lcf_nd418.pdf; Board docket No. 525, stamped p1-2), but ND 418 is Phelps's Punta de los Reyes claim (grantee J.R. Berry), not a Tomales y Baulines case. For a row named 'Tomales Y Baulines (Phelps)' whose patent data (no. 37, Feb 26 1866, 13,644.66 ac) belongs to the Tomales y Baulines Phelps patent, this docket is mis-assigned.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "u-6",
+   "field": "land_case",
+   "register_value": "",
+   "correction": "SD 218 (U.S. District Court No. 218; Land Commission docket No. 254), per red label p1 and transcript cover stamped PAGE 1",
+   "evidence": "Register blank, but a docket exists: red label p1 'CASE No. 218 SOUTHERN DISTRICT'; transcript cover stamped PAGE 1 'Case No. 254' (Land Commission); D.C. cover (stamped PAGE 69 area): 'U.S. District Court, Southern District... No. 218... In Case No. 254'.",
+   "audit_source": "chunk18.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cachil-dehe-rancheria",
+   "field": "name",
+   "register_value": "Cachil Dehe Rancheria",
+   "correction": "Jimeno Rancho (Rancho de Jimeno) per p1 red label, transcript title p5, Board transmittal p147 and District Court caption p145; 'Cachil Dehe Rancheria' appears nowhere in the file",
+   "evidence": "The file never uses 'Cachil Dehe'. PDF p1 red label: 'CASE No. 23 / NORTHERN DISTRICT / JIMENO RANCHO GRANT / THOMAS O. LARKIN ET AL CLAIMANT'. Transcript title page (PDF p5): 'for the place named \"Jimeno Rancho\"'. Board secretary's transmittal, San Francisco April 13, 1854 (PDF p147, stamped case p142): 'for the place known by the name of \"Jimeno Rancho\"'. District Court caption (PDF p145, case p140): 'Thomas O. Larkin and John S. Missroon, Appellees & Claimants for \"Rancho de Jimeno\"'.",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-tomales-baulines-1",
+   "field": "name",
+   "register_value": "Tomales Y Baulines (Phelps)",
+   "correction": "Rancho of case ND 418 is 'Punta Reyes' (Punta de los Reyes), red label p1 + petition stamped p6",
+   "evidence": "The cited case is NOT a Tomales y Baulines case. PDF p1 red label: 'CASE NO. 418 NORTHERN DISTRICT - PUNTA REYES GRANT - BETHUEL PHELPS CLAIMANT'; transcript title stamped p1: 'for the place named Punta Reyes'; petition stamped p6: 'known by the name of the Rancho of Punta Reyes'.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "u-23",
+   "field": "outcome",
+   "register_value": "Confirmed",
+   "correction": "REJECTED, not Confirmed. The District Court decree of 6 March 1862 (Fletcher M. Haight, US District Judge, Southern District; transcript p226) REVERSED the Board of Land Commissioners' confirmation of 18 Dec 1855 and held the claim invalid. The grant was one of Gov. Pico's 1846 sales/dispositions of former-Mission property (here the San Juan Bautista mission orchard) to pay Mexican wartime supply debts; the DC (following the Larkin line and citing a Nov 14 1845 Mexican ministerial order forbidding alienation of mission property, transcript p28-30) held the sale unauthorized and 'against the express orders of the Mexican government.' The register's/Hoffman 1862's 'confirmed' reflects only the Board's 1855 decision; the case file's final decree (DC, March 1862) governs = rejected",
+   "evidence": "Board CONFIRMED the claim: opinion by Comm. R. Aug. Thompson delivered Dec 18 1855 (proceedings summary transcript p2-3). BUT the US appealed and the District Court REVERSED and REJECTED it: DC Decree transcript p226 (PDF stamped 226), 'Intermediate Term A.D. 1862, Monterey March 6th 1862... It is Ordered, Adjudged and Decreed that the decision of said Board of Land Commissioners be reversed, and that the said Claim of the Appellee is held as invalid And is hereby Rejected', Fletcher M. Haight US Dist Judge; DC Opinion transcript p228-229 (PDF stamped 228-229): 'The decision of the Board of Commissioners is reversed and the claim is rejected.' Register says 'Confirmed' -- WRONG; final disposition is REJECTED",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-agua-caliente-1",
+   "field": "year",
+   "register_value": "1836",
+   "correction": "1840 - decree of concession by Gov. Alvarado dated 13 July 1840 (DC decree, transcript p150; also Supreme Court mandate transcript p154 quoting same). Register's 1836 likely contaminated from the OTHER Agua Caliente (ND 133), whose antecedent Gutierrez grant is 13 Oct 1836.",
+   "evidence": "District Court decree (transcript p150, PDF p159): '...being the same land which was granted to Lazaro Pena by Governor Alvarado; reference being had for a more particular description, to the Petition of Lazaro Pena, dated 14th October 1839, the decree of concession by Governor Alvarado, dated 13th July 1840, the Map in the Expediente, and the Approval of the Departmental Assembly.' Alvarado deposition (transcript p142, PDF p151, sworn 28 May 1859): 'I did make a grant to the said Pena for the lands known by the name of Agua Caliente, I think in the year 1840.' Register 1836 is wrong; Hoffman's 1840 is right.",
+   "audit_source": "chunk01.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-animas",
+   "field": "year",
+   "register_value": "1803",
+   "correction": "1802 per the sworn translation of the expediente, PDF p76 (transcript p72): 'Rancho de las Las Animas granted under the name of Sitio de La Brea to Mariano de Castro, 1802'; the claim petition, PDF p9 (transcript p5), gives the day: 'on the 17th day of August A.D. 1802'",
+   "evidence": "The file dates the viceregal concession to 1802, not 1803. Exhibit B (sworn translation of the expediente), caption at PDF p76 (transcript p72): 'Rancho de las Las Animas granted under the name of Sitio de La Brea to Mariano de Castro, 1802'. Translated summary of the expediente, PDF p78 (transcript p74): 'On the 5th day of July of 1802 Mariano Castro who was in Mexico presented to the Viceroy a petition praying for the tract of La Brea which was referred to the Royal Tribunal of accounts ... In pursuance of which the Viceroy granted his permission to Mariano Castro in order that he could go & establish himself & family on the tract called de la Brea, in which establishment no obstruction should be made under any pretext'. The claim petition, PDF p9 (transcript p5), states the same year with a day: 'That on the 17th day of August A.D. 1802, Felix Berenguer de Marquina Viceroy Governor &c of New Spain ... granted to Mariano Castro a tract of land known as La Brea.' Hoffman's 1802 agrees with the case file against the register.",
+   "audit_source": "chunk01.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-arroyo-seco-1",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1840 - concession decree 'Monterey Mayo 6 de 1840 ... Asi yo, Juan B. Alvarado Gobor. Constitucional del Departamento de las Californias lo decreté mandé y firmé' (PDF p26, PAGE 22); titulo of 8 May 1840 per the 1852 deed recital (PDF p22, PAGE 18) and the expediente heading 'Año de 1840' (PDF p24, PAGE 20)",
+   "evidence": "THE GRANT IS 1840, NOT 1841; HOFFMAN AGREES WITH THE CASE FILE AGAINST THE REGISTER. (1) The expediente is headed 'Año de 1840' (PDF p24, PAGE 20). (2) The concession decree (PDF p26, PAGE 22): 'Monterey Mayo 6 de 1840. Vista el informe que antecede de la prefectura del primer distrito con todo lo demas que se ha tenido presente respecto á la solicitud de Dn. Teodocio Yorba he venido en decreto de este dia en concederle el terreno mencionado adentro de los limites que explica el diseño que corre agregado á este Espediente comprehendiendo lo concedido once sitios de ganado mayor, librese el despacho correspondiente y tomese razon en el libro que corresponda. Asi yo, Juan B. Alvarado Gobor. Constitucional del Departamento de las Californias lo decreté mandé y firmé. Alvarado. Manl. Jimeno Srio.' (3) The titulo, Exhibit A, is written on stamped paper 'habilitado provicionalmte. por la Aduana Maritima de Monterey para los años de 1839 y 1840' (PDF p29, PAGE 25). (4) The 1852 deed from Yorba to the claimant recites the grant date: 'being the same tract of land granted to the said Teodocio Yorba by Gover. Juan B. Alvarado 8th May 1840' (Exhibit A to Glidden's deposition, PDF p22, PAGE 18). The claim petition's '8th day of May A.D. 1841' (PDF p8, PAGE 4) is a pleading error for 8 May 1840 and is the likely source of the register's 1841.",
+   "audit_source": "chunk01.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-atascadero",
+   "field": "year",
+   "register_value": "1839",
+   "correction": "1842 per grant decree, transcript p17/p19: 'Monterey 6 de Mayo de 1842...Dado en Monterey a seis de Mayo de mil ochocientos cuarenta y dos'",
+   "evidence": "grant decree PDF p22 (transcript p17): 'Monterey 6 de Mayo de 1842. Vista la peticion...declaro al Ciudadano Trifon Garcia, dueno en propiedad del terreno conocido con el nombre del Atascadero'; formal titulo dated PDF p24 (transcript p19): 'Dado en Monterey a seis de Mayo de mil ochocientos cuarenta y dos'. Register's 1839 is only the provisional occupation licence (Alvarado, Monterey 21 Dec 1839, PDF p20, transcript p15: 'Pueden los interesados...ocupar provisionalmte el parage nombrado el Atascadero')",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-bolsa-san-felipe",
+   "field": "year",
+   "register_value": "1837",
+   "correction": "1840 (grant of Oct 14, 1840, by Alvarado; juridical possession Feb 19, 1841). 1837 is the antecedent Castro petition year only.",
+   "evidence": "The grant (translation, Exhibit 1, transcript p13-14, PDF p18-19): 'Juan B. Alvarado, Constitutional Governor... I have concluded to grant him the mentioned land, declaring it his property by the present letters patent... Given in Monterey on the 14th of October 1840. Alvarado. Manuel Jimeno Secretary of State.' Register's 1837 is only the year of Mariano Macario Castro's petition (San Juan, 12 Nov 1837) and Alvarado's interim occupation permission (Monterey, 13 Nov 1837; expediente B, transcript p21-22, PDF p27-28). Hoffman's 1840 agrees with the case file against the register.",
+   "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-san-miguelito",
+   "field": "year",
+   "register_value": "1845",
+   "correction": "1846 per the grant decree and titulo of 21 March 1846 (PDF p20-p22; translation PDF p30 'on the twenty first of March eighteen hundred and forty six'), approved by the Departmental Assembly 10 June 1846. The register's 1845 corresponds only to Pico's PROVISIONAL permission of 30 May 1845 to place cattle on the land 'subject to the decision which may be made with respect to his petition presented March twentieth 1844' (PDF p17-19, transcript pp8-11) - a grazing permit, not the grant of ownership.",
+   "evidence": "Grant decree, PDF p20 (transcript p15): 'Angeles Marzo 21 de 1846 ... se declara al Ciudadano Ramon Rodriguez dueno en propiedad del parage conocido por Canada de S.n Miguel nombrada tambien Canada del Diablo'; titulo dated 'a veinte y uno de Marzo de mil ochocientos cuarenta y seis' (PDF p22/p30 translation p23); approved by Departmental Assembly 10 June 1846 (PDF p22, p30). District Court opinion PDF p93 (transcript p82): 'an alleged grant from Governor Pico to Ramon Rodriguez bearing date the 21st March A.D. 1846.'",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-carbonera",
+   "field": "year",
+   "register_value": "1839",
+   "correction": "1838 per the grant decree: Alcalde's provisional decree 2 February 1838 (PDF p17) and Governor Alvarado's decree of concession 3 February 1838 (PDF p19; translation PDF p22), as recited in the Board's own decree (PDF p26): 'granted to the petitioner by Governor Alvarado on the 3rd of February 1838'.",
+   "evidence": "The grant is FEBRUARY 1838, not 1839. Alcalde Antonio Rodriguez's provisional marginal decree, PDF p17 (Spanish): 'Villa de Branciforte Febrero 2 de 1838. Se le concede el terreno que solicita al interesado por hallarse baldio para los fines que indica en la presente instancia...'. Governor's decree, PDF p19 (Spanish): 'Monterey Feb.o 3 de 1838. Por cuanto el representante tiene los meritos suficientes para ser atendido en su solicitud he venido en decreto de este dia en conceder le el terreno que pretende conforme con las facultades que me son conferidas por las leyes. El Juez de la Villa de Branciforte reconocera esta concesion. Dada en Monterey Capital del Territorio de Californias. Alvarado.' Sworn translation, PDF p22: 'Monterey February 3rd 1838. Whereas the petitioner has the merits required to be attended to in his claim, I have resolved by a decree of this day to grant him the land he solicits by virtue of the powers conferred on me by law...' Board opinion PDF p25: 'On the margin of this petition is entered a decree of Governor Alvarado granting him the land solicited... This last decree is dated Feb 3rd 1838.' Board decree PDF p26: 'being the same which was granted to the petitioner by Governor Alvarado on the 3rd of February 1838.' Claimant's own Board petition PDF p9 says the same: 'on the 3rd day of February in the year 1838, Governor J. B. Alvarado by his decree granted to him...'",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-casmalia",
+   "field": "year",
+   "register_value": "1837",
+   "correction": "1840 per the grant: 'Dado en Monterrey a doce de Septiembre de mil ochocientos cuarenta' (PDF p14), i.e. 12 September 1840, approved subject to the Departmental Assembly.",
+   "evidence": "Original grant (Exhibit No. 1 annexed to W. E. P. Hartnell's deposition), PDF p13-14: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto D.n Antonio Olivera ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Casmalia... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras y sujeto a la aprobacion de la Exma Asamblea Departamental...' closing PDF p14: 'DADO EN MONTERREY A DOCE DE SEPTIEMBRE DE MIL OCHOCIENTOS CUARENTA. Juan B. Alvarado. Manuel Jimeno, Srio.' The expediente decree is likewise headed 'Monterey September 12th 1840' (PDF p63). Claimant's Board petition PDF p9: 'title of grant made to him under the authority of the Mexican Government by Juan B. Alvarado Constitutional Governor of the Department of the Californias BEARING DATE THE 12th OF SEPTEMBER 1840'. Hartnell deposition PDF p10 identifies Exhibit 1 as 'an original grant from Governor Juan B. Alvarado to Antonio Olivera, dated September 12th 1840'. The register's 1837 appears nowhere in the file.",
+   "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cienegas",
+   "field": "year",
+   "register_value": "1843",
+   "correction": "1822 or 1823 per Board opinion, PDF p47: 'and was dated in 1822 or 1823'; confirmation decree PDF p49 dates possession from 1823",
+   "evidence": "Board opinion PDF p47 (stamped PAGE 39): the grant 'was dated in 1822 or 1823'; decree of confirmation PDF p49: land 'held by the present claimants and their ancestors ever since the year 1823'. Register's 1843 is the year of the Sanchez boundary arbitration, not of any grant: opinion PDF p48 (PAGE 40) says of the 1843 application to Micheltorena 'no formal action was ever had upon it'",
+   "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-conejo",
+   "field": "year",
+   "register_value": "1803",
+   "correction": "1822, per de la Guerra's title as stated in the petition (img 23390, transcript p5: '10th day of October A.D. 1822, Pablo Vicente de Sola... granted to the petitioner one undivided half') and supplementary petition (img 23392, transcript p7). Register 1803 is unsupported by the file; 1803 loosely reflects the earlier Spanish grant to Polanco & Rodriguez (Gov. Arrillaga), but that went to different persons and its exact date is not stated.",
+   "evidence": "The claimant de la Guerra's own title = 1822, NOT 1803. Petition (img 23390, transcript p5): 'That on the 10th day of October A.D. 1822, Pablo Vicente de Sola, Governor of California... granted to the petitioner one undivided half of the tract of land known by the name of Conejo.' Supplementary petition (img 23392, transcript p7): 'a new one [title] was issued to said Jose de la Guerra y Noriega in 1822 by Governor Sola for one half of said tract.' No 1803 date appears anywhere in the file. Hoffman 1862 agrees with the case file (1822) against the register.",
+   "audit_source": "chunk04.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-laguna-palos-colorados",
+   "field": "year",
+   "register_value": "1835",
+   "correction": "1841 per grant recital, petition transcript p3: '...on the 10th of August 1841 Dn Juan B Alvarado Governor of California accordingly granted said Land to this claimant and Juan Bernal.' The register's 1835 is the Territorial Deputation's consent date (18 Oct 1835), not the grant. Hoffman's 1841 governs.",
+   "evidence": "Petition transcript p3: application referred to the Territorial Deputation which 'on the 18th October [1835]... gave its consent to the grant petitioned for; and afterwards, to wit on the 10th of August 1841 Dn Juan B Alvarado Governor of California accordingly granted said Land to this claimant and Juan Bernal.' The GRANT (concession) was 10 August 1841, NOT 1835. Register 1835 = merely the Deputation's prior consent date. Hoffman's 1841 is correct.",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-mallacomes-moristul",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1843 (Oct 9, 1843) per grant recital transcript p10 and Castañada deposition transcript p16",
+   "evidence": "Grant dated October 9, 1843, not 1841. Indenture/Exhibit A recital (transcript p10): rancho 'granted to said Jose Berreyesa by and from Micheltorena, Governor of California, dated at Monterey October ninth AD 1843'; Castañada depo (transcript p16): 'presenting to be a grant to Jose Berreyesa dated October 9th 1843'; petition (transcript p4): '...October...1843'. 1841 also impossible under Micheltorena (gov. Dec 1842-1845).",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-mallacomes-moristul-plan-agua-caliente",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1843 per the concession/title decree, stamp p23 (image 26): 'Monterey 14 de Obre de 1843... declaro dueño en propiedad á Don José Berreyera... Don Manuel Micheltorena así lo mandó, decretó y firmó'; Micheltorena's order 'Espidase el título en revalidación del que obtiene' dated 11 Oct 1843. Register's 1841 = the earlier provisional grant by Mariano G. Vallejo.",
+   "evidence": "The definitive concession/title decree in the expediente is dated 14 October 1843 (Micheltorena), NOT 1841. Stamp p23 (image 26): 'Monterey 14 de Obre de 1843. Vista la petición... declaro dueño en propiedad á Don José Berreyera del terreno nombrado Serro de Mayacomes y Moristal... en la estensión de cuatro sitios de ganado Mayor... El Exmo. Sor. Gobernador Gral. Don Manuel Micheltorena así lo mandó, decretó y firmó.' Micheltorena also ordered (same p23): 'Monterey Octe. 11 de 1843. Espidase el título en revalidación del que obtiene. Micheltorena.' The register's 1841 belongs to the earlier PROVISIONAL grant by Mariano G. Vallejo (stamp p24, image 27), not to the concession decree.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-milpitas",
+   "field": "year",
+   "register_value": "1830",
+   "correction": "1835 per the confirmed grant: título dated Monterey Sept 28, 1835 (José Castro), Deputation approval Sept 26, 1835, concession 'granted on the 23rd of September 1835' (transcript p20/p29-34).",
+   "evidence": "Confirmed grant is dated Sept 1835, not 1830. The formal título ('C', transcript p31-34) recites José Castro concession and is 'Dado en Monterey á 28 de Setiembre de 1835 = José Castro'; the translation (transcript p20/p30): grant to Alviso of 'Milpitas' 'granted on the 23rd of September 1835'; petition (transcript p5) itself states the formal grant/title was made by José Castro Sept 20/28 & Oct 2, 1835. The register's 1830 is only the initial San José ayuntamiento permission-to-occupy (document dated March 10, 1830, expediente 'A' transcript p10/p21), which is NOT the grant confirmed.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-monte-diablo",
+   "field": "year",
+   "register_value": "1836",
+   "correction": "1834 (título dated Monterey July 26, 1834; Deputation approval June 19, 1834; concession made June 10, 1834). Per transcript p16/p25 grant and p29 Board opinion.",
+   "evidence": "The grant is dated July 26, 1834, not 1836. Título 'C' Spanish (transcript p16): 'Dado en Monterrey a veinte y seis de Julio de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano'; translation (transcript p25): 'Given in Monterrey on the 26th day of July 1834'; Board opinion (transcript p29): 'a grant dated July 26th 1834, with a previous approval of it by the Territorial Deputation' (Deputation approval June 19, 1834, concession made June 10, 1834). 1836 also impossible since Figueroa died Sept 1835.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-moro-cayucos",
+   "field": "year",
+   "register_value": "1837",
+   "correction": "1842 (both Alvarado títulos dated Monterey April 27, 1842; transcript p17 and p20). The register's 1837 = the earlier provisional Alvarado concession, not the confirmed grant.",
+   "evidence": "The definitive confirmed grants are dated April 27, 1842, not 1837. Both títulos ('B', annexed to Hartnell depo): Olivera título 'Dado en Monterey á veinte y siete de Abril de mil ochocientos cuarenta y dos. Juan B. Alvarado. Manuel Jimeno Srio' (transcript p17); Feliz título identical date 'veinte y siete de Abril de mil ochocientos cuarenta y dos' (transcript p20); petition (transcript p4) 'both bearing date the twenty seventh of April A.D. 1842.' The '1837' matches only the earlier PROVISIONAL concession by Alvarado (Dec 28, 1837; expediente 'E' header '1837', transcript p8/p13/p15), which is interim and not the grant McKinley claims/was patented under.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-nogales",
+   "field": "year",
+   "register_value": "1838",
+   "correction": "1840 (grant título dated Monterey March 13, 1840; Junta approval May 25/26 1840). Per transcript p13-16. The register's 1838 = the application/provisional occupation.",
+   "evidence": "The grant is dated March 13, 1840, not 1838. Concession decree (transcript p13): 'Monterey 13 de Marzo de 1840... declaro al Ciudno José de la Luz Linares dueño en propiedad del paraje... de los Nogales... Alvarado'; formal título (transcript p16): 'Dado en Monterey á trece de Marzo de mil ochocientos cuarenta'; June 11 1840 note (transcript p14) 'en confirmación del terreno Nogales que obtuvo en trece de Marzo del presente año.' Junta approved May 25/26 1840. The register's 1838 = only the initial application (July 1838) and the Oct 10 1838 provisional order authorizing occupation 'until his application was determined' (petition transcript p4).",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-nuestra-senora-refugio",
+   "field": "year",
+   "register_value": "1794",
+   "correction": "1834 per the concession decree, PDF p27 (154 SD PAGE 21): 'Monterey Julio 3 de 1834'; formal titulo 'Dado en Monterey a 1o de Agosto de 1834' (PDF p30, PAGE 24). Territorial Deputation approved 16 July 1834 (PDF p28, PAGE 22).",
+   "evidence": "PDF p27 (stamped 154 SD PAGE 21), Figueroa's concession decree: 'Monterey Julio 3 de 1834 ... se declara a D. Antonio Maria Ortega y a Da. Maria Magdalena Cota de Ortega duenos en propiedad del terreno conocido con el nombre del Refugio'. PDF p30 (PAGE 24), the titulo closes: 'Dado en Monterey a 1o de Agosto de 1834 = Jose Figueroa = Agustin V. Zamorano - Srio.' English decree PDF p71 (PAGE 77): 'the grant of said lands made by Jose Figueroa dated August 1st 1834'. Register's 1794 is nowhere the grant year.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-penasquitos",
+   "field": "year",
+   "register_value": "1835",
+   "correction": "1823 for the original grant (Arguello decree 'Monty Junio 15 de 1823', PDF 27; DC decree tp69 '15th day of June A.D. 1823') and 1834 for the addition (Figueroa, 'Monterey Mayo 5 de 1834', PDF 17); register '1835' is wrong",
+   "evidence": "Register '1835' matches NEITHER grant. Original concession dated 1823: petition of Ruiz 'S. Diego 27 de Abril de 1823', Arguello's decree 'Monty Junio 15 de 1823' ordering possession (Doc B, PDF 27); juridical possession 15 July 1823 (PDF 28-29). The ADDITION/ampliacion was Figueroa's decree 'Monterey Mayo 5 de 1834' (PDF 17, translation PDF 23), approved by the Territorial Deputation 19 May 1840 / Alvarado 11 June 1840 (PDF 18, 24). DC decree tp69 confirms both: original '15th day of June A.D. 1823' + addition 'in the year 1834'. 1835 appears nowhere. Hoffman (1823) agrees with the file against the register",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-petaluma",
+   "field": "year",
+   "register_value": "1834",
+   "correction": "1843 per the grant of record: title issued Oct 22, 1843 (expediente translation p46-47), approved by the Departmental Assembly Sept 1845. Register '1834' rests on the lost earlier concession recited in the claimant's petition, not on any decree in the file.",
+   "evidence": "Expediente translation, Assembly committee report p47: 'They approve the grant made by the Superior Departmental Government in title issued Oct 22d 1843 in favor of Citizen Mariano G. Vallejo, for ten square leagues of land in the place known by the name [of Petaluma]'. Governor's decree p46: 'Monterey Oct 22, 1843. Having seen the petition with which the expediente commences, the foregoing report... I declare Colonel Mariano G. Vallejo owner of the place named Petaluma'. NO 1834 decree exists in the file; 1834 appears only in the claimant's 1852 petition p5 ('in the year 1834 he received from the Government of California a grant... his title papers for the same having been lost he applied in 1843 for new papers').",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-potrero-rincon-san-pedro-reglado",
+   "field": "year",
+   "register_value": "1838",
+   "correction": "1842 for the confirmed Arana grant, per Board decree p75: 'grant made by Jose Bolcoff and Manuel Jimeno to Jose Arena on the 15th of August 1842'; Buelna-tract grant date never established (lost/burned title)",
+   "evidence": "Board decree stamped p75: 'the grant made by Jose Bolcoff and Manuel Jimeno to Jose Arena on the 15th of August 1842'. For the Buelna tract no dated grant survives: petition p6 alleges only 'some time previous to the years 1838'; Bolcoff dep. p100: title from Micheltorena to Buelna 'was dated in 1842, 1843, or 1844'; Buelna dep. (per opinion p71) says title received 1842. Register's 1838 matches no grant document in the file",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-pulgas",
+   "field": "year",
+   "register_value": "1820",
+   "correction": "1835 - the Order of Concession of 26 November 1835, approved by the Territorial Deputation 18 December 1835, together with the conditional title of 27 November 1835 on which the Board actually confirmed (opinion PDF p429-431 / stamped p383-385). Hoffman 1862 ('1835') agrees with the case file against the register. The register's 1820 rests on the claimants' unsupported recital (petition PDF p18 / stamped p16) that 'about the year 1820 or 1821 Don Pablo Vicente de Sola, being then Governor of Alta California... made a new title to the said Rancho or tract of land to Don Luis Arguello'; no such document is in evidence and the Board never mentions it.",
+   "evidence": "Opinion of the majority of the Board (Com. Alpheus Felch), PDF p429 (stamped p383): 'Applying these views to the case under consideration we conclude that the title of the land did not pass to the heirs of Arguello by virtue of the Order of Concession of NOV. 26, 1835 nor by the approval of the Territorial Deputation, and that it could pass only by final title papers under the 8th Art. of the Regulation of 1828 which it is not claimed was issued. We also conclude that the conditional document of the 27th Nov. did not, notwithstanding the subsequent approval of the Deputation, have the effect to pass the legal estate...' and PDF p431 (stamped p385): 'we are satisfied that the claimants are justly entitled to a confirmation, COMMENSURATE WITH THE DESCRIPTION IN THE CONDITIONAL GRANT OF NOV 27 and of which juridical possession was given.' The Mexican papers of record are therefore both of November 1835. Claimants' petition, PDF p19-20 (stamped p17-18): '...on the 26th (Twenty Sixth) day of November in said year of 1835 issue[d] a decree of concession of said lands to said Minor heirs of Don Luis Arguello... that subsequently to wit on the 18th day of December of said year said Territorial Deputation granted its approval to the said decree of concession... making the same final and definitively binding.'",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-punta-pinos",
+   "field": "year",
+   "register_value": "1844",
+   "correction": "1833 for the original grant (Figueroa to Armenta, 24 May 1833 per the Board's opinion and decree; the expediente's own concession decree is dated Monterey 13 May 1833 and the formal title evidently issued 24 May). If the register wants to keep both title acts, the field should read '1833; 1844' to match its own two-governor / two-grantee fields. Hoffman 1862 ('1833') agrees with the case file against the register. The register's era tag 'micheltorena' should likewise become 'figueroa' (or carry both).",
+   "evidence": "Board's opinion, PDF p48 (stamped p42): 'The documentary evidence filed with case consists of an ORIGINAL GRANT made to Jose Maria Armenta by Governor Figueroa on 24th of May 1833, duly approved by the Territorial Deputation.' Decree of confirmation PDF p50 (stamped p44): 'being the same which was granted to Jose Maria Armenta by Governor Figueroa on the 24th of May 1833 and re-granted and confirmed to Don Jose Abrego by Governor Micheltorena on the 4th of October 1844.' The expediente itself is headed 'Jurisdiccion de Monterey, Ano de 1833' (PDF p10 / stamped p8) and its decree reads 'Monterey 13 de Mayo de 1833... se declara a Jose Maria Armenta dueno en propiedad del terreno conocido con el Nombre del Pinal en la parte Occidental de la Bahia de Monterey' (PDF p12 / stamped p10). The register's single year 1844 records only the SECOND, confirmatory grant.",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-punta-reyes",
+   "field": "year",
+   "register_value": "1836",
+   "correction": "1839 (8 June) per Board decree p61",
+   "evidence": "Board decree p61: 'being the same land granted to Jose Francisco Snook by Governor Alvarado on the 8th day of June 1839'. The register's 1836 is the date of the EARLIER 8-league grant to Berry: petition p5, 'on the 17th of March 1836 Nicolas Gutierrez then Governor of California by due form of law ceded a tract of Land to one James Richard Berry' - not the grant confirmed here",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-rincon-1",
+   "field": "year",
+   "register_value": "1834",
+   "correction": "1835. The concession decree is Figueroa's of 22 June 1835, the title was drawn 23 June 1835 and executed by Jose Castro on 1 October 1835, and the Departmental Assembly approved 25 September 1835. The register's 1834 corresponds only to the 8 January 1834 licence to occupy and cultivate. Hoffman 1862 ('1835') agrees with the case file against the register.",
+   "evidence": "Board's opinion, PDF p43 (stamped p37): 'The papers on file in this case show that on the 23rd day of June A.D. 1835 a formal grant for the land known by the name of Rincon was prepared, but before it was signed Governor Figueroa the acting Governor of California died; afterwards to wit on the 1st day of October A.D. 1835 it was made official by Jose Castro who succeeded Figueroa as governor ad interim. The petition contains the allegation that said grant was duly approved by the Departmental Assembly on the 25th day of September A.D. 1835.' District Court opinion PDF p92 (stamped p84): 'The claim in this case is founded on a Grant from Jose Castro to the present claimant, bearing date OCTOBER 1st A.D. 1835.' Claimant's own petition PDF p9 (stamped p4) puts 1834 only on the permission to occupy: 'That on the 30th day of September A.D. 1833 he applied for the tract of land called El Rincon; that on the 8th day of January A.D. 1834 he received permission from the Governor to occupy & cultivate said land; that on the 6th day of June 1835 he asked for a grant in fee of said land; that on the 22 day of June A.D. 1835 Jose Figueroa Governor of California... granted to the petitioner the said tract of land called El Rincon.'",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-salinas",
+   "field": "year",
+   "register_value": "1835",
+   "correction": "1836 per the grant as read by both tribunals: DC decree of confirmation tp61 (PDF 65) 'granted to Gabriel Espinoza, on the 15th of April 1836, by Nicolas Gutierrez'; Board opinion tp50 (PDF 57) 'on the thirteenth of April 1836 ... Certificate ... dated September 26. 1836'. Register '1835' reflects only Castro's provisional concession (17 Dec 1835), not the Gutierrez grant the register attributes",
+   "evidence": "Register '1835' is wrong. Both US tribunals date the Gutierrez grant to 1836. Board opinion tp50 (PDF 57): claim 'founded on a grant made to Gabriel Espinoza by Governor Nicholas Gutierrez on the thirteenth of April 1836. Duly approved by the Territorial Deputation on the 9th of August 1836. And a Certificate of such approval or Confirmation of the grant dated September 26. 1836.' DC decree of confirmation tp61 (PDF 65): 'granted to Gabriel Espinoza, on the 15th of April 1836, by Nicolas Gutierrez'. The Spanish confirming decree of Gov. Gutierrez ordered testimonio given 27 Sept 1836 (expediente tp17, PDF 17). The '1835' in the expediente refers to the earlier PROVISIONAL concession by Jose Castro (interim political chief), 17 Dec 1835 (tp26, PDF 26) - which the register does not attribute (it names Gutierrez). Hoffman (1836) agrees with the file against the register",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-jose",
+   "field": "year",
+   "register_value": "1838",
+   "correction": "1840, not 1838. Grant decree PDF p18 (transcript p13): 'Monterey 3 de Octubre de 1840 ... declaro dueño en propiedad a D.n Ignacio Pacheco del parage nombrado San Jose', title closing PDF p19 'Dado en Monterey a tres de Octubre de mil Ocho cientos cuarenta.' 1838 is the year the EXPEDIENTE opened, not the grant: Pacheco's petition is dated 'Sonoma M.zo 12 de 1838' (PDF p14, transcript p9), Alvarado's referral decree 'Sta Clara Marzo 24 de 1838', and Vallejo's informe 'Sonoma Ab.l 24 de 1838' (PDF p15, transcript p10). Hoffman's 1840 agrees against the register.",
+   "evidence": "Grant decree, Spanish, PDF p18 (transcript p13): 'Monterey 3 de Octubre de 1840. Vista la peticion con que da principio este espediente ... declaro dueño en propiedad a D.n Ignacio Pacheco del parage nombrado San Jose'; the titulo that follows closes PDF p19 (transcript p14) 'Dado en Monterey a tres de Octubre de mil Ocho cientos cuarenta.' Sworn English translation PDF p24 (transcript p19) heads it 'Monterey Oct 3rd 1840'. The claimant's own petition PDF p11 (transcript p4) says 'a grant of land made to him on the 3rd Oct 1840 by Gov Alvarado'. Register's 1838 is wrong.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-lorenzo",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1842, not 1841 (original league, 16 Oct 1842); the augmentation followed 20 Jan 1844. Petition PDF p11 (transcript p5): 'One league or Sitio thereof ... was granted to Francisco Soto On the 16th of October 1842 by D.n Juan B Alvarado Constitutional Governor of California'. CAVEAT: the grant decrees themselves (exhibits H.H. Nos. 1 and 2, annexed to Guillermo Castro's deposition) were not located within the pages read; this correction rests on the sworn petition plus three concordant witnesses and the Board's opinion, all in the file.",
+   "evidence": "Sworn petition, PDF p11 (transcript p5): 'A portion of said lands, to wit, One league or Sitio thereof, a little more or less was granted to Francisco Soto On the 16th of October 1842 by D.n Juan B Alvarado Constitutional Governor of California And the remainder thereof, to wit, the additional quantity of one half league or Sitio, was granted On the 20th January 1844 to the same grantee by D.n Manuel Michelttorena then Governor of California.' Corroborated by Guillermo Castro, PDF p13 (transcript p6): 'Francesco Soto received a grant from Governor Alvarado in the year 1842 of the tract of Land called San Lorenzo ... Afterwards Soto received another grant in augmentation of the former tract'; by surveyor J. J. H. Grammont, PDF p25 (transcript p19): 'I have a Copy of a grant made to Francesco Soto in 1842'; and by the Board's opinion, PDF p128 (transcript p111), quoting Micheltorena's own endorsement 'Monterey 20th January 1844 - In conformity with the foregoing report (Signed) Michelttorena'. Nothing in the pages read supports the register's 1841. Hoffman's 1842 agrees against the register.",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-lorenzo-2",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1843 (25 October) for the rancho itself. The register's 1841 is the year of a much smaller anterior title: expediente No. 1, cover PDF p23 (transcript p17), 'Jurisdiccion del Pueblo de San Jose de Alvarado. Año de 1841. Espediente promovido por el Ciudadano Guillermo Castro en solicitud de SEIS CIENTAS VARAS de terreno en el paraje de San Lorenzo'. The 1843 title expressly distinguishes the two, PDF p16 (transcript p10, condition 3): 'El terreno de que se hace donacion es de SEIS SITIOS DE GANADO MAYOR a mas de las seis cientas varas de terreno que tiene concedido por titulo anterior' (translation PDF p21/transcript p15: 'six sitios of ganado mayor, beside the six hundred varas which he holds conceded by anterior title'). The 600 varas square is a house-lot-scale parcel; the six sitios are the rancho.",
+   "evidence": "The rancho grant is dated 25 October 1843, not 1841. Micheltorena's concession decree, Spanish, PDF p17 (transcript p11): 'Monterey 25 de Octubre de 1843. Vista la peticion con que da principio este espediente, los informes que preceden ... declaro a D. Guillermo Castro, dueño en propiedad del parage nombrado San Lorenzo, colindante con el Rancho de S.r Amador, con el de San Ramon, con el del S.r Moraga, con el de los Peraltas, con el del S.r Estudillo, con el del S.r Vallejo, y con el de D. Fran.co Soto'; the titulo itself closes PDF p16 (transcript p10) 'Dado en Monterrey a 25 de Ob.e de 1843'. Sworn translation PDF p20-22 (transcript p14-16): 'Monterey 25th Oct. 1843 ... I declare D.n Guillermo Castro, owner in property of the place named San Lorenzo' / 'Given in Monterey this 25th Oct 1843'. The District Judge's own bench notes, PDF p354 (transcript p340), state flatly: 'Estudillo did not obtain his grant until 1842 - & Castro not until 1843.' The register's 1841 belongs to a far smaller anterior title (see corrections).",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-luis-conzaga",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1843 per grant decree transcript p7: 'Dado en Monterrey a cuatro de Noviembre de mil ochocientos cuarenta y tres'",
+   "evidence": "Grant decree in expediente (PDF p11, transcript p7): 'Dado en Monterrey a cuatro de Noviembre de mil ochocientos cuarenta y tres' (4 Nov 1843). DC opinion (PDF p76, transcript p66): 'The claim in this case is founded on a grant made by Governor Micheltorena on the 4th November 1843.' Register's 1841 is the year of the earlier Francisco Rivera grant, which was denounced and forfeited (petition, transcript p4; DC opinion transcript p67).",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-pascual",
+   "field": "year",
+   "register_value": "1834",
+   "correction": "1838 per the grant expediente (Alvarado deposition, transcript p14/pdf p20: 'the traced copy of the Expediente in this case for the year 1838'; petition, transcript p5/pdf p11: 'July 17 A.D. 1838'). Register's 1834 is wrong.",
+   "evidence": "The grant is of 1838, not 1834. Petition (pdf p11, transcript p5): claim rests on 'a grant under the Mexican Government by Governor J. B. Alvarado... of date July 17 A.D. 1838'. Juan B. Alvarado's own deposition (pdf p20, transcript p14): 'Look at the traced copy of the Expediente in this case for the year 1838 and say what you recollect concerning the grant therein appearing to have been given Francisco Villa. Answer - I recollect there was such a grant and the signatures... appear to be mine.' Register '1834' is wrong; Hoffman 1838 agrees with the file.",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-san-ramon-norris",
+   "field": "year",
+   "register_value": "1835",
+   "correction": "1834 -- titulo 'Dado en Monterrey a primero de Agosto de mil ocho cientos treinta y cuatro' (transcript p31), on a concession decree of 22 January 1834 approved by the Diputacion 31 July 1834",
+   "evidence": "The title is dated 1834, not 1835. Titulo, transcript p31 (PDF p37): 'Dado en Monterrey a primero de Agosto de mil ocho cientos treinta y cuatro' (1 August 1834). Its recitals, transcript p29 (PDF p35): 'de conformidad con el acuerdo de la Exma Diputacion Territorial del dia 31 de Julio ppdo aprobando la concesion del citado terreno de San Ramon hecha en decreto de 22 de Enero del presente año al referido Ciudno Jose Maria Amador'. Expediente proceedings run 1833-34: cover 'Año de 1833' (transcript p19, PDF p25); Figueroa's referral 'Monterrey Julio 28 de 1834...pase a la Excelentisima Diputacion Territorial para su aprobacion. Figueroa' and Diputacion action 'Monterrey Julio 29 de 1834' (transcript p27, PDF p33). The petition agrees: transcript p5 (PDF p9) 'was granted to Jose Maria Amador on the 1st day of August 1834 by Don Jose Figueroa Political Chief of the Territory of Upper California'. Hoffman's 1834 is right and the register's 1835 is wrong. The file's only 1835 item is a SEPARATE later application by Amador for an ADJACENT tract, with Figueroa's decree 'Monterrey Julio 24 de 1835' (transcript p32, PDF p38).",
+   "audit_source": "chunk09.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-rosa-2",
+   "field": "year",
+   "register_value": "1845",
+   "correction": "1846 per the grant itself (stamped p13, PDF p18): 'a treinta de Enero de mil ochocientos cuarenta y seis'; the two earlier petitions are Apr 8 1845 and Jan 30 1846, and Pico's Apr 28 1845 marginal decree only allowed provisional occupation pending title - the title issued Jan 30 1846. Hoffman 1862 (1846) agrees with the case file against the register",
+   "evidence": "Spanish grant p18 (stamped p13): 'Dado en la Ciudad de los Angeles... a treinta de Enero de mil ochocientos cuarenta y seis' (Jan 30, 1846); Felch opinion p33 (stamped p27): grant 'bears date January 30th 1846'; District Court decree (stamped p78A): 'granted on the 30th day of January A.D. 1846'. Register says 1845 - wrong",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-santa-rosa-island",
+   "field": "year",
+   "register_value": "1841",
+   "correction": "1843 - grant title 'Dada en Monterey a cuatro de Octubre de mil ocho cientos cuarenta y tres' (transcript p8; translation p15-16). NOT 1841.",
+   "evidence": "Grant title, transcript p8 (Spanish original) closes: 'Dada en Monterey a cuatro de Octubre de mil ocho cientos cuarenta y tres. Manl. Micheltna. Manl. Jimeno Srio.' Sworn translation, transcript pp.15-16 ('B. Translation of Grant'): 'Given at Monterey on the fourth of October one thousand eight hundred & forty three (Signed) Manuel Micheltorena (Signed) Manuel Jimeno Secretary'. Petition, transcript p4: 'That on the 4th day of October A.D. 1843 Manuel Micheltorena Governor of California ... granted to Jose Antonio Carrillo & Carlos Carrillo the tract of land called the Island of Santa Rosa'. Nothing dated 1841 appears anywhere in the pages read.",
+   "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-vega-rio-pajaro",
+   "field": "year",
+   "register_value": "1821",
+   "correction": "1820 per the concession decree, stamped p16: 'Mision de San Carlos. 17 abril de 1820 ... Sola' (translation stamped p22)",
+   "evidence": "Concession decree (Spanish, stamped p16): 'Mision de San Carlos. 17 abril de 1820. En atencion a los meritos del suplicante le concedo en nombre de Ntro. Augusto Monarca el Sor. Dn. Fernando 7o ... el parage nombrado la Vega del Pajaro ... Sola'; translation (stamped p22): 'Mission of San Carlos 17th April 1820 ... I concede in the name of our August Monarch ... Sola'; DC opinion (stamped p79): 'a grant from Sola ... bearing date 17th April 1820'. Register says 1821",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  },
+  {
+   "id": "rancho-zayanta",
+   "field": "year",
+   "register_value": "1834",
+   "correction": "1841 - 'the grant was dated 22d April, 1841' (PDF p385, 342 ND p.369); register's 1834 is wrong for this title.",
+   "evidence": "The grant is of 1841, not 1834. Printed brief of the settlers, PDF p385 (342 ND p.369): 'As we have seen, the grant was dated 22d April, 1841, and the measurement made and possession given in the same year. It appears from the espediente just mentioned, that in September, 1843, two years afterwards, Graham petitioned Governor Micheltorena, for a grant of the vacant land adjoining Zayante on the west'. Petition, PDF p9 (342 ND p.5): 'That on the 22d day of April 1841, Joseph L. Majors a Naturalized Citizen of Mexico solicited and obtained from the then Governor J. B. Alvarado a grant of a certain tract of land called and known by the name of Zayanta'. John Parrott's deposition, PDF p11 (342 ND p.7): 'the grant of land was made by Governor Alvarado on the 22d April 1841 in the name of Juan Jose Chrisostomo Major'. James W. Weeks's deposition, PDF p13 (342 ND p.9): 'a grant by said Alvarado to Don Juan Jose Chrisostomo Major dated April 22d 1841'",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "u-92",
+   "field": "year",
+   "register_value": "1778",
+   "correction": "1777 per Board opinion stamped p154: 'founded by Felipe de Neve the Governor of California in 1777'; petition stamped p5 gives 29 November 1777. The register's 1778 likely comes from viceroy Bucareli y Ursua's 22 July 1778 communication acknowledging the founding (petition stamped p6), which post-dates the founding itself",
+   "evidence": "Board opinion (stamped p154): 'San Jose de Guadalupe was regularly organised and established into a Pueblo under the Spanish Government having been founded by Felipe de Neve the Governor of California in 1777'; petition (stamped p5): founded 'on the twenty ninth of November in the year [1]777'. Register says 1778",
+   "audit_source": "blind-100",
+   "in_v11_staged": true,
+   "in_errata": true
+  }
+ ]
+}
