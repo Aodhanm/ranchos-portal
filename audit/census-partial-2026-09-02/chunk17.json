@@ -157,5 +157,248 @@
   },
   "corrections": {},
   "notes": "hoffman_flag name-mismatch resolved: Hoffman prints the rancho as '5 square leagues' (a quantity, not a name); the expediente names the place Rio de las Plumas and the grant calls the tract Boga. Claimant was Leonce Hoover, administrator of Flugge's estate (docketed No. 664, filed March 1, 1853, stamped p2-3). The rival Larkin claim to the same Boga tract is mentioned at stamped p4 ('claim numbered 129'); cf. register u-27 (ND 358)."
+ },
+ {
+  "id": "u-132",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264228/files/cubanc_lcf_nd377.pdf",
+  "pdf_pages_stated": 42,
+  "pages_read": [
+   "images 1-30 (label; stamped pp.1-24)",
+   "images 31-52 (stamped pp.25-42)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "File has no rancho name: p1 red label 'LAND IN BUTTE COUNTY GRANT'; index (stamped p39) heads the case 'Four leagues in Butte County'. Register's descriptive 'unnamed tract (4 square leagues)' matches: grant translation stamped p17, condition 3: 'The tract hereby granted is purely four Square leagues of Land (cuatro sitios de ganado mayor)'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish grant, stamped p16: 'Dado en la ciudad de las Angeles... a doce de Junio de mil ochocientos cuarenta y seis'; translation stamped p18: 'Given in the City of Angeles... the 12th day of June 1846'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, stamped p16: 'Pio Pico Gobernador Constitucional del Departamento de Californias', signed 'Pio Pico. Jose Mathias Moreno'; translation stamped p17: 'Pio Pico Constitutional Governor of the Department of the Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped p17: 'Whereas Maximo and Dionisio Zenon Fernandez Mexican citizens by birth... I have resolved... to grant them the aforementioned tract hereby declaring them the proprietors thereof'. Register 'Dionisio and Maximo Fernandez' = same two grantees. Note: the Spanish original (stamped p16) and the red label write the surname 'Hernandez'; the file alternates Fernandez/Hernandez throughout."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 377 NORTHERN DISTRICT'; every leaf stamped '377 ND'; PDF filename cubanc_lcf_nd377.pdf. Commission docket was No. 109 (stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comr. Farwell 'Confirmed', filed 17 July 1855 (stamped p21) + Decree of Confirmation (stamped p22). On US appeal the District Court, Stated Term 2 March 1857 (stamped pp31-32, Ogden Hoffman US Dist Judge): 'the said decision be and the same is hereby in all things affirmed... the said claim... is hereby confirmed to the extent and quantity of four square leagues'. Order of 9 March 1857 (stamped p34) gave leave to proceed 'as under Final Decree' after AG dropped further appeal (AG letter 9 Jan 1857, stamped p36). Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register glo_patent_no '15' not checkable here: no patent copy in the file (Phase C checks GLO). Grantees conveyed an undivided 2/3 to Josiah Belden and William R. Basham, 16 Aug 1850 (deed stamped p19), which is why claimants = Fernandez brothers + Belden + Basham. hoffman_flag 'name-mismatch' resolved: Hoffman lists no rancho name because the grant has none."
+ },
+ {
+  "id": "u-134",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267590/files/cubanc_lcf_sd249.pdf",
+  "pdf_pages_stated": 44,
+  "pages_read": [
+   "images 1-30 (label; stamped pp.1-23)",
+   "images 34-53 (stamped pp.27-44)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'VALLE DE LAS VIEJAS GRANT'; transcript title (stamped p1) 'Valle de las Viejas'. The grant's full name is 'Valle de las Viejas y Mesa del Arroz' (title translation stamped p22, Board opinion stamped p30); register's short form matches the file's own head-name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original grant, stamped p21: 'Dado en la Ciudad de los Angeles... a primero de Mayo de mil ochocientos cuarenta y seis'; translation stamped p23-24: 'Given at the City of Los Angeles... May 1st 1846'. Departmental Assembly approved 10 June 1846 (stamped p19)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, stamped p20: 'Pio Pico Gobernador Constitucional del departamento de las Californias', signed 'Pio Pico' (stamped p21); translation stamped p22."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant (stamped p20, translation p22) names TWO grantees: 'los Ciudadanos Ramon y Leandro Osuna' / 'the Citizens Ramon and Leandro Asuna... brothers'. Register 'Ramon Asuna et al' is the right entity but leaves the co-grantee brother Leandro unnamed; surname is Osuna in the Spanish original, 'Asuna' only in the file's English translation (stamped p16, p22)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 249 SOUTHERN DISTRICT'; every leaf stamped '249 SD'; PDF filename cubanc_lcf_sd249.pdf. Commission docket was No. 484 (stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comr. Felch (stamped p30): 'No title therefore is established in the alleged original grantees... An adverse decree must be entered - Rejected', decree (stamped p31) 'the claim of the said petitioners is not valid... their application for a Confirmation thereof be denied', filed 26 Dec 1854. Claimants' appeal DISMISSED by the District Court 11 Feb 1856 for failure to file notice of intention (order stamped p34, recited stamped p41). Register 'Rejected' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "File ends with Jose Antonio Aguirre's Dec 1858 petition to reinstate the dismissed appeal (stamped pp.38-44, filed 10 Dec 1858, taken under advisement stamped p36); no order granting reinstatement appears in the file, so the rejection/dismissal stands as far as the record shows. hoffman_flag 'docket-not-found-in-hoffman' consistent with a claim dead before 1862. Claimants Williams/Robinson/Aguirre were purchasers from the Osuna grantees (deeds stamped pp.24-29)."
+ },
+ {
+  "id": "u-14",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269005/files/cubanc_lcf_sd386.pdf",
+  "pdf_pages_stated": 205,
+  "pages_read": [
+   "images 1-20 (label; stamped pp.1-7)",
+   "images 196-233 (stamped pp.170-205)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'LOS ANGELES PUEBLO LANDS GRANT, CITY OF LOS ANGELES CLAIMANT'; transcript title (stamped p1) 'Pueblo Lands'. Register 'Pueblo de los Angeles' matches the entity; petition (stamped p4) claims for 'the Pueblo de la Nuestra Senora la Reina de los Angeles'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition, stamped p4: 'in the year 1781, Governor Phelipe de Neve, Commandant General of the Internal Provinces of the West gave formal directions... for the foundation of the Pueblo'; same recital in the District Court petition, stamped p179 ('in the year 1781 Governor Felipe de Neve... gave formal directions for the foundation'), with formal possession given to settlers 4 Sept 1786 under Gov. Fages."
+   },
+   "governor": {
+    "grade": "NA",
+    "evidence": "Register blank. For the record: the file attributes the founding directions to Governor Felipe de Neve, 1781 (stamped p4, p179); there is no single granting governor for a Spanish pueblo foundation."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The claim is for the pueblo's common lands; petitioners are 'the Mayor and Common Council of the City of Los Angeles' as legal successor 'to all the rights, claims and powers of the Pueblo de los Angeles in regard to property' (stamped p4, p180). Register 'Pueblo de los Angeles' correctly names the original grantee entity."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 386 SOUTHERN DISTRICT'; District Court docket No. 386, Transcript (Commission) No. 422 (stamped p179, p187); PDF filename cubanc_lcf_sd386.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, filed 5 Feb 1856 (stamped p172): claim valid for FOUR square leagues centered on the Plaza, 'as to the remaining portion... rejected'. Both sides appealed; AG letter 23 Feb 1857 (stamped p199, p203): 'Appeal will not be prosecuted by the United States'; City ordinance 25 May 1857 dismissed its own appeal (stamped p197-98). District Court order filed 2 Feb 1858 (stamped p201, Isaac S.K. Ogier): 'the appeals of both parties... are dismissed; and that the Claimants may proceed under the said Decision as under a final decree.' Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Confirmation is for 4 square leagues (the Board rejected the 16-sq-league claim in part, stamped pp.170-172); register's patent_acres 17,172.37 is consistent with 4 sq leagues. Patent documents not in file; Phase C checks GLO. hoffman '16 square leagues' name-mismatch resolved: that is Hoffman's descriptive head for the same case (comm. 422 / court 386). Curator note (image 2): stamped page 83 missing from the volume. Middle of transcript (founding documents exhibits A-F, testimony) not read; grades rest on petition recitals + decrees, which state year and entity consistently."
+ },
+ {
+  "id": "u-21",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267583/files/cubanc_lcf_sd242.pdf",
+  "pdf_pages_stated": 140,
+  "pages_read": [
+   "images 1-16 (label; stamped pp.1-7)",
+   "images 160-195 (stamped pp.105-140)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'MUNICIPAL LANDS GRANT \"SANTA BARBARA\", MAYOR AND COMMON COUNCIL OF SANTA BARBARA CLAIMANT'; petition (stamped p3): 'this Presidio settlement was organised into a Pueblo or Municipality'. Register 'Pueblo of Santa Barbara' names the same entity; the file's head-name is 'Municipal Lands'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition, stamped p3: 'in the year 1782, the Spanish Government established the Presidio or Post of Santa Barbara, where the City of that name now is'."
+   },
+   "governor": {
+    "grade": "NA",
+    "evidence": "Register blank; there is no granting governor for a presidio/pueblo foundation claim. The file rests title on the 1782 Spanish establishment plus municipal organization (petition stamped p3)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Claim is the pueblo's: petitioners 'the Mayor & Common Council of the City of Santa Barbara' as successor of the municipality whose lands were 'for time immemorial... recognised by the former Governments of this Country as the property of this Municipality' (stamped p3). Register 'Pueblo of Santa Barbara' correct."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Front label 'CASE No. 242 SOUTHERN DISTRICT'; every leaf stamped '242 SD'; PDF filename cubanc_lcf_sd242.pdf. Commission docket was No. 543 (stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED 1 Aug 1854 (opinion by Felch + decree, stamped p6: 'the claim of the said Petitioners is not valid'). On appeal the District Court REVERSED and CONFIRMED, 6 March 1861 (stamped pp.120-121, Isaac S.K. Ogier: 'there is error in said decision... set aside and reversed, and that the claim of the appellants be held as good and valid and is hereby confirmed... containing four leagues'). US appeal to the Supreme Court dismissed twice (mandates Dec Term 1862, stamped p131, and Dec Term 1863 'with the consent of Mr Attorney General Bates... this cause be and the same is hereby dismissed', stamped p135); District Court then ordered claimants 'allowed to proceed under the Decree heretofore rendered... as a final decree' (stamped p137, Ogden Hoffman). Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Confirmation is for FOUR leagues bounded Carpinteria arroyo / seashore / Dos Pueblos / the Sierra (stamped p121); register patent_acres 17,826.17 is consistent with 4 sq leagues. No patent copy in file; Phase C checks GLO. hoffman '8J- square leagues' head is an OCR-garbled descriptive name for the same case (comm. 543 / court 242); Hoffman 'confirmed' agrees with the file. Middle of file (stamped pp.8-104, expediente translation and municipal records) only sampled; grant-era grades rest on the petition recital, which no other read page contradicts."
+ },
+ {
+  "id": "u-26",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256643/files/cubanc_lcf_nd314.pdf",
+  "pdf_pages_stated": 171,
+  "pages_read": [
+   "images 1-30 (label; stamped pp.1-10)",
+   "images 40-58 (stamped pp.32-48)",
+   "images 162-181 (stamped pp.152-171, end of file)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "File consistently reads 'Buacocha': p1 red label 'BUACOCHA GRANT'; transcript title (stamped p1) 'for the place named \"Buacocha\"'; secretary's certificate (stamped p35) and deeds (stamped p38, p42) 'Buococha'; deeds also give aliases 'Talenqueche or Guadalupe' (stamped p39). Register 'Bnacocha' is a u/n misreading not found anywhere in the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion (stamped p32): 'the said Governor on the 18th day of February 1846 entered the following order \"Let the title deed to secure the Ownership to the interested party be issued\"... the said title was never issued'; petition (stamped p5) same date. 1846 correct, though it is the date of Pico's concession order, a formal title never having issued."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition (stamped p5): 'Pio Pico, by virtue of his authority as Constitutional Governor of California, declared your petitioner the Lawful owner of said Land on the 18th of February 1846'; Board opinion (stamped p32) attributes the order to Governor Pio Pico."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Register 'M. T. Peralta' = Maria Teodora Peralta, the party in whose favor Pico's 18 Feb 1846 order ran: red label 'MARIA TEODORA PERALTA CLAIMANT'; petition (stamped p5) 'The petition of Maria Teodora Peralta... soliciting for herself the grant'; certificate (stamped p35). She died Nov 1850; her heirs were substituted (amended petition stamped pp.7-9)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 314 NORTHERN DISTRICT'; every leaf stamped '314 ND'; PDF filename cubanc_lcf_nd314.pdf. Commission docket was No. 648 (transcript title stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comr. Farwell (stamped p33): 'in the absence of the issue of the grant, and a Segregation of the Land we are unable to come to but the One Conclusion, that this claim must be rejected' (Rejected), filed 3 April 1855; decree (stamped p34): 'the claim of the said petitioner is not valid, and it is therefore decreed that their application for a confirmation thereof be denied.' Heirs filed notice of appeal (stamped p43, April 1856) and a petition on appeal (stamped pp.45-47), but no District Court decree of reversal or confirmation appears anywhere in the pages read, and the file ends with 1857 interrogatories and heirs' deeds (through stamped p171). Register 'Rejected' matches the only decision in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Buacocha (also written Buococha; aliases Talenqueche or Guadalupe), per red label and transcript title stamped p1; register's 'Bnacocha' appears nowhere in the file"
+  },
+  "notes": "hoffman_flag 'docket-not-found-in-hoffman' consistent with a claim dead before 1862 (Board rejection 1855, appeal apparently never decided in claimants' favor). Middle of file (stamped pp.49-151, mostly depositions/interrogatories) unread; a hidden District Court decree there is unlikely but not impossible. Rancho was a sobrante in Marin County bounded by Feliz, Miranda, Bojorques and Camilo ranchos (deed stamped p45)."
+ },
+ {
+  "id": "u-27",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264195/files/cubanc_lcf_nd358.pdf",
+  "pdf_pages_stated": 308,
+  "pages_read": [
+   "images 1-49 (label; stamped pp.1-41)",
+   "images 303-322 (stamped pp.288-308, end of file)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'FLUGGE,S RANCHO OR BOGA GRANT, THOMAS O. LARKIN CLAIMANT'; transcript title (stamped p1) 'for the place named \"Flugge's Rancho\" or \"Boga\"'. The expediente wrapper (stamped p34) heads the grant 'Rio de las Plumas', Numero 349, a\u00f1o 1844."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Original grant (Exhibit No.1, stamped p31): 'Dado en Monterrey a veintiuno de Febrero de mil ocho cientos cuarenta y cuatro'; translation (stamped p33): 'Given in Monterey this twenty first day of February one thousand Eight hundred and forty four.' Departmental Assembly approval 13 June 1845 (stamped p38; petition stamped p5)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading (stamped p30): 'El Ciudadano Manuel Micheltorena General de Brigada Mejicano... Gobernador Comandante General e Inspector del departamento de Californias', signed 'Manl Michelta, Manl Jimeno Srio' (stamped p31); translation stamped pp.32-33."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant (stamped p30, translation p32): 'Whereas Charles William Flugge Mexican by Naturalization has petitioned for his personal benefit for a tract of land consisting of five Sitios of ganada Mayor... called Boga... I have come to the conclusion to grant unto the petitioner the above mentioned lands.' Register 'Charles William Flugge' exact. Flugge conveyed to claimant Thomas O. Larkin 21 Jan 1847 (petition stamped p5; Howard deposition stamped p11)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 358 NORTHERN DISTRICT'; every leaf stamped '358 ND'; PDF filename cubanc_lcf_nd358.pdf. Commission docket was No. 129 (transcript title stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Comr. Farwell confirming the claim, 19 July 1855 (proceedings stamped p4). District Court FINAL DECREE 15 Jan 1863 (stamped pp.292-293, Ogden Hoffman): survey plat of 22,184.61 acres 'approved and confirmed... the land now finally confirmed to the said Thomas O. Larkin'. US appeal to the Supreme Court DISMISSED, Dec Term 1864, on motion of Attorney General Speed (mandate stamped p299, witness Salmon P. Chase); District Court 26 June 1865 (stamped p301): mandate filed and 'Decree of Jan. 15th 1863 do stand finally confirmed' (wrapper stamped p302). Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register patent_date Oct 5 1865 (no. 18) is plausible given finality June 1865, but no patent copy is in the file; Phase C checks GLO. Middle of file (stamped pp.42-287: survey-contest testimony 1859-62 over the location) skimmed via decrees only; grant grades rest on the original grant + sworn translation. Cross-note for the auditors: this grant (Flugge, 5 sitios, 21 Feb 1844, expediente 'Rio de las Plumas' No. 349) is the same expediente family as case ND 259 (register u-116, 'Rio de las Plumas', rejected), which looks like a rival/duplicate claim on the same concession; worth a Phase C reconciliation."
  }
 ]

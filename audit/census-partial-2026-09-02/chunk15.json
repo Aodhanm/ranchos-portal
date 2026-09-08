@@ -204,5 +204,172 @@
    "grantee": "Jose Francisco (Joseph Francis) Snook per Board decree p61; register's Berry is the 1836 grantee of the surrounding tract (grant by Gutierrez, petition p5)"
   },
   "notes": "Hoffman 1862 prints the same hybrid row (1836/Alvarado/Berry) the register carries, so Hoffman agrees with the register AGAINST the case file - the decree governs. Randall was dead by summer 1856; Shafter affidavit p69 (June 1859): lands sold on execution to McMillan, conveyed 6 May 1857 to Heydenfeldt, O.L. Shafter, J.McM. Shafter, T.W. Park, who were substituted as parties (p70-72). No patent copy in file; register patent (4 June 1860, no. 33) left to Phase C."
+ },
+ {
+  "id": "rancho-ranchita-santa-fe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266052/files/cubanc_lcf_sd011.pdf",
+  "pdf_pages_stated": 60,
+  "pages_read": [
+   "images 1-30 (stamped pp.1-22)",
+   "images 52-70 (stamped pp.42-60)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Red label (image 1): 'MISSION OF SAN LUIS OBISPO GRANT'; transcript title stamped p.1: 'for the place named Mission of San Luis Obispo'. The name 'Ranchita de Santa Fe' appears nowhere in the ~49 pages read; the case file never names the tract that way (it is the 1000-varas-square Linares tract near the mission). Same tract, but the register uses a name the case file does not."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p.10 (Spanish): 'Monterrey septiembre 18 de 1842... se concede a Dn Victor Linares las mil varas de tierra demarcadas en el diseno adjunto'; sworn translation stamped p.17: 'Monterey September 18 1842... the thousand varas of land shown on the annexed map are granted to Don Victor Linares'; District Court decree stamped p.53: 'granted on the 18th day of September A.D. 1842 to Victor Linares'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession signed 'Alvarado' (stamped p.10 Spanish; p.17 translation '(Signed) Alvarado'); Commission opinion stamped p.21: 'a grant, made by Governor Alvarado, on the 18 September 1842'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree stamped pp.10/17 names Don Victor Linares as grantee; DC decree p.53 same. Claimant and grantee are the same person here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label: 'CASE No. 11 SOUTHERN DISTRICT'; every stamped page reads '11 SD'; PDF filename cubanc_lcf_sd011.pdf. (Commission docket was No. 39, court docket 11 SD.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission final decree of confirmation 14 Mar 1853 (minutes stamped p.3); District Court decree, Dec. Term 1856 (stamped pp.51-53), Board decision 'hereby affirmed' and claim of Micaela Linares executrix/widow and children 'hereby confirmed'; order June Term 1857 (stamped p.49) vacating the Supreme Court appeal and making the decree final. Register 'Confirmed' matches. No patent copy in file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Hoffman flag was name-mismatch: Hoffman's rancho column is garbled ('1'); Hoffman agrees with the file on year/governor/grantee/confirmed. Register patent_to 'Michaela Linares et al' is consistent with the DC decree parties (Micaela Linares executrix + five named children, stamped p.51), though patent itself is a Phase C check. File is 70 PDF images vs 60 stamped transcript pages."
+ },
+ {
+  "id": "rancho-san-antonio-5",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264410/files/cubanc_lcf_nd021.pdf",
+  "pdf_pages_stated": 217,
+  "pages_read": [
+   "images 1-38 (stamped pp.1-33: label, minutes, expediente exhibits, Micheltorena title, Luis Peralta will)",
+   "images 198-209 (stamped pp.180-188: Board opinion + certification)",
+   "images 210-221 (stamped pp.189-195)",
+   "images 222-238 (stamped pp.196-204: decrees Nos. 273/274 + stipulation)",
+   "images 238-255 (stamped pp.205-217: certifications, notice of appeal, 1854 DC depositions, back cover)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'PART of SAN ANTONIO GRANT / DOMINGO PERALTA AND VINCENTE PERALTA CLAIMANT'; DC caption stamped p.209: 'Vicente & Domingo Peralta vs The United States'. Register 'San Antonio (V. And D. Peralta)' matches."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sola's decree, Mision de la Soledad 3 Agosto 1820 (stamped p.16), ordering possession to Sgt. Luis Peralta; juridical possession at San Leandro 16 Agosto 1820 (p.18); petitions in Nos. 273/274 (stamped pp.191, 200): land 'was on the third day of August in the year 1820... granted to... the late Don Luis Peralta... by the then Governor of California Don Pablo Vicente de Sola'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "All three register governors appear as granting/confirming authorities in the file: Sola's 1820 concession (stamped pp.16-22, incl. his 18 Oct 1822 justificante); the Board opinion (stamped pp.181, 184) rests the claim on 'the grant of Gov Sola and the Concession and Order of Survey of Gov. Arguello' ('the land was restored to Peralta by the Decree of Arguello', p.181); Micheltorena's new title, Monterey 13 Feb 1844 (stamped pp.28-29): 'Expidase el titulo... Micheltorena' and decree declaring 'D. Luis Peralta dueno en propiedad del dicho terreno'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Every grant instrument in the file runs to LUIS PERALTA, the father: Sola 1820 possession 'puse en posesion... al nombrado Luis Peralta' (stamped p.18); Micheltorena 13 Feb 1844 title declares 'D. Luis Peralta dueno en propiedad' (p.28); petitions pp.191/200: granted 1820 'to the father of this petitioner the late Don Luis Peralta'. Vicente and Domingo Peralta are the U.S.-era CLAIMANTS of the northern part (by their father's division and his will, exhibit M stamped pp.31-33), not the grantees. This is the dominant claimant-for-grantee error class."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 21 NORTHERN DISTRICT'; every stamped page reads '21 ND'; PDF filename cubanc_lcf_nd021.pdf; DC caption p.209 'No 21 Being an appeal from the US board... in Case No 4 on the docket of said Board'."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board opinion in Case No. 4, filed 7 Feb 1854 (stamped pp.180-187): 'the Claimants are entitled to a confirmation to the whole extent of the land claimed by them, from the Creek of San Leandro to the Arroyo... along the base of the Cerritos... of San Antonio or San Pablo'. But the claimants themselves appealed (notice of appeal 23 Mar 1854, stamped pp.207-208) and the transcript ends at p.217 with 1854 District Court depositions; NO District Court final decree is in this file. Commission confirmation verified; final confirmation and patent (register: Feb. 10, 1877) not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Luis Peralta (original grantee, Sola grant 3/16 Aug 1820 and Micheltorena title 13 Feb 1844, stamped pp.16-18, 28-29); Vicente and Domingo Peralta were the claimants of the northern portion"
+  },
+  "notes": "Commission docket was No. 4 (originally all four Peralta brothers; Ignacio and Antonio struck out 14 Aug 1852 to separate petitions Nos. 273/274, order copied at stamped p.192) -> explains hoffman docket-not-found flag. The bound volume also contains the full transcripts of Nos. 273 (Antonio, decree p.196) and 274 (Ignacio, decree p.202), both confirmed 7 Feb 1854 with the four-brother partition stipulation (pp.196-197, 203-204) describing Domingo as owner of 'the Northern portion of the Rancho'. Register year 1820 is the original grant; era tag 'micheltorena' reflects the 1844 re-title. 255 PDF images vs 217 stamped pages."
+ },
+ {
+  "id": "rancho-san-francisco",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268929/files/cubanc_lcf_sd303.pdf",
+  "pdf_pages_stated": 100,
+  "pages_read": [
+   "images 1-15 (stamped pp.1-9: label, minutes, petition, de la Guerra + Covarrubias depositions)",
+   "images 84-112 (stamped pp.74-100: Board opinion, decree of confirmation, DC appeal papers, dismissal order)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'SAN FRANCISCO GRANT / JACOBA FELIS CLAIMANT'; transcript title stamped p.1: 'for the place named San Francisco'; Board opinion p.74: 'the Rancho was known by the name of San Francisco many years before the Grant to del Valle'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn petition, stamped p.5: 'Said land was granted to Don Antonio del Valle on the 22nd of January 1839 by Don Juan B Alvarado Governor ad interim of the Department of California'; Covarrubias deposition p.8: 'In 1839 the Governor Juan B Alvarado being in Santa Barbara he issued the title or document aforesaid'. (Board opinion p.74 notes the original expediente could not be found; grant proved by secondary evidence.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition p.5: granted 'by Don Juan B Alvarado Governor ad interim'; Covarrubias deposition pp.7-8 authenticates Alvarado's signature on the title document, 1839."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Original grantee = ANTONIO DEL VALLE: petition p.5 'Said land was granted to Don Antonio del Valle... Said Grantee died intestate on the 1st day of June AD 1841 whereby said land descended... to said Jacoba Felis as the widow'; Board decree of confirmation p.77: 'is the same granted to and formerly occupied by said Antonio del Valle'. Jacoba Feliz is the widow/claimant, not the grantee. Dominant claimant-for-grantee error class."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 303 SOUTHERN DISTRICT'; every stamped page reads '303 SD'; PDF filename cubanc_lcf_sd303.pdf. Commission docket was No. 318."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation filed 2 Jan 1855 (stamped pp.75-77, Felch/Thompson/Farwell) confirming to the widow and heirs of the deceased grantee; US petition for review filed 10 Dec 1855 (pp.81-84); DC order, Monterey June Term 1857, Judge Ogier (p.95): 'the appeal in said cause be dismissed; & that the claimant have leave to proceed upon the decree of the commissioners heretofore rendered as a final decree'. Register 'Confirmed' verified. No patent copy in file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Antonio del Valle (grant 22 Jan 1839 by Alvarado; petition stamped p.5, decree p.77); Jacoba Feliz was his widow and the U.S.-era claimant"
+  },
+  "notes": "Hoffman docket-not-found flag explained: Commission docket 318, court docket 303 SD. Original expediente lost by 1850s (Board opinion p.74); grant established by traced map + testimony. 112 PDF images vs 100 stamped pages."
+ },
+ {
+  "id": "rancho-san-gabriel-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267522/files/cubanc_lcf_sd094.pdf",
+  "pdf_pages_stated": 41,
+  "pages_read": [
+   "images 1-30 (stamped pp.1-24: label, minutes, petition, Reid deposition, grant + translation, possession, opinion, decree, DC petition)",
+   "images 31-47 (stamped pp.25-41: US grounds, answer, DC decree, SC appeal order, AG letter)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'A LOT OF GROUND AT SAN GABRIEL GRANT / FRANCISCO SALE CLAIMANT'; DC decree stamped p.32 caption: 'Lot in Ex-Mission of San Gabriel'. Register's short name 'San Gabriel' matches the place designation. (Hoffman's name-mismatch flag is an artifact: his rancho column holds the dimensions '50 by 250 varas'.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant (Spanish, stamped p.8): 'Dado en los Angeles a diez y ocho de Abril de mil ochocientos cuarenta y cinco. Pio Pico'; translation p.11: 'Given at Los Angeles on the 18th day of April one thousand eight hundred and forty five'; Board opinion p.12: 'The grant is dated on the 18th of April 1845, and the certificate of the possession on the 3d of May 1845'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant p.8: 'El ciudadano Pio Pico primer vocal de la Exma Asamblea y Gobernador interino del Departamento de Californias', signed Pio Pico, Juan Bandini Secretary (translation p.10: 'Pio Pico Senior Member of the Most Excellent the Assembly and Governor ad interim')."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant pp.8/10: grant runs to 'Francisco Sales de la Mision de Sn Gabriel' himself; he is also the claimant. Register 'F. Sales' matches. Juridical possession to him 3 May 1845 by Hugo Reid, auxiliary justice (pp.9/11)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 94 SOUTHERN DISTRICT'; stamped pages '94 SD'; PDF filename cubanc_lcf_sd094.pdf. Commission docket 448."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion p.13: 'The claim is confirmed', filed 17 Jan 1854; decree of confirmation p.14 (Felch, Campbell, Thompson); DC decree, stamped pp.32-33 (filed 21 Feb 1856, Judge Ogier): Board decision 'hereby is affirmed... the claim of the above named Appellee is good and valid, and the same is hereby confirmed to him'; US Supreme Court appeal granted Dec Term 1855 (p.34) but abandoned: AG letter 4 Oct 1856 (p.38) 'appeal in the Supreme Court will not be prosecuted by the United States'. Register 'Confirmed' verified. No patent in file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Tract = 350 x 250 varas NW of Mission San Gabriel, between the mission and Perfecto Hugo Reid's garden. Hoffman agrees on year/governor/grantee/confirmed. 47 PDF images vs 41 stamped pages."
  }
 ]

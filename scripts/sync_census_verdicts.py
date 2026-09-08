@@ -7,7 +7,7 @@ one. Refuses to shrink a chunk: a repo file is replaced only when the scratchpad
 holds a superset of its ids, so a half-written or truncated in-flight file can
 never overwrite good graded work.
 
-Usage: python3 scripts/sync_census_verdicts.py [scratchpad_verdicts_dir]
+Usage: python3 scripts/sync_census_verdicts.py [src_verdicts_dir] [repo_dest_dir]
 """
 import json
 import shutil
@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-DEST = REPO / "audit" / "census-partial-2026-09-02"
+DEFAULT_DEST = REPO / "audit" / "census-partial-2026-09-02"
 DEFAULT_SRC = Path("/private/tmp/claude-501/-Users-aodhan/"
                    "cdabb158-80b3-425b-aca5-c0d859fed5b0/scratchpad/verdicts-B")
 
@@ -32,6 +32,7 @@ def ids(path):
 
 def main():
     src = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_SRC
+    DEST = Path(sys.argv[2]) if len(sys.argv) > 2 else DEFAULT_DEST
     if not src.is_dir():
         raise SystemExit(f"no such scratchpad dir: {src}")
     DEST.mkdir(parents=True, exist_ok=True)
@@ -58,8 +59,16 @@ def main():
         print(f"copy  {s.name}: {len(old)} -> {len(new)} graded")
         copied += 1
         total += len(new)
-    print(f"\n{copied} chunk(s) updated, {skipped} in flight, {held} held back; "
-          f"{total} records graded in the repo copy")
+    # The scratchpad gets pruned, so `total` above counts only the chunks still
+    # present there. The number that matters is the repo's own total; report that,
+    # or a pruned scratchpad reads as catastrophic data loss.
+    repo_total = 0
+    for d in sorted(REPO.glob("audit/census-*/chunk*.json")):
+        got = ids(d)
+        repo_total += len(got) if got else 0
+    print(f"\n{copied} chunk(s) updated, {skipped} in flight, {held} held back")
+    print(f"scratchpad carried {total} record(s) across {len(list(src.glob('chunk*.json')))} chunk file(s); "
+          f"THE REPO NOW HOLDS {repo_total} of 572 graded")
     return 1 if held else 0
 
 

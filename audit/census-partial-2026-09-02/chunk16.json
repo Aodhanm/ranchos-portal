@@ -167,5 +167,210 @@
   },
   "corrections": {},
   "notes": "Register 'Patented' conceals a violent history: rejection 1855, rejection affirmed 1864 (Field), then reversal of fortune with the 1882 Hoffman confirmation decree naming Emery, Spaulding (admr of Abner Bassett) and Mary Ann Bassett as successors in interest of Jose Castro. This matches the register's 1888 patent to 'Joseph S. Emery and Nathan W. Spaulding, administrators'. The exact grant day differs between petition (Apr 14 1839) and 1882 decree (Apr 16 1839); register carries only the year so no flag. Trap pattern: outcome graded only after finding the LAST decree in the volume, not the Board's."
+ },
+ {
+  "id": "rancho-san-jose-valle",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268900/files/cubanc_lcf_sd218.pdf",
+  "pdf_pages_stated": 100,
+  "pages_read": [
+   "1-30 (stamped pp.1-26)",
+   "88-105 (stamped pp.83-100)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'VALLE DESAN JOSE Y AGUAS CALIENTES GRANT'; DC survey caption stamped p85/p100: 'San Jose del Valle sometimes called Warner's Ranch'. Register 'San Jose Del Valle' matches the District Court-era name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Expediente: Warner petition 'Monterrey a los 30 dias de Agosto de 1844' (stamped p24); Jimeno informe 'Monterey Setiembre 2 de 1844' with Micheltorena decree 'Espidasele el titulo' and 'Monterrey 27 de Nbre de 1844... declaro a D. Juan Warner dueno del terreno que solicita' (stamped p25)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree signed 'Michelt.a' following Jimeno's informe of 2 Sept 1844, and 27 Nov 1844 order declaring Warner owner (stamped p25)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Stamped p25: 'declaro a D. Juan Warner dueno del terreno que solicita'; petition signed 'Juan Jose Warner' (stamped p24). Grantee = claimant here (Warner solicited the grant himself in 1844)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red cover label 'CASE No. 218 SOUTHERN DISTRICT' (image 1); every leaf stamped '218 SD'; filename cubanc_lcf_sd218.pdf. Commission docket was No. 254 (transcript title, stamped p1); DC No. 218 (stamped p92: 'L.C. No. 254 / D.C. No. 218')."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming the claim delivered 10 Oct 1854 (stamped p5); AG letter 29 Sept 1856 (stamped p83): 'confirmed to the claimant by the Commissioners... and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Two Mexican grants inside one case: Agua Caliente granted 8 Jun 1840 to Jose Antonio Pico by Alvarado, and Valle de San Jose granted 1844 by Micheltorena to Warner (petition, stamped p6); register keys on the 1844 Warner grant, which the expediente supports. Surveyor-General cert 20 Mar 1879 (stamped p98): plat transmitted to Washington for patent under Act of 1 Jul 1864 - consistent with the register's Jan 16 1880 patent but no patent copy in file (Phase C checks GLO). Commission docket 254 explains hoffman docket-not-found flag."
+ },
+ {
+  "id": "rancho-san-juan-bautista",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264400/files/cubanc_lcf_nd007.pdf",
+  "pdf_pages_stated": 360,
+  "pages_read": [
+   "1-30 (stamped pp.1-22)",
+   "350-371 (stamped pp.342-360)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Image 1 red label: 'SAN JUAN BAUTISTA GRANT'; expediente cover (stamped p15): 'en Solicitud del terreno nombrado San Juan Bautista'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree in expediente, stamped pp21-22: 'Monterrey Mzo 23 de 1844 Conf.e Michelt.a' then 'Monterrey Marzo 30 de 1844 ... declaro a D. Agustin Narvaez dueno en propiedad del paraje conocido con el nombre de San Juan Bta ... en estension de dos Sitios de ganado mayor'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Formal titulo, stamped p22: 'El Ciudadano Manuel Micheltorena, General de Brigada del Ejercito Mejicano ... Gobernador, Comandante General e Inspector del Departamento de las Californias ... he venido en concederle el terreno mencionado'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p22: 'declaro a D. Agustin Narvaez dueno en propiedad'; titulo: 'el Ciudadano Agustin Narvaez'. Register's 'J. A. Narvaez' = Jose Agustin Narvaez, same person; the decree itself writes only 'Agustin Narvaez'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red cover label 'CASE NO 7 NORTHERN DISTRICT' (image 1); printed DC notice stamped p357: 'Dist. Court No. 7, Land Com. No. 75'; filename cubanc_lcf_nd007.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED 15 Nov 1853 (chronological index, stamped p3: 'Commissioner Alpheus Felch delivered the opinion of the Board rejecting the claim'); District Court decree, stamped p349: 'the said decision of the said Commissioners is hereby reversed, annulled and set aside ... the Claim of the Appellant Augustin Narvaez be, and the same is hereby confirmed and adjudged to be a good and valid claim to the extent of two square leagues (or sitios de ganado mayor) and for no more' - M. Hall McAllister, Circuit Judge; Ogden Hoffman Jr., U.S. Dist. Judge."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register's bare 'Confirmed' hides a Commission rejection reversed by the District Court - final outcome is still Confirmed, so grade OK. Commission docket 75 explains the hoffman docket-not-found flag. Grant limited to two square leagues within a larger tract Narvaez occupied; he had sold the surplus to Vanderslice & Clarkson in 1850 (their supplemental petition, stamped p7). No patent copy seen in pages read."
+ },
+ {
+  "id": "rancho-san-miguelito-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266059/files/cubanc_lcf_sd018.pdf",
+  "pdf_pages_stated": 115,
+  "pages_read": [
+   "1-30 (stamped pp.1-24)",
+   "108-127 (stamped pp.96-115)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Image 1 red label: 'RANCHO DE SAN MIGUELITO DE TRINIDAD GRANT'; expediente cover stamped p14: 'en solicitud del parage conocido con el nombre de San Miguelito'. Register short form 'San Miguelito' matches."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Concession decree, stamped p16: 'Monterrey 24 de Julio de 1841. Vista la peticion... declaro a Dn Jose Rafael Gonzalez dueno en propiedad del parage conocido con el nombre de San Miguelito... en estension de cinco Sitios de ganado mayor' (p17); expediente cover stamped p14: 'San Miguelito ano de 1841'; petition dated 'Monterrey, Mayo primero de mil ochocientos cuarenta y uno' (stamped p15). Register says 1839; the grant is 1841."
+   },
+   "governor": {
+    "grade": "PART",
+    "evidence": "Grant made by Alvarado alone: decree closing 'El Senor Dn Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias asi lo mando, decreto y firmo' (stamped p17); titulo 'Juan B. Alvarado, Gobernador Constitucional...' (stamped p20). Register's 'Jimeno; Alvarado' wrongly adds Jimeno, who appears in the expediente only in the stamped-paper habilitations ('Jimeno / Antonio Maria Osio', stamped pp13,15) - never as granting governor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p16: 'declaro a Dn Jose Rafael Gonzalez dueno en propiedad'; titulo stamped p20: 'Por cuanto Dn Jose Rafael Gonzalez, Mejicano por nacimiento...'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE NO. 18 SOUTHERN DISTRICT' (image 1); leaves stamped '18 SD'; filename cubanc_lcf_sd018.pdf; Commission docket 27 (transcript stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board 'Opinion and the Decree of Final Confirmation' 1 Mar 1853 (chronological index, stamped p3); AG letter 4 Sept 1856, stamped p104: 'confirmed to the claimant by the Commissioners, Case no. twenty-seven (27), and also confirmed on appeal by the District Court, - appeal in the Supreme Court will not be prosecuted by the United States'; DC order making its decree final, Ogier J. (stamped pp99-100)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1841 per concession decree stamped p16: 'Monterrey 24 de Julio de 1841... declaro a Dn Jose Rafael Gonzalez dueno en propiedad'",
+   "governor": "Alvarado (sole granting governor per decree stamped p17 and titulo p20); drop Jimeno"
+  },
+  "notes": "Jose Rafael Gonzalez sold the rancho to his son Mauricio Gonzales 17 Sept 1853 (escritura, stamped pp108-109); DC substituted Mauricio as claimant (stamped p97), matching register patent_to 'Mauricio Gonzales'. SG certificate of survey approved 3 Sept 1859, certified 1867 (stamped p112); no patent copy in file. Commission docket 27 explains hoffman docket-not-found flag."
+ },
+ {
+  "id": "rancho-santa-teresa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265540/files/cubanc_lcf_nd181.pdf",
+  "pdf_pages_stated": 257,
+  "pages_read": [
+   "1-30 (stamped pp.1-22)",
+   "253-272 (stamped pp.238-257)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Image 1 red label: 'SANTA TERESA GRANT'; transcript title stamped p1: 'for the place named Santa Teresa'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "1834 throughout: A.M. Pico deposition, stamped p9: 'a grant from Govr. Figueroa to Joaquin Bernal dated July 11, 1834'; DC opinion, stamped p253: 'the title was issued to Bernal on the 11th July 1834'; expediente cover stamped p18: '1834 N 34 y 35'. (Claimants' Exceptions brief, stamped p243, says concession 10 June / titulo 11 June 1834 - month conflicts with the July date given by petition, Pico, and the DC opinion; year is 1834 in every source.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Exceptions to Survey, stamped p243: 'Governor Figueroa made a decree of concession in favor of the applicant'; Pico deposition stamped p9: 'a grant from Govr. Figueroa to Joaquin Bernal'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Original grantee was JOAQUIN BERNAL, the claimant's father: petition stamped p5 ('Jose Figueroa Governor... granted to the said Joaquin Bernal the said lands or Rancho of Santa Teresa'); Galindo deposition stamped p6 and Hernandez deposition stamped p10-11 both call him 'Joaquin Bernal the Original Grantee'; Pico stamped p9: 'Augustin Bernal is the son of Joaquin Bernal and acted as the heir of the family'. Register records the U.S.-era claimant Agustin Bernal instead of the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE NO. 181 NORTHERN DISTRICT' (image 1); leaves stamped '181 ND'; Commission docket 506 (transcript title stamped p1); filename cubanc_lcf_nd181.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion confirming the claim 5 Sept 1854 (chronological index, stamped p4); DC decree of confirmation (docket sheet stamped p257: 'Aug 11 Opinion + Decree Confirmation'); DC decree 31 Aug 1863 approving survey: '9,647 1/100 acres now finally confirmed to the said Agustin Bernal' (SC mandate, stamped pp239-240); US Supreme Court, Dec. term 1865: 'this cause be and the same is hereby dismissed' on the AG's own motion, 28 Dec (stamped p241)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Joaquin Bernal (father of claimant), per petition stamped p5 and depositions stamped pp6, 9, 10-11 ('Joaquin Bernal the Original Grantee'); Agustin Bernal was the claimant son/heir"
+  },
+  "notes": "Classic claimant-for-grantee error. Confirmed acreage 9,647 acres in the 1863 survey decree matches register patent_acres 9,647.13, and confirmation ran to Agustin Bernal, so register patent_to is plausible (Phase C checks GLO). File bundles TWO 1834 expedientes (N 34 y 35): La Laguna (Juan Alvirez) and Santa Teresa (Joaquin Bernal), stamped p18 - a wedge adjoining La Laguna was excluded in Alvirez's favor (p243). No patent copy seen."
+ },
+ {
+  "id": "rancho-suey",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266055/files/cubanc_lcf_sd014.pdf",
+  "pdf_pages_stated": 96,
+  "pages_read": [
+   "1-30 (stamped pp.1-22)",
+   "93-109 (stamped pp.81-96)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Image 1 red label: 'SUEY GRANT'; expediente cover stamped p7: 'Sobre el paraje nombrado Suey'; diseno stamped p83: 'Sitio de Suey'. (Hoffman's rancho column reads '5 square leagues', a size not a name - source of the name-mismatch flag; the case file confirms the register.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p11 (copy) and p81 (ORIGINAL): 'Barba Abl 6 de 1837 ... se declara a la Sta Da Ramona Carrillo duena en propiedad del terreno conocido con el nombre de Suey'; formal titulo dated 'Exmision de Sta Barba a 6 de Abril de 1837' (stamped pp14, 86); Diputacion approval 19 April 1837 (stamped pp15, 87)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree and titulo both by 'El Ciudno Juan B. Alvarado Gobernador interino del Estado y Presidente de la Exma. Diputacion' with autograph 'Juan B. Alvarado' on the original decree (stamped pp82, 84, 86)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p81: 'se declara a la Sta Da Ramona Carrillo duena en propiedad'; titulo stamped p84: 'Por cuanto Madama Ramona Carrillo Mejicana por nacimto'. Register 'Ramona Carrillo' is the grantee exactly as the decree writes her (full name Maria Ramona de la Luz Carrillo, petition stamped p8; she claimed later as Ramona Carrillo de Wilson)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE NO. 14 SOUTHERN DISTRICT' (image 1); leaves stamped '14 SD'; filename cubanc_lcf_sd014.pdf; Commission docket 41 (transcript title stamped p1; matches Hoffman commission_no 41, court_no 14)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board 'Opinion and Decree of final confirmation' 11 Apr 1853 (chronological index, stamped p3); DC decree affirming ('the title of the said Ramona Carrillo de Wilson to the said land is a good and valid one', capped at eleven square leagues), and US Supreme Court, Dec. term 1861, on motion of AG Bates: 'the decree of the said District Court in this cause be and the same is hereby affirmed' (mandate, stamped pp90-92, filed 9 Mar 1864)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "File contains the ORIGINAL 1837 expediente papers (orange leaves stamped pp81-87) plus the diseno (p83) - unusual and valuable. Survey/plat approved by SG 12 Mar 1864, publication certificate 8 May 1864 (stamped p93) - consistent with the register's Aug 10 1865 patent but no patent copy in file (Phase C checks GLO). All six fields verified clean."
  }
 ]

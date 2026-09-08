@@ -207,5 +207,175 @@
    "grantee": "Jose Santiago Estrada, per Sola's decree stamped PAGE 10; Malarin was attorney-claimant"
   },
   "notes": "1860 bill-of-review affidavits (stamped PAGES 38-50) show the confirmed SURVEY was located on the wrong (south) side of the Salinas River per the Estradas; Surveyor General certificate of publication (stamped PAGE 51, issued 27 Apr 1867) says rancho 'confirmed to M. Malarin', survey approved 19 Sept 1859. Register patent fields (patent 15 Sept 1869 to Malarin as attorney) are Phase C. Petition frames the 1822 Sola grant as 'granted under the Mexican Government' (stamped PAGE 4) even though Sola was the Spanish-appointed governor - era label 'spanish' is a judgment call, May 1822 is after Mexican independence."
+ },
+ {
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256637/files/cubanc_lcf_nd308.pdf",
+  "pdf_pages_stated": "433-Y pgs. per flyleaf (image 2); 471 PDF images",
+  "pages_read": [
+   "1-30",
+   "31-48"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'CANADA de HAMBRE GRANT'; Decree of Confirmation stamped p.35: 'known by the name of Canada del Hambre y Las Bolsas'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant translation Exhibit A.P.L., stamped p.30: 'Monterey the 14th of december of one thousand eight hundred & forty one' (Juan B. Alvarado); Decree of Confirmation stamped p.36: 'granted to said claimant by Governor Juan B. Alvarado on the 14th of december 1841'. The expediente's provisional-grant decree is 8 May 1842 (stamped p.29: 'let a provisional grant be issued to her... (Signed) Alvarado'). 1838 was the year her deceased husband Francisco/Guadalupe Barcenas got informal provisional occupancy (petition translation stamped p.27: 'about four years ago my deceased husband Francisco Barcenas obtained the provisional grant'), not the grant to Soto."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Juan B. Alvarado' with 'Manl. Jimeno Secy' (stamped p.30); confirmation decree names Governor Juan B. Alvarado (stamped p.36)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p.30: 'Whereas Dona Teodora Soto has asked... To grant to her the said place'; red label: 'TEODORA SOTO CLAIMANT' (claimant and grantee are the same person here)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label image 1: 'CASE No. 308 NORTHERN DISTRICT'; every leaf stamped '308 ND'; filename cubanc_lcf_nd308.pdf"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Commission Decree of Confirmation, stamped p.35-36, filed 15 May 1855 ('adjudged... that the claim of the said petitioner is valid and... confirmed'). District Court transcript cover (image 48) filed 23 Oct 1855; the final District Court decree sits deeper in this 471-image file and was not read. Patent not seen in pages read (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1841 per grant decree stamped p.30 ('14th of december of one thousand eight hundred & forty one') as confirmed by the Board (stamped p.36); the expediente provisional-grant decree is 8 May 1842 (stamped p.29). Not 1838."
+  },
+  "id": "rancho-canada-hambre-bolsas",
+  "notes": "Commission docket 204, court docket 308 ND. Grant history is layered: ~1838-39 informal provisional occupancy to husband Barcenas (Jose Castro cert., stamped p.28-29, says he solicited in 1839); formal grant paper to Teodora Soto dated 14 Dec 1841 (A.P.L.); expediente decree for provisional grant 8 May 1842. Board noted the date discrepancy and attributed it to translator error (stamped p.34). Register duplicate of rancho-canada-hambre-bolsas-1."
+ },
+ {
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256637/files/cubanc_lcf_nd308.pdf",
+  "pdf_pages_stated": "433-Y pgs. per flyleaf (image 2); 471 PDF images",
+  "pages_read": [
+   "1-30",
+   "31-48"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'CANADA de HAMBRE GRANT'; Decree of Confirmation stamped p.35: 'known by the name of Canada del Hambre y Las Bolsas'"
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "Grant translation Exhibit A.P.L., stamped p.30: 'Monterey the 14th of december of one thousand eight hundred & forty one' (Juan B. Alvarado); Decree of Confirmation stamped p.36: 'granted to said claimant by Governor Juan B. Alvarado on the 14th of december 1841'. The expediente's provisional-grant decree is 8 May 1842 (stamped p.29: 'let a provisional grant be issued to her... (Signed) Alvarado'). 1838 was the year her deceased husband Francisco/Guadalupe Barcenas got informal provisional occupancy (petition translation stamped p.27: 'about four years ago my deceased husband Francisco Barcenas obtained the provisional grant'), not the grant to Soto."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant signed 'Juan B. Alvarado' with 'Manl. Jimeno Secy' (stamped p.30); confirmation decree names Governor Juan B. Alvarado (stamped p.36)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p.30: 'Whereas Dona Teodora Soto has asked... To grant to her the said place'; red label: 'TEODORA SOTO CLAIMANT' (claimant and grantee are the same person here)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label image 1: 'CASE No. 308 NORTHERN DISTRICT'; every leaf stamped '308 ND'; filename cubanc_lcf_nd308.pdf"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Commission Decree of Confirmation, stamped p.35-36, filed 15 May 1855 ('adjudged... that the claim of the said petitioner is valid and... confirmed'). District Court transcript cover (image 48) filed 23 Oct 1855; the final District Court decree sits deeper in this 471-image file and was not read. Patent not seen in pages read (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1841 per grant decree stamped p.30 ('14th of december of one thousand eight hundred & forty one') as confirmed by the Board (stamped p.36); the expediente provisional-grant decree is 8 May 1842 (stamped p.29). Not 1838."
+  },
+  "id": "rancho-canada-hambre-bolsas-1",
+  "notes": "Exact duplicate register entry of rancho-canada-hambre-bolsas (same claimed values, same scan URL); graded from the same reading of ND 308. The register should probably deduplicate these two rows."
+ },
+ {
+  "id": "rancho-canada-pinos-college",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269007/files/cubanc_lcf_sd388.pdf",
+  "pdf_pages_stated": "transcript certified as pp.1-345 (stamped p.336); 371 PDF images",
+  "pages_read": [
+   "1-14 (images)",
+   "84-96 (images; transcript pp.79-91)",
+   "340-364 (images; transcript pp.327-349)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Bancroft catalogs this case file (digicoll record 269007) as 'Canada de los Pinos (also called College Rancho...) Case no. 388 SD'. The College tracts are claimed inside it per Jimeno deposition stamped pp.89-90 (six sitios of the vacant lands of Mission Santa Ynes embracing the canadas of Sotonocomu, Alisguey and Aguichum, plus two more sitios: San Ysidro, Zanja de Cota). NOTE: the red label (image 1) and transcript title (stamped p.1) name the case 'Lands and Property of the Catholic Church', commission docket 609 - the College Rancho is one property within that omnibus church claim."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Jimeno deposition stamped p.89: 'In the month of March 1844, the Rev. Bishop appointed 3 clergymen to ask... the land necessary for the erection of the College'; p.90: 'in compliance with the petitions the order was made by Governor Micheltorena that the said titles should be issued'. Caveat: the title exhibits themselves (Nos. 3 and 4 A.F., annexed to Bonilla deposition at transcript p.46) were not read; grade rests on Jimeno's sworn identification of them."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Jimeno dep. stamped pp.89-90: petition 'to Governor Don Manuel Micheltorena'; 'the order was made by Governor Micheltorena that the said titles should be issued'; Q43 (p.90) authenticates Micheltorena's writing on the titles."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Jimeno dep. stamped p.90: Exhibit No 3 A.F. is 'the title to the six sitios de ganado mayor... and at the end the acceptance by the Bishop Francisco Garcia Diego'; p.91: the second title's acceptance was by Padre Gonzalez acting for the bishopric after Garcia Diego's death. The original 1844 grantee was Bishop Francisco Garcia Diego (for the ecclesiastical college), NOT Joseph S. Alemany, who is the U.S.-era claimant (red label image 1: 'JOSEPH S. ALEMANY CLAIMANT') and later patentee. Classic claimant-recorded-as-grantee error."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label image 1: 'CASE No. 388 SOUTHERN DISTRICT'; every leaf stamped '388 SD'; filename cubanc_lcf_sd388.pdf. Commission docket was 609 (transcript stamped p.1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation signed Felch/Thompson/Farwell, 'Filed in Office Dec. 18, 1855' (stamped p.335); U.S. appealed (Ord petition, stamped pp.339-341), then stipulation stamped p.347 (filed 22 March 1858): 'the appeal... be dismissed... and that claimant have leave to proceed under the said decision of the United States Land Commission, heretofore rendered in his favor as under a Final Decree.' Confirmation final. Patent (claimed Feb 28 1861) not in pages read - Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Bishop Francisco Garcia Diego (y Moreno), who accepted the 1844 Micheltorena titles for the college (Jimeno dep. stamped pp.90-91); Alemany is the claimant/patentee only."
+  },
+  "notes": "Omnibus case: commission docket 609 'Lands and Property of the Catholic Church' covering all mission church properties statewide plus the College Rancho tracts; SD court docket 388. Decree pages 317-326 (College-tract description within the decree) not read; decree tail pp.327-335 read. Register's docket SD 388 matches Bancroft's catalog title for the Canada de los Pinos file, so docket linkage is right even though the case label is broader."
+ },
+ {
+  "id": "rancho-canada-rincon-en-rio-san-lorenco-santa-cruz",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269009/files/cubanc_lcf_sd391.pdf",
+  "pdf_pages_stated": "LAND CASE 391 SD pgs. 59 (flyleaf, image 2); 68 PDF images",
+  "pages_read": [
+   "1-32 (images; transcript pp.1-26)",
+   "33-40 (images; transcript pp.27-32)",
+   "53-68 (images; transcript pp.44-59)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label image 1: 'LA CANADA DE RINCON GRANT'; transcript title stamped p.1: 'La Canada del Rincon'; Pico title translation stamped p.25: 'a tract of land known by the name of the Canada del Rincon, where the river San Lorenzo runs, in the vicinity of the Mission of Sta Cruz'. Register's long form matches the grant's own description."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "1843 is only the PROVISIONAL title: Micheltorena marginal decree stamped p.14 (translation p.22): 'Angeles July 10th 1843... I give this to the party interested to serve him as a provisional title'. The grant proper is Pico's, 21 April 1846: decree stamped p.16 ('Angeles Abril 21 de 1846... se declara... Pedro Sainsevain dueno en propiedad de la canada de del Rincon'); Board opinion stamped p.29: 'The grant in this case was made on the 21st of April A.D. 1846, & confirmed by the Departmental Assembly on the 10th day of June A.D. 1846'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "'Micheltorena; Pico' matches both stages: Micheltorena provisional title 10 July 1843 (stamped p.14, signed 'Micheltna'); Pio Pico definitive title 21 April 1846 (stamped pp.16-17, signed 'Pio Pico, Gobernador Constitucional')."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Pico decree stamped p.16: 'se declara al Ciudadano Mejicano por naturalizacion Pedro Sainsevain dueno en propiedad de la canada de del Rincon'; red label: 'PEDRO SAINSEVAIN CLAIMANT' (grantee = claimant here)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label image 1: 'CASE No. 391 SOUTHERN DISTRICT'; leaves stamped '391 SD'; filename cubanc_lcf_sd391.pdf. Commission docket 283; the U.S. appeal ran in the NORTHERN District as case No. 90 (land north of 37th parallel, stipulation stamped p.49)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket stamped p.3 ('Jan 17, 1854... Commissioner Thompson Campbell delivered the Opinion of the Board confirming the claim'), opinion at stamped pp.29-32. ND District Court decree, Stated Term September 20th 1855 (stamped pp.46-47, Ogden Hoffman Jr.): U.S. filed no notice to prosecute, 'ordered and decreed that the said appeal be dismissed'. SD court dismissed the duplicate U.S. petition 9 Feb 1858 (stamped p.44, Ogier). Confirmation final. Patent (claimed June 4 1858) not in file - Phase C checks GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1846 (grant by Pico 21 April 1846, Board opinion stamped p.29); 1843 was Micheltorena's provisional title only (10 July 1843, stamped p.14). If the register wants one year for the grant, it should be 1846."
+  },
+  "notes": "Two-stage grant: 1843 provisional (Micheltorena; full title withheld because Sainsevain was not yet naturalized), naturalization 7 Oct 1844, definitive title 21 Apr 1846 (Pico), Assembly approval 10 June 1846. 1857 Boole affidavits (stamped pp.53-59) attack the claim as inside Pueblo of Santa Cruz limits, but they post-date the final ND decree of 20 Sept 1855."
  }
 ]

@@ -80,5 +80,177 @@
   },
   "corrections": {},
   "notes": "Grant = 850 varas of land in the garden that belonged to her deceased former husband Pablo (translation stamped PAGE 9). Grantee named in grant as Bartolome de Rei/Rey; she signed by mark as Victoria Reid (affidavit stamped PAGE 79). hoffman_flag 'docket-not-found-in-hoffman' noted; case file proves SD 171 / L.C. 455. Register glo_patent_no 421 not checkable here (no patent copy in file; Phase C checks GLO). AG letter PAGE 85 misstates that the Commissioners confirmed; the Commission decree PAGE 12 is a rejection, reversed by the District Court (draft opinion stamped PAGES 89-96: 'such decision should be reversed')."
+ },
+ {
+  "id": "u-67",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102020 (no single PDF; 73 individual page JPGs cubanc_1_2_00019593a-00019663a etc.)",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 19593-19596 (label; stamped PAGES 2-4)",
+   "19645 (PAGE 53)",
+   "19647 (PAGE 55)",
+   "19657 (PAGE 65)",
+   "19660 (PAGE 68)",
+   "19661 (PAGE 69)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 19593): 'CASE No. 390 SOUTHERN DISTRICT \u2014 PUEBLO LANDS IN THE SOUTHERN DISTRICT OF CALIFORNIA GRANT \u2014 The President and Trustees of the City of San Diego, Claimant'; Commission decree, stamped PAGE 55: land 'known as the Pueblo or town lands of San Diego'. Register 'Pueblo of San Diego' matches."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "No grant instrument of 1769 exists; claim is a pueblo-lands entitlement. Petition, stamped PAGE 4: 'the Presidio of San Diego was Established under the authority of the Spanish Government about the year one thousand seven hundred and Sixty nine, and that Subsequently a Pueblo of the same name was established under the authority of the Mexican Government.' 1769 is the presidio founding per the petition, not a grant year."
+   },
+   "governor": {
+    "grade": "NA",
+    "evidence": "Register blank by design; no granting governor exists for the pueblo entitlement (petition, stamped PAGE 4; ayuntamiento-creation expediente for San Diego and Sta Barbara at stamped PAGE 53)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Register holds the pueblo itself, the original Mexican-era entitlement holder. Decree, stamped PAGE 55: claim of 'The President and Trustees of the City of San Diego' (the pueblo's successor) confirmed for 'the Pueblo or town lands of San Diego'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label (image 19593): 'CASE No. 390 SOUTHERN DISTRICT'; D.C. caption stamped PAGE 68: 'No. 390 ... Trans. No. 589'. Land Commission docket No. 589 (transcript stamped PAGE 2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission decree, stamped PAGE 55: 'adjudged by the Commission that the claim of the said Petitioners is valid and it is therefore decreed that the same be confirmed', filed 22 Jan 1856 (Felch, Thompson). District Court, Monterey June term 1857, Ogier J., stamped PAGE 68: 'ordered by the Court that the appeal in said cause be dismissed; & that the claimant have leave to proceed upon the decree of the Commissioners heretofore rendered as a final decree' (dismissal cover stamped PAGE 69, filed 8 June 1857). Register 'Confirmed' matches."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "digicoll record 102020 has no cubanc_lcf PDF, only 73 individual _k.jpg page images; stamped transcript pages run to at least PAGE 69. Hoffman flag 'name-mismatch' resolved: Hoffman's rancho column reads 'land granted'; case file shows the claim = Pueblo lands of San Diego, commission no. 589 / court no. 390 exactly as Hoffman has it. Board opinion delivered 22 Jan 1856 by Comm'r R. Aug. Thompson (docket minutes stamped PAGE 3). Register glo_patent_no 526 not checkable here; no patent copy seen (Phase C checks GLO)."
+ },
+ {
+  "id": "u-77",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264232/files/cubanc_lcf_nd381.pdf",
+  "pdf_pages_stated": 400,
+  "pages_read": [
+   "images 1-20 (red label; count leaf '400 pgs.'; stamped PAGES 1-14)",
+   "images 188-232 (stamped PAGES 180-202: amended petition, sketch, opinion, decree, appeal notices)",
+   "images 390-406 (stamped PAGES 367-383: D.C. and SCOTUS appeal papers, mandate)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'CASE No. 381 NORTHERN DISTRICT \u2014 POTRERO de SAN FRANCISCO GRANT \u2014 JOSEFA de HARO et al CLAIMANT'; transcript cover stamped PAGE 1: 'for the place named Potrero de San Francisco'. Sketch map stamped PAGE 186 labels it 'Potrero Nuevo concedido a los Haros'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped PAGE 189: 'a provisional grant from Governor Micheltorena dated the first of May 1844, in which a right of occupancy is conceded to the applicants'; PAGE 190: 'another grant to the same persons purporting to have been issued by Micheltorena dated the 18th day of September 1844'. Both alleged instruments are of 1844."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Both instruments issued by Governor Micheltorena (Board opinion stamped PAGES 189-190); original petition stamped PAGE 9: decree of 30 April 1844 by Governor Micheltorena declaring Ramon and Francisco de Haro owners, provisional grant 1 May 1844."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped PAGE 189: 'The Petitioners in this case derive title from Ramon de Haro and Francisco de Haro, to whom they allege that grants were made by the Mexican Authorities in the year 1844'; petition stamped PAGE 9: 'Ramon de Haro and Francisco de Haro Jun being the Sons of Don Francisco de Haro Sen'. Register correctly holds the original grantees, not the U.S. claimants (Josefa de Haro et al., heirs)."
+   },
+   "land_case": {
+    "grade": "ERR",
+    "evidence": "Register blank, but a docket exists: red label (image 1) 'CASE No. 381 NORTHERN DISTRICT'; filename cubanc_lcf_nd381; D.C. caption stamped PAGE 200: 'D.C. 381. L.C. 101.'; Land Commission docket No. 101 (transcript stamped PAGE 2)."
+   },
+   "outcome": {
+    "grade": "ERR",
+    "evidence": "Register blank, but the claim was finally REJECTED. Commission confirmed 6 Nov 1855 (decree stamped PAGE 195, Felch/Thompson/Farwell); U.S. appealed (AG notice 11 Feb 1856, stamped PAGE 198); District Court decree 19 Feb 1862 reversed and rejected, quoted in the SCOTUS mandate stamped PAGE 377: 'there is error in the decree of the said board of Commissioners, and the said decree is hereby reversed... the claim of the appellees Josefa de Haro et al, is invalid and the same is hereby rejected, and the petition... is hereby dismissed'; Supreme Court, No. 420 December Term 1866, affirmed: 'the decree of the said District Court in this cause be and the same is hereby affirmed' (mandate stamped PAGE 379, witness Chase C.J.; filed in open court 6 Feb 1869, PAGE 380)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "land_case": "ND 381 (U.S. District Court No. 381; Land Commission docket No. 101), per red label image 1 and transcript stamped PAGE 2",
+   "outcome": "Rejected \u2014 D.C. decree 19 Feb 1862 rejecting the claim, affirmed by the U.S. Supreme Court, No. 420 Dec. Term 1866; mandate stamped PAGES 377-380"
+  },
+  "notes": "scan_record_url was null; digicoll search found record 264232 (Josefa de Haro, Claimant, Case no. 381 ND, 'Potrero de San Francisco (also called Potrero Nuevo)'). Count leaf (image 2): 'LAND CASE 381 ND 400 pgs.' Board opinion (Farwell, stamped PAGES 189-194) held the purported 24 May 1844 ratification of the 1 May provisional grant 'beyond a doubt... a forgery' but confirmed on the later-produced 18 Sept 1844 grant; the District Court and Supreme Court reversed that and rejected the claim outright. Ramon and Francisco de Haro Jr. (twin sons of Francisco de Haro Sr.) were both killed in 1846 (opinion PAGE 189: 'both killed during the war with America in the year 1846'); their father inherited, died ~1849/1850, leaving the petitioners as heirs. Register's year/governor/grantee describe the purported 1844 Micheltorena concession accurately, but no valid grant was ever finally recognized."
+ },
+ {
+  "id": "u-78",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264271/files/cubanc_lcf_nd427A.pdf + cubanc_lcf_nd427B.pdf (MULTI-VOLUME, both read)",
+  "pdf_pages_stated": 1003,
+  "pages_read": [
+   "vol A images 1-24 (red label; count leaf 'pgs. 446'; stamped PAGES 1-14)",
+   "vol B images 1-20 (stamped PAGES 447-465)",
+   "vol B images 36-66 (stamped PAGES 481-511)",
+   "vol B images 542-561 (stamped PAGES 984-1003: Field opinions, final decree)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Vol A red label: 'CASE No. 427 A NORTHERN DISTRICT \u2014 PUEBLO LANDS GRANT \u2014 CITY OF SAN FRANCISCO CLAIMANT'; transcript cover stamped PAGE 1: 'City of San Francisco, Claimant vs. The United States... for Pueblo Lands' (Case No. 280). Register 'Pueblo of San Francisco' matches the claim."
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "No grant instrument exists; the claim is a pueblo-lands entitlement. Petition, stamped PAGE 10: 'an act of the Departmental Legislature of California of November 9th 1833 and proceedings in pursuance thereof, the Pueblo of San Francisco was duly erected and constituted a Municipal Corporation... during the said year 1833.' Register's 1833 matches the pleaded foundation (Hoffman also gives 1833), but later filings and Field's opinion speak of pueblo existence 'as early as 1834' (stamped PAGES 457, 996)."
+   },
+   "governor": {
+    "grade": "NA",
+    "evidence": "Register blank by design; no granting governor exists for the pueblo entitlement (petition stamped PAGES 10-11 pleads erection under the Departmental Legislature and laws/usages of Mexico, not a governor's grant)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Register holds the pueblo, the original entitlement holder. Field opinion, stamped PAGE 995: 'The Land Commissioners had adjudged that there was an organized pueblo at the site of the present City of San Francisco; that such pueblo held certain proprietary rights to land; and that the city had succeeded to those rights.' U.S. claimant is the City of San Francisco (red label; PAGE 1)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 427 A NORTHERN DISTRICT'; filenames cubanc_lcf_nd427A/B; D.C. caption stamped PAGE 451: 'D.C. 427; L.C. 280'. Land Commission docket No. 280 (stamped PAGE 2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree entered 21 Dec 1854 confirming 'to lands within certain described limits' (recited in final decree, stamped PAGE 998; Board opinions filed 5 Feb 1856, docket minutes stamped PAGE 9). U.S. appeal dismissed 30 Mar 1857 (order stamped PAGE 454, Hoffman J.), but the CITY's own appeal for the larger area continued (notice stamped PAGE 449); cause transferred to the Circuit Court under the Act of 1 July 1864; FINAL DECREE entered 18 May 1865, stamped PAGE 998: 'the claim of the petitioner, the City of San Francisco... is valid, and that the same be confirmed' to 'an area of four square leagues,' in trust (Field, Circuit Judge); both parties' motions for appeal to the Supreme Court DENIED 29 May 1865: 'our decision is final... the controversy between the city and the Government is closed' (opinion stamped PAGE 1002, order PAGE 1003). Register 'Confirmed' matches."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "MULTI-VOLUME: vol A = stamped pp 1-446 (507 images), vol B = stamped pp 447-1003 (561 images); both volumes read at the decisive points. Register patent_date 'June 20, 1884' and glo_patent_no 155 not checkable here: the case file ends with the May 1865 Circuit Court decrees, no patent copy in file (Phase C checks GLO). Hoffman flag 'name-mismatch' resolved: Hoffman's rancho column reads '4 square leagues'; commission no. 280 / court no. 427 / year 1833 / grantee 'the Pueblo of San Francisco' all match the case file. The Oct-Nov 1864 first Circuit Court decree (2 Nov 1864) was vacated 18 May 1865 for want of conformity to the opinion and replaced by the final decree the same day (stamped PAGE 997); J. B. Williams 'suppressed brief' rehearing motion denied 11 May 1865 (Field opinion stamped PAGES 991-996)."
+ },
+ {
+  "id": "u-85",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264266/files/cubanc_lcf_nd422.pdf",
+  "pdf_pages_stated": 66,
+  "pages_read": [
+   "images 1-20 (red label; count leaf 'LAND CASE 422 ND PAGE 66'; stamped PAGES 1-14: docket + petition)",
+   "images 58-77 (stamped PAGES 49-66: exhibits, Felch opinion, decree, certification, D.C. dismissal)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label (image 1): 'CASE No. 422 NORTHERN DISTRICT \u2014 LANDS OF THE CHRISTIAN INDIANS GRANT \u2014 JOSEPH S. ALEMANY CLAIMANT'; certification stamped PAGE 63: 'for the place known by the name of Lands of the Christianized Indians'. The register's composite description matches the petition's four claims exactly (stamped PAGES 11-14): one square league at each of the 21 missions; Las Gallinas, el Nacimiento and La Estrella; vacant lands of Santa Clara; tracts to named Santa Ines Indians."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "All the instruments are of 1844: Santa Ines order 'bears date January 18, 1844' (stamped PAGE 13); Santa Clara grant 'dated June 10th 1844' (PAGE 12; opinion PAGE 58: 'made June 10, 1844 of all the vacant lands of Santa Clara ungranted before that time'); Gallinas/Nacimiento/Estrella grant 'dated July 16, 1844' (PAGE 12; opinion PAGE 55: 'The grant made by Governor Micheltorena and dated July 16, 1844 is presented and the signatures proved'); San Luis Obispo pueblo decree 'dated July 15, 1844' (PAGE 14)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Every instrument is Micheltorena's: petition PAGE 12 'From Governor Manuel Micheltorena a grant of the lands known by the names of Las Gallinas, el Nacimiento and La Estrella...'; PAGE 14 'A decree of Manuel Micheltorena Governor of California dated July 15, 1844'; opinion PAGE 60: 'a decree in accordance with the Priest's recommendation signed by Governor Micheltorena'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Register holds the grantees, not the claimant: grants ran 'To your petitioners the Christian Indians of San Miguel' (stamped PAGE 12), 'to your petitioners the Christian Indians of Santa Clara' (PAGE 12), to sixteen named Santa Ines neophytes (PAGES 12-13), and 'granting the Common lands to the Emancipated Indians' of San Luis Obispo (PAGE 14). Bishop Alemany filed 'on their behalf and as their guardian and trustee' (PAGE 12)."
+   },
+   "land_case": {
+    "grade": "PART",
+    "evidence": "The Bancroft docket is ND 422 alone: red label 'CASE No. 422 NORTHERN DISTRICT'; D.C. caption stamped PAGE 64: 'D.C. 422: L.C. 663'. The register's 'ND/SD 422' hedge has a real basis but is imprecise: the Board ordered three transcripts because 'the land hereby adjudicated is situated both in the Northern and Southern Districts of California', one for the District Court of each district (decree stamped PAGE 62) \u2014 but the case as docketed and dismissed is Northern District No. 422 (Land Commission No. 663)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion by Com. Felch, stamped PAGE 61: 'We are of opinion that the proof will not warrant a Confirmation, and an adverse decree will be entered. Rejected.' Decree stamped PAGE 62: 'the claim of the said petitioner is not valid, and it is therefore decreed that the application for a Confirmation thereof be denied' (Felch, Thompson, Farwell, filed 31 Dec 1855). District Court, 23 Feb 1857, Hoffman J., stamped PAGE 64: no notice of appeal filed within the time limited by law, 'Ordered that this case be dismissed and struck from the docket of this Court' \u2014 rejection final. Register 'Rejected' matches."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "land_case": "ND 422 (Land Commission docket No. 663); the SD copy of the transcript was a filing ordered by the Board (decree PAGE 62), not a separate SD docket 422"
+  },
+  "notes": "scan_record_url was null; digicoll search found record 264266. The one-square-league-per-mission claim was rejected for want of any grant: 'This Commission has no authority to distribute lands to any persons however meritorious... Congress alone by its broader power can concede lands in such cases' (opinion stamped PAGE 55). The three Micheltorena instruments were rejected on identification/condition grounds, not authenticity ('the signatures proved', PAGE 55). Exhibits include the 1820 mission statistics table of Fr. Jose Senan (stamped PAGES 50-51). Transcript certified at 63 pages, 23 Feb 1856 (PAGE 63); case file 66 stamped pages / 77 images."
  }
 ]

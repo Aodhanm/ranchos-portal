@@ -1,15 +1,15 @@
 {
  "note": "CONSOLIDATED proposed corrections from the blind-100 audit + the Phase B census - NOT applied; data/ranchos-register.* stays byte-identical to Zenodo v1.0 until Aodhan cuts v1.1. Census is still in progress; re-run scripts/build_corrections.py to refresh.",
- "census_records_graded": 171,
- "count": 149,
- "new_beyond_v11_staged": 119,
+ "census_records_graded": 194,
+ "count": 158,
+ "new_beyond_v11_staged": 128,
  "by_field": {
-  "grantee": 83,
-  "year": 37,
+  "grantee": 87,
+  "year": 40,
   "governor": 24,
-  "land_case": 2,
+  "land_case": 3,
   "name": 2,
-  "outcome": 1
+  "outcome": 2
  },
  "entries_missing_correction_text": [
   "rancho-tomales-baulines-1/land_case"
@@ -342,6 +342,16 @@
    "correction": "James (Diego) Scott and John (Juan) Wilson per the operative 24 Sept 1845 Pico grant, transcript p.23. If the register instead means the original grant, the whole row should read 1842 / Alvarado / Victor Linares (Osos portion only, transcript pp.10-11) - as Hoffman has it. The current 1845/Pico/Linares mix matches no document.",
    "evidence": "The 24 Sept 1845 Pico grant runs to 'los Senores Dn Diego Scott y Dn Juan Wilson' (James Scott and John Wilson), transcript p.23 (PDF p29); assembly approval likewise 'en favor de los Senores Dn Diego Scott y Dn Juan Wilson' of 7.5 sitios (transcript p.24). Victor Linares was grantee only of the 1842 Alvarado grant of Canada de los Osos (4 sitios, transcript pp.10-11), which he sold to Wilson 30 Sept 1843/29 May 1844 (exhibit E, transcript pp.21-22). Register pairs the 1845/Pico grant with the 1842 grantee - a conflation.",
    "audit_source": "chunk03.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-pinos-college",
+   "field": "grantee",
+   "register_value": "Bishop S. Alemany",
+   "correction": "Bishop Francisco Garcia Diego (y Moreno), who accepted the 1844 Micheltorena titles for the college (Jimeno dep. stamped pp.90-91); Alemany is the claimant/patentee only.",
+   "evidence": "Jimeno dep. stamped p.90: Exhibit No 3 A.F. is 'the title to the six sitios de ganado mayor... and at the end the acceptance by the Bishop Francisco Garcia Diego'; p.91: the second title's acceptance was by Padre Gonzalez acting for the bishopric after Garcia Diego's death. The original 1844 grantee was Bishop Francisco Garcia Diego (for the ecclesiastical college), NOT Joseph S. Alemany, who is the U.S.-era claimant (red label image 1: 'JOSEPH S. ALEMANY CLAIMANT') and later patentee. Classic claimant-recorded-as-grantee error.",
+   "audit_source": "chunk13.json",
    "in_v11_staged": false,
    "in_errata": false
   },
@@ -766,6 +776,26 @@
    "in_errata": true
   },
   {
+   "id": "rancho-san-antonio-5",
+   "field": "grantee",
+   "register_value": "Vicente and Domingo Peralta",
+   "correction": "Luis Peralta (original grantee, Sola grant 3/16 Aug 1820 and Micheltorena title 13 Feb 1844, stamped pp.16-18, 28-29); Vicente and Domingo Peralta were the claimants of the northern portion",
+   "evidence": "Every grant instrument in the file runs to LUIS PERALTA, the father: Sola 1820 possession 'puse en posesion... al nombrado Luis Peralta' (stamped p.18); Micheltorena 13 Feb 1844 title declares 'D. Luis Peralta dueno en propiedad' (p.28); petitions pp.191/200: granted 1820 'to the father of this petitioner the late Don Luis Peralta'. Vicente and Domingo Peralta are the U.S.-era CLAIMANTS of the northern part (by their father's division and his will, exhibit M stamped pp.31-33), not the grantees. This is the dominant claimant-for-grantee error class.",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-san-francisco",
+   "field": "grantee",
+   "register_value": "Jacoba Feliz",
+   "correction": "Antonio del Valle (grant 22 Jan 1839 by Alvarado; petition stamped p.5, decree p.77); Jacoba Feliz was his widow and the U.S.-era claimant",
+   "evidence": "Original grantee = ANTONIO DEL VALLE: petition p.5 'Said land was granted to Don Antonio del Valle... Said Grantee died intestate on the 1st day of June AD 1841 whereby said land descended... to said Jacoba Felis as the widow'; Board decree of confirmation p.77: 'is the same granted to and formerly occupied by said Antonio del Valle'. Jacoba Feliz is the widow/claimant, not the grantee. Dominant claimant-for-grantee error class.",
+   "audit_source": "chunk15.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
    "id": "rancho-san-jacinto-nuevo-potrero",
    "field": "grantee",
    "register_value": "T. W. Sutherland, guardian",
@@ -892,6 +922,16 @@
    "correction": "Jose Antonio Carrillo and Carlos (Antonio) Carrillo, brothers (transcript p8/p15). Manuela Carrillo de Jones is a purchaser under the 2 Nov 1843 deed and the U.S.-era claimant.",
    "evidence": "Register holds the PURCHASER/claimant. Grant, transcript p8: 'Por Cuanto Dn. Jose Antonio y D. Carlos Carillo, han pretendido para su beneficios personales y el de sus familias la Isla nombrada Santa Rosa'. Translation p15: 'Whereas Don Jose Antonio & Don Carlos Carillo have for their own personal benefit and that of their families petitioned for the Island called Santa Rosa'. Manuela Carrillo de Jones and Francisca Carrillo de Thompson BOUGHT the island from the two Carrillos by escritura of 2 Nov 1843 for $3,300 (transcript pp.9-11 Spanish, pp.17-19 translation). Claimants' brief, transcript p121: 'The grant was to Jose Antonio Carrillo and Carlos Carrillo: The Commissioners entirely overlooked the conveyance (& translation) from them the grantees to Manuela Carrillo de Jones and Francisca Carrillo de Thompson.'",
    "audit_source": "chunk10.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-santa-teresa",
+   "field": "grantee",
+   "register_value": "Agustín Bernal",
+   "correction": "Joaquin Bernal (father of claimant), per petition stamped p5 and depositions stamped pp6, 9, 10-11 ('Joaquin Bernal the Original Grantee'); Agustin Bernal was the claimant son/heir",
+   "evidence": "Original grantee was JOAQUIN BERNAL, the claimant's father: petition stamped p5 ('Jose Figueroa Governor... granted to the said Joaquin Bernal the said lands or Rancho of Santa Teresa'); Galindo deposition stamped p6 and Hernandez deposition stamped p10-11 both call him 'Joaquin Bernal the Original Grantee'; Pico stamped p9: 'Augustin Bernal is the son of Joaquin Bernal and acted as the heir of the family'. Register records the U.S.-era claimant Agustin Bernal instead of the Mexican grantee.",
+   "audit_source": "chunk16.json",
    "in_v11_staged": false,
    "in_errata": false
   },
@@ -1106,6 +1146,16 @@
    "in_errata": false
   },
   {
+   "id": "u-77",
+   "field": "land_case",
+   "register_value": "",
+   "correction": "ND 381 (U.S. District Court No. 381; Land Commission docket No. 101), per red label image 1 and transcript stamped PAGE 2",
+   "evidence": "Register blank, but a docket exists: red label (image 1) 'CASE No. 381 NORTHERN DISTRICT'; filename cubanc_lcf_nd381; D.C. caption stamped PAGE 200: 'D.C. 381. L.C. 101.'; Land Commission docket No. 101 (transcript stamped PAGE 2).",
+   "audit_source": "chunk18.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
    "id": "rancho-cachil-dehe-rancheria",
    "field": "name",
    "register_value": "Cachil Dehe Rancheria",
@@ -1134,6 +1184,16 @@
    "audit_source": "blind-100",
    "in_v11_staged": true,
    "in_errata": true
+  },
+  {
+   "id": "u-77",
+   "field": "outcome",
+   "register_value": "",
+   "correction": "Rejected — D.C. decree 19 Feb 1862 rejecting the claim, affirmed by the U.S. Supreme Court, No. 420 Dec. Term 1866; mandate stamped PAGES 377-380",
+   "evidence": "Register blank, but the claim was finally REJECTED. Commission confirmed 6 Nov 1855 (decree stamped PAGE 195, Felch/Thompson/Farwell); U.S. appealed (AG notice 11 Feb 1856, stamped PAGE 198); District Court decree 19 Feb 1862 reversed and rejected, quoted in the SCOTUS mandate stamped PAGE 377: 'there is error in the decree of the said board of Commissioners, and the said decree is hereby reversed... the claim of the appellees Josefa de Haro et al, is invalid and the same is hereby rejected, and the petition... is hereby dismissed'; Supreme Court, No. 420 December Term 1866, affirmed: 'the decree of the said District Court in this cause be and the same is hereby affirmed' (mandate stamped PAGE 379, witness Chase C.J.; filed in open court 6 Feb 1869, PAGE 380).",
+   "audit_source": "chunk18.json",
+   "in_v11_staged": false,
+   "in_errata": false
   },
   {
    "id": "rancho-agua-caliente-1",
@@ -1182,6 +1242,26 @@
    "correction": "1840 (grant of Oct 14, 1840, by Alvarado; juridical possession Feb 19, 1841). 1837 is the antecedent Castro petition year only.",
    "evidence": "The grant (translation, Exhibit 1, transcript p13-14, PDF p18-19): 'Juan B. Alvarado, Constitutional Governor... I have concluded to grant him the mentioned land, declaring it his property by the present letters patent... Given in Monterey on the 14th of October 1840. Alvarado. Manuel Jimeno Secretary of State.' Register's 1837 is only the year of Mariano Macario Castro's petition (San Juan, 12 Nov 1837) and Alvarado's interim occupation permission (Monterey, 13 Nov 1837; expediente B, transcript p21-22, PDF p27-28). Hoffman's 1840 agrees with the case file against the register.",
    "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas",
+   "field": "year",
+   "register_value": "1838",
+   "correction": "1841 per grant decree stamped p.30 ('14th of december of one thousand eight hundred & forty one') as confirmed by the Board (stamped p.36); the expediente provisional-grant decree is 8 May 1842 (stamped p.29). Not 1838.",
+   "evidence": "Grant translation Exhibit A.P.L., stamped p.30: 'Monterey the 14th of december of one thousand eight hundred & forty one' (Juan B. Alvarado); Decree of Confirmation stamped p.36: 'granted to said claimant by Governor Juan B. Alvarado on the 14th of december 1841'. The expediente's provisional-grant decree is 8 May 1842 (stamped p.29: 'let a provisional grant be issued to her... (Signed) Alvarado'). 1838 was the year her deceased husband Francisco/Guadalupe Barcenas got informal provisional occupancy (petition translation stamped p.27: 'about four years ago my deceased husband Francisco Barcenas obtained the provisional grant'), not the grant to Soto.",
+   "audit_source": "chunk13.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas-1",
+   "field": "year",
+   "register_value": "1838",
+   "correction": "1841 per grant decree stamped p.30 ('14th of december of one thousand eight hundred & forty one') as confirmed by the Board (stamped p.36); the expediente provisional-grant decree is 8 May 1842 (stamped p.29). Not 1838.",
+   "evidence": "Grant translation Exhibit A.P.L., stamped p.30: 'Monterey the 14th of december of one thousand eight hundred & forty one' (Juan B. Alvarado); Decree of Confirmation stamped p.36: 'granted to said claimant by Governor Juan B. Alvarado on the 14th of december 1841'. The expediente's provisional-grant decree is 8 May 1842 (stamped p.29: 'let a provisional grant be issued to her... (Signed) Alvarado'). 1838 was the year her deceased husband Francisco/Guadalupe Barcenas got informal provisional occupancy (petition translation stamped p.27: 'about four years ago my deceased husband Francisco Barcenas obtained the provisional grant'), not the grant to Soto.",
+   "audit_source": "chunk13.json",
    "in_v11_staged": false,
    "in_errata": false
   },
@@ -1434,6 +1514,16 @@
    "audit_source": "blind-100",
    "in_v11_staged": true,
    "in_errata": true
+  },
+  {
+   "id": "rancho-san-miguelito-1",
+   "field": "year",
+   "register_value": "1839",
+   "correction": "1841 per concession decree stamped p16: 'Monterrey 24 de Julio de 1841... declaro a Dn Jose Rafael Gonzalez dueno en propiedad'",
+   "evidence": "Concession decree, stamped p16: 'Monterrey 24 de Julio de 1841. Vista la peticion... declaro a Dn Jose Rafael Gonzalez dueno en propiedad del parage conocido con el nombre de San Miguelito... en estension de cinco Sitios de ganado mayor' (p17); expediente cover stamped p14: 'San Miguelito ano de 1841'; petition dated 'Monterrey, Mayo primero de mil ochocientos cuarenta y uno' (stamped p15). Register says 1839; the grant is 1841.",
+   "audit_source": "chunk16.json",
+   "in_v11_staged": false,
+   "in_errata": false
   },
   {
    "id": "rancho-san-pascual",

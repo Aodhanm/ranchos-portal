@@ -47,7 +47,7 @@ def main():
         errata.add((e["id"], FIELD_ALIAS.get(f, f)))
 
     sources = [("blind-100", load_blind())]
-    for f in sorted(glob.glob(str(REPO / "audit" / "census-partial-2026-09-02" / "chunk*.json"))):
+    for f in sorted(glob.glob(str(REPO / "audit" / "census-*" / "chunk*.json"))):
         sources.append((Path(f).name, json.load(open(f))))
 
     out, seen = [], set()
