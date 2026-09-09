@@ -1,0 +1,240 @@
+[
+ {
+  "id": "rancho-tepusquet",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268959/files/cubanc_lcf_sd336.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 77,794,227 bytes, via /api/v1/record/268959/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 268959: 'Tepusquet [Santa Barbara and San Luis Obispo County] Antonia Maria Cota et al, Claimants. Case no. 336, Southern District of California.'; MARC 651 'Rancho Tepusquet (Calif.)'. Register name 'Tepusquet' agrees. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. Catalogue (Bowman I, 829, SECONDARY) and Hoffman 1862 both give 1837: MARC 520 'Granted by Alvarado Apl. 6, 1837, to Tomas Olivera'. Decree not seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. Catalogue (Bowman I, 829) and Hoffman 1862 ('Juan B. Alvarado') both give Alvarado. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. Catalogue MARC 700 'Olivera, Jose Tomas Antonio, 1787-1848 | Grantee' and MARC 520 'to Tomas Olivera'; Hoffman 1862 also 'Tomas Olivera'. Register agrees with both. Decree not seen, so not graded OK."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 336 SD'; MARC 035 '(landcase)cubanc_lcf_sd336'; MARC 856 '.../record/268959/files/cubanc_lcf_sd336.pdf'. Register 'SD 336' agrees; Hoffman court no. 336 agrees."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. Catalogue MARC 520: 'Confirmed by the Board July 3, 1855. Appeal dismissed by the District Court Feb. 21, 1857.' No hidden reversal here - the Board confirmed at first instance - so the register's 'Confirmed' is the expected reading, but the decrees were not opened."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ, cause external (AWS WAF challenge). THE CLEANEST-LOOKING OF MY SIX ON EVERY AVAILABLE CROSS-CHECK: register, Hoffman's 1862 printed table (year 1837, Juan B. Alvarado, Tomas Olivera, confirmed, not yet patented) and the Bancroft catalogue (Bowman I, 829) agree on year, governor, grantee, docket and outcome. Three-way agreement, but the concession decree itself is still unread. TWO REGISTER GAPS THAT THE CATALOGUE ALREADY FILLS, for Phase C: patent_to is blank in the register - MARC 520 gives the patentees as 'Antonia Maria Cota, Jose Olivera, Guadalupe Olivera, Pedro Olivera, and Juan Mariano Olivera', patent 23 Feb 1871 (matching the register's patent_date), GLO map 349 (matching), recorded in San Luis Obispo; patent_acres is blank - MARC 520 gives 8,900.75 acres, split 8,728.72 in Santa Barbara County and 172.03 in San Luis Obispo County. The claimants were Olivera's HEIRS (claim filed 30 Apr 1852 by Antonia Maria Cota et al, heirs), which is why patent_to and grantee legitimately differ here - this is NOT the claimant-for-grantee error, it is the correct shape. ALIASES: MARC 520 records that this grant 'was also called Santa Maria, and also Acapusque' - useful if the register carries a separate Santa Maria or Acapusque entry that is actually this same claim. RE-READ TARGETING: MARC 300 '1 portfolio (63p.)'; MARC 500 'Spanish text on pages 12-16, 22-23, 26-27, 31-34, 40-44, 47, 49'. The concession is in stamped pp. 12-16, inside a --pages 1-30 fetch. Small file (77.8MB). Associated map B-1383 at content.cdlib.org/ark:/13030/hb300004hn/."
+ },
+ {
+  "id": "rancho-tequepis",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266099/files/cubanc_lcf_sd064.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 67,834,248 bytes, via /api/v1/record/266099/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 266099: 'Tequepis [Santa Barbara County] Antonio M. Villa, Claimant. Case no. 64, Southern District of California.'; MARC 651 'Rancho Tequepis (Calif.)'. Register name 'Tequepis' agrees. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. TWO-GRANT CASE. MARC 520 (Bowman I, 830, SECONDARY): 'Granted (1) by Alvarado, 1837, to Joaquin Villa, provisionally, and (2) by Pico May 24, 1845, to Antonio M. Villa'. Bancroft, Hist. Cal. IV, 642 independently: 'Tequepis, 2 l., 1845, Joaquin Villa; Antonio M. Villa cl.' Hoffman 1862 court no. 64: 1845. All three sources put the operative grant in 1845, so the register's 1845 is well supported, but neither decree was seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 gives Pico for the 24 May 1845 grant (Alvarado for the 1837 provisional one); Hoffman 1862 'Pio Pico'. Register 'Pio Pico' agrees with both. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. *** SUSPECTED ERR, DOMINANT ERROR CLASS, THREE INDEPENDENT SOURCES AGAINST THE REGISTER. *** (1) Hoffman 1862, court no. 64: grantee 'Joaquin Villa'. (2) Bancroft, Hist. Cal. IV, 642 (Santa Barbara grant list): 'Tequepis, 2 l., 1845, Joaquin Villa; Antonio M. Villa cl.' (3) Bancroft Pioneer Register, Hist. Cal. V, 758: 'Villa (Antonio M.), prob. son of Joaquin; cl. for Tequepis rancho, Sta B. iv. 643' and 'V. (Joaquin), soldier at Sta B. before '37; maj. at Sta Ines '39 ... grantee of Tequepis '45.' (4) The Bancroft Library's own MARC 700 role coding for this case file: 'Villa, Joaquin Jacome, 1797-1844 | Grantee'; 'Villa, Antonio Maria, 1825-1899 | Claimant' and '| Patentee'. Only Bowman's 520 PROSE assigns the 1845 grant to Antonio M. Villa, and it is contradicted by the 700s in its own record. The register's 'Antonio M. Villa' is the U.S.-era claimant/patentee. Held UV, not ERR, because the concession decree was not opened."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 64 SD'; MARC 035 '(landcasefiles}cubanc_lcf_sd064.pdf' (sic - the Bancroft's own 035 has a typo, closing brace for opening parenthesis, and uniquely among my six it carries the '.pdf' extension); MARC 856 '.../record/266099/files/cubanc_lcf_sd064.pdf'. Register 'SD 064' agrees; Hoffman court no. 64 agrees."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. *** SUSPECTED PART, TRAP-2 SHAPE. *** MARC 520: 'Rejected by the Board Nov. 15, 1853. Confirmed by the District Court Mar. 7, 1856; appeal dismissed Feb. 5, 1857.' The register's bare 'Confirmed' is true only because the District Court REVERSED a Commission rejection. Hoffman's 1862 disposition cell also reads simply 'confirmed', so the printed table does NOT catch this class. Decrees not seen."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "suspected_corrections_unverified": {
+   "grantee": "Joaquin Villa (Antonio M. Villa was the claimant and patentee) - per Hoffman 1862, Bancroft Hist. Cal. IV, 642 and V, 758, and the case file's own MARC 700 role coding. NOT decree-verified.",
+   "outcome": "Rejected by the Board 15 Nov 1853; confirmed by the District Court 7 Mar 1856; appeal dismissed 5 Feb 1857; patented 1869 - per Bowman I, 830. NOT decree-verified."
+  },
+  "notes": "NULL READ, cause external (AWS WAF challenge). THE STRONGEST ERROR CANDIDATE IN MY SIX, AND IT IS THE AUDIT'S DOMINANT ERROR CLASS: the U.S.-era claimant (Antonio M. Villa) sitting in the Mexican grantee slot, where four independent sources - Hoffman's 1862 table, Bancroft's Santa Barbara grant list (IV, 642), Bancroft's Pioneer Register (V, 758), and the Bancroft Library's own MARC 700 role coding - all name Joaquin Villa as grantee and Antonio M. as claimant. *** FLAGGING DEFECT, REPORT THIS UPWARD. *** This record sits in the UNFLAGGED stratum, yet its own hoffman_1862 block already disagrees with the register on grantee (Hoffman 'Joaquin Villa' vs register 'Antonio M. Villa') with hoffman_flags []. The flagger apparently matches on surname or fuzzy token overlap and therefore cannot see a forename-level substitution between a father and a son. The premise behind this pass's prior - 'unflagged means the 1862 printed table agreed with the register' - is FALSE for this record, and any clean-rate computed on that premise is biased. THE ONE COUNTER-ARGUMENT, stated so the re-reader can test it: MARC 600 dates Joaquin Jacome Villa 1797-1844, which would make a 24 May 1845 grant to him impossible. Either the death year is wrong (Bancroft has him active as majordomo at Santa Ines in 1839 and grantee in 1845), or the 1845 instrument ran to Antonio M. as his father's successor. The decree settles it and nothing else does. TWO-GRANT CASE: Alvarado 1837 provisional, Pico 24 May 1845 definitive; the 1869 patent followed the 1845 grant. OUTCOME is the trap-2 shape (Board rejection 15 Nov 1853 reversed by the District Court 7 Mar 1856) and Hoffman's disposition cell says only 'confirmed'. RE-READ TARGETING (free, no PDF needed): MARC 300 '1 portfolio (71p.)'; MARC 500 'Spanish text on pages 9-14, 21-26'. Both concessions should sit in stamped pp. 9-26, so --pages 1-30 suffices. Small file (67.8MB). Perez 1982 (vault perez1982.txt line 4635) independently confirms the register's patent block: Tequepis, Villa, 07/24/1869, GLO 365, 8,919.00 acres. Associated maps A-1028, B-1026, B-1027, B-1029 at content.cdlib.org/ark:/13030/hb5w1006fj/."
+ },
+ {
+  "id": "rancho-temecula",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265860/files/cubanc_lcf_sd119.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 133,688,637 bytes, md5 49b20098899a2a238c9c06f9b4b61247, via the un-challenged JSON route /api/v1/record/265860/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 265860: 'Temecula (also called \"Land in the Valley of Temecula\") [Riverside County] Luis Vignes, Claimant. Case no. 119, Southern District of California.'; MARC 651 'Rancho Temecula (Calif.)'. Register name 'Temecula' agrees. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF between 18:44Z and 19:25Z 2026-09-09; zero PDF pages read. Not graded from the decree. Two secondary sources support 1844: MARC 520 (Bowman I, 827) 'Granted by Micheltorena (1) Aug. 25, 1844 ... and (2) Dec. 14, 1844'; Bancroft, Hist. Cal. IV, 621 'Temecula, 6 leagues, granted in 1844 to Felix Valdes; Louis Vignes claimant.' Decree not seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF between 18:44Z and 19:25Z 2026-09-09; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 827) names Micheltorena for both 1844 grants; Bancroft IV, 621 does not name the governor. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF between 18:44Z and 19:25Z 2026-09-09; zero PDF pages read. Not graded from the decree. *** SUSPECTED ERR, DOMINANT ERROR CLASS. *** (1) Bancroft Library MARC 700 role coding for this case file: 'Ortega, Jose Joaquin Geronimo, 1801-1865 | Grantee'; 'Stokes, Edward, 1787-1847 | Grantee'; 'Valdez, Felix | Grantee'; 'Vignes, Jean Louis, 1780-1862 | Claimant' and '| Patentee'. (2) MARC 520 (Bowman I, 827): 'Granted by Micheltorena (1) Aug. 25, 1844, to Jose Joaquin Ortega and Eduardo Stokes, and (2) Dec. 14, 1844, to Deliz Valdez ... Claim filed by Luis Vignes (who brought the grant on June 15, 1846) Sept. 13, 1852.' (3) Bancroft, Hist. Cal. IV, 621: 'Temecula, 6 leagues, granted in 1844 to Felix Valdes; Louis Vignes claimant. Julian Manrique claimed the land under an earlier grant.' The register's grantee 'Luis Vignes' is the U.S.-era claimant and purchaser, not the Mexican grantee. Held UV, not ERR, because the concession decree was not opened."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 119 SD'; MARC 035 '(landcasefiles)cubanc_lcf_sd119'; MARC 856 '.../record/265860/files/cubanc_lcf_sd119.pdf'. Register 'SD 119' agrees. NOTE: MARC 520 warns 'The transcripts in these two cases (6 SD and 119 SD) are duplicates; the court papers are in 119 SD' - SD 119 is the correct docket for the court record, so the register picked the right one of the pair."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF between 18:44Z and 19:25Z 2026-09-09; zero PDF pages read. Not graded from the decree. *** SUSPECTED PART, TRAP-2 SHAPE. *** MARC 520 (Bowman I, 827): 'Rejected by the Board Mar. 14, 1854. Confirmed by the District Court Sept. 21, 1855; appeal dismissed Oct. 18, 1855.' The register's bare 'Confirmed' is true only because the District Court REVERSED a Commission rejection. Decrees not seen."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "suspected_corrections_unverified": {
+   "grantee": "Felix Valdez (grant of 14 Dec 1844), and/or Jose Joaquin Ortega and Edward Stokes (grant of 25 Aug 1844); Luis Vignes was the claimant and patentee - per Bancroft Hist. Cal. IV, 621, Bowman I, 827, and the case file's own MARC 700 role coding. NOT decree-verified.",
+   "outcome": "Rejected by the Board 14 Mar 1854; confirmed by the District Court 21 Sept 1855; appeal dismissed 18 Oct 1855 - per Bowman I, 827. NOT decree-verified.",
+   "glo_patent_no": "PHASE C: register says 492; Perez 1982 (vault perez1982.txt lines 3222, 3229, 7150-7151) assigns GLO 491 to 'Temecula / Vignes / 01/18/1860 / 26,608.94 acres' and GLO 492 to 'Temecula, lands in Valley of / P. Apis / 01/08/1873 / 2,233.42 acres'. Bowman I, 827 says 492. Contested; the risk is conflation of the Vignes claim (SD 119) with the Pablo Apis claim, which the MARC title itself calls 'Land in the Valley of Temecula'. Out of Phase B scope, flagged only."
+  },
+  "notes": "NULL READ, cause external (AWS WAF challenge on digicoll /record/*, /files/*, /search, /nanna/*). TWO INDEPENDENT PRIORITY DEFECTS, both invisible to the pass's flagging. (1) GRANTEE is the audit's dominant error class: Bancroft (IV, 621), Bowman (I, 827) and the Bancroft Library's own role coding all make Vignes the claimant/patentee and Valdez (and/or Ortega and Stokes) the grantee. (2) OUTCOME has the trap-2 shape: Board REJECTION 14 Mar 1854 reversed by the District Court 21 Sept 1855. *** MEASUREMENT DEFECT IN THE STRATUM DEFINITION, REPORT UPWARD. *** This record's hoffman_1862 is NULL and its hoffman_flags is []. 'Unflagged' here does NOT mean the 1862 printed table agreed with the register - there was no Hoffman row to compare at all. Two of my six (rancho-temecula, rancho-todos-santos-san-antonio) are of this type, so the unflagged stratum is a mixture of 'checked and agreed' and 'never checked' and the two should not carry the same prior. RE-READ TARGETING (free, no PDF needed): MARC 500 'Spanish text on pages 11-25, 36-44, 47-51, 56'; MARC 300 '1 portfolio (124p.)'. The concession expediente is in stamped pp. 11-25, inside a --pages 1-30 fetch. Also settle whether the file contains one grant or both 1844 grants, and what became of Julian Manrique's earlier claim (Bancroft IV, 621). Bowman's '(2) Dec. 14, 1844, to Deliz Valdez' is a garble; the same MARC record's 600/700 authority reads 'Valdez, Felix', and Bancroft IV, 621 reads 'Felix Valdes'. Also on file: microfilm BANC MSS C-A 300 FILM 119 SD; associated map B-1118 at content.cdlib.org/ark:/13030/hb5g5005vn/."
+ },
+ {
+  "id": "rancho-tinaquaic",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267544/files/cubanc_lcf_sd200.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 60,900,862 bytes, via /api/v1/record/267544/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 267544: 'Tinaquaic (also called \"Tinacal\" or \"Tinacaic\") [Santa Barbara County] Guillermo Domingo Foxon, Claimant. Case no. 200, Southern District of California.'; MARC 651 'Rancho Tinaquaic (Calif.)'. Register name 'Tinaquaic' agrees. Bancroft, Hist. Cal. III, 656 spells it 'Tinaguaic'. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. TWO-DATE CASE. MARC 520 (Bowman I, 834): 'Granted by Alvarado May 16, 1837, and on Apl. 29, 1842, to define the boundaries'. Bancroft III, 656: '1837'. Hoffman 1862: 1837. Register 1837 matches the original concession, but the decree was not seen and the 1842 boundary instrument is a second date a re-reader must not mistake for it."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 834) and Hoffman 1862 ('Juan B. Alvarado') both give Alvarado. Register agrees. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. *** OPEN CONFLICT, AND HERE THE EVIDENCE FAVOURS THE REGISTER AGAINST THE BANCROFT CATALOGUE. *** For the register: Hoffman 1862, court no. 200, grantee 'Victor Linares'; Bancroft, Hist. Cal. III, 656 (Santa Barbara grant list) 'Tinaguaic, 2 l., 1837, Victor Linares; Wm D. Foxen cl.'; Bancroft Pioneer Register, Hist. Cal. IV, 714 'L. (Victor), soldier at S. Diego '26 ... in '37 grantee of Tinaquaic. iii. 656, 557'. Against the register: MARC 520 (Bowman I, 834) 'Granted by Alvarado May 16, 1837 ... to Guillermo Domingo Foxon', and MARC 700 which gives Foxen all three roles, Claimant, Grantee AND Patentee. Bancroft's Pioneer Register entry for Foxen says only that 'A few years later he BECAME OWNER of the Tinaquaic rancho' (Hist. Cal. III, 762), i.e. by purchase, not by grant. Decree not seen; graded UV, not OK, because the register cannot be credited on a contested field without it."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 200 SD'; MARC 035 '(landcasefiles)cubanc_lcf_sd200'; MARC 856 '.../record/267544/files/cubanc_lcf_sd200.pdf'. Register 'SD 200' agrees; Hoffman court no. 200 agrees."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520: 'Confirmed by the Board Feb. 7, 1853. Confirmed by the District Court Oct. 5, 1855; appeal dismissed Feb. 5, 1857.' Confirmation at first instance, so no trap-2 reversal here, and Hoffman 1862 also records 'confirmed'. Decrees not seen."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "suspected_corrections_unverified": {},
+  "notes": "NULL READ, cause external (AWS WAF challenge). *** THE METHODOLOGICALLY IMPORTANT RECORD OF MY SIX, AND IT CUTS THE OTHER WAY: here the register looks RIGHT and the Bancroft Library catalogue looks WRONG. *** Hoffman's 1862 table and Bancroft's Hist. Cal. (twice, at III, 656 and in the Pioneer Register at IV, 714) both make Victor Linares the 1837 grantee and William D. Foxen the claimant, exactly as the register has it. Only the digicoll MARC record says Foxen was the grantee, and it does so in a form that is itself the tell. *** A REUSABLE RULE FOR THE REST OF THE PASS. *** In this record the MARC 700s assign ONE person (Foxen) all three roles - Claimant, Grantee and Patentee - and there is no separate grantee heading at all. Compare my other five: where the grantee genuinely differs from the claimant, the same catalogue does list them separately (Temecula: Ortega/Stokes/Valdez as Grantee vs Vignes as Claimant; Tequepis: Joaquin Villa as Grantee vs Antonio M. Villa as Claimant; Tepusquet: Olivera as Grantee vs Cota as Claimant; El Toro: Estrada as Grantee vs Walters as Claimant). SO: when a case file's MARC 700 block collapses Claimant + Grantee + Patentee onto a single name, the grantee attribution is an artifact of the cataloguing, not evidence, and must not be used to contradict the register. Two of my six show this collapse - rancho-tinaquaic and rancho-todos-santos-san-antonio - and both are cases where Bancroft's grant list names a DIFFERENT grantee. Any agent using digicoll metadata as a substitute for the decree during this outage needs this rule or it will manufacture false errors. PROSOPOGRAPHY: 'Guillermo Domingo Foxon' = William Benjamin Foxen, 1800-1874, English sailor who came on the Courier in 1820, baptised Wm Domingo, married Eduarda Osuna (or Olivera), naturalised 1837 (Bancroft, Hist. Cal. III, 762) - the Foxen of Foxen Canyon. Victor Linares was a San Diego soldier of 1826, majordomo at San Luis Obispo 1839-40 and militia alferez, grantee of Canada de los Osos in 1842, juez at San Luis in 1846 (Bancroft IV, 714). Two entirely distinct men; this is not a spelling variant. RE-READ TARGETING (free, no PDF needed): MARC 300 '1 portfolio (54p.)' - the smallest file of my six, 60.9MB; MARC 500 'Spanish text on pages 8-13, 21-24'. The 1837 concession and the 1842 boundary instrument should both sit in stamped pp. 8-24, so --pages 1-30 settles it. THIS IS THE CHEAPEST DECISIVE READ IN THE CHUNK - do it first when the WAF clears. Perez 1982 (line 4638) confirms the register's patent block: Tinaquaic, Foxen, 06/28/1872, GLO 359, 8,874.60 acres. Associated map B-1224 at content.cdlib.org/ark:/13030/hb7t1nb4kx."
+ },
+ {
+  "id": "rancho-todos-santos-san-antonio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268979/files/cubanc_lcf_sd357.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 186,338,793 bytes, via /api/v1/record/268979/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 268979: 'Todos Santos y San Antonio [Santa Barbara County] Guillermo E. Hartnell, Claimant. Case no. 357, Southern District of California.'; MARC 651 'Rancho Todos Santos y San Antonio (Calif.)'. Register 'Todos Santos Y San Antonio' agrees. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 835): 'Granted by Alvarado Aug. 28, 1841'. Bancroft, Hist. Cal. IV, 642 independently: 'Todos Santos y S. Antonio, 5 l., 1841'. Register 1841 agrees with both, but the decree was not seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 835) names Alvarado. Register agrees. hoffman_1862 is null for this record, so there is NO printed-table cross-check. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. *** OPEN CONFLICT. *** MARC 520 (Bowman I, 835): 'Granted by Alvarado Aug. 28, 1841, to W. E. P. Hartnell', and MARC 700 gives Hartnell all three roles (Claimant, Grantee, Patentee). Against this, Bancroft, Hist. Cal. IV, 642 (Santa Barbara grant list): '*Todos Santos y S. Antonio, 5 l., 1841, Salvador Osio; Wm E. Hartnell cl.' - i.e. Osio grantee, Hartnell claimant. Note that the collapsed-roles shape of the MARC 700 block is the same tell flagged at rancho-tinaquaic, where the collapse is demonstrably wrong. No Hoffman row exists for this record. Decree not seen; cannot be resolved from the pages read (none)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 357 SD'; MARC 035 '(landcase)cubanc_lcf_sd357'; MARC 856 '.../record/268979/files/cubanc_lcf_sd357.pdf'. Register 'SD 357' agrees. Coincidence worth noting so it is not mistaken for a copy error: the docket number (357 SD) and the GLO map number (357) are the same integer for this rancho."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 835): 'Confirmed by the Board Aug. 7, 1855. Confirmed by the District Court Jan. 22, 1857. Appeal dimissed by the Supreme Court Mar. 8, 1864, by mandate.' A three-stage chain the register's bare 'Confirmed' flattens. Bancroft IV, 642 marks this grant with an asterisk, defined on the same page as 'Grants marked * were rejected by the L. C. or U. S. courts', which cannot be literally right given the 1876 patent, but is an unexplained contrary signal. Decrees not seen."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "suspected_corrections_unverified": {
+   "grantee": "Possibly Salvador Osio, with Hartnell as claimant only - per Bancroft Hist. Cal. IV, 642. Directly contradicted by Bowman I, 835. Genuinely open; NOT decree-verified and NOT to be applied without the decree."
+  },
+  "notes": "NULL READ, cause external (AWS WAF challenge). *** MEASUREMENT DEFECT: this is the second of my six whose hoffman_1862 is NULL while hoffman_flags is []. *** It is in the unflagged stratum because there was nothing to compare it to, not because the 1862 table agreed. It therefore carries NO independent confirmation of governor or grantee at all, and it happens to be the record with the sharpest unresolved grantee conflict. Treating 'unflagged' as evidence of cleanliness is exactly backwards here. THE GRANTEE CONFLICT IN PLAIN TERMS: Bowman (and the register) say Alvarado granted to W. E. P. Hartnell on 28 Aug 1841; Bancroft's own Santa Barbara grant list says the 1841 grantee was Salvador Osio and Hartnell was merely the claimant. Both agree on 1841 and on 5 leagues. I cannot rank them without the decree, and I note that Bancroft was RIGHT and the catalogue WRONG on the parallel conflict at rancho-tinaquaic in this same chunk - so this is not a conflict that can be waved away in the catalogue's favour. *** RE-READ TARGETING - THIS ONE BREAKS THE STANDING --pages 1-30 RECIPE. *** MARC 300 '1 portfolio (166p.)', the largest of my six (186.3MB); MARC 500 'Spanish text on pages 44-47, 51-56, 61-62, 65-69, 76-79, 92-102, 138-141'. THERE IS NO SPANISH BEFORE STAMPED PAGE 44, so a --pages 1-30 fetch would return no concession at all and would invite a false UV or, worse, a grade taken off the claim petition. Fetch --pages 1-12,40-80 (the first Spanish block at stamped pp. 44-47 is the likely concession, with pp. 92-102 a probable second expediente or the Supreme Court record). Remember the stamped/image drift: stamped p. 44 will sit several images later than PDF image 44. OUTCOME ran all the way to the U.S. Supreme Court (appeal dismissed by mandate 8 Mar 1864); the register's 'Confirmed' loses both the District Court and Supreme Court stages. Patent 20 Dec 1876 to the heirs of William E. P. Hartnell, 20,772.17 acres, GLO 357 - all three confirmed independently by Perez 1982 (vault perez1982.txt line 4641), and the register matches. Also on file: microfilm BANC MSS C-A 300 FILM 357 SD; associated maps B-1405 and D-1404 at content.cdlib.org."
+ },
+ {
+  "id": "rancho-toro",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265853/files/cubanc_lcf_sd112.pdf (UNREACHABLE - AWS WAF challenge; file confirmed to exist, 116,151,086 bytes, via /api/v1/record/265853/files/)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 245 for digicoll 265853: 'Toro [Monterey County] Charles Walters, Claimant. Case no. 112, Southern District of California.'; MARC 651 'Rancho El Toro (Calif.)'. Register 'El Toro' agrees with the 651 heading; the case caption itself reads simply 'Toro'. Hoffman 1862 also 'El Toro'. Not verified against the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520 (Bowman I, 839): 'Granted by Castro Oct. 17, 1835'. Bancroft, Hist. Cal. III, 677 (Monterey grant list): 'Toro, 1 1/2 l., 1835, Ramon Estrada'. Hoffman 1862: 1835. Register 1835 agrees with all three, but the decree was not seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. *** THE FIELD MOST LIKELY TO MOVE ON THIS RECORD, AND THE REGISTER HEDGES RATHER THAN NAMES. *** Register: 'the interim government' (era tag 'interim'). MARC 520 (Bowman I, 839) names a person: 'Granted by CASTRO Oct. 17, 1835' - Jose Castro held the jefatura politica ad interim after Figueroa's death on 29 Sept 1835. Hoffman 1862's governor cell for court no. 112 is NULL, so the printed table says nothing. AND Bancroft, Hist. Cal. III, 677 records that the granting authority was itself litigated: 'much trouble about the right of the AYUNTAMIENTO to grant this rancho, which was claimed by the military company' - i.e. the instrument may not be a gubernatorial concession at all. Whether 'the interim government' is OK, PART (right entity, imprecise form, correct name Jose Castro) or ERR (wrong organ entirely, if the grant ran from the Monterey ayuntamiento) cannot be settled without reading the decree's signature block."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. All available sources support the register. MARC 700: 'Estrada, Jose Ramon, 1810-1845 | Grantee' and, separately, 'Walters, Charles Luis, approximately 1792-1856 | Claimant' + '| Patentee' - a properly SPLIT role block, not the collapsed kind flagged at rancho-tinaquaic. MARC 520 'to Jose Estrada'. Bancroft III, 677: 'Toro, 1 1/2 l., 1835, Ramon Estrada; C. Wolters cl.' Hoffman 1862, court no. 112: 'Jos<5 Bamon Estrada' (OCR of 'Jose Ramon Estrada'). Decree not seen, so not graded OK."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF READ - catalogue evidence only. MARC 024 'BANC MSS Land Case Files 112 SD'; MARC 035 '(landcasefiles)cubanc_lcf_sd112'; MARC 856 '.../record/265853/files/cubanc_lcf_sd112.pdf'. Register 'SD 112' agrees; Hoffman court no. 112 agrees. MARC 520 'Associated Case Numbers' also lists '11 ND' for this rancho - a second docket a re-reader should not confuse with the SD one."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "UV - source unreachable: digicoll.lib.berkeley.edu answered HTTP 202 with header 'x-amzn-waf-action: challenge' and a 0-byte body on every request for this PDF; zero PDF pages read. Not graded from the decree. MARC 520: 'Confirmed by the Board Dec. 22, 1852. Confirmed by the District Court Oct. 5, 1855; appeal dismissed Feb. 24, 1857.' Confirmation at first instance, so no trap-2 reversal, and Hoffman 1862 also records 'confirmed'. Decrees not seen."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "suspected_corrections_unverified": {
+   "governor": "Jose Castro, jefe politico ad interim, per Bowman I, 839 ('Granted by Castro Oct. 17, 1835') - but see Bancroft III, 677 on the disputed right of the Monterey ayuntamiento to make this grant. The register's 'the interim government' may be a deliberate and defensible hedge. NOT decree-verified."
+  },
+  "notes": "NULL READ, cause external (AWS WAF challenge). GRANTEE, YEAR, NAME, LAND_CASE and OUTCOME all corroborated four ways (Bowman I, 839; Bancroft Hist. Cal. III, 677; Hoffman 1862; the case file's own MARC role coding) - on the catalogue evidence this is the second-cleanest of my six after rancho-tepusquet, and it is a POSITIVE CONTROL on the dominant error class: every condition for a claimant-for-grantee substitution is present (the grantee Jose Ramon Estrada died in 1845, the American claimant Charles Walters bought in and took the 1862 patent) and the register nevertheless keeps Estrada in the grantee slot and Walters in patent_to. THE ONE LIVE QUESTION IS THE GRANTING AUTHORITY, and it is more interesting than a copy error. Figueroa died 29 Sept 1835; the grant is dated 17 Oct 1835, inside the interim. Bowman attributes it to Castro. But Bancroft records that the case turned in part on 'the right of the ayuntamiento to grant this rancho, which was claimed by the military company', which raises the possibility that the instrument issued from the Monterey ayuntamiento rather than from the acting jefe politico. The register's 'the interim government' is vague enough to be either right or evasive. A re-reader should photograph the signature block and the attestation, not just the dispositive clause. *** RE-READ TARGETING - DO NOT USE --pages 1-30 HERE EITHER. *** MARC 300 '1 portfolio (124p.)'; MARC 500 'Spanish text on pages 20-34, 48-58, 67-76, 85-86'. The first Spanish block begins at stamped p. 20 and runs to p. 34, and because the stamped numbers run 4-14 BEHIND the PDF image index, stamped p. 34 will fall somewhere around image 40-48. A --pages 1-30 fetch would cut the expediente in half. Fetch --pages 1-12,18-50. Perez 1982 and the register agree on the patent block: Charles Walters, 07 Oct 1862, GLO 275, 5,668.41 acres, recorded in Salinas. Associated maps B-1106, B-1108, D-1107 at content.cdlib.org."
+ }
+]

@@ -1,0 +1,253 @@
+[
+ {
+  "id": "rancho-pescadero",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266117/files/cubanc_lcf_sd157.pdf",
+  "pdf_pages_stated": 517,
+  "pages_read": [
+   "1-24",
+   "58-68",
+   "533-544"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title, stamped 157 SD PAGE 1 (PDF img 5): 'for the place named \"El Pescadero\"'; Board petition stamped p.2 (img 7) same. Binder's red label (img 1, unstamped) reads 'EL PESCAERO GRANT' -- a gilt-stamping typo for Pescadero, not an alternate name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree in the Spanish expediente, stamped 157 SD PAGE 14 (PDF img 20): 'Monterrei Febro. 29 de 1836 ... he venido en declararle dueño absoluto del terreno conocido con el nombre del Pescadero al ciud.no Fabian Barreto, á reserva de la aprobacion de la Exma. Diputacion ... Nicolas Gutierrez'. Departmental Junta approval on the same leaf recites 'la concesion hecha por el Gobierno Departamental con fecha 29 de Febrero de 1836'. 1836 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Same decree, stamped p.14 (img 20), signed 'Nicolas Gutierrez' and styled 'El Sor. Dn. Nicolas Gutierrez, Tente Coronel de Caballeria, ... Comandante General é Inspector, y Jefe Politico de la Alta California'. District Court opinion, stamped p.517 (img 543): 'a grant from Nicholas Gutierrez Governor ad interim of California'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped p.14 (img 20) grants to 'el ciud.no Fabian Barreto'; expediente caption stamped p.7 (img 13) 'Espediente promovido ... por Fabian Barreto. 151'; District Court opinion stamped p.517 (img 543) 'to one Fabian Barreto'. Register's 'Barretto' doubles the t; every hand in the file writes 'Barreto' (single t). Right person, orthographic variant only -- Hoffman 1862 prints the same doubled form."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img 1: 'CASE No. 157 / SOUTHERN DISTRICT'; every leaf stamped '157 SD'; D.C. wrapper img 64 'No. 157 Docket, U.S. District Court, Southern District of California'; PDF filename cubanc_lcf_sd157.pdf. Board docket no. was 564 (stamped p.1, img 5) -- matches hoffman_1862.commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Final result is confirmation, but ONLY on appeal. Board REJECTED: decree stamped 157 SD PAGE 49 (img 61) 'it is adjudged by the Commission that the said claim of the petitioner is not valid and his application for a confirmation thereof is therefore denied' -- Felch, Campbell, Thompson, filed Feb 28 1854 (opinion stamped p.47, img 59). Gore's notice of appeal stamped p.51 (img 65), 9 Sept 1854. District Court opinion on the FINAL leaf, stamped 157 SD PAGE 517 (img 543): 'the grant limits the extent of the land to one square league -- the claimant is therefore entitled to a confirmation of his claim to that extent within the exterior boundaries called for in the grant ... A decree will be accordingly.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "544 PDF images / 517 stamped transcript pages; single volume. Stamp-vs-image drift: img 5 = stamped p.1, img 20 = p.14, img 59 = p.47, img 68 = p.54, img 543 = p.517; a THIRD pencil foliation runs consistently one behind the stamp (img 61 = pencil 48, stamp 49), so cite the stamp. TRAP 2 IS PRESENT HERE and the register's bare 'Confirmed' hides it: the Land Commission rejected this claim outright on 28 Feb 1854 for a broken chain of title (no deed from Barreto to Romie in evidence), and confirmation came only from the U.S. District Court. I read the D.C. OPINION (stamped p.517) but not the formal decree it directs; the digicoll catalogue record for this item states District Court confirmations of Jan 21 1856, Aug 15 1858 and Feb 13 1865 plus a Supreme Court dismissal by mandate Dec 7 1857 -- those papers sit in the ~470 pages I did not read (stamped pp. 55-506). DATE DISAGREEMENT INSIDE THE FILE: the Spanish original decree is dated 'Febrero 29 de 1836' (1836 was a leap year) and the Junta's own approval recites 29 February 1836, but every English-language document in the case -- the claim petition (stamped p.4, img 9, 'on or about the 3rd of March 1836'), Felch's Board opinion (stamped p.47, img 59, 'March 3rd 1836'), the claimant's derainment of title (stamped p.54, img 68, 'Deed of Concession from Gov Gutierrez to Fabian Barreto March 3d 1836') and the District Court opinion (stamped p.517, img 543, 'dated March 3d 1836') -- says 3 March 1836. Year is 1836 either way, but any day-level date in the register should follow the Spanish: 29 Feb 1836. Note also the register/Hoffman 'Alvarado approved 30 May 1840' tradition: the expediente (stamped p.14, img 20) shows the committee report of 21 May 1840 approved in Junta session 22 May 1840 (Manuel Jimeno presiding), read to the assembly 30 May 1840. TRANSPORT NOTE: digicoll.lib.berkeley.edu is now behind an AWS WAF JS challenge (HTTP 202 + x-amzn-waf-action: challenge) that blocks curl, urllib and scripts/fetch_case_pages.py entirely; the PDF had to be pulled through the Chrome extension. See the run notes."
+ },
+ {
+  "id": "rancho-piedra-blanca",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266080/files/cubanc_lcf_sd043.pdf",
+  "pdf_pages_stated": 48,
+  "pages_read": [
+   "1-24",
+   "29-38",
+   "50-59"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label PDF img 1: 'CASE No. 43 / SOUTHERN DISTRICT / PIEDRA BLANCA GRANT / JOSE DE JESUS PICO CLAIMANT'; Transcript title stamped 43 SD PAGE 1 (img 5) 'for the place named \"Piedra Blanca\"'; grant decree calls it 'el terreno conocido con el nombre de la Piedra Blanca' (stamped p.12, img 18)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish concession decree, stamped 43 SD PAGE 13 (img 19): 'Dado en Monterey à Diez y ocho de Enero de mil ochocientos cuarenta. Juan B. Alvarado. Manuel Jimeno Srio.' Its sworn English translation, stamped p.9 (img 15), agrees exactly: 'Given in Monterey on the 18th of January 1840.' Board opinion stamped p.22 (img 31) and District Court opinion stamped p.44 (img 55) both recite 18 January 1840. 1840 confirmed; no Spanish/English date conflict in this file."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree opens 'Juan Bautista Alvarado Gobernador constitucional del departamento de las Californias' (stamped p.12, img 18) and is signed 'Juan B. Alvarado' (stamped p.13, img 19). Departmental Assembly minute, stamped p.11 (img 17): 'Sesion del dia 22 de Mayo. N. 189. Se aprueba la concesion hecha por el S.r Gobernador D. Juan B Alvarado del terreno Piedra Blanca en la persona del S.r D.n José de Jesus Pico.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree, stamped p.12 (img 18): 'Por cuanto el C.no Jose de Jesus Pico ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de la Piedra Blanca ... he venido en concederle el terreno mencionado'. Judicial possession delivered to 'D.n J. de Jesus Pico' by Alcalde J. Mariano Bonilla of San Luis Obispo, 24-25 Sept 1842 (stamped pp.13-16, imgs 19-23). NOTE: the Mexican grantee and the U.S.-era claimant are the SAME man here, so the usual claimant-for-grantee substitution cannot have occurred."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img 1 'CASE No. 43 SOUTHERN DISTRICT'; every leaf stamped '43 SD'; District Court wrapper img 34 'No. 43 Docket, U.S. District Court, Southern District of California ... Transcript of the Record ... In Case No. 302'; PDF filename cubanc_lcf_sd043.pdf. Board docket 302 = hoffman_1862.commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at every level and the appeal abandoned. Board: opinion of Comr. Alpheus Felch, stamped 43 SD PAGE 22 (img 31), 'The claim is confirmed', filed 13 Dec 1853; Decree of Confirmation on the same and following leaf (stamped pp.22-23, imgs 31-32) signed Felch, R. Aug. Thompson, Thompson Campbell. U.S. appealed (AG notice 30 Nov 1854, stamped p.25, img 35). District Court opinion, stamped pp.44-45 (imgs 55-56): 'We therefore affirm the decision of the Commissioners and a decree to that effect will be entered.' Attorney General to U.S. Attorney Ord, 10 Sept 1856, stamped p.42 (img 53): 'confirmed to the claimant by the Commissioners, Case no. three hundred and two (302), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "59 PDF images / 48 stamped transcript pages ('LAND CASE 43 SD PAGES 48', img 2); single volume. Stamp drift: img 5 = stamped p.1, img 15 = p.9, img 19 = p.13, img 31 = p.22, img 55 = p.44, img 59 = p.48. A pencil folio runs one AHEAD of the stamp from stamped p.22 on (img 31 = pencil 23 / stamp 22), so the pencil number is not citable. Clean record: all six fields agree with the decree, and unusually the file carries BOTH the Spanish original (stamped pp.12-13) and its sworn translation (stamped pp.9-10) of the same concession, which agree on 18 Jan 1840. The only U.S.-side dispute was the missing diseno, which the District Court held insufficient to invalidate the grant (stamped p.45, img 56). Register's patent claims (Pico, 9 Oct 1876, GLO 321, 48,805.59 ac) are NOT in this file; the digicoll catalogue record repeats them and adds 'Toma 47, Expediente 189' -- Phase C."
+ },
+ {
+  "id": "rancho-pinole",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265798/files/cubanc_lcf_nd205A.pdf + .../cubanc_lcf_nd205B.pdf (TWO VOLUMES)",
+  "pdf_pages_stated": 664,
+  "pages_read": [
+   "vol A imgs 1-24",
+   "vol A imgs 29-40",
+   "vol A imgs 58-73",
+   "vol B imgs 1-2",
+   "vol B imgs 326-337"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red labels of both volumes (vol A img 1, vol B img 1): 'CASE NO. 205 A / NORTHERN DISTRICT / PINOLE GRANT'; Spanish expediente cover, stamped 205 ND PAGE 24 (vol A img 32): 'Espediente promovido por Don Ignacio Martinez en pretencion del Parage nombrado el \"Pinole\". Año de 1842'; Board decree stamped p.51 (img 63) 'the Rancho called De Pinole'. The register's parenthetical '(Martinez)' is a disambiguator, not part of the archival name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession título, stamped 205 ND PAGE 32 (vol A img 40): 'Dado en Monterey à primero de Junio de mil ochocientos cuarenta y dos.' The governor's decree on the expediente, stamped p.28 (img 36), opens 'Monterey 1.o de Junio de 1842.' 1842 confirmed. (A separate, EARLIER concession by Gov. Luis Argüello in 1823 is recited at stamped p.25, img 33, as the lost paper this 1842 grant replaced -- the register's 1842 is the operative grant, and the file itself says so.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Título, stamped 205 ND PAGE 31 (vol A img 39): 'Juan B. Alvarado Gobernador Constitucional del Departam.to de las Californias. Por Cuanto el teniente D.n Ignacio Martinez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"Pinole\"...'; Board opinion stamped p.50 (img 62) 'a grant issued to the deceased by Governor Juan B. Alvarado bearing date the first day of June 1842'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "WRONG PERSON -- the register recorded the U.S.-era lead CLAIMANT/patentee instead of the Mexican grantee. The grant runs to IGNACIO MARTINEZ. Título, stamped 205 ND PAGE 31-32 (vol A imgs 39-40): 'Por Cuanto el teniente D.n Ignacio Martinez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"Pinole\" ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Governor's decree, stamped p.28 (img 36): 'declaro à D.n Ignacio Martinez dueño del parage nombrado el Pinole'. Expediente cover, stamped p.24 (img 32): 'Espediente promovido por Don Ignacio Martinez'. Maria Antonia Martinez de Richardson was his DAUGHTER and the first-named of some 17 heirs who filed the 1852 claim: petition, stamped p.5 (img 12), 'Claim of the heirs of Ignacio Martinez to the Rancho del Pinole'; Board decree caption, stamped p.51 (img 63), 'Ma. Antonia Martinez de Richardson et al heirs at Law of Ignacio Martinez deceased'. Ignacio Martinez died May 1848 (Manuel Torres depn., stamped p.13, img 20), four years before the claim was filed, so he could not have been the claimant and she could not have been the grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red labels 'CASE NO. 205 A' and 'CASE NO. 205 B / NORTHERN DISTRICT'; every leaf stamped '205 ND'; filenames cubanc_lcf_nd205A.pdf / nd205B.pdf. Board docket was No. 284 (transcript title, stamped p.1, vol A img 6) = hoffman_1862.commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, stamped 205 ND PAGE 51 (vol A img 63): 'it is adjudged by the Board that the claim herein is valid and a decree of Confirmation of the Grant to the several Claimants in the amended Petition mentioned agreeable to their respective rights of the Rancho called De Pinole' -- Felch, R. Aug. Thompson, S. B. Farwell, filed 24 Oct 1854; opinion at stamped p.50 (img 62). District Court (vol B): Ogden Hoffman's opinion approving the survey, stamped p.660 (vol B img 335), endorsed filed 5 April 1866, refers throughout to 'the land confirmed herein' and 'the decree'; order granting appeal, stamped p.661 (vol B img 336), 20 Aug 1866, describes it as 'the decree of this Court approving the survey of the land confirmed herein'. The only later appeal (to the Circuit Court) was taken by INTERVENORS over the survey's location, not over confirmation."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Ignacio Martinez, per the concession título, stamped 205 ND PAGE 31 (vol A PDF img 39): 'el teniente D.n Ignacio Martinez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"Pinole\"'. Maria Antonia Martinez de Richardson was his daughter, the first-named of ~17 heirs who claimed, and the first-named patentee in 1868 -- not the grantee."
+  },
+  "notes": "MULTI-VOLUME (trap 1): vol A = stamped pp.1-330 (345 images), vol B = stamped pp.331-664 (337 images); flyleaves state 'LAND CASE 205A ND 330 PAGES' and 'LAND CASE 205B ND. PP 331-664'. I read both volumes' relevant ends. Stamp drift, vol A: img 6 = stamped p.1; imgs 12-24 = pp.5-17 (p = img-7); img 32 = p.24; img 36 = p.28; img 40 = p.32; img 62 = p.50; img 63 = p.51. CAUTION: from about stamped p.22 on, a PENCIL folio runs ONE AHEAD of the Bancroft stamp (img 36 = pencil 29 / stamp 28), and the transcript's own internal cross-references ('Vide page 55 of this Transcript') use the PENCIL number, so 'page 55' in the docket entries = stamped p.50. Vol B drift: img = stamped - 327 (img 335 = stamped p.660). THIS IS THE CHUNK'S ONE SUBSTANTIVE ERROR and it is exactly the dominant class: claimant recorded for grantee. HOFFMAN 1862 IS RIGHT AND THE REGISTER IS WRONG -- Hoffman prints 'Ygnacio Martinez' as grantee, yet hoffman_flags for this record is EMPTY, so the flagging comparison failed to catch a total substitution of one person for another (probably matched on the shared surname 'Martinez'). Any other unflagged record whose register grantee shares a surname with Hoffman's grantee should be treated as unchecked. Two-stage grant history worth recording: Luis Argüello gave Martinez possessory rights in 1823 for military service, that paper was lost, and Alvarado's 1 June 1842 título replaced it (Comision de Colonizacion report, stamped p.25, vol A img 33: 'se le ha extraviado el Documento de Concecion dado p.r el Gobernador interino Cap.n D.n Luis Arguello ... en el año de 1823'). The register's 1842/Alvarado is the operative grant."
+ },
+ {
+  "id": "rancho-piojo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267554/files/cubanc_lcf_sd210.pdf",
+  "pdf_pages_stated": 76,
+  "pages_read": [
+   "1-24",
+   "29-34",
+   "74-83"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label img 1: 'CASE No. 210 / SOUTHERN DISTRICT / EL PIOJO GRANT / THE HEIRS OF JOAQUIN SOTO / CLAIMANT'; Transcript title stamped 210 SD PAGE 1 (img 4) 'for the place named \"El Piojo\"'; Spanish expediente cover stamped p.10 (img 14) 'Espediente promovido por el Ciudadano Joaquin Soto en Solicitud del parage conocido con el nombre del Piojo. 1842. [292]'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession título, stamped 210 SD PAGE 20 (img 24): 'Dado en Monterey à Veinte de Agosto de mil ochocientos cuarenta y dos. Juan B. Alvarado. Man.l Jimeno Srio.' The governor's decree on the expediente, stamped p.12 (img 16), 'Monterey 20 de Ag.to de 1842 ... declaro al C.no Joaq.n Soto Dueño en propiedad del paraje nombrado el Piojo'. The sworn English translation, stamped p.17 (img 21), agrees: 'Monterey August 20th 1842 ... I declare the Citizen Joaquin Soto owner in fee of the place called the Piojo'. 1842 confirmed, Spanish and English in agreement."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Título, stamped 210 SD PAGE 19 (img 23): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto el Ciudadano Joaquin Soto ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre del Piojo...'; signed 'Juan B. Alvarado' on stamped p.20 (img 24). Board decree stamped p.26 (img 32): 'granted by the Governor Juan B Alvarado to Joaquin Soto by title issued on 20th of August 1842'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Título, stamped 210 SD PAGE 19 (img 23): the grant runs to 'el Ciudadano Joaquin Soto'; governor's decree stamped p.12 (img 16) 'declaro al C.no Joaq.n Soto Dueño en propiedad del paraje nombrado el Piojo'; Board opinion stamped p.24 (img 30) 'the Original grant made by Governor Juan B Alvarado to the Ancestor of the present claimants, Joaquin Soto, on the 20th of August 1842'. NOTE this is a CONTROL for the rancho-pinole error class: here too the U.S. claimants were the heirs (red label and transcript title both read 'The Heirs of Joaquin Soto, Claimants'), and the register nonetheless recorded the grantee correctly. Soto died in 1852 (Hartnell depn. stamped p.5, img 9; Manuel Castro depn. stamped p.8, img 13)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img 1 'CASE No. 210 SOUTHERN DISTRICT'; every leaf stamped '210 SD'; District Court caption stamped p.67 (img 74) 'No. 210 ... El Piojo'; Board docket 'L.C. No 552' (Transcript title stamped p.1, img 4) = hoffman_1862.commission_no 552; PDF filename cubanc_lcf_sd210.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, stamped 210 SD PAGE 26 (img 32): 'it is adjudged by the Commission that the claim of the petitioners is valid and it is therefore decreed that the same be Confirmed. The Land of which Confirmation is made ... is known by the name of \"El Piojo\" being the same which was granted by the Governor Juan B Alvarado to Joaquin Soto by title issued on 20th of August 1842' -- Felch, R. Aug. Thompson, S. B. Farwell, filed 27 Sept 1854 (opinion stamped pp.24-25, imgs 30-31). The District Court confirmation is recited in its own later papers: intervenor's exceptions, stamped p.69 (img 76), refer to 'the decree of this Court herein, confirming said grant to the heirs of said Joaquin Soto', and the order of 29 Jan 1862, stamped pp.73-74 (imgs 80-81), recites that the Surveyor General 'approved a survey of the Rancho claimed in the above case, and confirmed to the Claimants'. Final act in the file, stamped p.75 (img 82): Judge F. M. Haight lets intervenor Leonetto Cipriani withdraw his survey exceptions and dismisses the opposition, filed 29 Jan 1862. Nothing in the file disturbs the confirmation."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "83 PDF images / 76 stamped transcript pages; single volume; the Board transcript proper is 28 pages (Fisher's certificate, stamped p.28, img 34, 28 Feb 1855), the rest is District Court survey litigation. Stamp drift: img 4 = stamped p.1, img 14 = p.10, img 24 = p.20, img 32 = p.26, img 74 = p.67, img 83 = p.76 (last). A pencil folio runs ONE AHEAD of the stamp throughout (img 32 = pencil 27 / stamp 26); the transcript's internal 'Vide page N' references use the pencil number, so the index's 'page 25' opinion = stamped p.24. CLEAN RECORD -- all six fields agree with the decree, and the file carries the Spanish título (stamped pp.19-20), the espediente copy certified by Surveyor General John C. Hays 3 Oct 1853 (stamped p.15, img 19), AND a sworn English translation (stamped pp.16-17), all agreeing on 20 Aug 1842 / Alvarado / Joaquin Soto. Worth flagging for a later phase: the U.S.-era successor in interest was Leonetto Cipriani, an Italian nobleman and Sardinian consul at San Francisco, who intervened in 1860 as 'the grantee and successor in interest of the above-named claimants' (stamped p.74, img 81) -- the register's patent_to 'the heirs of Joaquin Soto' is therefore the patentee of record even though Cipriani held the beneficial interest by then."
+ },
+ {
+  "id": "rancho-pismo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265861/files/cubanc_lcf_sd120.pdf",
+  "pdf_pages_stated": 68,
+  "pages_read": [
+   "1-22",
+   "47-57",
+   "74-82"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label img 1: 'CASE No. 120 / SOUTHERN DISTRICT / PISMO GRANT / ISAAC J. SPARKS / CLAIMANT'; Transcript title stamped 120 SD PAGE 1 (img 5) 'for the place named \"Pismo\"'; Spanish expediente cover, stamped p.9 (img 15), 'Espediente promovido por el Ciudadano José Ortega, en pretencion del Parage del \"Pismo\". Año de 1840. (214)'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 120 SD PAGE 12 (img 18): 'Monterey 18 de N.bre de 1840. Vista la peticion con que da principio este espediente ... declaró á Don José Ortega dueño en propiedad del parage nombrado el Pismo'. Título on the following leaves ends 'Dado en Monterey á dies y ocho de N.bre de mil ochocientos cuarenta' (stamped p.14, img 20). Board opinion stamped p.44 (img 55) and District Court decree stamped p.61 (img 75) both say 18 November 1840. 1840 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The operative decree is signed by JIMENO as acting governor. Stamped 120 SD PAGE 13 (img 19), closing the 18 Nov 1840 decree: 'Estienda el despacho correspond.te y dirijase este Espediente á la Exma Junta Departamental. El Señor D.n Manuel Jimeno Gobernador interino del Departam.to de las Californias hasi lo mandó decretó y firmó de que doy fé. Jimeno.' Board opinion, stamped p.44 (img 55): 'a grant of the land claimed by him made to José Ortega by Manuel Jimeno, Acting Governor of the Californias on the 18th day of November 1840'. District Court decree, stamped p.61 (img 75): 'the grant of said lands made by Manuel Jimeno dated November 18, A.D. 1840, to Jose Ortega'. SEE NOTES: the engrossed título immediately following the decree is headed in ALVARADO's name, so this field is a trap that the register got right."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree, stamped 120 SD PAGE 12 (img 18): 'declaró á Don José Ortega dueño en propiedad del parage nombrado el Pismo'; título, stamped p.13 (img 19), 'Por cuanto Don José Ortega ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre del Pismo'. CONTROL for the claimant-for-grantee error class: the U.S. claimant here was Isaac J. Sparks, a purchaser under Ortega's deed of 29 May 1846 (translation, stamped pp.41-43, imgs 51-53), and the register recorded Ortega as grantee and Sparks as patentee -- correctly separated."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img 1 'CASE No. 120 SOUTHERN DISTRICT'; flyleaf img 2 'LAND CASE 120 SD 68 pgs.'; every leaf stamped '120 SD'; District Court caption stamped p.60 (img 74) 'No 120'; Board docket No. 362 (Transcript title stamped p.1, img 5) = hoffman_1862.commission_no; PDF filename cubanc_lcf_sd120.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at every level and the Supreme Court appeal formally vacated. Board: opinion of Comr. Alpheus Felch, stamped 120 SD PAGE 44 (img 55), 'He is entitled to a confirmation of the claim. Confirmed.', filed 21 March 1854; Decree of Confirmation on the same and next leaf (stamped pp.44-45, imgs 55-56), signed Felch, Thompson Campbell, R. Aug. Thompson. District Court, December Term 1856, stamped pp.60-61 (imgs 74-75): 'it is Ordered adjudged and decreed that the decision of said board confirming unto said Isaac J. Sparks ... be and the same is hereby affirmed and that the title of the said Isaac J. Sparks is a good and valid one' -- Isaac S. K. Ogier, U.S. District Judge, filed 24 Dec 1856 (endorsement stamped p.62, img 76). Attorney General to U.S. Attorney Ord, 27 Jan 1857, stamped p.64 (img 78): 'appeal will not be prosecuted by the United States'. Order of the December term 1857, stamped p.65 (img 79): 'the order granting an appeal to the supreme Court heretofore entered be vacated and that the claimant have leave to proceed upon the decree of this Court heretofore rendered, as a final decree', filed 1 March 1858 (stamped p.66, img 80)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "82 PDF images / 68 stamped transcript pages ('LAND CASE 120 SD 68 pgs.', img 2); single volume. Stamp drift: img 5 = stamped p.1, img 15 = p.9, img 18 = p.12, img 20 = p.14, img 55 = p.44, img 74 = p.60, img 82 = p.68 (last). A pencil folio runs BEHIND the stamp by one early on (img 15 = pencil 8 / stamp 9) and by TWO from about stamped p.38 (img 55 = pencil 42 / stamp 44); the transcript index's internal 'Vide page 42' therefore points at stamped p.44. THE GOVERNOR FIELD IS THE INTERESTING ONE AND THE REGISTER IS RIGHT. The expediente carries TWO instruments dated 18 Nov 1840 back to back: (1) the concession decree proper, stamped pp.12-13 (imgs 18-19), which declares Ortega owner and is signed 'Jimeno' and expressly styled 'El Señor D.n Manuel Jimeno Gobernador interino del Departam.to de las Californias'; and (2) the engrossed título that follows on stamped pp.13-14 (imgs 19-20), which is headed 'Juan Bautista Alvarado Gobernador Constitucional del Departamento de las Californias' -- the standard formula for the sitting constitutional governor -- and which in this Surveyor-General tracing (certified by Saml. D. King, 22 Oct 1852, stamped p.15, img 21) carries NO signature after 'Dado en Monterey á dies y ocho de N.bre de mil ochocientos cuarenta'. Anyone grading only the título would record Alvarado and be wrong; the Land Commission (stamped p.44), the District Court (stamped p.61), the authenticating witness J. R. Malo (stamped p.6, img 11: 'the grant ... by Manuel Jimeno to Jose Ortega Nov 18, 1840') and Hoffman 1862 all say Jimeno. Also worth recording for a later phase: Felch found 'No approval by the Departmental Assembly appears to have been given' (stamped p.44), and judicial possession was delivered 2 May 1842 per the Board but 'May 4, 1842' per the District Court decree (stamped p.61) -- a two-day discrepancy between two U.S. decrees in the same file. The register's patent line (Sparks, 16 Nov 1866, GLO 336) is not in this file, though the survey certificate approved 29 Jan 1861 and filed 9 Aug 1866 is (stamped p.67, img 81)."
+ },
+ {
+  "id": "rancho-pleyto",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268915/files/cubanc_lcf_sd288.pdf",
+  "pdf_pages_stated": 61,
+  "pages_read": [
+   "1-22",
+   "23-24",
+   "53-64",
+   "71-76"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red label img 1: 'CASE NO. 288 / SOUTHERN DISTRICT / PLEYTO GRANT / W. S. JOHNSON, ET AL / CLAIMANT'; Transcript title stamped 288 SD PAGE 1 (img 5) 'for the place named \"Pleyto\"'. The Spanish spells it PLEITO throughout -- espediente cover, stamped p.15 (img 20): 'Espediente promovido por Don Antonio Chaves, en pretencion del terreno llamado el Pleito. 187' -- and the Board caption (stamped p.42, img 53) writes 'Pleito' while the District Court decree (stamped p.56, img 75) writes 'Pleyto'. Register's 'Pleyto' matches the U.S. record and the binder's label; the digicoll catalogue also records 'Pleito' and 'San Bartolome' as alternates."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession título, stamped 288 SD PAGE 17 (img 23): 'Dado en la Ciudad de los Angeles á dies y ocho de Julio de mil ocho cientos cuarenta y cinco.' The Departmental Assembly's terrenos-baldíos committee, stamped p.17-18 (imgs 23-24), recites 'el paraje conocido con el nombre del Pleito que le fué concedido p.r el Sup.o Gobierno Departam.l con f.ha 18 de Julio del año p.p.do'. Chaves's own petition is dated 'Angeles. Junio 23 de 1845' (stamped p.16, img 22). Board opinion (stamped p.42, img 53) and District Court decree (stamped p.56, img 75) both say 18 July 1845. 1845 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Título heading, stamped 288 SD PAGE 16 (img 22): 'El Ciudadano Pío Pico Gobernador Interino del Departamento de las Californias. Por Cuanto D.n Antonio Chaves ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Pleito ... hé venido en concederle el terreno mencionado'. Pico signs the 8 May 1846 Assembly referral on stamped p.17 (img 23) with secretary Agustín Olvera. Board opinion stamped p.42 (img 53): 'a grant issued by Pio Pico Governor in the 18th day of July 1845'. NOTE the título styles him 'Gobernador Interino' while the claimants' District Court petition (stamped p.48, img 63) calls him 'then Constitutional Governor of California'; the register's bare 'Pio Pico' is right either way."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Título, stamped 288 SD PAGE 16 (img 22), grants to 'D.n Antonio Chaves'; espediente cover stamped p.15 (img 20) 'Espediente promovido por Don Antonio Chaves'; his petition on stamped p.16 is signed 'Antonio Chaves', Angeles 23 June 1845. District Court decree, stamped 288 SD PAGE 57 (img 72): 'being the same lands which were granted on the 18th day of July A.D. 1845 to Antonio Chaves by Pio Pico then Governor of California'. CONTROL for the claimant-for-grantee class: the U.S. claimants were the Americans William S. Johnson and Preston K. Woodside, who bought in 1851 through the Soberanes chain (claim petition, stamped pp.4-6, imgs 9-11), and the register recorded Chaves as grantee and Johnson as patentee -- correctly separated. His full name appears once as '(Jose) Antonio Chavis' in the claim petition (stamped p.4, img 9) and as 'José A. Chaves' among the signatures Mariano Soberanes authenticated (stamped p.12, img 17), so he was probably José Antonio Chávez; the register's short form matches the grant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img 1 'CASE NO. 288 SOUTHERN DISTRICT'; flyleaf img 2 'LAND CASE 288 SD 61 pgs.'; every leaf stamped '288 SD'; District Court wrapper (img 60) 'No. 288 ... THE UNITED STATES vs W. S. Johnson et al \"Pleyto\" ... Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 567. Filed Oct 4th 1855'; Board docket 567 = hoffman_1862.commission_no; PDF filename cubanc_lcf_sd288.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "TRUE ONLY BECAUSE OF A REVERSAL -- trap 2 is live in this record. The Land Commission REJECTED. Opinion of the Board by Comr. S. B. Farwell, stamped 288 SD PAGE 42 (img 53): 'There is no proof of any judicial measurement or possession, nor any evidence of any segregation of the land so as to enable this Board to form any idea as to the boundaries or locality of the land for which the Petitioners ask confirmation. We are therefore of the opinion that the claim is invalid and a Decree adverse to the claim will be entered. Rejected.' Decree, stamped p.43 (img 55): 'it is adjudged by the Commission that the claim of the Petitioner is not valid and it is therefore decreed that his application for a confirmation thereof be denied' -- Felch, R. Aug. Thompson, S. B. Farwell, filed 6 March 1855. Claimants appealed (notice stamped p.46, img 61, filed 24 Nov 1855). District Court, December Term 1856, stamped pp.56-57 (imgs 71-72): 'It is Ordered, adjudged and decreed by the Court that the decision of the said Commissioners be, and the same is hereby reversed and set aside, and that the title of the said appellants W. S. Johnson and Preston K. Woodside to the lands claimed in this case be decreed to be good and valid ... confirmed to the extent of three square leagues of land and no more' -- Isaac S. K. Ogier, U.S. District Judge, filed 9 Feb 1857. SUPREME COURT MANDATE, December Term 1863, stamped pp.58-61 (imgs 73-76): 'it is now here ordered adjudged and decreed by this Court that the decree of the said District Court in this cause be and the same is hereby affirmed. 15 Feb.' -- teste Roger B. Taney C.J., C. W. Middleton Clerk; filed in the District Court 13 February (year partly illegible on the endorsement, stamped p.61, img 76). So 'Confirmed' is the correct final state."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "76 PDF images / 61 stamped transcript pages ('LAND CASE 288 SD 61 pgs.', img 2); single volume; the Board transcript proper is 51 pages by Geo. Fisher's certificate of 21 Aug 1855 (stamped p.45, img 59), the remainder District Court and Supreme Court papers. Stamp drift: img 5 = stamped p.1, img 20 = p.15, img 23 = p.17, img 53 = p.42, img 59 = p.45, img 61 = p.46, img 71 = p.56, img 76 = p.61 (last). WARNING ON THE PENCIL FOLIO IN THIS FILE: from about stamped p.40 the pencil numbers count blank versos as well as text leaves and run 5-7 AHEAD of the Bancroft stamp (img 53 = pencil 47 / stamp 42; img 57 = pencil 51 / stamp 44). The transcript's own index uses the PENCIL number, so its 'Vide page 47 ... rejecting the claim' points at STAMPED p.42, and Fisher's '51 pages' is the pencil count, not the stamp count. Anyone citing only the stamp or only the image number here will mis-locate the decision by five leaves. TRAP 2 CONFIRMED AND THE CATALOGUE IS WRONG: the digicoll record description for this item states 'Confirmed by the Board Mar. 6, 1855', but the Board's own opinion and decree of that date REJECTED the claim (stamped pp.42-43), and the transcript index itself says so at stamped p.3 (img 8): 'Commissioner S. B. Farwell delivered the Opinion of the Board rejecting the claim'. Confirmation came from Ogier's District Court in Dec. term 1856 (filed 9 Feb 1857) reversing the Commission, affirmed by the U.S. Supreme Court on mandate out of the December 1863 term. The register's bare 'Confirmed' is right about the destination and silent about the route; if the register ever adds a disposition-path field, this is the archetype. The grant's weakness (no juridical possession, no segregation, boundary called only as 'lands of Don Mariano Soberanes, the Nacimiento and vacant lands') is what the Board rejected on and is worth flagging for the survey history. The espediente is numbered 187 on its cover (stamped p.15, img 20); I did not capture this record's Toma/Expediente line from the catalogue, so do not assume it. Register's patent line (William S. Johnson et al, 7 Mar 1872, GLO 312) is not in this file."
+ }
+]

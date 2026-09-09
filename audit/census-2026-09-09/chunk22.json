@@ -1,0 +1,104 @@
+[
+ {
+  "id": "rancho-sespe-no-1",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/266071/files/cubanc_lcf_sd032.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge, HTTP 202 + x-amzn-waf-action: challenge on every /record/ path)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained. Register 'C. A. Carrillo' vs patentee 'Thomas W. More' is exactly the Mexican-grantee/US-claimant pair this audit is testing, so it must NOT be graded without the decree"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained. Derived filename cubanc_lcf_sd032.pdf was never confirmed to return %PDF bytes"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable, not 'no digitized case file located'. record/266071 exists and is the correct scan record; the whole digicoll host answered HTTP 202 with header x-amzn-waf-action: challenge for ~35 minutes of synchronous polling (11:19-11:52 local, 2026-09-09), for /record/, /records/, /search and the direct /files/*.pdf path alike. Only /robots.txt passed. Retrieving the file would have required solving the AWS WAF JavaScript challenge, i.e. defeating bot detection, which I will not do. Sespe No. 1 and Sespe No. 2 are two register rows sharing ONE docket (SD 032) and one scan record (266071) with byte-identical claimed values including patent no. 397; whoever re-reads this should settle whether the case file really contains two grants (Hoffman lists a single Sespe entry, comm. 49 / court 32) or whether the register has a duplicate row. Re-queue: one download of SD 032 grades both."
+ },
+ {
+  "id": "rancho-sespe-no-2",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/266071/files/cubanc_lcf_sd032.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge, HTTP 202 + x-amzn-waf-action: challenge)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable. Same docket and same scan record as rancho-sespe-no-1 (SD 032 / record 266071), identical claimed values in every field. The open question for the re-reader is whether SD 032 contains two distinct Sespe concessions or whether this row is a register duplicate; Hoffman 1862 shows only one Sespe line (comm. 49 / court 32), which is weak evidence for the duplicate reading but is a secondary source and settles nothing."
+ },
+ {
+  "id": "rancho-shoquel",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/256624/files/cubanc_lcf_nd295.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable. Re-reader note: this is the one of my six where register and patentee agree (M. Castro / Martina Castro), and Hoffman 1862 marks it already patented in 1862, so the ND 295 file plausibly contains the patent copy itself; check for it and grade patent_to/patent_date/glo_patent_no rather than leaving them for Phase C."
+ },
+ {
+  "id": "rancho-sierra",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/268984/files/cubanc_lcf_sd362.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable. Re-reader note: 'La Sierra' is a name collision, this is the Sepulveda claim (SD 362, Hoffman comm. 453) and rancho-sierra-1 is the Yorba claim (SD 126, Hoffman comm. 382); both are 1846/Pio Pico and their patent acreages differ by only 12 acres (17,774.19 vs 17,786.89), so verify the red case label names Sepulveda before grading any field, and do not let the two files cross-contaminate."
+ },
+ {
+  "id": "rancho-sierra-1",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/265866/files/cubanc_lcf_sd126.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable. See rancho-sierra: same rancho name, different claim (Yorba, SD 126). Hoffman's grantee cell for this row is corrupt OCR carrying a stray clause, 'B. Yorba : claim filed October 9tli', so Hoffman cannot be used even as a cross-check on the grantee here; the decree is the only authority. Bernardo Yorba appears as both register grantee and 1875 patentee, which is unusual for a Pico-era grant and is worth confirming against the concession rather than assuming."
+ },
+ {
+  "id": "rancho-sobrante",
+  "pdf_url_used": null,
+  "pdf_url_attempted": "https://digicoll.lib.berkeley.edu/record/264250/files/cubanc_lcf_nd403.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no pages read; digicoll.lib.berkeley.edu unreachable this session (AWS WAF bot-detection challenge)"},
+   "year":      {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "governor":  {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained"},
+   "grantee":   {"grade": "UV", "evidence": "no pages read; source host serving WAF challenge, no grant decree obtained. Register names two grantees ('Juan Jose and Victor Castro') where Hoffman's table names one ('J. J. Castro'); that disagreement is unresolved and must be settled on the decree, not on Hoffman"},
+   "land_case": {"grade": "UV", "evidence": "no pages read; red case label and PDF filename not obtained"},
+   "outcome":   {"grade": "UV", "evidence": "no pages read; no Commission or District Court decree obtained"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, source unreachable. Re-reader flags: (a) El Sobrante was the long-litigated overplus claim between Rancho San Pablo and the Moraga/Castro grants and its patent did not issue until 1883, 21 years after Hoffman, so ND 403 is a strong candidate for a multi-volume file; if the helper prints a MULTI-VOLUME note, grade outcome PART/UV and name the unread volume rather than reading 'Confirmed' off an early Commission decree. (b) The register/Hoffman grantee count differs (two Castros vs one), so grantee is a live question even though this record carries no hoffman_flags."
+ }
+]

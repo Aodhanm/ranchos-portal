@@ -1,0 +1,260 @@
+[
+ {
+  "id": "rancho-rio-molinos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265453/files/cubanc_lcf_nd091.pdf",
+  "pdf_pages_stated": 49,
+  "pdf_images": 59,
+  "pages_read": [
+   "images 1-30 = stamped pages 1-23"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "image 1 red label: 'CASE NO. 91 / NORTHERN DISTRICT / RIO DE LOS MOLINOS GRANT'; transcript title page stamped '91 ND PAGE 1' (image 5): 'FOR THE PLACE NAMED \"Rio de los Molinos\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p.13 (image 19): 'Monterrey Diciembre 20 de 1844 / Concedida / Michelt[orena]'; formal title stamped p.23 (image 30) closes 'Dado en Monterrey a veinte de Diciembre de mil ochocientos cuarenta y cuatro'; sworn translation stamped p.20 (image 27): 'Given in Monterey the twentieth of December Eighteen hundred and forty four'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.22 (image 29): 'El C. Manuel Michelt[orena] General de Brigada del Ejercito Mejicano ... Gobernador Comandante General e Ynspector del Departamento de las Californias'; signed 'Man.l Michelt.a' with 'Manuel Jimeno Srio' at stamped p.23 (image 30)"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "grant title, stamped p.22 (image 29): 'Por cuanto D. Alberto G. Toomes Mejicano por naturalizacion ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de el Rio de los Molinos'; sworn translation stamped p.19 (image 26): 'Whereas Don Albert G Toomes a Naturalized Citizen of Mexico has solicited'. Right man, wrong middle initial: register has 'Alberto J. Toomes'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "image 1 red label 'CASE NO. 91 NORTHERN DISTRICT'; every transcript leaf stamped '91 ND'; PDF filename cubanc_lcf_nd091.pdf. Commission docket no. was 106 (title page image 5, 'NO. 106'), which matches hoffman commission_no 106."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "the transcript's own chronological docket, stamped p.3 (image 8): 'San Francisco Jan 17th 1854. In the same Case Commissioner Alpheus Felch delivered the opinion of the Board Confirming the Claim; (Vide page 26 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Alberto G. Toomes (Albert Gallatin Toomes) per the Spanish grant title, stamped p.22 (image 29), and the sworn translation, stamped p.19 (image 26). The register's 'Alberto J. Toomes' and patent_to 'Albert J. Toomes' carry a wrong middle initial. Hoffman 1862 prints the same wrong initial ('A. J. Toomes'), and the digicoll record title repeats it, so the error is inherited, not original to the register. The digicoll authority heading for the same item gives 'Toomes, Albert Gallatin, 1817-1873'."
+  },
+  "notes": "SINGLE VOLUME (viewer file selector lists only cubanc_lcf_nd091). Leaf 2 states 'LAND CASE 91 N D  49 pages'; the PDF carries 59 images, so image index runs ahead of the stamped transcript page by 4 through stamped p.10 and by 6 from stamped p.11 on (images 6 and 16 are blank versos) - cite the stamp, not the image. Stray trap: the case's red label and the clerk's hand on the transcript title page both read 'ALBERT G. THOMAS, CLAIMANT', a binder/clerk misreading of Toomes; the petition in the same file (stamped p.4, image 9) is signed for 'Albert G Toomes'. Grant chain fully in the file: solicitud Monterey 16 Dec 1844 (stamped p.12) - Jimeno informe 19 Dec 1844 - 'Concedida' 20 Dec 1844 - formal title 20 Dec 1844 - Departmental Assembly approval Los Angeles 8 Oct 1845 (stamped pp.15-16, 20-21). Outcome graded from the transcript's own docket entry; the text of the Board's confirming opinion sits at stamped p.26 (about image 32) and the District Court decree of 3 Mar 1856 was NOT reached in the 30 images read - if a later pass wants the final decree it is past image 30. NOTE ON ACCESS: digicoll is behind an AWS WAF challenge that answers curl with HTTP 202 and an empty body, so fetch_case_pages.py cannot resolve any docket right now; this PDF was obtained through the user's own Chrome session (record page ?v=pdf, PDF.js download button) and then cut locally."
+ },
+ {
+  "id": "rancho-rio-putos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256566/files/cubanc_lcf_nd232.pdf",
+  "pdf_pages_stated": 164,
+  "pdf_images": 185,
+  "pages_read": [
+   "images 1-20 = stamped pages 1-15",
+   "images 62-81 = stamped pages 57-74",
+   "images 155-174 = stamped pages 139-153 + DC cover"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p.69 (image 74): 'el parage conocido con el nombre de los Putos'; expediente cover, stamped p.60 (image 65): 'un terreno dentro de los margenes del rio nombrado de los Puntos(a) Putos'; Commission decree, stamped p.151 (image 167): 'known by the name of Rio de los Putos'; archive Index of Titles, stamped p.143 (image 159): 'Rio de los Putos'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p.61 (image 66): 'Monterey 24 de Mayo de 1842. Vista la peticion ... declara a D.n Guillermo Wolfskill dueno del parage nombrado Rio de los Putos'; formal title closes stamped p.69 (image 74) 'Dado en Monterey a veinte y cuatro de Mayo de mil ochocientos cuarenta y dos'; sworn translation stamped p.67 (image 72) 'Given in Monterey this twenty fourth day of May One thousand eight hundred and forty two'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.69 (image 74): 'Juan B. Alvarado Gobernador constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado. Manuel Jimeno Srio.'; sworn translation stamped p.66 (image 71): 'Juan B Alvarado Constitutional Governor of the Department of the Californias'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "grant title, stamped p.69 (image 74): 'Por cuanto D.n Guillermo Wolfskill Mejicano por naturalizacion ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de los Putos'; concession decree stamped p.61 (image 66) declares 'a D.n Guillermo Wolfskill dueno'; Mexican archive Index of Titles, stamped pp.143-144 (images 159-160): 'Rio de los Putos  Conced.o a D. Guillermo Wolfskill  281' / 'Rio de Los Putos ceded to Don Guillermo Wolfskill'. Register says 'Francisco Guerrero'; that name appears nowhere in the grant papers."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "image 1 red label 'CASE NO. 232 NORTHERN DISTRICT'; every transcript leaf stamped '232 ND'; District Court wrapper (image 172) 'U.S. DISTRICT COURT, Northern District of California No. 232 ND'; filename cubanc_lcf_nd232.pdf. Commission docket was No. 230 (title page image 5; certificate stamped p.153, image 169), matching hoffman commission_no 230."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission decree, stamped p.151 (image 167): 'it is adjudged by the Commission that the Claim of the said petitioner is valid and it is therefore decreed that the same be Confirmed ... known by the name of Rio de los Putos', signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed 7 Nov 1854; opinion of Comm'r Felch closes 'A decree of Confirmation will be entered. Confirmed.' at stamped p.150 (image 166)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Guillermo (William) Wolfskill, per the Alvarado title of 24 May 1842, stamped p.69 (image 74): 'Por cuanto D.n Guillermo Wolfskill Mejicano por naturalizacion ha pretendido ... el parage conocido con el nombre de los Putos', and per the Mexican Index of Titles copied into the record at stamped pp.143-144 (images 159-160): 'Rio de los Putos  Conced.o a D. Guillermo Wolfskill'. 'Francisco Guerrero' is wrong."
+  },
+  "notes": "REAL ERROR IN THE UNFLAGGED STRATUM, and an instructive one: it is NOT the usual claimant-for-grantee slip. Here the U.S.-era claimant IS the Mexican grantee (Wolfskill claimed under a grant made to himself), so the register's own patent_to field, 'William Wolfskill', holds the correct grantee while the grantee field holds an unrelated name. Hoffman 1862 prints the same wrong grantee (Francisco Guerrero) for court no. 232, which is exactly why this record came through unflagged: the two secondary sources agree with each other and both disagree with the case file. Any other register rows whose grantee traces to Hoffman alone deserve the same treatment. Corroboration outside the file: the digicoll record for 256566 lists 'Wolfskill, William, 1798-1866' as Claimant, Grantee AND Patentee, and its Bowman abstract reads 'Granted by Alvarado May 24, 1842, to William Wolfskill'. NAME/SPELLING TRAP: the red label (image 1), the transcript title page (image 5) and the Secretary's certificate (stamped p.153, image 169) all call the place 'LAS PUTAS', while the grant, the Commission decree and the archive index call it 'Rio de los Putos' - the register follows the grant, so name is OK, not PART. PAGINATION: leaf 2 reads 'LAND CASE 232 ND. 164 PAGES' but the PDF carries 185 images; image = stamped + 5 through stamped p.68, then drift grows as unstamped blanks accumulate (stamped 147 = image 163). Cite the stamp. NOT FULLY READ: images 21-61, 82-154 and 175-185. The District Court record begins at image 172 (wrapper: 'The United States vs. William Wolfskill, Transcript of the Record from the Board of U.S. Land Commissioners, In Case No. 230, Filed July 7, 1855'); the dismissal of that appeal (Bowman: 10 Mar 1857) would sit in images 175-185, unread, so the Commission decree is the highest-level decree I actually saw. ACCESS: digicoll answers curl with an AWS-WAF challenge (HTTP 202, empty body), so fetch_case_pages.py cannot resolve dockets; PDF obtained by navigating a fresh Chrome tab straight to the /files/*.pdf URL, which downloads it to ~/Downloads, then cut locally."
+ },
+ {
+  "id": "rancho-rio-santa-clara",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267572/files/cubanc_lcf_sd231.pdf",
+  "pdf_pages_stated": 109,
+  "pdf_images": 126,
+  "pages_read": [
+   "images 1-20 = stamped pages 1-12",
+   "images 100-119 = stamped pages 83-102",
+   "images 120-126 = stamped pages 103-109"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "image 1 red label: 'CASE NO. 231 / SOUTHERN DISTRICT / RIO DE SANTA CLARA GRANT / VALENTIN COTA, ET AL CLAIMANT'; transcript title page stamped '231 SD PAGE 1' (image 5): 'FOR THE PLACE NAMED \"Rio de Santa Clara\"'; Supreme Court mandate, stamped p.106 (image 123): 'No. 231, for \"Rio de Santa Clara\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "the title itself, Exhibit A, stamped p.8 (image 16): 'Es dado en la S. Micion de S.ta Barbara a 22 de Mayo de 1837'; sworn translation stamped p.12 (image 20): 'This is given in the Ex Mission of Santa Barbara on the 22nd of May 1837'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.8 (image 16): 'El Ciudadano Juan B. Alvarado Gobernador Int.o del estado libre y soberano de la Alta California y Presidente de la Exma diputacion erigida en congreso constituyente', countersigned 'Victor Prudhom, Srio. Int.o'; translation stamped p.12 (image 20): 'Citizen Juan B Alvarado Governor of the Free and Sovereign State of Upper California and President of the Most Excellent Deputation erected into a Constituent Congress'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p.8 (image 16): 'Por cuanto los ciudadanos Valentin Cota, Leandro Gonzales, Rafael Gonzales, Salvador Valenzuela, Jose Maria Valenzuela, V.te Pico, Rafael Valdez y Vicente Felis han pretendido situarse con sesenta reces y familias en las tierras del rio de Santa Clara ... he venido en conceder a los expresados ciudadanos la ocupacion de dichas tierras'. Eight grantees; the register's 'Valentin Cota et al' names the first correctly and abbreviates the rest faithfully."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "image 1 red label 'CASE NO. 231 SOUTHERN DISTRICT'; every transcript leaf stamped '231 SD'; District Court wrapper stamped p.85 (image 102) 'No 231 United States District Court Southern District of California'; filename cubanc_lcf_sd231.pdf. Commission docket was No. 225 (title page image 5; notice of appeal stamped p.86, image 103: 'numbered on the Docket of said Board of Commissioners No. 225, the transcript whereof as filed in this Office is numbered No. 231'), matching hoffman commission_no 225."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "final disposition is confirmation, but ONLY by reversal. The Board REJECTED: transcript docket, stamped p.4 (image 10): 'San Francisco October 31' 1854. In the same Case Commissioner Alpheus Felch delivered the opinion of the Board rejecting the claim. (Vide page 19 of this Transcript.)'. The claimants appealed (notice filed 12 July 1855, stamped p.86, image 103). The District Court then found for them: Supreme Court mandate, stamped p.106 (image 123), recites 'in the District Court ... in a cause between Valentin Cota [et al] appellants, and The United States appellees, (No. 231, for \"Rio de Santa Clara\") wherein the decree was rendered in favor of the said appellants'. The United States' appeal from that decree was killed at stamped p.108 (image 125): 'in the present term of December ... one thousand eight hundred and sixty three the said cause came on to be heard before the said Supreme Court ... on the motion of Mr Attorney General Bates of counsel for the Appellants, it is now here considered, ordered and decreed by this Court that this cause be and the same is hereby dismissed'; mandate No. 164, December Term 1863, teste Roger B. Taney, filed 18 Feb 1864 (stamped p.109, image 126)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "THIS IS THE TEXTBOOK CASE OF THE 'Confirmed' TRAP, and the register survives it: the Land Commission rejected this claim outright on 31 Oct 1854, and the register's 'Confirmed' is true only because the District Court reversed and the Supreme Court then dismissed the government's appeal in the December 1863 term. Unlike rancho-arroyo-seco-1, the whole chain is inside this ONE volume (the file selector lists only cubanc_lcf_sd231), so no volume is unread and the grade is earned rather than guessed. Why it went unflagged is now obvious: Hoffman's 1862 table prints disposition 'confirmed' and patented=false, which is exactly right as of 1862 - the DC decree had been entered, the appeal was still pending, and the patent did not issue until 1872. GROUND OF THE REJECTION, worth recording because it bears on 1836-37 grants generally: the U.S. Attorney's answer, stamped p.94 (image 111), pleads 'That Juan B. Alvarado, calling himself the Governor of the free and Sovereign State of Upper California, and President of the most excellent Deputation, had no lawful authority on the 22nd of May 1837, to grant the land claimed'; the claimants' 1855 affidavit, stamped p.103 (image 120), states the Commission rejected because 'the Sovereignty of which Alvarado was the head at the time of the grant was made, did not reach the dignity of a de facto government'. The register's 'Alvarado / 1837' is nonetheless exactly what the instrument says. Other pleaded grounds: land within ten leagues of the sea coast without previous consent of the supreme government; occupied by Mission San Buenaventura; no Departmental Assembly approval. PAGINATION: leaf 2 reads 'LAND CASE 231 SD pgs. 109' against 126 PDF images; image = stamped + 4 early on, growing to + 17 by the end (images 3-4 and 6 are blanks and several DC papers are photographed as full openings). Cite the stamp. NOT READ: images 21-99 (stamped pp.13-82), which hold the Board's rejection opinion at stamped p.19 and its order at stamped p.25, the juridical possession of 28 Sept 1840, and the DC testimony. ACCESS: digicoll answers curl with an AWS-WAF challenge (HTTP 202, empty body); PDF obtained by navigating a fresh Chrome tab to the /files/*.pdf URL and cut locally."
+ },
+ {
+  "id": "rancho-roblar-miseria",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264417/files/cubanc_lcf_nd030.pdf",
+  "pdf_pages_stated": null,
+  "pdf_images": 112,
+  "pages_read": [
+   "images 1-20 = stamped pages 1-16",
+   "images 21-40 = stamped pages 17-36"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "image 1 red label: 'CASE NO. 30 / NORTHERN DISTRICT / ROBLAR DE LA MISERIA GRANT / DANIEL WRIGHT, ET AL CLAIMANT'; the grant itself, stamped p.23 (image 27): 'declaro a Don Juan Nepomuceno Padilla dueno del terreno nombrado Roblar de la Miseria'; sworn translation stamped p.30 (image 34): 'the parcel of land called \"Roblar de la Miseria\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p.23 (image 27): 'Angeles Noviembre 25 de 1845. Vista la peticion con que da principio este espediente ... declaro a Don Juan Nepomuceno Padilla dueno del terreno nombrado Roblar de la Miseria'; the titulo closes stamped p.34 (image 38) 'Dado en la Ciudad de los Angeles en este papel comun por falta del sellado a veinte y cinco de Noviembre de mil ochocientos cuarenta y cinco'; translation stamped p.32 (image 36) 'on the twenty fifth day of November 1845'; docket endorsement stamped p.34 (image 38): 'No. 15. Pio Pico to Juan N. Padilla Grant Nov. 25. 1845'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.33 (image 37), the leaf docketed 'Grant': 'Pio Pico vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias'; decree signed 'Pio Pico / Jose M.a Covarrubias Srio' at stamped p.23 (image 27); translation stamped p.31 (image 35): 'Pio Pico Senior Member of the Departmental Assembly and provisional Governor of the Californias'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "stamped p.33 (image 37): 'Por cuanto D.n Juan Nepomuceno Padilla ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Roblar de la Miseria'; expediente cover stamped p.18 (image 22): 'Espediente promovido por D. Juan Nepomuceno Padilla'; Departmental Assembly approval stamped p.35 (image 39): 'Se aprueba la concesion hecha al Ciudadano Juan N. Padilla del parage Roblar de la Miseria'. Right man, name garbled twice in the register: 'Juan Nepomaseno Padillo' for Juan Nepomuceno Padilla."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "image 1 red label 'CASE NO. 30 NORTHERN DISTRICT'; every transcript leaf stamped 'CASE 30 ND'; filename cubanc_lcf_nd030.pdf. Commission docket was No. 69 (title page image 4, 'IN CASE NO. 69'; petition docketed 'No. 69' at stamped p.2, image 6), matching hoffman commission_no 69."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "the transcript's own chronological docket, stamped p.5 (image 9): 'San Francisco Feby 14th 1853. In case No 69 Daniel Wright et al for the place named Roblar de la Miseria Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation of this Board. Ordered, that the Opinion & the Decree of Final Confirmation of this Board delivered this day in this Case be recorded on the Journal.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Juan Nepomuceno Padilla, per the Pio Pico title of 25 Nov 1845, stamped p.33 (image 37), the expediente cover stamped p.18 (image 22), and the Assembly approval of 6 June 1846, stamped p.35 (image 39). The register's 'Juan Nepomaseno Padillo' corrupts both the given name (Nepomuceno) and the surname (Padilla); Hoffman 1862 prints the identical corruption, so it is inherited."
+  },
+  "notes": "Clean on the substance: this register row correctly carries the MEXICAN GRANTEE (Padilla), not the U.S. claimant (Daniel Wright et al, who appear on the red label and as the patentees), so the dominant error class of this audit is avoided here. The only defect is orthographic, and it is Hoffman's, not the register's invention. Chain in the file, all inside one volume: Padilla's solicitud to the 1st Judge of Sonoma 26 Nov 1844 (stamped p.19, image 23) - informes of Jacob P. Leese, J. Viogel and M. G. Vallejo, Sonoma 11 Dec 1844 (stamped p.20, image 24) - Jimeno's informe, Monterey 20 Jan 1845 (stamped pp.21-22, images 25-26) - renewed petition Sonoma 28 Aug 1845, Pico's 'Agreguese a sus antecedentes' 24 Oct 1845 (stamped p.22, image 26) - CONCESSION Los Angeles 25 Nov 1845 - titulo same date, four sitios de ganado mayor - Committee on vacant lands 26 May 1846 (S. Arguello) - DEPARTMENTAL ASSEMBLY APPROVAL 3 June 1846, notified 6 June 1846 (stamped p.35, image 39) - Surveyor General Samuel D. King's certification of the archive copy, 18 Feb 1852 (stamped p.26, image 30) - Board's Decree of Final Confirmation 14 Feb 1853. NOTE a contest that the register does not show: J. B. Valentine, claiming Rancho Miranda or San Antonio (No. 45 on the Board's docket), moved 12 July 1852 for leave to intervene and contest confirmation as to the land south and east of a line from the Laguna de San Antonio to the upper crossing of the Petaluma Creek (motion to intervene, stamped p.16, image 20). Confirmation nonetheless followed. PAGINATION: no 'LAND CASE ... pgs.' leaf was photographed for this docket, so pdf_pages_stated is null; image = stamped + 4 throughout the range read (image 5 is a blank verso). Cite the stamp. NOT READ: images 41-112, which hold the Board's opinion and decree text, the survey exhibits and any District Court papers. ACCESS: digicoll answers curl with an AWS-WAF challenge (HTTP 202, empty body); PDF obtained by navigating a fresh Chrome tab to the /files/*.pdf URL and cut locally."
+ },
+ {
+  "id": "rancho-salsipuedes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267545/files/cubanc_lcf_sd201.pdf",
+  "pdf_pages_stated": 153,
+  "pdf_images": 169,
+  "pages_read": [
+   "images 1-20 = stamped pages 1-12",
+   "images 24-40 = stamped pages 16-31"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "image 1 red label: 'CASE NO. 201 / SOUTHERN DISTRICT / SALSIPUEDES GRANT / JAMES BLAIR, ET AL CLAIMANT'; expediente cover, stamped p.24 (image 32): 'Jurisdiccion de Monterey. N.o 55. Ano de 1834. Expediente sobre el parage nombrado \"Salsipuedes\" solicitado su propiedad D.n Manuel Jimeno Casarin'; Deputation approval, stamped p.29 (image 37): 'del paraje nombrado \"Salsipuedes\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Territorial Deputation's approval, stamped p.29 (image 37): 'Se aprueba la concesion hecha al Ciudadano Manuel Jimeno Casarin del paraje nombrado \"Salsipuedes\" concedido en cuatro de Noviembre de mil ochocientos treinta y cuatro'; Jose Castro's decree of 31 Aug 1835 on the same leaf repeats 'que obtuvo en cuatro de Noviembre de mil ochocientos treinta y cuatro'; sworn translation F, stamped p.30 (image 39): 'granted On the fourth of November in the year Eighteen hundred and thirty four'. Figueroa's own order closing the expediente is dated 'Monterey Noviembre 4 de 1834' (stamped p.24, image 32)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Figueroa's marginal decree on Jimeno's petition, stamped p.17 (image 25): 'El Sor. Don Jose Figueroa General de Brigada, Comandante General, Ynspector y Gefe Superior politico de la Alta California asi lo mando, decreto y firmo de que doy fee. Jose Figueroa. Agustin V. Zamorano Secretario', Monterey 27 Sept 1834; his further order 'Monterrey 13 de Octubre de 1834 ... Jose Figueroa' at stamped p.21 (image 29); and 'Monterey Noviembre 4 de 1834 ... Figueroa' at stamped p.24 (image 32)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "Territorial Deputation approval, stamped p.29 (image 37): 'Se aprueba la concesion hecha al Ciudadano MANUEL JIMENO CASARIN del paraje nombrado \"Salsipuedes\"'; expediente cover, stamped p.24 (image 32): 'Expediente sobre el parage nombrado \"Salsipuedes\" solicitado su propiedad D.n Manuel Jimeno Casarin'; petition Exhibit A, stamped p.17 (image 25): 'El Ciudadano Manuel Jimeno Casarin de esta vecindad hace presente ... Monterey 22 de Sep.re de 1834. Manuel Jimeno Casarin'; ayuntamiento committee, stamped p.18 (image 26): 'Puede adjudicarsele el terreno pretendido al Ciudadano Manuel Jimeno Casarin'. The register's 'James Blair' is the United States-era claimant, named as such on the red label and on the transcript title page ('James Blair, et al CLAIMANTS'), not the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "image 1 red label 'CASE NO. 201 SOUTHERN DISTRICT'; leaf 2 (image 2) 'LAND CASE 201 SD pgs. 153'; every transcript leaf stamped '201 SD'; filename cubanc_lcf_sd201.pdf. Commission docket was No. 527 (title page image 5 and the docket entry at stamped p.2, image 7: 'ordered to be filed and docketed with No. 527'), matching hoffman commission_no 527."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "transcript's own chronological docket, stamped p.4 (image 9): 'San Francisco May 2d 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim; (Vide page 87 of this Transcript.)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Manuel Jimeno Casarin, per the Territorial Deputation's approval of 29 Aug 1835 and Jose Castro's decree of 31 Aug 1835, stamped p.29 (image 37), and per the expediente's own cover, stamped p.24 (image 32). James Blair was the lead U.S. claimant, who bought the rancho from Jimeno in 1852 and died during the proceedings."
+  },
+  "notes": "SECOND REAL ERROR, and this one IS the dominant class the audit was built to catch: the U.S.-era claimant sitting in the Mexican grantee slot. Hoffman 1862 leaves both governor and grantee BLANK for court no. 201, so whoever filled this register row had no Hoffman value to copy and appears to have taken the name off the case label ('JAMES BLAIR, ET AL CLAIMANT'), which is exactly the failure mode. Note the internal tell the register missed: its own patent_to reads 'John P. Davison et al' - Blair's co-claimants - so the register has a claimant in the grantee field and a different set of claimants in the patentee field, with the actual grantee nowhere. CHAIN OF TITLE in the file, useful for the correction: Francisco de Haro held Salsipuedes and conveyed his right to Jimeno 26 Feb 1831 (Exhibit A, stamped p.17, image 25; Hartnell's deposition, stamped p.12, image 18, says de Haro 'sold it to Manuel Jimeno' in 1831 or 1832); Figueroa granted to Jimeno 4 Nov 1834 (two square leagues); Territorial Deputation approved 29 Aug 1835; Alvarado augmented to eight square leagues 1 Feb 1840 and ratified 1 Mar 1840; Micheltorena ratified 1 Apr 1843 notwithstanding the land lying within ten littoral leagues; Jimeno sold to the present claimants 11 Oct 1852 (Jimeno's own deposition, stamped p.11, image 17: 'I occupied the said Rancho from the year 1831 until the year 1852 in which last year I sold it to the present claimants'). The register's 1834/Figueroa correctly follows the ORIGINAL concession rather than the 1840 Alvarado augmentation - worth flagging only because a different register might reasonably have chosen 1840. PROCEDURAL DETAIL: on 27 Dec 1853 the Board granted leave to substitute the heirs of the petitioner (stamped p.3, image 8), i.e. Blair had died; on 26 Dec 1854 Commissioner Felch overruled a later claimants' motion of 19 Sept 1854 and denied that petition (stamped p.4, image 9) - an ancillary motion, not a rejection of the claim, which had already been confirmed 2 May 1854. ORTHOGRAPHY: the clerk wrote the place as 'Val si puedes' on the docket leaf, stamped p.2 (image 7), while the grant papers write 'Salsipuedes'. PAGINATION: 153 stamped pages against 169 PDF images; image = stamped + 6 through the petition, then + 8 across the expediente exhibits (an extra unstamped blank sits at image 38). Cite the stamp. NOT READ: images 21-23 and 41-169, which hold the text of the 4 Nov 1834 titulo itself (Exhibits G/H), the Alvarado and Micheltorena ratifications, the deed to the claimants, and the Board's opinion at stamped p.87. ACCESS: digicoll answers curl with an AWS-WAF challenge (HTTP 202, empty body); PDF obtained by navigating a fresh Chrome tab to the /files/*.pdf URL and cut locally."
+ },
+ {
+  "id": "rancho-san-andres",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266105/files/cubanc_lcf_sd100.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 1-10 = stamped pages 1-6 (image 1 pencil label, image 4 = stamped p.1)",
+   "images 11-20 = stamped pages 7-15",
+   "images 21-30 = stamped pages 16-24",
+   "images 31-40 = stamped pages 25-34",
+   "images 155-164 = stamped pages 143-152",
+   "images 373-382 = stamped pages 363-370 + wrapper + printed-pamphlet group"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title page, stamped p.1 (image 4): 'TRANSCRIPT OF THE PROCEEDINGS IN CASE NO. 566 / Guadalupe Castro CLAIMANT vs. THE UNITED STATES, DEFENDANT, FOR THE PLACE NAMED \"San Andres\"'. Expediente cover, stamped p.13 (image 18): 'Jurisdicion de Branciforte. N. 15. Ano de 1833. Espediente sobre el paraje nombrado S. Andres solicitado p.a su propiedad el C. Joaquin Castro.' Grant title itself, stamped p.20 (image 25): 'el terreno que posee desde el ano de 1823 conocido con el nombre de S.n Andres'. Register 'San Andres' agrees."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The concession decree and the title are both of 1833. Spanish marginal decree of concession, stamped p.14 (image 19): 'Monterrey Nov.e 21 de 1833. Vista la peticion con que da principio este espediente...'. The despacho/titulo closes, sworn English translation, stamped p.32 (image 38): 'Therefore I order, that this serving him as a title & being held as firm & valid, that due note of it be taken on the corresponding book, & that it be delivered to the interested party for his security & other purposes. Given at Monterey the 26th of November 1833. J. Figueroa. A. V. Zamorano. Sec.y' (Spanish original of the same passage, stamped p.21 (image 26): 'dado en Monterrey a 26 de Noviembre de 1833. = J. Figueroa. A. Zamorano S.rio'). Register '1833' agrees."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title, Spanish, stamped p.20 (image 25): 'Jose Figueroa General de Brigada de los Ejercitos nacionales Mejicanos, comand.te General Insp.r y Gefe Superior Politico del territorio de la alta California... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'; sworn translation, stamped p.30 (image 36): 'Jose Figueroa, General of Brigade of the Mexican National Army, General Commandant, Inspector & Superior Political Chief of the Territory of Upper California'. Signed 'Jose Figueroa / A. V. Zamorano Sec.y', stamped p.32 (image 38). Register 'Jose Figueroa' agrees."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title, Spanish, stamped p.20 (image 25): 'Por cuanto D. Joaquin Castro ha pretendido para su beneficio personal y el de su familia el terreno que posee desde el ano de 1823 conocido con el nombre de S.n Andres'; sworn translation, stamped p.30 (image 36): 'Whereas D. Joaquin Castro has asked for his personal benefit & that of his family, the land of which he has been in possession since the year 1823, known by the name of S. Andres... in the name of the Mexican Nation I have granted to him the said land, declaring him the owner of it by these letters'. Territorial Deputation approval, stamped p.32-33 (images 38-39): 'The grant to Joaq.n Castro of the place called S. Andres made on the 26th of November 1833... is approved. Monterey, May 1 of 1834... Monterey 17th May of 1834. In session of this day the Most Excellent Deputation approved the proposition... (Signed) Jose Figueroa. (Signed) Juan B. Alvarado Sec.y'. Register 'Joaquin Castro' agrees; the U.S.-era claimants Guadalupe and Juan Jose Castro are his executors, not the grantee, and the register correctly did NOT put them here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Pencil label, image 1: 'Land Case 100 SD'. Every transcript leaf carries the Bancroft stamp '100 SD PAGE n' (e.g. stamped p.1 at image 4, stamped p.370 at image 380). District Court wrapper, image 381, red pencil '(100) SD' with the caption 'U.S. District Court Dist of Cala. Guadalupe Castro et al vs The United States'. Printed decree pamphlets, image 382: 'In the District Court of the United States, District of California. No. 100.' PDF filename cubanc_lcf_sd100.pdf. Register 'SD 100' agrees. (The '566' on the title page is the Land Commission docket, matching Hoffman's commission_no 566 / court_no 100.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed, and confirmed at first instance, so no reversal is hiding here. Transcript's own chronological docket, stamped p.3 (image 7): 'San Francisco Feb.y 7, 1854. In the same case Commissioner Thompson Campbell delivered the opinion of the Board confirming the claim.' The appeal was subsequently disposed of in the claimants' favour: counsel's letter, stamped p.151 (image 163), San Francisco April 1858, E. O. Crosby to C. Sims: 'Please send me Certified copies of final Decree & decree dismissing Appeal to U.S. Supreme Court in Case of Guadalupe Castro to Rancho San Andres, situate in Santa Cruz County.' The case then ran on over the SURVEY only: printed 'Opinion and Decree of Hon. Ogden Hoffman, confirming Survey... The disputed boundary between the Rancho \"Corralitos,\" patented to Jose de Amesti, and the Rancho \"San Andres,\" granted to Joaquin Castro', 1867, ten extra copies at image 382 (one stamped p.153), with the United States' appeal from that survey decree to the Circuit Court, citation signed by Ogden Hoffman 7 May 1868, stamped pp.146-147 (images 158-159). Register 'Confirmed' agrees."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six register fields verified against the grant itself; nothing wrong found. TRANSLATION-vs-ORIGINAL TRAP, present and harmless here: the sworn English translation of Figueroa's concession decree, stamped p.25 (image 31), reads 'Monterey, Nov 21st 1853' and recites possession 'obtained on the 21st day of May 1853'. Both are translator's slips for 1833 and 1823; a contemporary hand pencilled '33 (see page 29)' at the head of that leaf. The Spanish original, stamped p.14 (image 19), reads 'Monterrey Nov.e 21 de 1833'. Do not read 1853 off the translation. INTERNAL DATE VARIANCE inside the expediente, all within 1833: the marginal decree of concession is 21 Nov 1833 (stamped p.14 / p.25 tr.); the despacho or titulo is 26 Nov 1833 (stamped p.21 / p.32 tr.); the Deputation's committee and the Testimonio both recite 'concedido en 26 de Nov.e de 1833' (stamped pp.21-22, images 26-27); but Figueroa's confirming decree of 18 July 1834 recites the grant 'which he obtained on 21st of November of the year last past' (stamped p.33, image 39); and the claim petition, which is NOT authority, says '27th of November 1833' (stamped p.4, image 8). The register's bare '1833' is right on every reading. PRIOR TITLE: the same land had been conceded to the same man in 1823 by Jefe Politico Luis Antonio Arguello (petition 13 May 1823, decree and juridical possession by Jose Estrada 13 May 1823, stamped pp.17-19 and translation pp.27-29). The 1833 Figueroa title is the operative grant and is what the register and Hoffman both date. GRANTEE NAME FORM: the 1823 papers style him 'Jose Joaquin Castro, an invalid soldier residing in the town of Branciforte' (stamped p.27, image 33); the 1833 title says only 'D. Joaquin Castro'. Register form is correct. PHASE C FLAG (patent fields, left null here because no patent copy is in the pages read): the register's patent_to reads 'Guadalupe Castro and Juan Castro, executors'. The file consistently names the second executor JUAN JOSE Castro: petition, stamped p.4 (image 8), 'The petition of Guadalupe & Juan Jose Castro, Executors of the Estate of Joaquin Castro, of Santa Cruz County California'; letters of executorship, stamped p.9 (image 14); and Joaquin Castro's will, stamped p.11 (image 16), 'I name for my executors, my sons in the 1st place Guadalupe & in the second place Juan Jose'. Worth checking the GLO patent wording. DOWNLOAD NOTE for a re-reader: digicoll was answering every request with HTTP 202 and 'x-amzn-waf-action: challenge' (AWS WAF bot challenge, zero-byte body) during this session, so fetch_case_pages.py reports 'no cubanc_lcf PDF listed'. The status code is not a filename problem. The 1.31 GB / 382-image sd100 PDF had already been pulled through the challenge in the earlier leg of this agent's run and was cut locally with pypdf; it has been deleted. STAMP DRIFT in this file runs from 3 at the front (image 4 = stamped p.1) to 10 at the back (image 373 = stamped p.363), so image numbers alone are not citable."
+ }
+]

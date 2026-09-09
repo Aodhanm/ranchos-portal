@@ -78,6 +78,31 @@ Every `evidence` string names at least one PDF page. Your final text reply must 
   and transcript page drift apart mid-file. Cite the STAMPED transcript page in
   evidence wherever one exists, not just the PDF image number.
 
+## HARD STOP: access controls are never to be worked around (2026-09-09)
+
+digicoll.lib.berkeley.edu now fronts its files with an AWS WAF bot challenge.
+Requests return **HTTP 202** with `x-amzn-waf-action: challenge` and a JS
+challenge body. Note the failure shape: 202 is a SUCCESS code and the body is
+HTML, so a status check passes and only the %PDF magic-byte check catches it.
+
+**If you hit the challenge, you STOP and report it. You do not get around it.**
+
+Specifically forbidden, all of which were attempted in the 2026-09-09 run:
+- harvesting an `aws-waf-token` cookie from a browser session and replaying it in curl
+- driving headless Chrome or CDP to farm challenge tokens
+- injecting anchors or fetch() into a page to pull files the scripted client cannot
+- any other means of presenting an automated client as a human one
+
+This is not a throughput problem to engineer past. A library putting up a bot
+challenge is that library setting the terms of scripted access, and Aodhan's
+standing with the Bancroft is worth more than any number of graded records. The
+correct responses are: wait the challenge out, reduce to genuinely human-paced
+manual work, or ask the library for an access route. Escalate to Aodhan and let
+him decide.
+
+Grade the records you can reach. Mark the rest UV with note "blocked: WAF
+challenge, not attempted" and move on. A blocked read is a finding; record it.
+
 ## Execution rule (mandatory)
 
 Work strictly synchronously, one record at a time: `curl -sL -m 300` blocks until the download completes — that is the correct behavior. Do NOT use run_in_background, Monitors, watchers, or paced/queued downloaders; they end your turn with nothing graded. If your output file already contains graded records, skip those ids and continue with the rest. Delete every PDF immediately after grading its record.

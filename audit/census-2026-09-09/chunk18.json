@@ -1,0 +1,255 @@
+[
+ {
+  "id": "rancho-san-pascual-1",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/266131/files/cubanc_lcf_sd173.pdf",
+  "pdf_pages_stated": 141,
+  "pages_read": [
+   "img1-14 (stamped 1-8)",
+   "img18-40 (stamped 12-33)",
+   "img70-80 (stamped 58-66)",
+   "img138-157 (stamped 122-141)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label: 'CASE No. 173 / SOUTHERN DISTRICT / SAN PASCUAL GRANT / MANUEL GARFIAS / CLAIMANT'; transcript title stamped 173 SD PAGE 1 (img5) 'for the place named \"San Pascual\"'. Register's parenthetical '(Garfias)' matches the claimant/grantee named on the label."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree in the Spanish expediente, stamped 173 SD PAGE 32 (img39): 'Angeles. Julio. 10 de 1843. Vistos los anteriores informes ... y estar por consecuencia denunciables S. Pascual se le concede a Don Manuel Garfias ... Michelltorena.' The Board's own rendering agrees, stamped PAGE 59 (img71): 'the Governor on the 10th of July 1843 makes the following decree. Angeles July 10th 1843 ... it is hereby granted to Don Manuel Garfias.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Same decree, stamped PAGE 32 (img39), signed 'Michelltorena'; English at stamped PAGE 59 (img71) 'Michelltorena'. Micheltorena also signs the habilitado stamp heading the expediente at stamped PAGE 26 (img33)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree stamped PAGE 32 (img39): 'se le concede a Don Manuel Garfias'; English stamped PAGE 59 (img71): 'it is hereby granted to Don Manuel Garfias who has made the denunciation'. Grantee and later U.S. claimant are the SAME man here, so the usual claimant-for-grantee trap does not bite."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE No. 173 SOUTHERN DISTRICT'; every transcript leaf stamped '173 SD'; PDF filename cubanc_lcf_sd173.pdf; District Court cover stamped PAGE 65 (img77) 'U.S. District Court Southern District of California No. 173'. Board docket no. was 345 (stamped PAGE 1, img5), which is the Hoffman commission_no, not the register's docket."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation, stamped 173 SD PAGE 62 (img74): 'it is adjudged by the Commission that the claim of the petitioner is valid, and it is therefore decreed that the same be confirmed', Felch / Campbell / Thompson, filed 25 Apr 1854. District Court decree, stamped PAGE 122 and repeated at PAGE 126-127 (img138, img142-143): 'the decision of the Commissioners be and the same is hereby affirmed ... confirmed to him to the extent of three and one half square leagues', Isaac S. K. Ogier, U.S. Dist. Judge, filed 7 Mar 1856. Order vacating the government's appeal to the Supreme Court and making the decree final, stamped PAGE 130-131 (img146-147), filed 23 Feb 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "CLEAN ON ALL SIX; the strongest possible evidence base, since the Spanish original decree AND the court's English rendering AND the full Board/District Court chain are all inside this one file. FOUR THINGS A RE-READER SHOULD KNOW. (1) TWO GRANT DATES EXIST AND THE REGISTER PICKED THE RIGHT ONE. The concession decree is 10 July 1843 (stamped p32/p59), but the Board found at stamped PAGE 60 (img72) that 'on the 28th day of November 1844 a title in form was issued to the present claimant for the land denounced by him and including also the additional quantity', approved by the Departmental Assembly 7 May 1846; the Spanish expediente also carries a 'Monterrey. Dbre 18 de 1844' entry at stamped p32. Both the 1843 concession and the 1844 titulo are Micheltorena-to-Garfias, so no field changes either way, but a re-reader chasing '1844' in another source is not finding a contradiction. (2) THIS IS A DENUNCIATION REGRANT. The land was provisionally granted in 1840 by Alvarado to Jose Perez and Enrique Sepulveda (petition stamped p5, img11; A. F. Coronel's testimony stamped p17-24); they abandoned it, Garfias denounced it, and the 1843 decree regranted it. The register records only the operative 1843/Micheltorena/Garfias grant, which is correct for a 'granted' field, but the 1840 Alvarado grant is a real prior title, not an error. (3) THE DISTRICT COURT CONFIRMATION CARRIES A QUANTITY CAP: 'to the extent of three and one half square leagues ... Provided that should there be a less quantity than three and a half square leagues within the said boundaries, then confirmation is hereby made of such less quantity' (stamped p127, img143). Still a confirmation, so outcome OK, but the register's 13,693.93 patent acres exceed 3.5 leagues (~15,500 acres is 3.5 leagues, so it is under, fine) - Phase C should check the survey. (4) NO PATENT COPY IS IN THE FILE. The latest U.S. document is the Surveyor General's certificate of publication of the approved survey (approved 18 Sept 1858), stamped PAGE 136 (img152), filed 14 Sept 1863; patent fields left null per method. Hoffman 1862 (1843 / Manuel Micheltorena / M. Garfias / confirmed) agrees with the case file on every field."
+ },
+ {
+  "id": "rancho-san-pedro",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/256559/files/cubanc00007127_ae_a.pdf",
+  "pdf_pages_stated": 61,
+  "pages_read": [
+   "img1-24 (stamped 1-20)",
+   "img46-65 (stamped 42-61)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label: 'CASE No. 82 / NORTHERN DISTRICT / SAN PEDRO GRANT / FRANCISCO SANCHEZ / CLAIMANT'; transcript title stamped 82 ND PAGE 1 (img4) 'for the place named \"San Pedro\"'; District Court final decree stamped PAGE 52 (img57) 'the land known as the Rancho of San Pedro, situated in the County of San Mateo'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish original grant, stamped 82 ND PAGE 8 (img12): 'Dado en Sta Barbara, a 26 de Enero de 1839. Juan B. Alvarado.' The sworn 'Translation of Grant', stamped PAGE 10 (img14), agrees exactly: 'Given in Santa Barbara this 26th of Jany 1839. Juan B. Alvarado.' Board opinion stamped PAGE 12 (img16) confirms: 'The grant in this case bears date the 26th day of January A.D. 1839'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Spanish original stamped PAGE 8 (img12) signed 'Juan B. Alvarado', countersigned 'Man.l Jimeno, Srio'; translation stamped PAGE 10 (img14) 'Juan B. Alvarado'; Board opinion stamped PAGE 12 (img16): 'is signed by Alvarado whose signature is proved to be in his hand writing'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Spanish original stamped PAGE 8 (img12): 'Por cuanto el ciudadano Fran.co Sanchez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de San Pedro'; translation stamped PAGE 10 (img14): 'For as much as the Citizen Francisco Sanchez has solicited for his personal benefit and that of his family the land known by the name of San Pedro'. Grantee and U.S. claimant are the same man, so the claimant-for-grantee trap does not apply."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE No. 82 NORTHERN DISTRICT'; every leaf stamped '82 ND'; District Court caption stamped PAGE 45 (img49) 'District Court No. 82, Land Com. No. 352'. Docket 352 is the Board number and matches Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, stamped 82 ND PAGE 14 (img18): 'it is adjudged by the Commission that the claim of the said petitioner is valid, & it is therefore decreed that the same be confirmed', Felch / Campbell / Thompson, filed 17 Jan 1854. U.S. appealed (Attorney General's notice, stamped PAGE 16, img20) but ABANDONED it; the District Court recites at stamped PAGE 50 (img55) 'an order was made and entered in this Court on the 20th of March 1857 dismissing said appeal, and the Claimant was allowed to proceed under the said decree of said Land Commission in his favor, as under a final decree'. District Court Order of Final Confirmation and Approval of Survey, 6 Nov 1861, stamped PAGE 52 (img57): the Rancho of San Pedro 'containing within its exterior boundaries Eight thousand nine hundred and twenty six acres and forty six hundredths of an acre, be and the same is hereby finally confirmed to the said Francisco Sanchez', Ogden Hoffman, filed 7 Nov 1861; survey ordered to stand finally approved 15 Apr 1862 (stamped PAGE 55-56, img60-61)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "CLEAN ON ALL SIX. FOUR THINGS A RE-READER SHOULD KNOW. (1) FILENAME TRAP - THE DERIVED NAME DOES NOT EXIST. The method's rule ('ND 082' -> cubanc_lcf_nd082.pdf) FAILS for this record: the Bancroft file is cubanc00007127_ae_a.pdf, an entirely different naming scheme (no 'lcf', no docket in the name). I got the true filename from the OAI-PMH MARC 856 $u, which is the reliable route when the record page will not load. This is a batch-naming variant, not a docket mismatch - the red label, the page stamps and the court caption all say 82 ND. (2) THE 8,926.46 ACRES IN THE REGISTER IS ALREADY IN THIS FILE, and it comes from the DISTRICT COURT decree of 6 Nov 1861 (stamped p52), not from the 1870 patent; the survey figure was fixed before the patent issued, so a Phase C GLO check should expect a match, not treat agreement as independent confirmation. (3) THE APPEAL WAS ABANDONED, NOT LOST. Anyone reading only the front of the file sees the Board confirmation plus a U.S. notice of appeal and could wrongly grade this contested; the resolution is recited only at stamped p50 (img55). No Supreme Court stage; both sides stipulated no appeal, 4 Apr 1862 (stamped p57, img62). (4) NAME AMBIGUITY WORTH CARRYING FORWARD: this is San Mateo County's San Pedro (Pacifica), NOT the Dominguez Rancho San Pedro of Los Angeles County; Bowman adds that this grant 'was also called San Mateo, and also Corral de Tierra'. The register's bare 'San Pedro' matches the case label so it grades OK, but it is a collision risk in any merged index. Hoffman 1862 (1839 / Juan B. Alvarado / F. Sanchez / confirmed) agrees with the case file on every field."
+ },
+ {
+  "id": "rancho-san-pedro-santa-margarita-gallinas",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/264408/files/cubanc_lcf_nd016.pdf",
+  "pdf_pages_stated": 124,
+  "pages_read": [
+   "img1-18 (stamped 1-11)",
+   "img27-38 (stamped 20-21, 30-37)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label: 'CASE No. 16 / NORTHERN DISTRICT / SAN PEDRO Sta MARGARITA AND LAS GALLINAS GRANT / TIMOTEO MURPHY / CLAIMANT'; transcript title stamped CASE 16 ND PAGE 1 (img5) 'for the place named \"San Pedro, Sta Margarita and Las Gallinas\", Marin Co.'; the Spanish grant itself names 'San Pedro, Santa Margarita y las Gallinas' (stamped PAGE 10, img17)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish concession decree, stamped CASE 16 ND PAGE 11 (img18): 'Dado en Monterey a catorce de Febrero de mil ochocientos cuarenta y cuatro. Man.l Michelt.a / Man.l Jimeno Srio.' - 14 February 1844. The claimant's petition, stamped PAGE 5 (img12), agrees: 'made to him on the 14. Feb. 1844 by Gov Micheltorena ... and approved by the Depart. Assm. in the 22d April 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Spanish grant heading, stamped PAGE 10 (img17): 'Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante Gral. de la Plana Mayor del mismo, Gobernador, Comandte. Gral. e Inspector del Departamto. de Californias'; signed 'Man.l Michelt.a' at stamped PAGE 11 (img18), countersigned Manuel Jimeno."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Spanish grant stamped PAGE 10 (img17): 'Por cuanto D.n Timoteo Murphy, Mejicano por naturalizacion, ha pretendido para su beneficio personal el terreno conocido con el nombre de San Pedro, Santa Margarita y las Gallinas'. Grantee = U.S. claimant = patentee, so no claimant-for-grantee substitution is possible here. The register's 'T. Murphy' matches; the file uses both 'Timoteo' (Spanish documents, red label) and 'Timothy' (English court papers)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE No. 16 NORTHERN DISTRICT'; leaves stamped 'CASE 16 ND'; District Court caption stamped PAGE 34 (img35) 'The United States v. Timothy Murphy, No. 16'; PDF filename cubanc_lcf_nd016.pdf matches the derived name. Board docket was No. 72 (transcript title, img5), which is Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board Decree of Final Confirmation, stamped CASE 16 ND PAGE 20 (img27): 'It is decreed that the said claim be confirmed to the extent and quantity of five square leagues; being the same land described in the grant, and of which the possession was proved to have been long enjoyed', signed Hiland Hall and Harry I. Thornton, Commissioners; delivered 22 Dec 1852 per the journal entry at stamped PAGE 3 (img8). The U.S. appealed (Attorney General's notice 15 July 1854, stamped PAGE 30, img31; notice of appeal filed 21 Aug 1854, stamped PAGE 31, img32). DISTRICT COURT FINAL DECREE, 12 November 1864, Ogden Hoffman, stamped PAGE 34-35 (img35-36): survey approved and 'the twenty one thousand six hundred and seventy eight 69/100 acres of land now finally confirmed to the said Timothy Murphy'; right of appeal expressly waived by stipulation of 29 Oct 1864 (stamped PAGE 32, img33). Filed 12 Nov 1864 (stamped PAGE 36, img37)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "CLEAN ON ALL SIX, with the whole chain (Spanish grant, Board decree, District Court final decree) inside this one file. FOUR THINGS A RE-READER SHOULD KNOW. (1) STAMPED PAGES 22-29 ARE PHYSICALLY MISSING and I verified it against the leaves, not just the catalogue: img29 is stamped PAGE 21, img30 is the Board transcript's leather back cover, and img31 resumes at stamped PAGE 30. The digicoll MARC 300 field says 'Pgs. 22-29 missing' and the leaves agree. Nothing load-bearing is in the gap - the Board decree (p20) and the certification (p21) both survive - but any span-based coverage check over this file must not read the 21-to-30 jump as a scan defect. (2) SECOND PAGE-STAMP TRAP: stamped PAGE 11 (img18) carries a struck-out first stamp reading 'CASE __ ND PAGE __' with the corrected 'CASE 16 ND PAGE 11' below it, so this file has two stamp generations on at least one leaf. Cite the corrected stamp. (3) THE 21,678.69 ACRES IN THE REGISTER COMES FROM THE 1864 DISTRICT COURT DECREE (stamped p35, img36), not from the 1866 patent; a Phase C GLO check will therefore agree by construction, and agreement is not independent corroboration. The Board had confirmed 'five square leagues' (about 22,165 acres) in 1852, so the survey came in slightly under the Board figure. (4) THE FILE CONTAINS TWO ADVERSE CLAIMS a re-reader may hit and misread as a contest over Murphy's title: intervenors Forbes (successor to Dixon) appear in the 1864 stipulation (stamped p32, img33), and stamped PAGE 37 (img38) opens a 'Record of proceedings instituted by the Indian Camilo, in solicitation of the land named Nempali'. Neither disturbed the confirmation. Bowman adds, consistent with this, that Las Gallinas had been granted in 1844 to Nasario Berreyesa who renounced in Murphy's favour, and that Alvarado had given permission to occupy on 19 Nov 1840; the register records only the operative 1844 Micheltorena grant, which is correct. Hoffman 1862 (1844 / Manuel Micheltorena / T. Murphy / confirmed) agrees on every field; Hoffman's short rancho name 'San Pedro' collides with ND 82 San Pedro (Sanchez, San Mateo Co.) and the register's fuller name is the safer form."
+ },
+ {
+  "id": "rancho-san-rafael",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/269000/files/cubanc_lcf_sd381.pdf",
+  "pdf_pages_stated": 131,
+  "pages_read": [
+   "img1-5 recovered by carving the JPXDecode streams out of the truncated 5 MiB capture (pypdf could not open it: 'EOF marker not found'); these are stamped 381 SD PAGE 1 and its verso plus the binding leaves"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label: 'CASE No. 381 / SOUTHERN DISTRICT / SAN RAFAEL GRANT / JULIO BERDUGO, ET AL / CLAIMANT'; transcript title stamped 381 SD PAGE 1 (img3): 'TRANSCRIPT OF THE PROCEEDINGS IN CASE No. 403, Julio Berdugo, et al, CLAIMANTS vs THE UNITED STATES, DEFENDANT, FOR THE PLACE NAMED \"San Rafael\"'."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Not determinable from the 5 leaves recoverable. The Spanish documents are on stamped pp. 21-25, 31-32, 37-39, 43-44, 48-49, 52-57, 60, 62, 65-72 and 81-93 per the digicoll MARC 500 note, all far beyond the truncation point. PARTIAL READ - ARCHIVE CAPTURE TRUNCATED. The only route into digicoll available in this session was the Wayback Machine (digicoll.lib.berkeley.edu answered HTTP 202 with 'x-amzn-waf-action: challenge' and a zero-length body on every request from 18:02 UTC onward, and passing that challenge is bot-detection circumvention, so it was not attempted). For this docket the ONLY Wayback capture is truncated: the replay headers read 'content-length: 5242880' against 'x-archive-orig-x-crawler-content-length: 148295724', i.e. the crawler stored exactly 5 MiB of a 148.3 MB PDF. Every timestamp form (2020/2021/2022/2023/2024/2025/2026, the /record/ path, the /nanna/ path, and the ?download=1 variant) resolves to that same 5 MiB record."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Not determinable from the recoverable leaves; the concession decree lies past the truncation point (see the year note). PARTIAL READ - ARCHIVE CAPTURE TRUNCATED. The only route into digicoll available in this session was the Wayback Machine (digicoll.lib.berkeley.edu answered HTTP 202 with 'x-amzn-waf-action: challenge' and a zero-length body on every request from 18:02 UTC onward, and passing that challenge is bot-detection circumvention, so it was not attempted). For this docket the ONLY Wayback capture is truncated: the replay headers read 'content-length: 5242880' against 'x-archive-orig-x-crawler-content-length: 148295724', i.e. the crawler stored exactly 5 MiB of a 148.3 MB PDF. Every timestamp form (2020/2021/2022/2023/2024/2025/2026, the /record/ path, the /nanna/ path, and the ?download=1 variant) resolves to that same 5 MiB record."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Not determinable. NOTE THE TRAP EXPLICITLY: the only names visible in the recoverable leaves are the 1852 U.S. CLAIMANTS, 'Julio Berdugo, et al' (img1 red label) / 'Julio and Catalina Verdugo' (digicoll title), who are NOT the Mexican-era grantee the register records (Jose Maria Berdugo). Grading grantee OK off these leaves would be exactly the dominant error class this audit exists to catch, so it is UV. PARTIAL READ - ARCHIVE CAPTURE TRUNCATED. The only route into digicoll available in this session was the Wayback Machine (digicoll.lib.berkeley.edu answered HTTP 202 with 'x-amzn-waf-action: challenge' and a zero-length body on every request from 18:02 UTC onward, and passing that challenge is bot-detection circumvention, so it was not attempted). For this docket the ONLY Wayback capture is truncated: the replay headers read 'content-length: 5242880' against 'x-archive-orig-x-crawler-content-length: 148295724', i.e. the crawler stored exactly 5 MiB of a 148.3 MB PDF. Every timestamp form (2020/2021/2022/2023/2024/2025/2026, the /record/ path, the /nanna/ path, and the ?download=1 variant) resolves to that same 5 MiB record."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 381 SOUTHERN DISTRICT'; transcript leaf stamped '381 SD PAGE 1' (img3); the catalogue leaf at img2 reads 'LAND CASE / S. D. 381 / 131 pages'; PDF filename cubanc_lcf_sd381.pdf matches the derived name. Board docket was No. 403 (transcript title, img3), which is Hoffman's commission_no, not the register's docket."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "Not determinable. The Board and District Court decrees are past the truncation point. This one needs a real read rather than an assumption: the Bancroft/Bowman abstract says 'Confirmed by the Board Sept. 11, 1855. Appeal dismissed by the District Court June 4, 1857', which is a confirmation that became final by DISMISSAL of the government's appeal rather than by a fresh District Court decree - the shape of case the method flags. PARTIAL READ - ARCHIVE CAPTURE TRUNCATED. The only route into digicoll available in this session was the Wayback Machine (digicoll.lib.berkeley.edu answered HTTP 202 with 'x-amzn-waf-action: challenge' and a zero-length body on every request from 18:02 UTC onward, and passing that challenge is bot-detection circumvention, so it was not attempted). For this docket the ONLY Wayback capture is truncated: the replay headers read 'content-length: 5242880' against 'x-archive-orig-x-crawler-content-length: 148295724', i.e. the crawler stored exactly 5 MiB of a 148.3 MB PDF. Every timestamp form (2020/2021/2022/2023/2024/2025/2026, the /record/ path, the /nanna/ path, and the ?download=1 variant) resolves to that same 5 MiB record."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL/PARTIAL READ REGISTERED, NOT SKIPPED - 2 of 6 fields graded, 4 UV. WHAT A RE-READER NEEDS. (1) THE BLOCKER IS THE SOURCE, NOT THE METHOD: digicoll is behind an AWS WAF challenge and the sole Wayback capture of cubanc_lcf_sd381.pdf is truncated to 5 MiB of 148.3 MB. Retry digicoll directly; this file is fine there once the challenge lifts. (2) TECHNIQUE THAT SALVAGED THE 2 GRADES, worth reusing on any truncated capture: pypdf cannot open a truncated PDF ('EOF marker not found'), but these files store one JPEG-2000 image per leaf, so carving on the jp2 signature (b'\\x00\\x00\\x00\\x0cjP  ') and converting each blob with macOS `sips -s format jpeg` recovers the leading leaves as readable images. Do NOT hand the .jp2 to the image reader directly - convert first. 5 leaves came back here. (3) WHAT THE UNREAD PART MUST SETTLE, so a re-reader knows where to go: the concession is at stamped pp. 21-25 (the MARC 500 note lists Spanish text on pp. 21-25, 31-32, 37-39, 43-44, 48-49, 52-57, 60, 62, 65-72, 81-93). Bowman records TWO grants - 'by Fages Oct. 20, 1784' and 'by Borica Jan. 12, 1798', both to Jose Maria Verdugo - so the register's 1784/Fages picks the first of two and a re-reader must decide against the decrees which one the file treats as the title, not assume it. Bowman also notes this is one of only two known grants made under the decree of 12 Aug 1768 for soldiers marrying Indians. NONE OF THAT IS EVIDENCE: it is the Bancroft finding aid (a secondary abstract of Bowman's Index), and the method makes the case file the authority. (4) SPELLING: the register's 'Berdugo' with a B is not a typo - the case label itself reads 'JULIO BERDUGO, ET AL' - though digicoll's own title uses 'Verdugo'. (5) Hoffman 1862 is blank on year, governor and grantee for this record, so it offers no cross-check on the three fields left UV."
+ },
+ {
+  "id": "rancho-san-vicente",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/264200/files/cubanc_lcf_nd363.pdf",
+  "pdf_pages_stated": 530,
+  "pages_read": [
+   "img7-16 (stamped 2-11, Board journal + petition)",
+   "img76-85 (stamped 71-80, the Spanish expediente and titulo)",
+   "img117-128 (stamped 109-118 + the District Court wrapper)",
+   "img129-134 (stamped 119-124, the appeal papers)",
+   "img135-146 (stamped 125-135)",
+   "img255-257 (stamped 243-245)",
+   "img380-382 (stamped 367-369)",
+   "img525-544 (stamped 512-530)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Board Decree of Confirmation, stamped 363 ND PAGE 115 (img123): 'The land of which confirmation is made is situated in the County of Santa Clara, and is known by the name of San Vicente, being a portion of the place called the Canada de los Capitancillos adjoining the lands granted to Justo Larios, and containing one square league.' The Spanish papers agree: the 1842 petition is dated 'Rancho de S. Vicente. 3 de Junio de 1842' (stamped PAGE 76, img81) and the 1844 petition 'este su Rancho de S. Vicente - Canada de los Capitancillos' (stamped PAGE 125, img136). The register's parenthetical '(Berreyesa)' is a correct disambiguator."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped 363 ND PAGE 80 (img85): 'Dado en Monterrey a veinte de Agosto de mil ocho cientos cuarenta y dos' - 20 August 1842; the concession decree two leaves earlier, stamped PAGE 78 (img83), is likewise headed 'Monterrey. 20 de Agosto de 1842'. The claimants' 1852 petition states 'that on the 20th of August 1842 a grant of land consisting of one square league was made to the said Jose R Berreyesa by Governor John B Alvarado' (stamped PAGE 6, img11). Alvarado himself, deposed for the United States 21 Mar 1857, said 'It is a grant that I gave to Berryesa, when I was Governor of California in 1842 of the Canada de los Capitancillos' (stamped PAGE 135, img146)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo heading, stamped PAGE 79 (img84): 'Juan B. Alvarado Gobernador constitucional del Departamento de las Californias. Por cuanto el Ciudadano Jose Reyes Berreyesa ha pretendido...'; the concession decree at stamped PAGE 78 (img83) closes 'El Ex.mo Sr. Don Juan B. Alvarado, Gobernador Constitucional de las Californias asi lo proveyo, mando y firmo.' Corroborated by Alvarado's own 1857 deposition (stamped PAGE 135, img146)."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant runs to JOSE REYES BERREYESA, not to Maria Z. Berreyesa. Titulo, stamped 363 ND PAGE 79 (img84): 'Por cuanto el Ciudadano Jose Reyes Berreyesa ha pretendido para su beneficio personal y el de su familia una parte del parage nombrado Canada de los Capitancillos'. Concession decree, stamped PAGE 78 (img83): 'declaro en conformidad a las leyes respectivas dueno en propiedad al ciudadano Jose R. Berreyesa'. The expediente cover reads 'Espediente Promovido por el Ciudadano Jose Reyes Berreyesa en solicitud del parage nombrado la canada de los Capitancillos. 293' (stamped PAGE 74, img79) and the 1842 petition is signed 'Jose R. Berreyesa' (stamped PAGE 76, img81). Maria Z. Berreyesa is his WIDOW and the 1852 U.S. claimant: the petition to the Board is 'The petition of Maria B. Bernal Berreyesa widow of Jose Reyes Berreyesa deceased' and nine named children 'heirs at law of said Jose Reyes Berreyesa' (stamped PAGE 6, img11). The record twice calls the husband the grantee in terms: Manuel Castro was asked 'Were you acquainted with Jose Reyes Berreyesa THE GRANTEE IN THIS CASE during his life time' (stamped PAGE 11, img16), and the 21 Mar 1857 stipulation speaks of 'said Jose Reys Berreyesa the grantee in this case' (stamped PAGE 131, img142). He died in 1846 (Castro, stamped PAGE 11, img16), six years before the claim was filed."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "District Court wrapper on the Board transcript's back cover (img128): 'U.S. DISTRICT COURT, Northern District of California. No. 363. THE UNITED STATES vs Maria Z. B. Berreyesa et al. TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS In Case No. 503. Filed December 24, 1855. John A. Monroe, Clerk.' Every leaf is stamped '363 ND'; the District Court captions read 'D.C. 363 - L.C. 503' (stamped PAGE 121, img131). PDF filename cubanc_lcf_nd363.pdf matches the derived name. Board docket 503 = Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "A DECREE OF CONFIRMATION IS IN THE FILE, BUT ONLY THE BOARD'S. Stamped 363 ND PAGE 115 (img123), captioned 'Decree of Confirmation': 'In this case on hearing the proofs and allegations, it is adjudged by the Commission that the claim of the petitioner is valid, and it is therefore decreed that the same be confirmed', signed R. Aug. Thompson and S. B. Farwell, Commissioners, filed 3 July 1855 (stamped PAGE 116, img124); the accompanying Order transmitting the transcript is at stamped PAGE 117 (img125), and Secretary Fisher certified the 117-page transcript on 10 Dec 1855 (stamped PAGE 118, img127). The United States then APPEALED: Attorney General's notice 11 Feb 1856 (stamped PAGE 119, img129), notice of appeal filed 4 Apr 1856 (stamped PAGE 120, img130), and a petition filed 21 Feb 1857 praying 'that this Court reverse the decision of the Land Com. and decree said title invalid' (stamped PAGE 121, img131), answered 21 Mar 1857 (stamped PAGE 123, img133). I did NOT find the District Court's own decree in the leaves read, so the appeal's disposition is unverified from the file. Graded PART, not OK, because the method makes the Commission's first decision non-final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Reyes Berreyesa (Jose R. Berreyesa), per the titulo at stamped 363 ND PAGE 79 (img84): 'Por cuanto el Ciudadano Jose Reyes Berreyesa ha pretendido para su beneficio personal y el de su familia una parte del parage nombrado Canada de los Capitancillos'. The register's 'Maria Z. Berreyesa' is his widow, the 1852 U.S. claimant and the 1868 patentee - correct in the patent_to field, wrong in the grantee field."
+  },
+  "notes": "THE ONE REAL ERROR IN THIS CHUNK, AND IT IS THE TEXTBOOK CASE: the U.S.-era CLAIMANT written into the Mexican GRANTEE slot. Maria Zacarias Bernal Berreyesa is the widow; Jose Reyes Berreyesa (d. 1846) is the grantee. Three independent supports inside the file, not one: the Spanish titulo and concession decree (stamped pp. 78-79), the claimants' own petition naming her 'widow of Jose Reyes Berreyesa deceased' (stamped p6), and the record calling him 'the grantee in this case' in two separate places (stamped p11 and p131). The register is internally inconsistent too - its own patent_to says 'Maria Z. Berreyesa et al', which is right, so the same name was copied into both slots. FIVE MORE THINGS A RE-READER NEEDS. (1) HOFFMAN WOULD HAVE CAUGHT THIS AND THE FLAGGER MISSED IT. hoffman_1862.grantee reads 'Jos<5 R. Berreyesa' - mojibake for 'Jose R. Berreyesa' - i.e. Hoffman AGREES WITH THE CASE FILE AGAINST THE REGISTER, yet hoffman_flags is EMPTY. The flag generator evidently could not parse the corrupted accented character and silently dropped the comparison. THAT IS A SYSTEMATIC HOLE, NOT A ONE-OFF: any Hoffman cell containing a mangled accent may have been dropped the same way, which means the 'unflagged' stratum is not a clean stratum - it contains at least the errors whose Hoffman cell failed to parse. Re-run the flagger over rows whose hoffman_1862 values contain non-ASCII or replacement characters before treating unflagged as low-risk. (2) STAMP-TO-IMAGE OFFSET DRIFTS ACROSS THIS FILE: stamped = img - 5 at the front and through stamped 80, img - 8 near stamped 109-118, img - 10 at stamped 119-124, img - 11 at stamped 125-135, and img - 13 by stamped 512-530. Never convert with a single constant here; cite the stamp. (3) THE VOLUME CONTAINS A DUPLICATE of the Board transcript (pencil '503 Dup' on the front leaves, and a second Board transmittal of 10 Dec 1855 at the very last leaf, stamped PAGE 530, img544), so a coverage tool will see the same content twice at two different stamps. (4) TWO GRANTS WERE SOUGHT, ONE WAS MADE. Berreyesa petitioned Micheltorena on 10 Feb 1844 for two sitios because the 1842 title restricted him to one (stamped pp. 125-128, img136-139; Micheltorena ordered 'Let the title issue' 23 July 1844 at stamped p128, img139), but the Board found 'So far as appears in this case no grant was made upon this order, and the claimants have their right to a confirmation upon the first grant of one square league' (stamped PAGE 114, img122). The register's 1842/Alvarado is therefore the right choice; the 1844 Micheltorena order is a real document that did not ripen. (5) THIS IS THE NEW ALMADEN QUICKSILVER LITIGATION. Much of the 530 pages is the Berreyesa heirs' equity suit against the New Almaden company (answer at stamped pp. 512-527, img525-540) and later Larios/Supreme Court argument (stamped pp. 367-369, img380-382). A re-reader hunting the District Court decree of 30 Mar 1857 should look between stamped 136 and 511; it is not at the tail, which is exhibit material."
+ },
+ {
+  "id": "rancho-san-ysidro",
+  "pdf_url_used": "https://web.archive.org/web/2024id_/https://digicoll.lib.berkeley.edu/record/265808/files/cubanc_lcf_nd216.pdf",
+  "pdf_pages_stated": 218,
+  "pages_read": [
+   "img1-6 (cover, catalogue leaf, stamped 1)",
+   "img17-42 (stamped 11-36: depositions, the Spanish expediente, and its sworn English translation)",
+   "img47-54 (stamped 40-45 + the District Court wrapper: the Board opinion, decree and certification)",
+   "img220-227 (stamped 211-218)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label: 'CASE No. 216 / NORTHERN DISTRICT / SAN YSIDRO GRANT / QUINTIN ORTEGA, ET AL / CLAIMANT'; transcript title stamped 216 ND PAGE 1 (img5) 'for the place named \"San Ysidro\"'; Fisher's certification, stamped PAGE 45 (img53), 'for the place known by the name of San Ysidro'. The register's parenthetical '(Gilroy)' is apt and in fact more accurate than its grantee field: the Board decree confirms this parcel to Maria Clara Ortega, wife of John Gilroy."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Figueroa's decree of division, Spanish at stamped 216 ND PAGE 19 (img25), 'Monterey. 3 de Junio de 1833', with the sworn English at stamped PAGE 29 (img35): 'Monterey June 3. 1833 ... it is considered and determined ... that citizen Quintin Ortega and his sisters Maria Clara and Maria Isabel Ortega be declared Owners in right of property of the Rancho called San Isidro ... the land being divided in Equal parts'. The operative titulo for the parcel in THIS case is dated a fortnight later: Spanish 'Dado en Monterrey a 19 de Junio de 1833' (stamped PAGE 22, img28), English 'Given at Monterey the 19th of June 1833' (stamped PAGE 32, img38), and the Board found 'The grant was issued by Governor Figueroa under date of June 19- 1833' (stamped PAGE 42, img49). Both dates are 1833, so the register's year holds on either reading."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo heading, stamped PAGE 31 (img37): 'Jose Figueroa, Brigadier General of the Mexican Army, Inspector General Commanding, and Supreme Political Chief of the Territory of Alta California. Whereas Maria Clara Ortega wife of John Gilroy has claimed ... I have granted to her the herein before described lands'; signed 'Jose Figueroa = A. V. Zamorano Secy'. Spanish original at stamped PAGE 21-22 (img27-28). Board opinion, stamped PAGE 42 (img49): 'The grant was issued by Governor Figueroa'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "THE BOARD EXPRESSLY DENIED QUINTIN ORTEGA'S CLAIM IN THIS VERY CASE. Opinion, stamped 216 ND PAGE 42 (img49): 'The Rancho known by the name of San Isidro was long occupied by Ignacio Ortega and on his death his children Quinton, Maria Isabel and Maria Clara obtained a division of the property and separate grants to each for their respective portions. The land which was thus granted to Quinton Ortega HAS ALREADY BEEN CONFIRMED TO HIM IN ANOTHER CASE by this Commission. The proof presented in this case relates to the portion of the property which was assigned in the division and granted to his sister Maria Clara the wife of John Gilroy. IN THIS PROPERTY QUINTON ORTEGA HAS NOT SHOWN ANY INTEREST AND IS THEREFORE NOT ENTITLED TO A DECREE OF CONFIRMATION IN THIS CASE.' The Decree, stamped PAGE 44 (img52), is explicit: 'And as to the claim of the petitioner Quinton Ortega, to the premises described in the petition it is adjudged by the Commission, that the same is not valid and it is therefore decreed that his application for a confirmation thereof BE DENIED.' The titulo for this parcel runs to Maria Clara: 'Whereas Maria Clara Ortega wife of John Gilroy has claimed for her personal benefit, and that of her family a part of the Rancho known by the name of San Isidro ... bounded ... by the parts which appertain to her brother Quinten Ortega and her sister, Maria Isabel Ortega' (stamped PAGE 31, img37)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE No. 216 NORTHERN DISTRICT'; catalogue leaf img2 'LAND CASE 216 ND; 218 PAGES'; every leaf stamped '216 ND'; District Court wrapper on the transcript's back cover (img54): 'U.S. DISTRICT COURT, Northern District of California. No. 216 N.D. THE UNITED STATES vs. Quintin Ortega, Et al. TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 112. Filed June 2, 1855. John A. Monroe, Clerk.' PDF filename cubanc_lcf_nd216.pdf matches the derived name. Board docket 112 = Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "The file carries a decree of confirmation for this parcel, but only the Board's, and it is a SPLIT decree. Stamped 216 ND PAGE 43 (img51): 'In this case on hearing the proofs and allegations it is adjudged by the Commission that the claims of the petitioners Maria Clara Ortega (wife of John Gilroy) and Julius Martin respectively are valid and it is therefore decreed that the same be confirmed, to hold the land hereinafter described to them respectively in severalty'; Maria Clara's share is 'that portion of said place called the Rancho Ysidro which in the division above mentioned was assigned and granted to said Maria Clara and which Constitutes the Middle portion of said Rancho', excepting what she and Gilroy deeded to Martin on 8 Jan 1852 (the deed itself is at stamped PAGES 40-41, img47-48). The SAME decree rejects two things: any part of Martin's tract falling outside Maria Clara's grant ('the claim of said Martin to such portion is hereby rejected', stamped PAGE 44, img52) and Quintin Ortega's claim outright. Signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed 19 Sept 1854; Fisher certified 46 pages numbered 1 to 44 on 25 May 1855 (stamped PAGE 45, img53). The District Court decrees the Bancroft abstract reports (3 June 1856 and 25 Mar 1864) were NOT among the leaves read, so finality is unverified from the file. PART, not OK, because the Commission's decision is not final and because 'Confirmed' unqualified hides a denial and a partial rejection inside the same decree."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Maria Clara Ortega (wife of John Gilroy), per the Figueroa titulo of 19 June 1833 at stamped 216 ND PAGE 31 (img37) and the Board's opinion at stamped PAGE 42 (img49). 'Quintin Ortega' is the lead CLAIMANT in the case caption, and the Commission held he 'has not shown any interest' in this property and denied his claim (stamped PAGE 44, img52). If the register wants a fuller form, the 3 June 1833 decree of division ran to all three siblings: 'citizen Quintin Ortega and his sisters Maria Clara and Maria Isabel Ortega ... the land being divided in Equal parts' (stamped PAGE 29, img35)."
+  },
+  "notes": "THE SECOND ERROR IN THIS CHUNK AND THE MOST IMPORTANT ONE METHODOLOGICALLY, BECAUSE HOFFMAN CANNOT CATCH IT. WHY THIS IS AN ERROR AND NOT A HARMLESS SHORTHAND. Every other field in this register row points at the Gilroy parcel - land_case ND 216, patent to John Gilroy and Julian Martin, 4,460.67 acres, GLO 228, and even the name's parenthetical '(Gilroy)'. Only the grantee field says Quintin Ortega, and it is the one man the Board decree in this docket names as NOT entitled to confirmation here. The name was evidently copied off the case caption ('Quintin Ortega, et al, Claimants'), which is the same claimant-for-grantee substitution as rancho-san-vicente, just arriving by a different route: there via the widow, here via the case caption. HOFFMAN AGREES WITH THE REGISTER AND BOTH ARE WRONG. hoffman_1862.grantee reads 'Quintin Ortega et al.', so this row was never going to be flagged, and no amount of Hoffman cross-checking would have surfaced it. Taken with the parsing hole found at rancho-san-vicente (where a mojibaked 'Jos<5 R. Berreyesa' silently dropped the comparison), that is TWO INDEPENDENT WAYS the unflagged stratum can hide a real error, and it is direct evidence that 'unflagged' should not be read as 'low risk'. Only the case file settles this class. FOUR THINGS A RE-READER NEEDS. (1) THIS RANCHO IS THREE DOCKETS, NOT ONE. Ignacio Ortega's San Ysidro was divided in 1833 among Quintin, Maria Clara and Maria Isabel, and each portion went to the Commission separately: digicoll lists 'Docket 112, 216 ND, 163 ND, 197 SD' for this record, and the Board says Quintin's part 'has already been confirmed to him in another case'. Any register row keyed to ND 216 is the MIDDLE portion, Maria Clara's, later Gilroy's and Martin's. (2) THE FIRST TWENTY-ODD LEAVES ARE A TRAP FOR A FAST READER: stamped pp. 15-24 are the Spanish expediente, in which Quintin Ortega is the petitioner throughout and his own titulo of 4 June 1833 appears at stamped pp. 20-21 (img26-27). Reading only that stretch would produce a confident, wrong OK. The sworn English translation of the same expediente follows at stamped pp. 25-36 (img31-42), and Maria Clara's separate titulo of 19 June 1833 sits inside it at stamped pp. 31-32 (img37-38). You must reach stamped p42 to learn which titulo this docket is about. (3) OFFSET DRIFT: stamped = img - 4 at the very front, img - 6 through stamped 36, img - 7 by stamped 42, and img - 9 by stamped 211-218. Cite the stamp. (4) THE REGISTER'S PATENT FIELDS ARE STRUCTURALLY CORRUPTED FOR THIS ROW, which Phase C should fix even though patent grading is out of scope here: patent_to reads 'John Gilroy and Julian' and patent_date reads 'Martin Sept. 27, 1867' - the patentee 'Julian Martin' has been split across two columns, a one-field shift. The case file spells him 'Julius Martin' (stamped p43, img51) while the Bancroft authority heading says 'Martin, Julian'. Also useful for Phase C: surveyor William J. Lewis deposed 26 Feb 1859 that 'the Area of the Mexican League is 4438.683 Acres' and that the judicial-possession tract measured 4582.5 acres (stamped PAGE 217, img226); the register's 4,460.67 patent acres falls between the two."
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "rancho-sobrante-san-jacinto",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265828/files/cubanc_lcf_sd080.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read: digicoll.lib.berkeley.edu returned HTTP 202 x-amzn-waf-action=challenge for every /record/ and /files/ path throughout this run (2026-09-09 18:40-19:05Z). Repository OAI record oai:digicoll.lib.berkeley.edu:265828 titles the case 'San Jacinto Sobrante (also called \"Sobrante de San Jacinto Viejo y Nuevo\") [Riverside County]' but that is catalog metadata, not the red label."},
+   "year":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI dc:description (Bowman Index I, 698) says 'Granted by Pico May 9, 1846' - secondary, not the decree."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read (WAF challenge). Bowman via OAI: 'Granted by Pico' - secondary."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read (WAF challenge). SUSPECTED ERR: Bowman via OAI says granted 'to Maria del Rosario Estudillo de Aguirre' and 'Claim filed by Jose Antonio Aguirre for his wife Mar. 23, 1852'; Hoffman 1862 grantee column likewise reads 'Maria del Rosario Estudillo de ... Aguirre'. Register's 'Jose Antonio Aguirre' is the CLAIMANT. Needs the concession decree to confirm."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI title 'Case no. 80, Southern District of California' and file identifier cubanc_lcf_sd080.pdf corroborate SD 080, but neither is the red label."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read (WAF challenge). TRAP PRESENT: Bowman via OAI records 'Rejected by the Board Jan. 17, 1854 and Aug. 10, 1864. Confirmed by the District Court Feb. 14, 1856. Confirmed by the Supreme Court Feb. 15, 1864, by mandate.' The register's bare 'Confirmed' is true only through reversal of a Commission rejection - exactly the class the method warns about - so it must be graded on the decrees themselves, not assumed."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable. digicoll.lib.berkeley.edu is behind an AWS WAF JS challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path; the OAI-PMH endpoint /oai2d is NOT challenged and was used for metadata. I did not attempt to solve or circumvent the challenge (bot-detection circumvention is out of bounds). Retried over ~25 minutes including a 4-minute quiet backoff; challenge persisted. Re-reader: retry the download when the WAF rule clears, then settle grantee (claimant-for-grantee suspected) and outcome (rejection reversed on appeal) from the decrees."
+ },
+ {
+  "id": "rancho-solis",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264252/files/cubanc_lcf_nd405.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge, HTTP 202 x-amzn-waf-action=challenge). OAI title: 'Solis [Santa Clara County] Rufina Castro, Claimant. Case no. 405, Northern District of California.' - catalog metadata, not the red label."},
+   "year":      {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI (Index I, 801): two acts - 'by Victoria Sept. 27, 1831, permission to occupy' and 'by marginal note by Figueroa Aug. 8, 1835'. Register's 1835 matches the second act, but this is secondary and the file has TWO datable acts, so it must be read."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI names both Victoria (1831) and Figueroa (1835); register's 'Figueroa' matches the later marginal grant. Secondary only."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'both grants to Mariano Castro'; claimant was Rufina Castro and heirs. Register's 'Mariano Castro' is consistent but unconfirmed against the decree."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read. OAI title 'Case no. 405, Northern District' and file identifier cubanc_lcf_nd405.pdf corroborate ND 405; not the red label."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'Confirmed by the Board Dec. 4, 1855. Confirmed by the District Court May 1, 1856; appeal dismissed Mar. 24, 1857. Patent issued to Rufina Castro et al Jan. 18, 1859'. Secondary."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable (AWS WAF challenge on digicoll, see chunk note on rancho-sobrante-san-jacinto). Hoffman 1862 carries no year/governor/grantee for this line, so Hoffman cannot corroborate. Watch on re-read: this grant has a Victoria 1831 occupation permit AND a Figueroa 1835 marginal concession; whichever the register means, the decree must be quoted. Also called Carnadera y Animas, Ojo del Cavallo, and San Antonio (Bowman), so the name field may need PART."
+ },
+ {
+  "id": "rancho-suisun",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264397/files/cubanc_lcf_nd002.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI title: 'Suisun Rancho [Solano County] Archibald Richie, Claimant. Case no. 2, Northern District of California.'"},
+   "year":      {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI (Index I, 815): 'Granted by Alvarado Jan. 28, 1842'. Secondary; register's 1842 is consistent."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'Granted by Alvarado'. Secondary; consistent with register."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'to Francisco Solano, Indian chief and Captain in the Mexican Army'. Consistent with register; claimant was Archibald A. Ritchie. Unconfirmed against the decree."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read. OAI title 'Case no. 2, Northern District' and identifier cubanc_lcf_nd002.pdf corroborate ND 002."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: confirmed by Board Jan. 3, 1853, District Court Nov. 8, 1853, Supreme Court Mar. 10, 1855 by mandate; patent to Archibald A. Ritchie Jan. 17, 1857."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable (AWS WAF challenge on digicoll). Register leaves patent_to and patent_acres blank while Bowman gives patent to Archibald A. Ritchie, Jan. 17, 1857, 17,754.73 acres (register's patent_date Jan. 17, 1857 and GLO 91 already agree). Those are Phase C / GLO fields, flagged here only as a lead."
+ },
+ {
+  "id": "rancho-sur",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266042/files/cubanc_lcf_sd001.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI title: 'Sur [Monterey County] John B. R. Cooper, Claimant. Case no. 1, Southern District of California.'"},
+   "year":      {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI (Index I, 817): 'Granted by Figueroa Sept. 30, 1834'. Secondary; register's 1834 is consistent."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'Granted by Figueroa'; Hoffman 1862 governor column reads 'Jos[e] Figueroa'. Consistent with register."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read. SUSPECTED ERR: Bowman via OAI says granted 'to Juan B. Alvarado', and 'Claim filed by John B.R. Cooper Mar. 23, 1852'; Hoffman 1862 grantee column independently reads 'Juan B. Alvarado'. Register's 'John B. R. Cooper' is the CLAIMANT (Cooper was Alvarado's uncle by marriage). Needs the concession decree to confirm."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read. OAI title 'Case no. 1, Southern District' and identifier cubanc_lcf_sd001.pdf corroborate SD 001."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: confirmed by Board Dec. 18, 1852 and District Court Sept. 21, 1855; appeal dismissed by Supreme Court Dec. 2, 1856; patent to John B.R. Cooper May 18, 1866."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable (AWS WAF challenge on digicoll). This is the strongest suspected register error in the chunk: BOTH Hoffman 1862 and Bowman name Juan B. Alvarado as grantee while the register records the claimant Cooper. It carries hoffman_flags: [] even though hoffman_1862.grantee and claimed.grantee plainly disagree - see chunk-level note about the flagger."
+ },
+ {
+  "id": "rancho-tajauta",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266125/files/cubanc_lcf_sd167.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI title spells it 'Tajanta [Los Angeles County] Enrique Abila, Claimant', and Bowman adds 'The grant name is also written Tajanta, Tajuanta, and the grant was also called Cuerbas.' Register has 'Tajauta' (so does Hoffman 1862). Spelling variant unresolved without the red label; may warrant PART."},
+   "year":      {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI (Index I, 820): 'Granted by Micheltorena July 5, 1843, provisionally until the title could issue'. Secondary; register's 1843 is consistent."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'Granted by Micheltorena'. Consistent with register."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'to Anastasio Abila'; claimant was Enrique Abila. Consistent with register; unconfirmed against the decree."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read. OAI title 'Case no. 167, Southern District' and identifier cubanc_lcf_sd167.pdf corroborate SD 167."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: confirmed by Board Aug. 22, 1854 and District Court Jan. 10, 1856; appeal dismissed Feb. 24, 1857; patent to Enrique Abila Jan. 8, 1873."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable (AWS WAF challenge on digicoll). Two things to settle on re-read: the Tajauta/Tajanta spelling against the red label, and that the 1843 act was a PROVISIONAL concession 'until the title could issue' (Bowman), which may mean the definitive title bears a different date."
+ },
+ {
+  "id": "rancho-tejon",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268950/files/cubanc_lcf_sd327.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name":      {"grade": "UV", "evidence": "no PDF page read (WAF challenge). OAI title: 'Tejon [Kern County] Jose A. Aguirre and Ignacio del Valle, Claimants. Case no. 327, Southern District of California.'"},
+   "year":      {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI (Index I, 822): 'Granted by Micheltorena Nov. 24, 1843'. Secondary; register's 1843 is consistent."},
+   "governor":  {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'Granted by Micheltorena'. Consistent with register."},
+   "grantee":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: 'to Jose Antonio Aguirre and Ignacio del Valle'. Here grantee and claimant are the same two men, so the usual claimant/grantee trap does not bite. Consistent with register; unconfirmed against the decree."},
+   "land_case": {"grade": "UV", "evidence": "no PDF page read. OAI title 'Case no. 327, Southern District' and identifier cubanc_lcf_sd327.pdf corroborate SD 327."},
+   "outcome":   {"grade": "UV", "evidence": "no PDF page read. Bowman via OAI: confirmed by Board May 8, 1855 and District Court Mar. 18, 1858; appeal dismissed by Supreme Court Apr. 19, 1860; patent to Jose A. Aguirre and Ignacio del Valle May 9, 1863."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ - case file not retrievable (AWS WAF challenge on digicoll). Bowman notes the grant was '22 leagues increased from 18 leagues', so the expediente likely contains two acreage figures; check which the decree fixes."
+ }
+]

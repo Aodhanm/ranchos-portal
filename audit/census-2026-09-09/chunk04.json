@@ -1,0 +1,98 @@
+[
+ {
+  "id": "rancho-ojai",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266126/files/cubanc_lcf_sd168.pdf (read via a pre-existing excerpt of images 112-130 left on disk by agent work-B211; digicoll itself is WAF-blocked this session)",
+  "pdf_pages_stated": null,
+  "pages_read": ["images 112-130 = stamped 168 SD pages 103-121"],
+  "verdicts": {
+   "name": {"grade": "OK", "evidence": "stamped 168 SD p.116 (image 125) endorsement: 'United States vs Rancho Ojai'; p.115 (image 124) caption 'The Rancho called Ojai claimed by Fernando Tico'. The court's running caption spells it 'Ojay' (stamped pp.108, 111, 119) but the clerk's endorsements use 'Ojai'; register 'Ojai' matches."},
+   "year": {"grade": "UV", "evidence": "no concession decree or expediente translation appears in images 112-130 (stamped pp.103-121); that whole stretch is 1856-1866 District Court paper. The grant decree sits in the unread front of the file and digicoll could not be re-fetched, so 1837 was not tested."},
+   "governor": {"grade": "UV", "evidence": "same stretch as year: no concession decree in stamped pp.103-121, and Alvarado is nowhere named in the pages read."},
+   "grantee": {"grade": "OK", "evidence": "stamped 168 SD p.108 (image 117), motion of Juan Camarillo: 'successor in interest in the tract called and known as \"Ojay\" in Santa Barbara County, to Fernando Tico, the original grantee named in the record in this cause'; repeated in the decree at stamped p.119 (image 128): 'Fernando Tico the original grantee of the tract called \"Ojay\"'. This is a judicial recital in a signed decree, not the concession decree itself, which was not reachable - but it decisively excludes the dominant error class, because the court expressly separates Tico (original grantee) from Camarillo (U.S.-era claimant substituted of record)."},
+   "land_case": {"grade": "OK", "evidence": "page stamps read '168 SD' throughout (e.g. stamped p.103 = image 112); caption at stamped p.108 (image 117): 'Docket No. 168 / Land Com. No. 139'; filename cubanc_lcf_sd168.pdf."},
+   "outcome": {"grade": "OK", "evidence": "District Court decree of 16 June 1862, stamped 168 SD p.113 (image 122), orders a new survey 'in conformity to the decree of this Court confirming the title of said claim to the claimant' - a District Court confirmation is recited as already entered. Clerk's endorsement, stamped p.114 (image 123): 'Fernando Tico vs United States / Decree / Filed June 16, 1862'. Confirmation established; the confirmation decree itself and the 1870 patent lie outside the pages read."},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "Gradeable only because a prior agent (work-B211) had already cut images 112-130 out of cubanc_lcf_sd168.pdf and left the excerpt on disk; nothing new could be fetched from digicoll (see chunk-level note in record rancho-pauma). Stamped-vs-image drift in this file is a constant 9 (image 112 = stamped PAGE 103); no duplicate exposure in this stretch. ** FLAG FOR PHASE C: the register's patent_to 'Fernando Tico' looks wrong on the face of this file. ** Tico conveyed Ojai to Henry S. Carnes 25 May 1853 (recited stamped p.104, image 113); Carnes and his wife Domitila Rodriguez de Carnes conveyed to Juan Camarillo 24 June 1856 (deed at stamped pp.104-106, images 113-115); the District Court in June 1862 substituted 'the name of Juan Camarillo ... as the real party in interest ... for, and in lieu of that of Fernando Tico' (stamped pp.119-120, images 128-129); and on 26 Sept 1866 John Wyeth and John B. Church swore they 'have become owners of premises of the above entitled Rancho' (stamped p.115, image 124). A patent issuing 22 Dec 1870 to Fernando Tico personally is therefore doubtful and should be checked against the GLO record rather than assumed. Two further facts of record: the posture 'Fernando Tico, appellee, ads The United States, appellant' in the Oct. 1864 term (stamped p.117, image 126) is the ordinary U.S. appeal from the Commission, not a reversal; and the 16 June 1862 decree annulled the Mandeville survey as 'not in accordance with the grant, nor in conformity to the decree of this Court confirming the same', which is why the patent came so late."
+ },
+ {
+  "id": "rancho-orestimba",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264443/files/cubanc_lcf_nd057.pdf (NOT RETRIEVED - HTTP 202, x-amzn-waf-action: challenge, 0 bytes)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {"grade": "UV", "evidence": "no case-file page could be read; digicoll returned the AWS WAF JS challenge for both /record/264443 and /record/264443/files/cubanc_lcf_nd057.pdf"},
+   "year": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd057.pdf)"},
+   "governor": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd057.pdf)"},
+   "grantee": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd057.pdf)"},
+   "land_case": {"grade": "UV", "evidence": "no case-file page could be read; the red label and the PDF filename are both unverified this session"},
+   "outcome": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd057.pdf)"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, cause external: digicoll.lib.berkeley.edu is serving an AWS WAF JS challenge (HTTP 202, x-amzn-waf-action: challenge, Content-Length 0) on every /record/ and /files/ path. I did not solve the challenge - defeating bot detection is out of bounds - so no primary page was seen and every field is honestly UV, not OK. Hoffman 1862 (commission 35 / court 57) agrees with the register on all four substantive fields: 1844, Manuel Micheltorena, Sebastian Nunez, confirmed. That agreement is NOT a grade; it is only the reason this record was unflagged in the first place, so it carries no independent weight."
+ },
+ {
+  "id": "rancho-otay",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267567/files/cubanc_lcf_sd226.pdf (NOT RETRIEVED - HTTP 202, x-amzn-waf-action: challenge, 0 bytes)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {"grade": "UV", "evidence": "no case-file page could be read; digicoll returned the AWS WAF JS challenge for /record/267567/files/cubanc_lcf_sd226.pdf"},
+   "year": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd226.pdf)"},
+   "governor": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd226.pdf)"},
+   "grantee": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd226.pdf)"},
+   "land_case": {"grade": "UV", "evidence": "no case-file page could be read; red label and PDF filename unverified this session"},
+   "outcome": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd226.pdf)"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, cause external (AWS WAF challenge; see rancho-pauma note). PRIORITY FOR THE RE-RUN: this is the likeliest of my five to hide the claimant-for-grantee error, and it should not be left to a spot check. The register's own name field is 'Otay (Dominguez)' and its patent_to is 'Victoria Dominguez et al', while grantee is 'J. A. Estudillo' - so the register is already carrying two different families for one docket. I am flagging that as a question to test against the concession decree, not asserting anything: I have not seen the expediente and do not know whether SD 226 is the Estudillo grant, a Dominguez moiety, or a grant to one and a confirmation to the other. Hoffman 1862 (commission 330 / court 226) reads 1829, 'Jos6 M. Echeandia' (OCR of Jose M. Echeandia), J. A. Estudillo, confirmed - which matches the register and is exactly why nobody flagged it, but Hoffman prints no patentee, so the Dominguez half of the discrepancy is invisible to the 1862 table and has never been checked against anything."
+ },
+ {
+  "id": "rancho-pala",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256567/files/cubanc_lcf_nd233.pdf (NOT RETRIEVED - HTTP 202, x-amzn-waf-action: challenge, 0 bytes)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {"grade": "UV", "evidence": "no case-file page could be read; digicoll returned the AWS WAF JS challenge for /record/256567/files/cubanc_lcf_nd233.pdf"},
+   "year": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd233.pdf)"},
+   "governor": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd233.pdf)"},
+   "grantee": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd233.pdf)"},
+   "land_case": {"grade": "UV", "evidence": "no case-file page could be read; red label and PDF filename unverified this session"},
+   "outcome": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_nd233.pdf)"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, cause external (AWS WAF challenge; see rancho-pauma note). Two things for the re-runner to test, both stated as questions rather than findings because I saw no page. (1) The register's era tag is 'interim' with governor 'Jose Castro' and year 1835. I believe, but have not verified from a source this session, that Jose Castro held the jefatura politica ad interim only from late Sept 1835 (after Figueroa's death) into early Jan 1836, so an 1835 Castro grant is chronologically possible but sits inside a window of about three months - the concession's exact date is worth quoting rather than paraphrasing. (2) grantee 'Jose Higuera' versus patent_to 'Ellen E. White et al' is another grantee/claimant split of the kind this pass exists to catch; the decree, not the petition, has to settle it. Hoffman 1862 (commission 638 / court 233) prints 1835, 'Jos6 Castro', 'Jos6 Higuera', confirmed, agreeing with the register - which is why it was unflagged, and which is not evidence."
+ },
+ {
+  "id": "rancho-palos-verdes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265839/files/cubanc_lcf_sd093.pdf (NOT RETRIEVED - HTTP 202, x-amzn-waf-action: challenge, 0 bytes)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {"grade": "UV", "evidence": "no case-file page could be read; digicoll returned the AWS WAF JS challenge for /record/265839/files/cubanc_lcf_sd093.pdf"},
+   "year": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd093.pdf)"},
+   "governor": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd093.pdf)"},
+   "grantee": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd093.pdf)"},
+   "land_case": {"grade": "UV", "evidence": "no case-file page could be read; red label and PDF filename unverified this session"},
+   "outcome": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd093.pdf)"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, cause external (AWS WAF challenge; see rancho-pauma note). For the re-run: expect a long file and a late patent - the register itself records confirmation but a patent date of 22 June 1880, a 34-year gap from the claimed 1846 grant, which usually means contested survey or appeal proceedings, so the outcome field should be graded on the LAST decree in the file and the file may run to multiple volumes (cubanc_lcf_sd093A/B). Check the downloaded bytes begin with %PDF before trusting any single-volume filename. Hoffman 1862 (commission 446 / court 93) prints 1846, Pio Pico, 'J. L. Sepulveda etal.', confirmed, matching the register; not evidence."
+ },
+ {
+  "id": "rancho-pauma",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267536/files/cubanc_lcf_sd189.pdf (NOT RETRIEVED - HTTP 202, x-amzn-waf-action: challenge, 0 bytes)",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {"grade": "UV", "evidence": "no case-file page could be read; digicoll returned the AWS WAF JS challenge for /record/267536/files/cubanc_lcf_sd189.pdf"},
+   "year": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd189.pdf)"},
+   "governor": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd189.pdf)"},
+   "grantee": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd189.pdf)"},
+   "land_case": {"grade": "UV", "evidence": "no case-file page could be read; red label and PDF filename unverified this session"},
+   "outcome": {"grade": "UV", "evidence": "no case-file page could be read (WAF challenge on cubanc_lcf_sd189.pdf)"},
+   "patent_to": null, "patent_date": null, "glo_patent_no": null},
+  "corrections": {},
+  "notes": "NULL READ, cause external. ** CHUNK-LEVEL BLOCKER, recorded here in full. ** As of 2026-09-09 ~16:26-16:35 UTC, digicoll.lib.berkeley.edu answers every /record/NNNNNN and /record/NNNNNN/files/*.pdf request with HTTP 202, header 'x-amzn-waf-action: challenge', Content-Length 0, i.e. an AWS WAF JavaScript challenge page (window.gokuProps). This defeats the audit's whole fetch path: the 202 is not a 404, so status-code checks pass while zero PDF bytes arrive, and scripts/fetch_case_pages.py reports 'no cubanc_lcf PDF listed on <record url>' because it is parsing the challenge HTML. Evidence it is site-wide and not my client: /robots.txt and /oai2d?verb=Identify still return 200 with real content, while all five of my dockets (nd057, sd226, nd233, sd093, sd189) returned the challenge on both the record page and the direct file path. Evidence it is affecting the whole pass: another agent left a 0-byte /tmp/casefile-cache/cubanc_lcf_sd157.pdf timestamped 09:28 local, the same minutes I was being challenged. Retries do not clear it - I spaced 8 requests 15s apart (robots.txt asks Crawl-Delay: 5) with both a browser UA and the audit UA and got the challenge every time, so this is a configured rule on those paths, not a transient rate limit. I did NOT attempt to solve or harvest the WAF token from a browser: circumventing bot detection is out of bounds, and it would also be the wrong call for a UC Berkeley host the project depends on long-term. RECOMMENDED NEXT STEP for whoever re-runs this chunk: have Aodhan contact Berkeley Library about an allowlist or a bulk-access route for cubanc_lcf, or re-run when the rule lapses; do not have agents grind against it. Also note robots.txt Disallows /search, so the method's 'digicoll search' fallback for null scan_record_url should be retired in favour of the OAI-PMH endpoint, which is permitted and still answering. On this record specifically, Hoffman 1862 (commission 439 / court 189) prints 1844, 'Manuel Michel torena', 'J. A. Serano et al.', confirmed, agreeing with the register; not evidence."
+ }
+]

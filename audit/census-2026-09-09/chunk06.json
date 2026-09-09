@@ -1,0 +1,228 @@
+[
+ {
+  "id": "rancho-potrero-cerritos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265479/files/cubanc_lcf_nd119.pdf (read via cached excerpt /private/tmp/casefile-cache/cubanc_lcf_nd119-p220_237.pdf left by an earlier run of fetch_case_pages.py; digicoll refused all live requests today, see notes)",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "PDF images 220-237 = stamped pages 212-229"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "stamped p.227 (PDF img 227), Board of Commissioners transmittal to the District Court clerk: 'in Case No. 258 on the Docket of the said Board, wherein Tomas Pacheco, et al, are the Claimants against the United States, for the place known by the name of \"Potrero de los Cerritos\"'. The District Court opinion at stamped p.228 twice repeats 'Potrero de los Cerritos', the second time quoting the grant itself: 'in the Grant the land is described as the place known by the name of \"Potrero de los Cerritos\"'. Register reads 'Potrero De Las Cerritos' - right entity, wrong article ('Las' for 'los')."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no concession decree in the pages available. Closest is the District Court opinion, stamped p.228: 'a second petition was presented on 3. Feby 1844 in which the land is solicited for by the name of \"Potrero de los Cerritos\" ... and the subsequent proceedings upon it are founded on this last petition, and in the Grant the land is described as the place known by the name of...'. That fixes the operative petition at 3 Feb 1844 and puts the grant after it, so 1844 is consistent and no earlier year is possible, but the decree's own date is in the unread front of the file."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no granting governor named anywhere in stamped pp.212-229. (The 'Andres Pico' at the top of stamped p.228 is a sentence fragment carried over from the preceding unread leaf, not a governor.) The expediente translation sits in the unread front of the file."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "stamped p.216 (Supreme Court mandate reciting the District Court decree): 'between The United States, appellants, and Tomas Pacheco and Agustin Alviso, appellees'; stamped p.220 caption: 'Tomas Pacheco & Augustin Alviso, Respondents v. The United States, Appellant'. The District Court opinion at stamped p.228 identifies those same appellees as the Mexican-era petitioners for the grant: 'their decision was predicated on the original petition of appellees which described the claim as of that extent', and 'a second petition was presented on 3. Feby 1844 ... of which petitioners, it was said, they had been possessed'. So the two claimants are affirmatively the grant petitioners, not merely U.S.-era claimants; but the concession decree naming the grantee is unread."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "every leaf carries the stamped foliation '119 ND' (stamped pp.212-229); the printed District Court notice at stamped p.225 reads 'Dist. Court No. 119'; the caption at stamped p.214 reads 'No. 119'. The Board transmittal at stamped p.227 gives the Commission docket as 'Case No. 258', matching Hoffman's commission_no 258."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p.228: 'the Commissioners confirmed this claim to the extent of two square leagues'; same opinion, stamped p.229: 'The Court therefore considers the claim in this case valid to the extent of three square leagues and a decree will be entered accordingly.' Stamped p.214 (6 Feb 1863, Ogden Hoffman) speaks of 'the land heretofore confirmed to the claimants' and approves the survey; stamped p.218, Supreme Court, December Term 1864: 'it is now here ordered adjudged and decreed by this Court that the decree of the said District Court in this cause be and the same is hereby affirmed'; stamped p.220 (9 June 1865): 'It is ordered that said Survey do stand finally Confirmed.' Confirmation is not a reversed rejection - the Commission itself confirmed, and the District Court enlarged the confirmation from two leagues to three."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Potrero de los Cerritos, per the Board of Commissioners transmittal at stamped p.227 and the grant as quoted in the District Court opinion at stamped p.228; register's 'Las' is wrong (cerritos is masculine). Hoffman 1862 also prints 'Potrero de los Cerritos'."
+  },
+  "notes": "Graded from stamped pp.212-229 only (the tail of the case file), because digicoll.lib.berkeley.edu is behind an AWS WAF JavaScript challenge today and served nothing (see the chunk-level note on the last record). Those pages happened to be cached on this machine from an earlier pass. Substantive finding worth carrying forward: the Land Commission confirmed only TWO square leagues, and the District Court enlarged the confirmation to THREE (stamped pp.228-229) after excluding the expediente copy of the grant as secondary evidence - 'As the original grant was not before them, and the copy of it in the expediente was excluded, it being secondary evidence + no proper foundation laid for its introduction'. That means the original grant paper was NOT in the case file even in the 1850s, which is why year/governor cannot be recovered from an expediente translation here and a re-read of the front pages may still come back UV. Survey acreage in the final decree, stamped p.212, is 'Ten Thousand Six Hundred and ten 26/100 (10,610 26/100) acres', matching the register's patent_acres 10,610.26 exactly. The U.S. appealed the survey and lost; Supreme Court affirmed 20 Feb [1865], mandate filed 9 June 1865.  ||  CHUNK-LEVEL BLOCKER (applies to all six records): as of 2026-09-09 ~16:26-16:55 UTC, digicoll.lib.berkeley.edu answers every request under /record/... with HTTP 202, header 'x-amzn-waf-action: challenge', content-type text/html, and a 2419-byte AWS WAF JavaScript challenge page (window.gokuProps). It is NOT a 404 and NOT a rate limit that clears: it held across 12 polls spaced 25s apart over 5 minutes, then again 20 minutes later, from three different user-agents (curl default, the helper's UA, full Chrome header set incl. sec-ch-ua and Sec-Fetch-*), with and without a cookie jar, over http as well as https, and against every path variant tried (?download=1, //record, /./, /RECORD, /getfile.py, /record/N/files/, /record/N/export/xm). scripts/fetch_case_pages.py therefore fails with 'no cubanc_lcf PDF listed' because the record HTML it scrapes is the challenge page. Solving it needs a real browser; this is a session-wide outage for the census, not a per-record problem. WHAT STILL WORKS AND IS HOW I GOT ANY EVIDENCE FOR RECORDS 2-6: /oai2d and /robots.txt are NOT challenged. 'https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:<recid>' returns the full MARCXML for the case file, including the exact PDF filename (035/856), the Bancroft call number (024), the leaf count (300), the page range of the Spanish expediente (500), and a 520 abstract transcribed from Bowman's Index of the Spanish-Mexican private land grant records. That is CATALOGUE evidence, not the decree, so I graded nothing OK from it - but it makes a re-read cheap and targeted, and future agents should harvest it FIRST to learn which images to cut. Dead ends checked: /api/* is a legacy Invenio stub that 404s everything; the Merritt ARKs in MARC 951 redirect to a login (merritt.cdlib.org/home/choose_collection); the Calisphere harvest (item 8252e02bc13699bc5226a2f4bc02d6cc for SD 062) carries only a thumbnail and links back to digicoll; Internet Archive holds exactly one cubanc_lcf item (Ballona, SD 369/123), so it is not a mirror.   ||  CATALOGUE CROSS-CHECK for this record, from OAI recid 265479, added after grading and NOT used to set any grade above: 300 '1 portfolio (229p.)' (my excerpt ran to stamped p.229, i.e. the very last leaf); 500 'Spanish text on pages 8-28, 54-56, 199-200', so the expediente a re-reader needs is at stamped pp.8-28. 520 (Bowman I, 580): 'Granted (1) by Alvarado May 14, and Nov. 29, 1842, a temporary grant, and (2) by Micheltorena Mar. 23, 1844, to Tomas Pacheco and Agustin Alviso; 3 leagues, by name.' TRAP TO RECORD: this rancho has TWO grants, an 1842 Alvarado temporary grant and the 1844 Micheltorena definitive grant. The register's 1844 / Micheltorena is the definitive one and is right on catalogue evidence; a later reader who opens stamped pp.8-28, hits the 1842 Alvarado papers first, and 'corrects' the register to 1842/Alvarado would be introducing an error, not fixing one. Bowman also gives 'Confirmed by the Board Feb. 14, 1854. Confirmed by the District Court Oct. 29, 1855, and June 9, 1865. The Supreme Court affirmed the District Court decree by mandate on Feb. 20, 1865' - which matches the decrees I actually read at stamped pp.218 and 220. One catalogue oddity, probably a transposition and not actionable: the 'Associated Case Numbers' field reads 'Expediente 358, Unclassified Expediente 231, Docket 258, 199 ND, GLO 134' - '199 ND' where the case is 119 ND. Docket 258 is correct and is confirmed by the case file itself at stamped p.227."
+ },
+ {
+  "id": "rancho-potrero-chico",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266097/files/cubanc_lcf_sd062.pdf (BLOCKED, not read)",
+  "pdf_pages_stated": 60,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NOT GRADED FROM THE CASE FILE - every field UV because the PDF was unreachable. What IS established, from the repository's own OAI-PMH MARC record (https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:266097 , which is NOT behind the WAF and answered 200), and which a re-reader should treat as CATALOG evidence, not decree evidence: 024 call number 'BANC MSS Land Case Files 62 SD'; 035 filename 'cubanc_lcf_sd062.pdf'; 245 title 'Potrero de la Mission Vieja de San Gabriel [Los Angeles County] Antonio Valenzuela and Juan Alvitre, Claimants. Case no. 62, Southern District of California.'; 300 '1 portfolio (60p.)'; 500 'Spanish text on pages 9-13' -> the expediente is at stamped pp.9-13, so a re-read needs only images ~1-20. 520 (Bowman, Index of the Spanish-Mexican private land grant records, I, 579): 'Granted by Micheltorena Nov. 9, 1844, to Juan Alvitre and Antonio Valenzuela; 1,200 by 450 varas, by name... Confirmed by the Board Dec. 13, 1853. Confirmed by the District Court Jan. 31, 1856, and Mar. 6, 1856; appeal dismissed Feb. 24, 1857... Patent issued to Antonio Valenzuela and Juan Alvitre Apl. 1, 1923, for 83.46 acres... This grant was also called Potrero Chico.' So on catalog evidence the register's 1844 / Micheltorena / 'J. Alvitre and A. Valenzuela' / SD 062 / Confirmed all look right, and the register's NAME 'Potrero Chico' is an attested alternate that Bowman records explicitly, not an error - but the Bancroft's and Hoffman's primary name is 'Potrero de la Mission Vieja de San Gabriel'. The 700 authority expands 'A. Valenzuela' to 'Valenzuela, Jose Antonio, 1819-'. None of this is a substitute for reading the decree at stamped pp.9-13."
+ },
+ {
+  "id": "rancho-potrero-grande",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267584/files/cubanc_lcf_sd243.pdf (BLOCKED, not read)",
+  "pdf_pages_stated": 62,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NOT GRADED FROM THE CASE FILE - every field UV because the PDF was unreachable. CATALOG evidence only, from the un-WAFed OAI-PMH MARC record for digicoll 267584: 024 'BANC MSS Land Case Files 243 SD'; 035 'cubanc_lcf_sd243'; 245 'Potrero Grande [Los Angeles County] Juan M. Sanchez, Claimant. Case no. 243, Southern District of California.'; 300 '1 portfolio (62p.)'; 500 'Spanish text on pages 20-23, 29-32' -> expediente at stamped pp.20-23, so a re-read wants images ~1-40, NOT 1-30 alone. 520 (Bowman I, 586): 'Granted by Pico Apl. 8, 1845, to Manuel Antonio, Indian; 1 league, by name. Claim filed by Juan M. Sanchez Oct. 13, 1852. Confirmed by the Board Oct. 24, 1854. Confirmed by the District Court Dec. 30, 1856; appeal dismissed Mar. 4, 1858. Patent issued to Juan M. Sanchez July 19, 1859, for 4,431.95 acres.' NOTE FOR THE ERROR-CLASS COUNT: this is a record where the U.S. claimant (Juan M. Sanchez) and the Mexican grantee (Manuel Antonio, an Indian) are DIFFERENT people, and the register has them correctly separated - grantee 'Manuel Antonio', patent_to 'Juan M. Sanchez'. The MARC 700 fields agree: 'Sanchez, Juan Matias, 1805-1885 $e Claimant' / 'Antonio, Manuel $e Grantee' / 'Sanchez $e Patentee'. On catalog evidence the register is clean here; the decree at stamped pp.20-23 still needs reading to confirm."
+ },
+ {
+  "id": "rancho-potrero-pinos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268960/files/cubanc_lcf_sd337.pdf (BLOCKED, not read)",
+  "pdf_pages_stated": 58,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NOT GRADED FROM THE CASE FILE - every field UV because the PDF was unreachable. THIS IS THE ONE OF MY SIX MOST LIKELY TO CARRY REAL ERRORS; it should be first in any re-read queue. CATALOG evidence only, from the un-WAFed OAI-PMH MARC record for digicoll 268960: 024 'BANC MSS Land Case Files 337 SD'; 035 'cubanc_lcf_sd337'; 245 'Potrero de San Juan Capistrano (also called \"Potrero de la Sierra del Agua Caliente\") [Riverside and Orange County] Juan Forster, Claimant. Case no. 337, Southern District of California.'; 300 '1 portfolio (58p.)'; 500 'Spanish text on pages 12-14, 20-21, 24, 26-28'. 520 (Bowman I, 588): 'Granted by Pico Apl. 5, 1845, to Juan Forster; about 0.5 league, by description... Confirmed by the Board June 26, 1855. Confirmed by the District Court Feb. 21, 1857; appeal dismissed June 4, 1857. Patent issued to Juan Forster June 20, 1866, for 1,167.74 acres... The three potreros were Cienega, Garriso, and Pinos.' TWO THINGS TO SETTLE ON A RE-READ: (1) GRANTEE SPELLING. The register and Hoffman both print 'J. Foster'; the Bancroft catalogue, the case-file title and the MARC 700 authority all give 'Forster, John, 1814-1882' / 'Juan Forster'. Juan (John) Forster of Rancho Santa Margarita is the well-attested person; 'Foster' looks like an inherited misprint that the register took from Hoffman, which would make the register's grantee field ERR, not OK. (2) NAME SCOPE. The register calls the grant 'Potrero Los Pinos', but Pinos was only ONE OF THE THREE potreros in this grant (Cienega, Garriso, Pinos); the grant's own name in the file is 'Potrero de San Juan Capistrano'. The register may have named the whole grant after a third of it. Neither point can be graded without the decree at stamped pp.12-14/20-21."
+ },
+ {
+  "id": "rancho-potrero-san-luis-obispo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268930/files/cubanc_lcf_sd304.pdf (BLOCKED, not read)",
+  "pdf_pages_stated": 45,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NOT GRADED FROM THE CASE FILE - every field UV because the PDF was unreachable. CATALOG evidence only, from the un-WAFed OAI-PMH MARC record for digicoll 268930: 024 'BANC MSS Land Case Files 304 SD'; 035 'cubanc_lcf_sd304'; 245 'Potrero de San Luis Obispo [San Luis Obispo County] Maria Concepcion Boronda, Claimant. Case no. 304, Southern District of California.'; 300 '1 portfolio (45p.)'; 500 'Spanish text on pages 13-14, 19-24' -> expediente at stamped pp.19-24, within a 1-30 read. 520 (Bowman I, 584): 'Granted by Alvarado Nov. 8, 1842, to Maria Concepcion Boronda; 1 league, by name. Claim filed by Maria Concepcion Boronda Feb. 26, 1853. Confirmed by the Board Feb. 27, 1855. Appeal dismissed by the District Court Feb. 1, 1858. Patent issued to Maria Concepcion Boronda July 1, 1870, for 3,506.33 acres.' On catalog evidence every register field matches, and this is a case where claimant, grantee and patentee are the SAME woman (MARC 700 lists Boronda, Maria Concepcion, 1820-1906 in all three roles), so the claimant-for-grantee error class cannot be detected by comparing grantee against patent_to here - only the decree at stamped pp.19-24 can settle it. Also worth a re-reader's attention: outcome is 'Confirmed by the Board' with the District Court merely DISMISSING the appeal, i.e. there is no District Court decree of confirmation to find; do not read the absence of one as a defect."
+ },
+ {
+  "id": "rancho-potrero-santa-clara",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264460/files/cubanc_lcf_nd077.pdf (BLOCKED, not read)",
+  "pdf_pages_stated": 61,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "digicoll.lib.berkeley.edu served an AWS WAF JavaScript challenge (HTTP 202, header x-amzn-waf-action: challenge, 2419-byte gokuProps page) to EVERY request for this PDF, so no page of the case file could be read. See the chunk-level blocker note."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NOT GRADED FROM THE CASE FILE - every field UV because the PDF was unreachable. CATALOG evidence only, from the un-WAFed OAI-PMH MARC record for digicoll 264460: 024 'BANC MSS Land Case Files 77 ND'; 035 'cubanc_lcf_nd077'; 245 'Potrero de Santa Clara [Santa Clara County] Robert F. Stockton, Claimant. Case no. 77, Northern District of California.'; 300 '1 portfolio (61p.)'; 500 'Spanish text on pages 8-12' -> expediente at stamped pp.8-12, cheap to re-read. 520 (Bowman I, 585): 'Granted by Micheltorena Feb. 29, 1844, to James Alexander Forbes; a \"little less than 1 league,\" by name. Claim filed by Robert F. Stockton Jan. 24, 1852. Confirmed by the Board Nov. 15, 1853. Confirmed by the District Court Oct. 29, 1855. Appeal dismissed by the Supreme Court Dec. 12, 1859, by mandate. Patent issued to Robert F. Stockton Dec. 30, 1861, for 1,939.03 acres. No. 178 General Land Office map.' NOTE FOR THE ERROR-CLASS COUNT: another record where claimant/patentee (Robert F. Stockton) and Mexican grantee (James Alexander Forbes) are different people and the register has kept them correctly apart - MARC 700 gives 'Stockton, Robert Field, 1795-1866 $e Claimant', 'Forbes, James Alexander, 1804?-1881 $e Grantee', 'Stockton $e Patentee'. One loose end a later GLO phase should pick up: the register's glo_patent_no is EMPTY for this record while Bowman records 'No. 178 General Land Office map'. Note that Bowman's 'No. NNN General Land Office map' is a MAP number and is not automatically the patent number, so do not paste 178 into glo_patent_no without checking GLO. Also: the grant date Feb. 29, 1844 is a leap-day date - a re-reader transcribing it should not silently 'fix' it to Feb. 28 or Mar. 1."
+ }
+]

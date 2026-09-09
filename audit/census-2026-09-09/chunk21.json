@@ -1,0 +1,224 @@
+[
+ {
+  "id": "rancho-santa-rosa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265823/files/cubanc_lcf_sd073.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED - case file unreachable (see notes). Bancroft catalogue record via OAI-PMH GetRecord oai:digicoll.lib.berkeley.edu:265823, MARC 245$a: 'Santa Rosa [San Luis Obispo County] Julian Estrada, Claimant. Case no. 73, Southern District of California.'; MARC 651$a 'Rancho Santa Rosa (San Luis Obispo County, Calif.)'. Register 'Santa Rosa (Estrada)' agrees with the repository's own title."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Grant decree not read - PDF blocked. Corroborating only: MARC 520$a (Bowman, Index of the Spanish-Mexican private land grant records and cases of California, I, 776): 'Granted by Alvarado Jan. 18, 1841, to Julian Estrada; 3 leagues, by name.' Bowman is a secondary index, not the concession decree, so this cannot earn an OK under the method."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a Bowman abstract: 'Granted by Alvarado Jan. 18, 1841' - agrees with register 'Alvarado' but is not the decree."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a Bowman abstract: 'Granted by Alvarado Jan. 18, 1841, to Julian Estrada'; MARC 700$a 'Estrada, Julian Antonio, 1815-1870 $e Grantee'. Here claimant, grantee and patentee are the SAME person, so the dominant claimant-for-grantee error class cannot arise on this record."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 035$a '(landcasefiles)cubanc_lcf_sd073' and MARC 856$u 'https://digicoll.lib.berkeley.edu/record/265823/files/cubanc_lcf_sd073.pdf'; MARC 245$a 'Case no. 73, Southern District of California.' The repository's own filename encodes sd073 = register 'SD 073'."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No decree page read - PDF blocked. MARC 520$a Bowman abstract: 'Confirmed by the Board Jan. 17, 1854. Confirmed by the District Court Sept. 26, 1855; appeal dismissed Feb. 5, 1857.' Straight-line confirmation, no reversal, so register 'Confirmed' is not at risk from the reversed-rejection trap; but unverified against the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED, NOT MISSING. digicoll.lib.berkeley.edu began returning HTTP 202 + 'x-amzn-waf-action: challenge' (AWS WAF JS bot challenge, 2,419-byte gokuProps page) on every /record/* and /search path as of 2026-09-09 ~18:15Z. Verified persistent across ~20 min and 12 attempts, inside and outside the sandbox, with browser UA/Accept/Accept-Language headers. /oai2d and /robots.txt are NOT challenged. I did not attempt to solve the challenge (bot-detection bypass is out of bounds). Other Phase B work dirs show successful downloads on 2026-09-08, so the block is new. RE-RUNNER: file is 61,295,716 bytes; MARC 500$a says 'Spanish text on pages 7-8, 11-14' - the expediente/decree is at transcript pp. 7-8 and 11-14, so --pages 1-20 suffices. Bowman abstract additionally records: patent to Julian Estrada Mar. 18, 1865, 13,183.62 acres, GLO 323, recorded in San Luis Obispo - all four match the register's patent block exactly. Associated Case Numbers per MARC: Toma 75, Expediente 218, Docket 140, 73 SD, GLO 323 (Docket 140 = Hoffman commission_no 140, agrees)."
+ },
+ {
+  "id": "rancho-santa-ysabel",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267538/files/cubanc_lcf_sd191.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED - case file unreachable. OAI MARC 651$a 'Rancho Santa Ysabel (San Diego County, Calif.)' (record 267538). MARC 245$a spells it 'Santa Isabel [San Diego County] Jose Ortega and Eduardo Stokes, Claimants. Case no. 191'; Ysabel/Isabel is an orthographic variant, the authority heading uses Ysabel as the register does."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a (Bowman I, 769): 'Granted by Micheltorena Nov. 8, 1844, to Jose Ortega and Eduardo Stokes; 4 leagues, by name.' Agrees with register 1844 but is a secondary index."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: 'Granted by Micheltorena Nov. 8, 1844'. Agrees with register 'Micheltorena', unverified against the decree."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: '...to Jose Ortega and Eduardo Stokes'; MARC 700 lists 'Ortega, Jose Joaquin Geronimo, 1801-1865 $e Grantee' and 'Stokes, Edward, 1787-1847 $e Grantee'. Claimants are the same two men, so no claimant-for-grantee substitution risk. Register 'Jose Ortega and Eduardo Stokes' consistent."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 035$a '(landcasefiles)cubanc_lcf_sd191'; MARC 856$u '.../record/267538/files/cubanc_lcf_sd191.pdf'; MARC 245$a 'Case no. 191, Southern District of California.' = register 'SD 191'."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "NO PDF PAGE CITED - decree not read. MARC 520$a (Bowman I, 769): 'Rejected by the Board Sept. 19, 1854. Confirmed by the District Court Mar. 18, 1858; appeal dismissed May 7, 1867. Confirmed by the Supreme Court Feb. 20, 1860, by mandate. Patent issued to Jose Joaquin Ortega et al May 14, 1872.' The register's bare 'Confirmed' is true ONLY because the District Court REVERSED a Land Commission REJECTION - exactly the trap the method flags. Final result (patent 1872) supports 'Confirmed', but the register hides the reversal."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED (AWS WAF challenge on digicoll /record/*, see rancho-santa-rosa note for the full diagnosis). THIS RECORD IS THE MOST INTERESTING OF THE SIX AND SHOULD BE RE-RUN FIRST. Two substantive findings from the Bancroft catalogue record alone: (1) REVERSED REJECTION - the Land Commission rejected this claim 19 Sept 1854 and the District Court confirmed it 18 Mar 1858; the register's unqualified 'Confirmed' conceals that, and Hoffman's 1862 table also just says 'confirmed', so the flagging pass could never have caught it. (2) DOCKET NUMBER CONFLICT - the register's hoffman_1862 block gives commission_no 239, but the Bancroft MARC 520$a 'Associated Case Numbers: Expediente 391, Docket 229, 191 SD, GLO 510' gives Docket 229. One of the two is a transposition; the case file's own red label will settle it. RE-RUNNER: file is 98,578,933 bytes; MARC 500$a 'Spanish text on pages 15-25, 35-36', so the expediente sits at transcript pp. 15-25 - use --pages 1-40, not 1-30, and read far enough to reach the District Court decree. Bowman's patent line matches the register exactly: patent to Jose Joaquin Ortega et al, May 14 1872, 17,719.40 acres, GLO 510. NOTE the internally inconsistent date sequence in the catalogue itself (Supreme Court mandate Feb. 20 1860 listed after a District Court confirmation of Mar. 18 1858 and an appeal dismissed May 7 1867) - do not propagate that ordering without checking the file."
+ },
+ {
+  "id": "rancho-santa-ysabel-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266079/files/cubanc_lcf_sd042.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "NO PDF PAGE CITED - case file unreachable. OAI MARC 651$a 'Rancho Santa Ysabel (San Luis Obispo County, Calif.)' and 245$a 'Santa Isabel [San Luis Obispo County] Francisco Arce, Claimant. Case no. 42' (record 266079). The name itself is right, but the register carries TWO bare 'Santa Ysabel' entries (this one and rancho-santa-ysabel = SD 191, San Diego County) with no county qualifier to tell them apart, while it does qualify Santa Rosa as 'Santa Rosa (Estrada)'. Right entity, imprecise form."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a (Bowman I, 768): 'Granted by Micheltorena May 12, 1844, to Francisco Arce; 4 leagues, by name.' Agrees with register 1844; secondary index, not the decree."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: 'Granted by Micheltorena May 12, 1844'. Agrees with register 'Micheltorena'."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: '...to Francisco Arce'; MARC 700$a 'Arce, Francisco Casimiro, 1821?-1878 $e Grantee'. Claimant, grantee and patentee are the same man, so no claimant-for-grantee risk. Register 'F. Arce' consistent (initial-only form)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 856$u '.../record/266079/files/cubanc_lcf_sd042.pdf'; MARC 245$a 'Case no. 42, Southern District of California.' = register 'SD 042'. (MARC 035$a is malformed in the Bancroft record itself: '(landcasefiles}cubanc_lcf_sd042.pdf' - closing brace instead of paren, and a stray .pdf extension; a cataloguing typo, not a docket discrepancy.)"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No decree page read - PDF blocked. MARC 520$a Bowman: 'Confirmed by the Board Dec. 13, 1853. Confirmed by the District Court Jan. 13, 1857, and Aug. 12, 1864. Cause dismissed by the Suprme [sic] Court Feb. 19, 1864, by mandate.' Confirmed at every stage, so 'Confirmed' is not at risk from the reversed-rejection trap, but it is unverified and the catalogue's date sequence is internally out of order (see notes)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED (AWS WAF challenge on digicoll /record/*, full diagnosis in the rancho-santa-rosa note). This is a DIFFERENT rancho from rancho-santa-ysabel: that one is SD 191 in San Diego County (Ortega/Stokes, 17,719.40 ac); this one is SD 042 in San Luis Obispo County (Arce, 17,774.12 ac). The near-identical acreages (within 55 acres) make these two an easy pair to conflate downstream - recommend the register disambiguate them by county. RE-RUNNER: file is 63,870,294 bytes; MARC 500$a 'Spanish text on pages 7-12, 19-21', so --pages 1-25 covers the expediente. Bowman's patent line matches the register exactly: patent to Francisco Arce May 1 1866, 17,774.12 acres, GLO 319, recorded in San Luis Obispo. Associated Case Numbers per MARC: 'Toma 228, Expediente 376, Docket 356, 42 SD, GLO 319' - Docket 356 = Hoffman commission_no 356, agrees. CAUTION for whoever reads the outcome: the catalogue lists a District Court confirmation of Aug. 12, 1864 AFTER a Supreme Court dismissal of Feb. 19, 1864; either the catalogue has a typo or the second DC decree followed the mandate. Do not restate that sequence without the file."
+ },
+ {
+  "id": "rancho-saucito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265843/files/cubanc_lcf_sd099.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED - case file unreachable. OAI MARC 245$a 'Saucito [Monterey County] John Wilson, Josiah H. Swain, and George C. Harris, Claimants. Case no. 99, Southern District of California.'; MARC 651$a 'Rancho Saucito (Calif.)' (record 265843). Register 'Saucito' agrees."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a (Bowman I, 786): 'Granted by Figueroa May 22, 1833, to Graciano Manjares; 0.5 league, by name.' Agrees with register 1833; secondary index, not the decree."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: 'Granted by Figueroa May 22, 1833'. Agrees with register 'Jose Figueroa'."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: '...to Graciano Manjares'; MARC 700$a 'Manjares, Joseph Graciano, 1801-1870 $e Grantee', distinct from the three claimants/patentees Wilson, Swain and Harris (MARC 700 $e Claimant / $e Patentee). The register correctly puts the Mexican grantee Manjares in grantee and the U.S.-era purchasers in patent_to - i.e. it did NOT commit the dominant claimant-for-grantee error here. Still UV because the decree itself was not read."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 035$a '(landcasefiles)cubanc_lcf_sd099'; MARC 856$u '.../record/265843/files/cubanc_lcf_sd099.pdf'; MARC 245$a 'Case no. 99, Southern District of California.' = register 'SD 099'."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No decree page read - PDF blocked. MARC 520$a Bowman: 'Confirmed by the Board Feb. 7, 1854. Confirmed by the District Court Dec. 29, 1856; appeal dismissed Feb. 2, 1858.' Straight-line confirmation, no reversal; unverified against the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED (AWS WAF challenge on digicoll /record/*, full diagnosis in the rancho-santa-rosa note). This is the one record of the six where grantee and claimant are DIFFERENT people, so it is the real test of the dominant error class - and on the catalogue evidence the register passes: Manjares (grantee) and Wilson/Swain/Harris (claimants and patentees) are correctly separated. Worth confirming against the decree when the host is reachable. RE-RUNNER: file is 80,828,776 bytes; MARC 500$a 'Spanish text on pages 8-12, 14-27' - a long Spanish stretch, use --pages 1-30. Bowman's patent line matches the register exactly: patent to John Wilson, Josiah H. Swain, and George C. Harris, Oct. 7 1862, 2,211.65 acres, GLO 277, recorded in Salinas, Monterey County. Two extra facts not in the register: the grant was 0.5 league, and 'This grant was also called San Mateo.' Associated Case Numbers per MARC: 'Titulo 2, Expediente 51, Docket 614, 99 SD, GLO 277' - Docket 614 = Hoffman commission_no 614, agrees. Hoffman's 'Craciano Manjares' is an OCR misread of Graciano; the register's spelling is the correct one."
+ },
+ {
+  "id": "rancho-sausal",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267537/files/cubanc_lcf_sd190.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED - case file unreachable. OAI MARC 245$a 'Sausal [Monterey County] Jacob P. Leese, Claimant. Case no. 190, Southern District of California.'; MARC 651$a 'Rancho Sausal (Calif.)' (record 267537). Register 'Sausal' agrees. Hoffman's 'Rancho de Sausal' is the same thing."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a (Bowman I, 788): 'Granted (1) by Figueroa Aug. 2, 1834, to Jose Tiburcio Castro, 1 league, and (2) by Pico Aug. 10, 1845, to Jose Castro and Francisca Castro; 2 leagues, by name.' The register's 1834 is grant (1) only - see notes, there are TWO concessions in this case."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: grant (1) 'by Figueroa Aug. 2, 1834', grant (2) 'by Pico Aug. 10, 1845'. Register 'Jose Figueroa' captures only the first of two granting governors."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: grant (1) 'to Jose Tiburcio Castro', grant (2) 'to Jose Castro and Francisca Castro'; MARC 700 lists THREE grantees - 'Castro, Jose Tibercio, approximately 1776-1841', 'Castro, Maria De La Cruz Francisca Dolores Ramona, 1809-1877', 'Castro, Jose, 1807-1860'. Register 'Jose Tiburcio Castro' captures only grant (1)'s grantee. Claimant/patentee is Jacob P. Leese, correctly kept out of the grantee field."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 035$a '(landcasefiles)cubanc_lcf_sd190'; MARC 856$u '.../record/267537/files/cubanc_lcf_sd190.pdf'; MARC 245$a 'Case no. 190, Southern District of California.' = register 'SD 190'."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No decree page read - PDF blocked. MARC 520$a Bowman: 'Confirmed by the Board Aug. 15, 1854. Confirmed by the District Court Dec. 18, 1856; appeal dismissed Mar. 4, 1858.' Straight-line confirmation, no reversal; unverified against the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED (AWS WAF challenge on digicoll /record/*, full diagnosis in the rancho-santa-rosa note). METHODOLOGICAL FINDING - THIS RECORD BREAKS THE UNFLAGGED-STRATUM PRIOR. Its hoffman_1862 block has governor: null and grantee: null. So hoffman_flags: [] here does NOT mean 'the 1862 printed table agreed with the register on governor and grantee' - it means Hoffman printed NOTHING to compare against. Any record whose Hoffman governor/grantee are null is unflagged by absence of data, not by agreement, and carries none of the reassurance the unflagged stratum is supposed to carry. The parent should re-partition the stratum on non-null Hoffman fields before quoting a 3% error rate; records like this one belong with the flagged priority set, not the clean set. SUBSTANTIVE FINDING: this is a TWO-GRANT case - Figueroa 1834 to Jose Tiburcio Castro (1 league) AND Pico 1845 to Jose Castro and Francisca Castro (2 leagues), with the 10,241.19-acre patent resting on both. The register records only the first, which is defensible as the originating grant but materially incomplete; the same shape appears in rancho-sausal-redondo below. RE-RUNNER: file is 51,952,712 bytes (smallest of the six); MARC 500$a 'Spanish text on pages 12-13, 16-17', so --pages 1-22 covers both expedientes. Bowman's patent line matches the register exactly: patent to Jacob P. Leese, Sept. 2 1859, 10,241.19 acres, GLO 264, recorded in Salinas. Associated Case Numbers per MARC: 'Toma 283, Filed Expediente 121, Docket 557, 190 SD, GLO 264' - Docket 557 = Hoffman commission_no 557, agrees. Hoffman also uniquely marks this one patented_1862: true, consistent with the 1859 patent date."
+ },
+ {
+  "id": "rancho-sausal-redondo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268976/files/cubanc_lcf_sd354.pdf  [BLOCKED 2026-09-09: HTTP 202, x-amzn-waf-action: challenge]",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED - case file unreachable. OAI MARC 245$a 'Sausal Redondo (also called \"Santa Elena,\" \"Guaspita,\" or \"Salinas\") [Los Angeles County] Antonio Ignacio Abila, Claimant. Case no. 354, Southern District of California.'; MARC 651$a 'Rancho Sausal Redondo (Calif.)' (record 268976). Register 'Sausal Redondo' agrees. Hoffman's 'Sansal Redondo' is an OCR misread of Sausal; the register's spelling is correct."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Decree not read - PDF blocked. MARC 520$a (Bowman I, 790): 'Granted (1) by Noriega, comandante, Mar. 15, 1822, provisionally, and (2) by Alvarado May 20, 1837, to Antonio Ignacio Abila; about 5 leagues, by name.' Register 1837 = grant (2), the definitive Mexican concession; grant (1) is a provisional 1822 comandante's grant - see notes."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: grant (2) 'by Alvarado May 20, 1837'. Agrees with register 'Alvarado'. Grant (1) was made by Noriega as comandante, not as governor, so 'Alvarado' is the right answer for a governor field."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Decree not read. MARC 520$a Bowman: '...to Antonio Ignacio Abila'; MARC 700$a 'Avila, Antonio Ygnacio, 1781-1858 $e Grantee'. Claimant, grantee and patentee are the same man, so no claimant-for-grantee risk. Register 'Antonio Ignacio Abila' matches the case caption's spelling; the Bancroft authority heading normalizes it to 'Avila, Antonio Ygnacio'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "NO PDF PAGE CITED. MARC 035$a '(landcase)cubanc_lcf_sd354' (note: prefix is '(landcase)' here where the other five read '(landcasefiles)' - a Bancroft cataloguing inconsistency, not a docket discrepancy); MARC 856$u '.../record/268976/files/cubanc_lcf_sd354.pdf'; MARC 245$a 'Case no. 354, Southern District of California.' = register 'SD 354'."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No decree page read - PDF blocked. MARC 520$a Bowman: 'Confirmed by the Board June 19, 1855. Confirmed by the District Court Feb. 10, 1857; appeal dismissed Mar. 4, 1858.' Straight-line confirmation, no reversal; unverified against the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE BLOCKED (AWS WAF challenge on digicoll /record/*, full diagnosis in the rancho-santa-rosa note). Second TWO-GRANT case in this chunk (with rancho-sausal): a provisional 1822 grant by Noriega as comandante, superseded by Alvarado's 1837 grant. Unlike rancho-sausal, the register here picks the LATER and definitive grant, which is the right choice; but the pattern is worth a systematic sweep - a register with one year/governor/grantee slot per rancho silently drops one concession wherever Bowman writes 'Granted (1)... and (2)...'. RE-RUNNER: file is 139,959,366 bytes, the largest of the six (allow ~2 min at digicoll's ~1.8MB/s). MARC 500$a 'Spanish text on pages 21-22, 27-35, 47-48, 51-52, 55-57, 131-132' - a heavily litigated file with Spanish scattered to p. 132, so use --pages 1-60,125-140 in one download rather than a 1-30 excerpt; the 1837 Alvarado decree most likely sits in the pp. 27-35 block. Bowman's patent line matches the register exactly: patent to Antonio Ignacio Abila, Mar. 22 1875, 22,458.94 acres, GLO 438, recorded in Los Angeles. Associated Case Numbers per MARC: 'Expediente 87, 337, Docket 456, 354 SD, GLO 438' - Docket 456 = Hoffman commission_no 456, agrees. Extra fact not in the register: 'In 1835 this rancho was called Aguaje de Centinela' - relevant because a separate SD 125 case file exists for Aguaje del Centinela / Laguna del Centinela (Bruno Abila, claimant), so the two should be checked for overlap."
+ }
+]

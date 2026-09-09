@@ -1,0 +1,262 @@
+[
+ {
+  "id": "rancho-san-lorenzo-3",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266067/files/cubanc_lcf_sd027.pdf - REQUESTED REPEATEDLY AND REFUSED BY AWS WAF; no Wayback capture of the file body exists. NOT READ.",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "No page of cubanc_lcf_sd027.pdf was read; see notes for the transport failure. Two non-authoritative pointers exist and both say San Lorenzo: (a) the archived digicoll catalogue record 266067, whose title is 'San Lorenzo [Monterey County] Feliciano Soberanes, Claimant. Case no. 27, Southern District of California'; (b) a PRIMARY document I did read in the neighbouring case, the Spanish expediente of SD 277 at its stamped p.12 (image 19), 'el mismo paraje de S.n Lorenzo ha sido consedido a D.n Feliciano Soberanes'. Neither is a page of this record's own case file, so the field stays UV."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Not read. The archived digicoll/Bowman catalogue note for record 266067 says 'Granted by Alvarado Aug. 9, 1841', which agrees with the register's 1841 and with hoffman_1862, but a finding aid is a secondary source and this same audit has already caught the Bancroft finding aid in a factual error on another record (see chunk12, rancho-san-bernabe). No grant decree or sworn translation was seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Not read. Catalogue note says 'Granted by Alvarado'; hoffman_1862 says 'Juan B. Alvarado'. Neither is the decree. No page of the case file seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Not read from this docket. STRONGEST CORROBORATION IN THE CHUNK FOR AN UNREAD FIELD, and it is primary: the Spanish expediente bound in case SD 277, which I did read, names him in full at that file's stamped p.12 (image 19), 'el mismo paraje de S.n Lorenzo ha sido consedido a D.n Feliciano Soberanes', and Judge Ogier's District Court decree in SD 277, stamped p.53 (image 63), subordinates the Sanchez confirmation to 'the grant that may have been made to one Soberanes to the extent of four or five square leagues within the place called San Lorenzo'. That is the register's 'Feliciano Soberanes' verbatim, but it comes from a different docket, so the field is graded UV to keep the stratum measurement honest rather than credited as verified."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "Not read; no red case label or foliation leaf seen. Consistent but non-authoritative: the archived digicoll record 266067 titles the item 'Case no. 27, Southern District of California' and lists exactly one artifact, cubanc_lcf_sd027.pdf (about 2 MB per the archived page). hoffman_1862 gives commission_no 505 / court_no 27."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "Not read, AND THIS IS THE FIELD MOST AT RISK, because the catalogue note describes precisely the Trap 2 pattern: 'Rejected by the Board Oct. 25, 1853. Confirmed by the District Court Sept. 24, 1855; appeal dismissed Feb. 24, 1857.' If that is right, the register's bare 'Confirmed' is true only because the District Court reversed a Commission REJECTION, exactly as verified in-file for rancho-san-lorenzo-4 in this same chunk. hoffman_1862 records 'confirmed' with patented false, consistent with a confirmation not yet patented in 1862 and a patent in 1866. None of this is a read decree, so UV."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind and does not mistake it for verified. WHAT HAPPENED: from about 18:02Z on 2026-09-09 onward, digicoll.lib.berkeley.edu answered every request from this host with HTTP 202 and the header 'x-amzn-waf-action: challenge' plus an AWS WAF JavaScript challenge page, for HTML routes and for /record/*/files/*.pdf alike. I confirmed it is host-wide and not record-specific by re-requesting ND 060 (record 266100), a docket another agent downloaded successfully earlier today: it is now challenged too. I retried on a blocking loop for roughly 35 minutes in total across four separate passes (about 40 requests) and it never cleared. I did NOT attempt to solve or work around the challenge; that is bot-detection circumvention and it is also the site telling us to stop hammering it. Probing showed no open alternative: /api/* routes are unchallenged but answer 'Unresolvable route' for records and files, digitalassets.lib.berkeley.edu 404s, and archive.org holds no mirror of the cubanc_lcf series. THE WORKAROUND THAT DID WORK for four of my six, and that the next agent should try FIRST: the Internet Archive holds 2024-06 crawls of these PDFs under digicoll's internal /nanna/ path. Enumerate them in ONE request with the CDX API, then replay with id_. Command: curl 'https://web.archive.org/cdx/search/cdx?url=digicoll.lib.berkeley.edu&matchType=domain&filter=original:.*cubanc_lcf_.*&fl=timestamp,original,statuscode,length&collapse=urlkey&limit=20000'. That returns 2,203 rows. Two cautions: the Wayback record ids are the SAME as the live ones, but some rows are 302 redirect captures with no body, and IA rate-limits hard (429) and was briefly 'Temporarily Offline' during this run, so sleep 60-90s between calls and back off. THIS RECORD IS ONE OF THE FAILURES: for cubanc_lcf_sd027.pdf the Wayback holds only the 302 (timestamp 20240604095319, 669 bytes), never the file body, and replaying it redirects to a /nanna/ URL that 404s in the archive. So sd027 needs digicoll to be reachable again. The archived record page is at https://web.archive.org/web/2024/https://digicoll.lib.berkeley.edu/record/266067 and gives the Bowman-derived summary quoted in the field evidence, plus 'Associated Case Numbers: Toma 122, Expediente 248', which may help locate the expediente independently. CROSS-CHUNK LINK: this rancho and rancho-san-lorenzo-4 are the SAME PLACE, litigated separately - Ogier's 1856 decree in SD 277 confirmed Rafael Sanchez eleven leagues expressly subject to Soberanes's four or five, so whoever re-reads sd027 should read the two together."
+ },
+ {
+  "id": "rancho-san-lorenzo-4",
+  "pdf_url_used": "https://web.archive.org/web/20240604230320id_/https://digicoll.lib.berkeley.edu/nanna/record/268904/files/cubanc_lcf_sd277.pdf",
+  "pdf_pages_stated": 70,
+  "pages_read": [
+   1,
+   2,
+   "5-13",
+   "15-24",
+   "24-33 (2nd excerpt)",
+   "60-70 (3rd excerpt)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label: 'CASE No. 277 / SOUTHERN DISTRICT / SAN LORENZO GRANT / RAFAEL SANCHEZ / CLAIMANT'. Transcript stamped p.1 (image 5) repeats 'for the place named \"San Lorenzo\"'. Register's parenthetical '(Sanchez)' is a disambiguator, not part of the grant name; it is correct - the file distinguishes this San Lorenzo from Feliciano Soberanes's adjoining San Lorenzo (see stamped p.12, image 19: 'el mismo paraje de S.n Lorenzo ha sido consedido a D.n Feliciano Soberanes')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish original grant, stamped p.10 (image 16): 'Dado en la Ciudad de los Angeles en este papel comun por falta de sellado a vein / te siete de Julio del anno de mil ocho cientos / cuarenta y seis. Pio Pico'. Sworn English translation, stamped p.15 (image 22): 'Given in the City of Los Angeles in this common paper for want of stamped paper on the 27th of July in the year One thousand eight hundred forty six.' Spanish and translation AGREE on the date. 1846 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Spanish original, stamped p.9 (image 15), opening line: 'Pio Pico Gobernador Constitucional del Departamento de Californias'; signed 'Pio Pico' with 'Jose Matias Moreno, S.rio Int.o' at stamped p.10 (image 16). Translation at stamped p.14 (image 21): 'Pio Pico Constitutional Governor of the Department of both Californias'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Decree names the grantee in full: Spanish, stamped p.9 (image 15), 'Por Quanto el Ciudadano Rafael Sanchez ha pretendido para su beneficio personal y el de su familia el terreno sobrante el paraje de San Lorenzo'; translation, stamped p.14 (image 21), 'Whereas the citizen Rafael Sanchez has claimed for his personal benefit and that of his family the surplus land in the location of San Lorenzo'. Register gives only the initial, 'R. Sanchez' - right entity, imprecise form. NOT the claimant-for-grantee error class: Rafael Sanchez is both the Mexican grantee and the U.S. claimant here, having bought Jose Abrego's first-petitioner right 4 Dec 1845 (cession endorsement quoted at stamped p.15, image 22) before the grant issued in his own name."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Three independent agreements: PDF image 1 red label 'CASE No. 277 SOUTHERN DISTRICT'; foliation leaf, PDF image 2, 'LAND CASE 277 SD  70 pgs.'; PDF filename cubanc_lcf_sd277.pdf. Commission docket number was 674 (transcript stamped p.1, image 5), which matches hoffman_1862.commission_no 674; register's SD 277 is the District Court number, which matches hoffman_1862.court_no 277."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "FINAL result is confirmation, but only after a reversal - the whole chain is in this one file, so nothing is guessed. (1) Board REJECTED: stamped p.18 (image 25), opinion of Commissioner R. Aug. Thompson, 'the Mexican Authorities in California could not rightfully exercise their function after the raising of the American Flag at Monterey on the 7th of that Month. The grant in this case being made subsequent to that period is therefore invalid and the Claim founded upon it must be rejected', with the decree signed Alpheus Felch / R. Aug. Thompson / S. B. Farwell, 'Filed in Office Jan 30. 1855'. (2) Claimant appealed (notice, stamped p.21, image 29). (3) DISTRICT COURT REVERSED: stamped p.53 (image 63), Hon. Isaac S. K. Ogier, 'It is ordered and adjudged and decreed that the said decision of the said Commissioners be reversed, and that the claim of the said Rafael Sanchez Appellant herein to the land described in the grant in this case is a good and valid claim ... and the claim of the said Sanchez is hereby confirmed to the extent of eleven square leagues', filed March 7th 1856, endorsement at stamped p.54 (image 64). (4) U.S. appeal to the Supreme Court taken (stamped p.51, image 61) then abandoned: Attorney General's letter 4 October 1856, stamped p.55 (image 65), 'confirmed by the District Court, appeal will not be prosecuted by the United States'; order vacating the appeal and letting the appellee proceed under the District Court judgment 'as a final decree', December Term 1856, stamped p.56 (image 66)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Decree gives 'Rafael Sanchez' in full (stamped p.9 Spanish / p.14 translation); register carries only 'R. Sanchez'"
+  },
+  "notes": "CLEAN on all six fields, but this record is a live instance of Trap 2 and would have been graded wrong by anyone who stopped at the Commission. The Board REJECTED this claim on 30 Jan 1855 on the post-conquest ground (title in form issued at Los Angeles 27 July 1846, twenty days after the flag was raised at Monterey on 7 July); the register's bare 'Confirmed' is correct only because Judge Ogier reversed the Board on 6/7 March 1856. Unlike rancho-arroyo-seco-1 this case is NOT multi-volume - the single file cubanc_lcf_sd277.pdf carries the reversal, the Attorney General's abandonment of the appeal, and the order making the District Court decree final, so outcome is graded on read evidence, not inference. TWO GRANT DATES EXIST and a re-reader must not treat them as a discrepancy: the governor's granting decree is 'Angeles Febrero 18 de 1846 ... Pico' (Spanish, stamped p.12, image 19; translation, stamped p.18, image 26) and the title in form issued 27 July 1846. Both are 1846, so 'year' is unaffected, but the claimant's own District Court brief (stamped pp.30-33, images 40-43) argues at length that 18 Feb 1846 is the operative grant. CONFIRMATION WAS QUALIFIED: eleven square leagues 'subject however to the grant that may have been made to one Soberanes to the extent of four or five square leagues within the place called San Lorenzo' - i.e. subordinated to rancho-san-lorenzo-3, the other record in this same chunk. The register's patent_acres 48,285.95 is consistent with eleven leagues, so the surplus apparently fell the claimant's way, but that is a Phase C / GLO question and the patent is not in this file. STAMPED-PAGE DEFECT CONFIRMED IN THIS FILE: the transcript stamps run ... 32, 32* (image 41), 32B (image 42), 33 ... - three leaves stamped 32 - and the image-to-stamp offset drifts from 6 (image 15 = p.9) to 7 (image 21 = p.14) to 10 (image 63 = p.53). Cite stamps, not image numbers. Foliation leaf says 70 pgs; the PDF holds 81 images."
+ },
+ {
+  "id": "rancho-san-luisito",
+  "pdf_url_used": "https://web.archive.org/web/20240604235845id_/https://digicoll.lib.berkeley.edu/nanna/record/266066/files/cubanc_lcf_sd026.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1",
+  "pdf_pages_stated": 64,
+  "pages_read": [
+   1,
+   2,
+   "5-16",
+   "25-32",
+   "55-73"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label: 'CASE No. 26 / SOUTHERN DISTRICT / SAN LUISITO GRANT / GUADALUPE CANTUA / CLAIMANT'. Transcript stamped p.1 (image 5) 'for the place named San Luisito'. Spanish title, stamped p.8 (image 14): 'el paraje conocido con el nombre de San Luisito'. District Court decree, stamped p.61 (image 69): 'the tract of land known by the name of San Luisito'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish title in the expediente, stamped p.9 (image 15): 'Dado en Monterey a dos de Agosto de mil Ochocientos Cuarenta y uno. Man.l Jimeno, Srio. Juan B. Alvarado.' Independently corroborated in English by the United States' own District Court brief, stamped p.58 (image 66): 'A grant issued in this case in conformity to the Colonization laws of Mexico to the appellee on the 2d Aug. 1841 by Governor Alvarado, for the land claimed, and on the 3d day of May 1846 judicial possession of it was delivered to appellee.' 1841 confirmed by two independent instruments."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Granting decree, stamped p.8 (image 14): 'El Sor. Don Juan B. Alvarado, Gobernador Constitucional de las Californias asi lo mando, decreto y firmo de que doy fee'; the title on the same leaf opens '(Sello) Juan B. Alvarado, Gobernador Constitucional del Departamento de las Californias' and is signed 'Juan B. Alvarado' at stamped p.9 (image 15). US brief at stamped p.58 (image 66) also says 'by Governor Alvarado'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p.8 (image 14): 'Por cuanto el ciudadano Guadalupe Cantua ha pretendido para su beneficio personal y el de su familia, el paraje conocido con el nombre de San Luisito'; granting decree on the same leaf: 'declaro al ciudadano Guadalupe Cantua dueno en propiedad del terreno conocido con el nombre de San Luisito'. Register's 'Guadalupe Cantua' matches the decree verbatim. No claimant/grantee substitution risk here: Cantua is the original Mexican grantee AND the U.S. claimant, and the file shows he was still living on the rancho in 1852 (deposition of Jose Maria Covarrubias, stamped p.6, image 12)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label 'CASE No. 26 SOUTHERN DISTRICT'; foliation leaf, PDF image 2, 'LAND CASE 26 SD  PAGES 64'; PDF filename cubanc_lcf_sd026.pdf. Commission docket was No. 137 (transcript title page, stamped p.1, image 5), matching hoffman_1862.commission_no 137; register's SD 026 is the District Court number, matching hoffman_1862.court_no 26."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed twice and the confirmation became final, all inside this file. (1) BOARD CONFIRMED: stamped p.2 (image 7) 'San Francisco Oct. 25, 1853. In Case No. 137 Guadalupe Cantua for the place named San Luisito Commissioner' continuing at stamped p.3 (image 8) 'Thompson Campbell delivered the Opinion of the Board confirming the claim'. (2) United States appealed - Attorney General's notice 30 November 1854, stamped p.64 (image 72), 'the appeal in the district court of the United States for the Southern district of California will be prosecuted by the United States'. (3) DISTRICT COURT AFFIRMED: decree at stamped pp.61-62 (images 69-70), 'it is ordered, adjudged and decreed that the said decision be in all things affirmed, and it further ordered, adjudged and decreed that the claim of the said appellee is valid, and that the same be confirmed to the tract of land known by the name of San Luisito to the extent of one square league and no more'. (4) Supreme Court appeal granted (stamped p.50, image 58) then abandoned - Attorney General 10 September 1856, stamped p.52 (image 60), 'confirmed to the claimant by the Commissioners, case no. one hundred and thirty-seven (137), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States'; stipulation (stamped p.54, image 62) and Judge Ogier's order vacating the appeal and making the decree final, December Term 1856 (stamped p.56, image 64)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean on all six. TWO THINGS A RE-READER NEEDS. (1) THE CLAIM PETITION MISSTATES THE GRANT DATE AND THE DECREE CORRECTS IT - a live demonstration of why the method forbids grading off the petition. The petition, stamped p.4 (image 9), swears that 'on the 6' day of August A.D. 1841, Juan B. Alvarado Governor of California ... granted to the petitioner the aforesaid tract'. The Spanish title itself reads 'a dos de Agosto' (2 August), stamped p.9 (image 15), and the United States' brief at stamped p.58 (image 66) independently says '2d Aug. 1841'. Only the year is a graded field, so this does not change the verdict, but any downstream day-level date must come from the title, not the petition. (2) THE DISTRICT COURT CAPPED THE CONFIRMATION at 'one square league and no more' (stamped p.62, image 70). That is consistent with the register's patent_acres of 4,389.56 (a sitio de ganado mayor is about 4,438 acres) and with the title's own condition 3, 'El terreno de que se hace mencion es de un sitio de Ganado mayor' (stamped p.9, image 15). The Spanish petition at stamped p.7 (image 13) had asked for 'dos y medio sitios de Ganado mayor', so the claimant asked for two and a half leagues and got one; the register is right and the petition is not the measure. NO PATENT IN THE FILE - the register's patent (18 May 1860, GLO 327) and hoffman_1862.patented=true are both untested here; Phase C / GLO. Expediente is the archive copy certified 'Angeles. Febrero 9 de 1846. Jose M.a Covarrubias' (stamped p.8, image 14), so the Spanish is a certified transcript, not the original parchment. FOLIATION: leaf 2 says 64 pages; the PDF holds 73 images. Image-to-stamp offset drifts from 4 (image 5 = p.1) to 6 (image 15 = p.9) to 8 (image 69 = p.61); stamped p.4 (image 9) carries a marginal 'Duplicate'."
+ },
+ {
+  "id": "rancho-san-marcos",
+  "pdf_url_used": "https://web.archive.org/web/20240606022605id_/https://digicoll.lib.berkeley.edu/nanna/record/268986/files/cubanc_lcf_sd364.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   1,
+   2,
+   "5-12",
+   "13-30",
+   "42-63"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label: 'CASE No. 364 / SOUTHERN DISTRICT / SAN MARCOS GRANT / NICOLAS A. DEN / CLAIMANT'. Spanish title, stamped p.18 (image 23): 'el rancho conocido con el nombre de San Marcos en la jurisdiccion de Santa Barbara'. Board's decree of confirmation, stamped p.39 (image 44): 'situated in the County of Santa Barbara and called Rancho de San Marcos'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "THREE independent statements agree. (1) Spanish title, stamped p.19 (image 24): 'Dado en la ciudad de los Angeles en papel comun por absoluta falta de sellado, a ocho de junio de mil ochocientos cuarenta y seis. Pio Pico'; Pico's own receipt for the purchase money on the same leaf is dated 'a ocho de junio de mil ochosientos quarenta y seis'. (2) Sworn translation, stamped p.21 (image 26): 'Given at the City of Los Angeles in common paper for want entirely of sealed on the eighth of June one thousand eight hundred and forty six.' (3) The Board's own opinion, stamped p.38 (image 43): 'a grant issued to them by Governor Pio Pico on the 8th day of June 1846'. Spanish and translation do NOT disagree here."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Spanish title, stamped p.18 (image 23): 'Pio Pico Gobernador Constitucional del Departamento de Californias', signed 'Pio Pico' with 'Jose Matias Moreno Srio. Int.o' at stamped p.19 (image 24). Translation, stamped p.20 (image 25): 'Pio Pico Constitutional Governor of the Department of California'. A second, independently certified copy from the Mexican archives (Surveyor General Samuel D. King, 29 June 1852) is at stamped pp.22-23 (images 27-28) with its translation at stamped pp.24-25 (images 29-30), same wording."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p.18 (image 23): 'Por cuanto los Senores Don Nicolas A. Den y Don Ricardo Den han comprado a este Gobierno Departamental el rancho conocido con el nombre de San Marcos ... he venido en vender, como de facto vendo a los Senores D.n Nicolas Augusto y D.n Ricardo Den hermanos el enunciado rancho'; translation, stamped p.20 (image 25), 'I have sold, and hereby do sell to Messrs Nicolas Agusto and Ricardo Den, brothers, the said Rancho'. The register's 'Nicolas A. Den and Richard S. Den' matches: 'A.' = Augusto/Agustin per the decree, and the 'S.' is corroborated inside the file, where the second brother signs himself 'R. Somerset Den' (letter of 12 May 1855, stamped p.25, image 30) and is named 'Richard Somerset Den' in Abel Stearns's deposition (stamped p.6, image 11). Register gives MORE precision than the decree, and the extra precision is confirmed in-file, so this is not the claimant-for-grantee error: the Den brothers are both the Mexican-era purchasers and the U.S. claimants."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label 'CASE No. 364 SOUTHERN DISTRICT'; foliation leaf, PDF image 2, 'LAND CASE 364 SD  pgs. 56'; District Court wrapper, image 47, 'U.S. DISTRICT COURT, Southern District of California. No. 364'; PDF filename cubanc_lcf_sd364.pdf. Commission docket was No. 299 (transcript title page, stamped p.1, image 5), matching hoffman_1862.commission_no 299; register's SD 364 is the court number, matching hoffman_1862.court_no 364."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "(1) BOARD CONFIRMED: opinion by Commissioner S. B. Farwell, stamped p.38 (image 43), 'We think the petitioners have shown themselves entitled to a confirmation of their claim and a decree will be entered accordingly. Confirmed. Filed in Office July 17, 1855'; formal Decree of Confirmation signed R. Aug. Thompson and S. B. Farwell at stamped p.39 (image 44), confirming 'eight square leagues'. (2) United States appealed - Attorney General's notice 11 February 1856 (stamped p.42, image 48), petition of U.S. Attorney Pacificus Ord filed 5 January 1857 praying that the decision 'be reviewed, reversed and set aside' (stamped pp.49-51, images 55-57). (3) APPEAL DISMISSED AND THE COMMISSION DECREE MADE FINAL: Attorney General 9 January 1857 (stamped p.55, image 61), 'confirmed to the claimants by the Commissioners, case no. two hundred and ninety-nine (299), appeal will not be prosecuted by the United States'; order of Hon. I. S. K. Ogier, June Term 1857 at Monterey, stamped p.53 (image 59), 'it is ordered by the Court that the appeal in said cause be dismissed; and that the claimant have leave to proceed upon the decree of the Commissioners heretofore rendered as a final decree'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean on all six. FOUR THINGS WORTH RECORDING. (1) THIS IS A SALE, NOT A COLONIZATION GRANT. The instrument is a venta: Pico sold the ex-mission rancho to the Den brothers for 1,500 pesos, and his signed receipt for the silver is bound in at stamped p.19 (image 24) with an English version at stamped p.21 (image 26). The register's 'grantee' field therefore holds a purchaser. That does not make the field wrong, but anyone mining this dataset for colonization-law grants should know San Marcos is not one. The Board did not treat the consideration as a defect (stamped p.38, image 43: 'The grant purports to have been issued in consideration of the sum of fifteen hundred dollars which is therein acknowledged to have been received'). (2) THE BOARD STRUCK THE JURIDICAL POSSESSION AS POST-CONQUEST but confirmed anyway, the opposite of what happened to rancho-san-lorenzo-4 in this same chunk: 'the proceedings of juridical measurement and possession had on the 9th day of July which being done after the Americans had possession of the country was without authority of law and will not be noticed' (stamped p.38, image 43). The claim petition puts that possession on 10 July 1848 (stamped p.4, image 9) and the Santa Barbara act itself is dated 'Julio 12/48' (stamped p.37, image 42), so the Board's 'the 9th day of July' is loose. Grant date is unaffected - the grant is June 1846, two years earlier. (3) THE DISMISSAL WAS ENTERED IN THE CIRCUIT COURT, not the District Court: the order at stamped p.53 (image 59) is headed 'In the Circuit Court of the United States for the Southern District of Cal: Monterey, June term 1857' though signed by Ogier as 'U S Dist Judge' and filed under District Court docket 364. Do not read that as a separate proceeding. (4) HOFFMAN'S GRANTEE CELL IS CORRUPT, not merely abbreviated: hoffman_1862 carries 'N. A. 42 Den', evidently a digit picked up from the neighbouring column of the 1862 printed table. The case file supports the register, not the transcription of Hoffman. NO PATENT IN THE FILE (register claims 6 Sept 1869, GLO 364, 35,573.10 acres, which is consistent with the eight leagues confirmed at about 4,438 acres each); Phase C / GLO. Foliation leaf says 56 pages, PDF holds 63 images; image-to-stamp offset drifts 4 (image 5 = p.1) to 5 (image 23 = p.18) to 6 (image 59 = p.53)."
+ },
+ {
+  "id": "rancho-san-mateo",
+  "pdf_url_used": "https://web.archive.org/web/20240605160853id_/https://digicoll.lib.berkeley.edu/nanna/record/264256/files/cubanc_lcf_nd409.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   19,
+   20,
+   25,
+   31,
+   32,
+   33,
+   40,
+   60,
+   "62-67",
+   80,
+   100,
+   120,
+   140,
+   "170-174",
+   "181-189"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label: 'CASE No. 409 / NORTHERN DISTRICT / SAN MATEO GRANT / Wm. D. M. HOWARD / CLAIMANT'. Transcript title page, stamped p.1 (image 5), 'for the place named San Mateo'. The Spanish instrument gives the fuller Mexican-era name, stamped p.57 (image 63): 'el Rancho llamado San Mateo del Mision de Dolores'; translation, stamped p.60 (image 67), 'the Rancho called San Mateo de la Mission de Dolores'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "1846 established from three independent points because THE GRANT ITSELF WAS BURNED (see notes). (1) The grantee's own recorded deed of 29 July 1851, Spanish at stamped p.57 (image 63): 'certifica que habiendole concedido al superior Gobierno del Departamento de Alta California en el seis de Mayo de mil ocho cientos cuarenta y seis, el Rancho llamado San Mateo del Mision de Dolores, en recompensa de servicios que presto en la Secretaria de dicho Gobierno y por respeto del suyo padre Don Luis Arenas'; its sworn translation, stamped p.60 (image 67), 'That the Supreme Government of the Department of Upper California on the sixth day of May one thousand eight hundred and forty six having granted to him the Rancho called San Mateo de la Mission de Dolores'. Spanish and translation agree. (2) Pio Pico's own deposition, stamped p.27 (image 33): 'I did make the grant to him acting as Governor think it was in the Month of May in the year 1846 the tract of land called San Mateo'. (3) The claim petition, stamped p.5 (image 11), 'bearing date the 5th or 6th day of May 1846'. Only the day of the month is uncertain (5th vs 6th); the year is not."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Pio Pico deposed in the case as a witness for the claimant, stamped p.26 (image 32): 'personally appeared Pio Pico a witness in behalf of Wm. D. M. Howard claimant for the land named Rancho San Mateo numbered on the docket of the said Board with No. 559'; and at stamped p.27 (image 33), Q. 'In what official character did you act in California in the Month of May in the year 1846?' A. 'I was Governor at that time'; Q. whether he made the grant to Cayetano Arenas, A. 'I did make the grant to him acting as Governor'. Independently, a witness who had handled the lost original swore at stamped p.13 (image 19) that he is 'acquainted with the hand writing of Pio Pico have often seen him write and say that his Signature to the grant above mentioned was his genuine Signature'. NOTE the 1851 deed attributes the grant impersonally to 'el superior Gobierno del Departamento de Alta California' and does not name Pico; the identification of Pico rests on his own sworn admission plus handwriting proof."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "THE REGISTER GETS THE GRANTEE/CLAIMANT DISTINCTION RIGHT, which is the field this audit most often finds wrong. The U.S. claimant is William D. M. Howard (red label image 1; transcript title page stamped p.1, image 5; Board Secretary's transmittal stamped p.173, image 189). The Mexican GRANTEE is Cayetano Arenas, and the register records him. Proof: Arenas's own deed, Spanish stamped p.58 (image 64), signed 'Cayetano Arenas' before witnesses Chas. R. Bond and Thos. B. Park and acknowledged before a San Francisco notary 29 July 1851; translation stamped p.60 (image 67), 'This deed made in the City of San Francisco on the twenty ninth day of July one thousand eight hundred and fifty one by Cayetano Arenas of Stockton ... having granted to him the Rancho called San Mateo de la Mission de Dolores'. Pio Pico's deposition, stamped p.27 (image 33), 'Did you or did you not acting in that capacity make the grant of land to one Cayetano Arenas' - 'I did make the grant to him'. Cayetano Arenas also deposed in person for the claimant, deposition beginning stamped p.14 (image 20)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Four agreements: PDF image 1 red label 'CASE No. 409 NORTHERN DISTRICT'; the pencil slip at PDF image 2, 'Land Case 409 ND'; the District Court wrapper at image 170, 'U.S. DISTRICT COURT, Northern District of California. No. 409 ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 559, Filed February 15, 1856'; and Judge Hoffman's order caption, stamped p.168 (image 184), 'D.C. 409; L.C. 559'. PDF filename cubanc_lcf_nd409.pdf. Commission docket 559 matches hoffman_1862.commission_no 559; register's ND 409 is the court number, matching hoffman_1862.court_no 409."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "(1) BOARD CONFIRMED 18 September 1855: the Board's own chronological index of proceedings, stamped p.4 (image 9), 'San Francisco Sept. 18, 1855. In the same case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim'. Independently recited by the Attorney General, stamped p.155 (image 181), 11 February 1856, 'in the above case, decided by the Commissioners ... in favor of the claimant'. (2) United States appealed - notice filed 4 April 1856 (endorsement, stamped p.156, image 182). (3) Claimant died pendente lite and the cause was revived, first in the names of his widow and heir (order of Ogden Hoffman, January 1857, stamped p.159, image 175) and then, on a second stipulation, in the names of 'Agnes Howard Executrix - Henry F. Teschemacher and George H. Howard Executors' (order of Ogden Hoffman, stamped p.166, image 187, filed 23 March 1857). (4) APPEAL DISMISSED AND THE COMMISSION DECREE MADE FINAL: Attorney General 7 February 1857, stamped p.170 (image 186), 'confirmed to the claimant by the Commissioners, case no. five hundred and fifty-nine (559), appeal will not be prosecuted by the United States'; stipulation of 3 April 1857 (stamped p.171, image 187); and the decree itself, stamped p.168 (image 184), 'At a Stated Term of the District Court ... on Monday the 6th day of April ... 1857. Present: The Honorable OGDEN HOFFMAN, District Judge ... it is hereby Ordered adjudged and decreed that the appeal taken from the decision of the U.S. Land Commission in this case be dismissed, and that Agnes Howard Executrix, Henry F. Teschemaker and George H. Howard Executors of Wm D. M. Howard deceased have leave to proceed under the decree of the said Commission heretofore rendered in favor of said W D M Howard, as under Final Decree.' Nothing later in the volume disturbs this; the last stamped leaf is p.173 (image 189)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "CLEAN ON ALL SIX, AND THIS IS THE MOST INSTRUCTIVE RECORD OF THE CHUNK ON TWO COUNTS. (1) THERE IS NO GRANT DOCUMENT AND THERE NEVER CAN BE. The petition, stamped p.6 (image 12), swears that 'the said original grant from Pio Pico to Cayetano Arenas was at the time of the fire in San Francisco of the 4th of May 1851 in the Office and in the care of William H. Clark of said City in the building on the corner of Clay and Montgomery Streets. That at said fire the said building was burned and destroyed together with nearly the whole contents ... including this original grant', and that the 1846 volume of the government's record book, which carried a memorandum of the grant, could not be found among the archives. A witness at stamped p.19 (image 25) describes that same book, a Spanish register of grant synopses 1837-1844 brought from Benicia, being destroyed in the same fire. So year/governor/grantee here CANNOT be graded against a concession decree, and I have not pretended otherwise: the grades rest on (a) the grantee's own notarised and county-recorded deed of 29 July 1851 reciting the grant's date, grantor and object, which is an instrument rather than testimony, and (b) the granting governor's own sworn admission. Any Phase C worker who goes looking for an expediente for San Mateo is wasting the trip. The transcript's first leaf even carries a contemporary manuscript complaint, image 5, 'Wants Translation of Exp[ediente]'. (2) HOFFMAN'S 1862 TABLE LEAVES GOVERNOR AND GRANTEE BLANK for this case (hoffman_1862 governor null, grantee null) - almost certainly because no grant was ever produced to fill them. The register supplies both, and the case file supports both. That is the opposite of the usual finding and it means the unflagged status of this record understates how much work the register did here. (3) THE CLAIMANT/GRANTEE TRAP IS PRESENT AND THE REGISTER AVOIDED IT. Everything on the outside of this file says Howard: the gilt label, the transcript caption, the District Court title, and the register's own patent_to 'the executors of William D. M. Howard' - which is exactly right, the executors being named in the final order as Agnes Howard, Henry F. Teschemacher and George H. Howard. A careless reader would have written Howard into the grantee field. Cayetano Arenas received the two-league rancho in 1846 as compensation for clerical service in the Governor's secretariat and out of respect for his father Don Luis Arenas, sold it to Howard that same year for $1,500 while still a MINOR, and executed the 1851 deed now in the file, with a further $1,000 paid, to cure that minority (stamped pp.57-58, images 63-64). FILE MECHANICS: no foliation leaf states a page count; the last stamped page is 173 while the PDF holds 189 images, and the image-to-stamp offset drifts from 4 (image 5 = p.1) to 6 (image 25 = p.19) to 8 (image 80 = p.72) to 16 (image 184 = p.168). Cite stamps. The volume binds the Commission transcript and the District Court file together under one continuous stamp series, so an index reference such as 'vide page 157' points into that continuous series, not into a separate Board pagination."
+ },
+ {
+  "id": "rancho-san-miguel",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264399/files/cubanc_lcf_nd006.pdf - REQUESTED REPEATEDLY AND REFUSED BY AWS WAF; no Wayback capture of the file body exists. NOT READ.",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "No page of cubanc_lcf_nd006.pdf was read; see notes. Non-authoritative pointer only: the archived digicoll catalogue record 264399 is titled 'San Miguel (Mission Dolores) [San Francisco and San Mateo County] Jose de Jesus Noe, Claimant. Case no. 6, Northern District of California'. That parenthetical '(Mission Dolores)' is worth a re-reader's attention because the register carries the bare name 'San Miguel'."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "Not read. Catalogue note for record 264399 says 'Granted by Pico Dec. 23, 1845, to Jose de Jesus Noe; 1 league, by description', agreeing with the register's 1845 and with hoffman_1862, but it is a finding aid, not the decree, and the finding aid has been wrong elsewhere in this audit. No expediente or sworn translation seen."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "Not read. Catalogue note says 'Granted by Pico'; hoffman_1862 says 'Pio Pico'. NOTE A LATENT PUZZLE for whoever reads this file: Pio Pico's second governorship began in February 1845, so a Pico grant dated 23 December 1845 is chronologically possible, but the register's other Noe-era San Francisco peninsula records should be checked against it, and the decree must be read rather than assumed."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "Not read. Catalogue note and hoffman_1862 both give Jose de Jesus Noe, and the digicoll title makes Noe the CLAIMANT as well as the named grantee, which if true removes the claimant-for-grantee risk on this record. Unverified against any decree. hoffman_1862's grantee cell is corrupt in the input ('Jose de Jesus No<5'), so Hoffman adds nothing here beyond the forenames."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "Not read; no red case label or foliation leaf seen. Consistent but non-authoritative: archived digicoll record 264399 is 'Case no. 6, Northern District of California' and lists one artifact, cubanc_lcf_nd006.pdf (about 2 MB per the archived page). hoffman_1862 gives commission_no 17 / court_no 6."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "Not read. Catalogue note: 'Confirmed by the Board Dec. 18, 1852. Confirmed by the District Court Sept. 10, 1855; appeal dismissed Oct. 23, 1856.' If correct this is a straightforward double confirmation with no reversal, unlike rancho-san-lorenzo-3 and -4, so the register's 'Confirmed' is probably plain right; but it is unread. The same catalogue note also flags later litigation, 'Noe vs Card, 14 Cal 576, 1860', which a Phase C worker should not confuse with the confirmation."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE. Same AWS WAF block as rancho-san-lorenzo-3; the full account of the outage, of the probes that ruled out every alternative host and API route, and of the Wayback CDX workaround that recovered four of my six is written out in that record's notes and is not repeated here. WHAT IS SPECIFIC TO THIS DOCKET: the Wayback holds only a 302 redirect capture for cubanc_lcf_nd006.pdf (timestamp 20240607054314, 660 bytes) and no file body, and replaying it lands on a /nanna/ URL that 404s in the archive, so nd006 cannot be recovered from the Internet Archive and needs digicoll to be reachable. The archived catalogue record is at https://web.archive.org/web/2024/https://digicoll.lib.berkeley.edu/record/264399. TWO THINGS TO CARRY INTO THE RE-READ. (1) The register's name field is 'San Miguel' but the Bancroft calls the item 'San Miguel (Mission Dolores)'; decide on the decree's own wording whether the register's bare form is OK or PART. (2) hoffman_1862.patented is false for 1862 while the register claims a patent of 30 March 1857 and the catalogue agrees with the register ('Patent issued to Jose de Jesus Noe Mar. 30, 1857, for 4,443.38 acres'). Hoffman's patented column therefore looks wrong here by five years, which is worth confirming in Phase C because it bears on how much weight the census should give hoffman_1862.patented generally. The acreage the catalogue gives, 4,443.38, matches the register's patent_acres exactly and is consistent with the 'one league' of the catalogue's grant description."
+ }
+]

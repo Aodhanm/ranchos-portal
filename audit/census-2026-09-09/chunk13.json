@@ -1,0 +1,255 @@
+[
+ {
+  "id": "rancho-san-bernardo",
+  "pdf_url_used": "https://web.archive.org/web/20240605082706id_/https://digicoll.lib.berkeley.edu/nanna/record/266078/files/cubanc_lcf_sd041.pdf",
+  "pdf_pages_stated": 68,
+  "pdf_images": 76,
+  "pages_read": [
+   "1-16",
+   "62-76"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red case label: 'CASE NO. 41 / SOUTHERN DISTRICT / SAN BERNARDO GRANT / VICENTE CANE / CLAIMANT'; transcript title, stamped 41 SD PAGE 1 (img5): 'FOR THE PLACE NAMED \"San Bernardo.\"' Register's '(Cane)' is its own disambiguator among three San Bernardo grants."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish concession decree, stamped 41 SD PAGE 10 (img15): 'Monterey Febrero 11 de 1840. Vista la peticion con que da principio este expediente...' continuing to stamped PAGE 11 (img16) with the operative grant and Alvarado's signature. Confirmed again on stamped PAGE 11 (img16): 'en conformacion del terreno que pretendio y obtuvo en once de Febrero del presente a\u00f1o' (Monterey 12 de Junio de 1840)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 41 SD PAGE 11 (img16): 'El S\u00f3r D.n Juan B. Alvarado Gob.or Constitucional del Departam.to de las Californias, asi lo mand\u00f2 decreto y firm\u00f3 de que doy fee. Alvarado.' Independently in the District Court opinion, stamped PAGE 55 (img63): 'This Claim is based upon a grant from Governor Alvarado in 1840 to the present claimant.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 41 SD PAGE 11 (img16): 'declaro \u00e1 D.n Vicente Can\u00e8 due\u00f1o en propriedad del terreno...'. Espediente cover, stamped PAGE 8 (img13): 'Espediente promovido por Vicente Can\u00e8 en pretencion del terreno que espresa', dated 1839. Grantee and U.S.-era claimant are the same man here, so the usual claimant-for-grantee substitution cannot occur."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 41 SOUTHERN DISTRICT'; every transcript leaf carries the stamp '41 SD'; Bancroft filename cubanc_lcf_sd041.pdf. District Court caption, stamped PAGE 61 (img69): 'Docket No 41 ... Transcript from the Board of Land Commissioners No 123.'"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Full chain in file. Board: stamped 41 SD PAGE 3 (img8) 'San Francisco Nov. 22 1853. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim.' District Court (Ogier, J.), stamped PAGE 55 (img63): 'the claimant is therefore entitled to a confirmation & a decree will be entered affirming the decision of the Commissioners', filed Sept 25 1855 (img64, stamped PAGE 56). Appeal to the Supreme Court granted (stamped PAGE 57, img65) then vacated and the District Court decree 'Made final', signed Isaac S. K. Ogier, filed Feb 5 1857 (stamped PAGES 61-62, img69-70). Attorney General to P. Ord, 10 Sept 1856, stamped PAGE 63 (img71): 'appeal in the Supreme Court will not be prosecuted by the United States.' No District Court reversal of a rejection here: the Board confirmed at first instance."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SOURCE ROUTE: digicoll.lib.berkeley.edu is behind an AWS WAF JS challenge today (every request returns HTTP 202 + 'x-amzn-waf-action: challenge', 0-byte body unless browser Accept headers are sent, then a 2,419-byte challenge page). Neither fetch_case_pages.py nor plain curl can reach any digicoll file. I read this case file from the Internet Archive Wayback Machine mirror of the same Bancroft PDF instead (capture 20240605082706, byte-identical filename cubanc_lcf_sd041.pdf, 71,096,685 bytes, opens as %PDF-1.5, 76 images). See the chunk-level note on the last record for the full workaround.\nSTAMP/IMAGE DRIFT: drift grows through the file - img5=stamped p.1 (drift 4), img63=stamped p.55 (drift 8), img75=stamped p.67 (drift 8). Cite stamped pages.\nPATENT (out of scope, Phase C lead): no patent copy in the file; it ends with the Surveyor General's certificate of survey (approved 19 Oct 1858, certified 22 Jan 1861), stamped PAGE 67 (img75). The register gives glo_patent_no 306 for this rancho, but the Bancroft catalogue record for record/266078, quoting Bowman I, 675, reads 'No. 326 General Land Office map' for Cane and 'No. 306' for the Soberanes San Bernardo (record/267564, Bowman I, 676). The register carries 306 on BOTH San Bernardos, so 306 looks propagated from Soberanes onto Cane. Phase C should test 326 for Cane.\nCATALOGUE DEFECT (not the register's fault): the digicoll record for the Cane case, record/266078, carries the line 'Associated Case Numbers: Toma 96, Expediente 238, Docket 551, 223 SD, GLO 306' - those are the SOBERANES numbers, identical to the line on record/267564. The Cane case's real numbers are Board docket 123 and 41 SD, both verified on the leaves above."
+ },
+ {
+  "id": "rancho-san-bernardo-1",
+  "pdf_url_used": "NO PDF EXISTS for this docket. digicoll record/102016 holds 73 page JPEGs (cubanc_1_2_00019996a_k.jpg .. 00020066a_k.jpg, plus 00024147a_k.jpg and 00058784a_k.jpg), not a cubanc_lcf_sd341.pdf. Read via Wayback Machine mirror: https://web.archive.org/web/2025id_/https://digicoll.lib.berkeley.edu/nanna/record/102016/files/<name>.jpg (April 2025 crawl).",
+  "pdf_pages_stated": 56,
+  "pdf_images": 73,
+  "pages_read": [
+   "leaf files 1-17 and 62-73 of the OAI file list (stamped 341 SD PAGES 2-17, 62-71, plus stamped PAGE 1 and the binding wrapper)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Red case label (file 00019996a_k, 1st leaf): 'CASE NO. 341 / SOUTHERN DISTRICT / SAN BERNARDO GRANT / MARIA ANTONIO SNOOK / CLAIMANT'. Transcript title page, stamped 341 SD PAGE 1 (file 00024147a_k): 'FOR THE PLACE NAMED \"San Bernardo\"'. Register's '(Snook)' is its own disambiguator."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish titulo, stamped 341 SD PAGE 15 (file 00020010a_k): 'Dado en Monterrey a diez y seis de Febrero de mil ochocientos cuarenta y dos'. Confirmed by the District Court decree, stamped PAGE 68 (file 00020063a_k): 'originally granted by Juan Bautista Alvarado Governor of California to Jose Francisco Snook on the 16th day of February 1842 for two leagues of land'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 341 SD PAGE 14 (file 00020009a_k): 'declaro a D.n Jose Fran.co Snook mejicano por naturalizacion, due\u00f1o en propiedad del parage conocido con el nombre de San Bernardo... El Sr. D.n Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias asi lo mando decreto y firm\u00f3 de que doy fee.' Same leaf carries the titulo opening 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 341 SD PAGE 14 (file 00020009a_k): 'declaro a D.n Jose Fran.co Snook... due\u00f1o en propiedad'. Espediente cover, stamped PAGE 11 (file 00020006a_k): 'Espediente promovido por D.n Fran.co Snook en solicitud del parage conocido con el nombre de San Bernardo, 1841, 267'. NOT the claimant: the U.S.-era claimant was his widow Maria Antonia Snook (red label; Board docket 454). The register records the Mexican grantee correctly, which is the field this audit most often finds wrong."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE NO. 341 SOUTHERN DISTRICT'; every leaf stamped '341 SD'; District Court caption, stamped PAGE 65 (file 00020060a_k): 'Maria Antonia Snook appellee ads The United States appellant, No 341'. Binding wrapper (file 00058784a_k): 'U.S. DISTRICT COURT ... No. 341 ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS In Case No. 454.' Register's 341 is the District Court number, matching Hoffman's court_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: stamped 341 SD PAGE 3 (file 00019998a_k): 'San Francisco June 5, 1855. In the same Case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim.' District Court, December Term 1856, stamped PAGE 67 (file 00020062a_k): 'It is ordered adjudged and decreed by the court that said decision of said Board of Land Commissioners be and the same is hereby affirmed and it is further adjudged and decreed that the title of the said appellee in this case to the lands claimed therein is good and valid and the same is hereby confirmed to her', signed Isaac S. K. Ogier, U.S. Dist. Judge; decree filed 6 Jan 1857 (stamped PAGE 69, file 00020064a_k). Attorney General, 2 Feb 1857, stamped PAGE 70 (file 00020065a_k): 'appeal will not be prosecuted by the United States.' Confirmation at first instance, then affirmed - not a reversed rejection."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "SECOND GRANT NOT CAPTURED BY THE REGISTER (completeness, not a field error). The rancho is TWO grants. The District Court decree, stamped 341 SD PAGE 68 (file 00020063a_k), confirms 'two leagues' granted by Alvarado 16 Feb 1842 'and also for two additional leagues of the land granted by Pio Pico Governor of California to Jose Francisco Snook on the 26th day of May 1845 being the residue of the land embraced in the boundaries of the place called San Bernardo, the said four leagues being bounded as follows: on the West by the \"Arroyo Seco\", on the South by \"Las Penas de la Olla\", on the North by the road called San Marcos and on the East by the Lomerias Muertas'. The claim petition, stamped PAGE 4 (file 00019999a_k), pleads both grants. Hoffman's 1862 governor cell says the same ('Juan B. Alvarado, and 2 leagues May 26th, 1845, by Pio Pico'). The register carries only 1842/Alvarado. Both graded OK because the register's convention is the originating concession and its era field is 'alvarado', but a reader of the register cannot learn that half this rancho is a Pico grant.\nENGLISH-vs-SPANISH DATE DISAGREEMENT: the U.S.-era claim petition, stamped PAGE 4 (file 00019999a_k), dates the Alvarado grant 'the Seventeenth day of February One thousand eight hundred and forty two'. The Spanish titulo says 'diez y seis de Febrero' (16th) and the District Court decree says '16th day of February 1842'. The petition is off by one day; the year is unaffected. Grade rests on the Spanish original per method.\nLEAF-ORDER TRAP: the OAI dc:identifier list for record/102016 is NOT leaf order. Files 00019996-00020066 run in order and begin at the cover then stamped PAGE 2, so stamped PAGE 1 appears to be missing; it is not. The transcript title page (stamped 341 SD PAGE 1) is file cubanc_1_2_00024147a_k.jpg, listed 72nd, and the binding wrapper is 00058784a_k.jpg, listed 73rd. Anyone paging this record by list position will conclude a leaf is lost. Within the numeric run, stamped page == list position exactly (drift 0), unlike the PDF dockets.\nSOURCE ROUTE: digicoll is WAF-challenged today (see the chunk-level note on the last record); these JPEGs were read from the Wayback Machine's April 2025 crawl of record/102016."
+ },
+ {
+  "id": "rancho-san-bernardo-2",
+  "pdf_url_used": "https://web.archive.org/web/20240604110924id_/https://digicoll.lib.berkeley.edu/nanna/record/267564/files/cubanc_lcf_sd223.pdf",
+  "pdf_pages_stated": 82,
+  "pdf_images": 90,
+  "pages_read": [
+   "1-18",
+   "19-30",
+   "76-90"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 223 / SOUTHERN DISTRICT / SAN BERNARDO GRANT / MARIANO SOBERANES, ET AL / CLAIMANT'. Transcript title, stamped 223 SD PAGE 1 (img5): 'FOR THE PLACE NAMED \"San Bernardo\"'. Register's '(Soberanes)' is its own disambiguator."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 223 SD PAGE 14 (img19): 'M[on]terrey 16 de Junio de 1841. Vista la peticion con que da principio este expediente...'. Titulo closes, stamped PAGE 16 (img21): 'Dado en Monterrey a diez y seis de Junio de mil ochocientos cuarenta y uno. Juan B. Alvarado - Manuel Jimeno Srio.' Sworn English translation agrees, stamped PAGE 22 (img28): 'Given in Monterey on the sixteenth of June one thousand eight hundred and forty one.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 223 SD PAGE 14 (img19): 'El Sr. D.n Juan B. Alvarado Gob.or Constitucional del Departam.to de las Californias asi lo mand\u00f3 decreto y firmo de que doy f\u00e9.' Titulo opens, stamped PAGE 15 (img20): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias.' Board opinion, stamped PAGE 23 (img29): 'a grant made by Governor Juan B. Alvarado on the sixteenth day of June 1841'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 223 SD PAGE 14 (img19): 'declaro al C.no Mariano Soberanes a nombre de sus dos hijos Mariano y Juan Soberanes, due\u00f1os en propiedad del parage conocido con el nombre de San Bernardo'. Contemporary sworn translation, stamped PAGE 18 (img24): 'I declare to citizen Mariano Soberanes for his two sons Mariano and Juan Soberanes that they are owners in fee of the place known by the name of San Bernardo'. The register's 'M. Soberanes et al' is its standard abbreviation for a named pair and matches the grantees Mariano and Juan Soberanes. See notes for the father/son ambiguity the abbreviation conceals."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 223 SOUTHERN DISTRICT'; leaf stamps '223 SD' throughout; img2 typed slip 'LAND CASE 223 SD pgs. 82'; District Court caption, stamped PAGE 79 (img87): 'United States District Court for the Southern District of California No 223'. Board docket was No. 551 (transcript title, stamped PAGE 1, img5)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation, stamped 223 SD PAGE 24 (img30): 'it is adjudged by the Commission that the claim of the said Petitioners is valid and it is therefore decreed that the same be confirmed', signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed November 7th 1854. District Court opinion, stamped PAGE 81 (img89): 'The Genuineness and authenticity of the grant is fully proven... The claimants are therefore entitled to a confirmation of their claim... A decree will be entered confirming the claim'; endorsed 'Opinion Confirming' (stamped PAGE 82, img90). Confirmed at first instance and affirmed - no rejection anywhere in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "CATALOGUE CLAIM CORRECTED BY THE FILE. The Bancroft/Bowman description on digicoll record/267564 says 'Confirmed by the District Court Mar. 7, 1856, AND Apl. 28, 1862'. The 1862 decree is NOT a second confirmation. Stamped 223 SD PAGE 79 (img87), 28 April 1862, Fletcher M. Haight, U.S. Dist. Judge: 'it is ordered adjudged and decreed by the Court that the said exceptions be taken as true and the same are hereby allowed and sustained and that the said survey be and is hereby set aside and annulled, and it is further ordered that the said Surveyor General is hereby directed to make a resurvey of the premises claimed in this case, to wit, three leagues of land and no more'. Its own endorsement, stamped PAGE 80 (img88), reads 'Decree rejecting Survey. Filed April 28, 1862.' The 1862 proceeding was a survey fight (Surveyor General Mandeville had rejected the deputy's survey; see the Surv. Gen. chief clerk's letter of 6 April 1862, stamped PAGE 75, img83, and the parties' stipulation of 24 April 1862, stamped PAGE 77, img85). Anyone reading the catalogue as two confirmations will misdescribe this case.\nGRANTEE PRECISION (why 'et al' matters here): the decree makes the two SONS the owners in fee and the father merely their representative - 'al C.no Mariano Soberanes A NOMBRE DE SUS DOS HIJOS Mariano y Juan Soberanes, due\u00f1os en propiedad' (stamped PAGE 14, img19). Father and elder son share the name Mariano, so the register's 'M. Soberanes' cannot be resolved to one of them, and the register's patent_to 'Mariano Soberanes' (singular) is likewise ambiguous. Graded OK because the abbreviation is accurate for the grantee pair and matches the register's own convention elsewhere, but a person-authority layer must not silently merge the two Marianos.\nSTAMP/IMAGE DRIFT grows through the file: img5=stamped p.1 (drift 4), img19=p.14 (5), img30=p.24 (6), img76=p.68 (8), img90=p.82 (8).\nPOSSIBLE MIS-STAMP: the leaf at img81 appears to read '222 SD PAGE 73' rather than 223 SD; the impression is faint and I did not treat it as established. Every other leaf reads 223 SD.\nSOURCE ROUTE: read from the Wayback Machine mirror (capture 20240604110924, 76,029,742 bytes, %PDF-1.5, 90 images) because digicoll is WAF-challenged today; see the chunk-level note on the last record."
+ },
+ {
+  "id": "rancho-san-buenaventura",
+  "pdf_url_used": "https://web.archive.org/web/20240604121043id_/https://digicoll.lib.berkeley.edu/nanna/record/264160/files/cubanc_lcf_nd004.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1",
+  "pdf_pages_stated": 144,
+  "pdf_images": 154,
+  "pages_read": [
+   "1-16",
+   "37-50",
+   "126-140",
+   "141-154"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The case file never calls this rancho 'San Buenaventura'. Red case label, PDF img1: 'CASE NO. 4 / NORTHERN DISTRICT / BUENAVENTURA GRANT / PEARSON B. READING / CLAIMANT'. Transcript title, stamped CASE NO. 4ND PAGE NO. 1 (img5): 'Transcript of the Proceedings in Case No 28 \"Buenaventura\"'. Spanish petition, stamped PAGE NO. 33 (img39): 'el terreno conocido con el nombre de Buenaventura'. Titulo, stamped PAGE NO. 35 (img41): 'el terreno conocido con el nombre de Buena Bentura'. Right rancho, variant form of the name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped CASE NO. 4ND PAGE NO. 34 (img40): 'Dic.bre 4 de 1844. Espidase el titulo. Michelt.a'. Titulo closes, stamped PAGE NO. 35 (img41): 'Dado en en Monterey a cuatro de Diciembre de mil ochocientos cuarenta y cuatro.' Sworn translation agrees, stamped PAGE NO. 40 (img46): 'Given at Monterey on the 4th December 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped CASE NO. 4ND PAGE NO. 34 (img40): 'El C. Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante General de la Plana mayor del mismo, Gobernador Comandante General e Inspector del Departamento de Californias.' Decree signed 'Michelt.a' (same leaf) and 'Man.l Michelt.a / Man.l Jimeno Srio.' at stamped PAGE NO. 35 (img41)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped CASE NO. 4ND PAGE NO. 35 (img41): 'Por Cuanto D. Pearson B. Reading, Mejicano por naturalizacion ha pretendido para su beneficio personal el terreno conocido con el nombre de Buena Bentura... he venido en concederle el terreno mencionado'. Sworn translation, stamped PAGE NO. 39 (img45): 'Whereas Don Pearson B. Reading a Mexican by naturalisation... by virtue of the Authority vested in me, in the name of the Mexican Nation, I have granted to him said Land'. Grantee and U.S.-era claimant are the same man, so no claimant-for-grantee substitution is possible."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 4 NORTHERN DISTRICT'; every leaf stamped 'CASE NO. 4ND'; District Court decree caption, stamped PAGE NO. 123 (img133), U.S. District Court for the Northern District of California. Board docket was No. 28 (stamped PAGE NO. 2, img7)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: stamped CASE NO. 4ND PAGE NO. 10 (img15): 'Saturday Dec'r 18th 1852... Commissioner Hiland Hall, delivered the decree of final confirmation of this Board.' District Court, stamped PAGE NO. 123 (img133): 'At a Special Term of the District Court... on Monday the 31st day of October... 1853. Present: The Honorable OGDEN HOFFMAN, Jr., District Judge... It is ordered adjudged and decreed by the Court that the judgment of said Board of United States Land Commissioners be confirmed. It is further Ordered Adjudged & decreed that the said Pearson B. Reading be confirmed in his said title to the land in this case claimed according to the Grant for the same'; endorsed 'Final Judgment. Filed October 31, 1853' (stamped PAGE NO. 124, img134). Confirmed at both levels; no rejection anywhere in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Buenaventura' per the case file itself (red label img1 and transcript title, stamped CASE NO. 4ND PAGE NO. 1). 'San Buenaventura' is a variant; the Bancroft catalogue for record/264160, quoting Bowman I, records the heading as 'Buenaventura (also called \"San Buenaventura\")' and adds 'The name of this grant is sometimes written San Buenaventura; it was also called Cottonwood.'"
+  },
+  "notes": "WHY name IS GRADED PART, not OK. Neither the label, the transcript title, the Spanish petition, the titulo, nor the sworn translation uses the 'San' prefix; the file is consistently 'Buenaventura' / 'Buena Bentura'. This is not cosmetic: this rancho is in Shasta and Tehama counties on the upper Sacramento, and the register's 'San Buenaventura' collides with the mission and rancho names of Ventura County in the south. A reader sorting the register by name will file it wrongly. The register's own era/geography fields are otherwise correct.\nSUPREME COURT APPEAL NOT RESOLVED IN THE PAGES READ. The U.S. appealed the District Court decree: order granting the appeal, stamped PAGE NO. 121 (img131), 29 Oct 1853, Ogden Hoffman Jr.; the U.S. appeal petition to the Supreme Court, stamped PAGES NO. 125-126 (img135-136), dated San Francisco October 29, 1853, asks that the District Court decree 'may be reversed'. The Supreme Court mandate is not in the images I read. The Bancroft catalogue says 'Confirmed by the Supreme Court -- filed Apl. 21, 1856'. Unread images in this file: 17-36, 51-125. Outcome still graded OK because two decrees of confirmation are verified in the file and no rejection appears anywhere.\nINTERNAL DATE CONFLICT worth flagging: the U.S. appeal petition, stamped PAGE NO. 126 (img136), states the District Court's final decree was made 'on the 29th day of October A.D. 1853', but the decree itself (stamped PAGE NO. 123, img133) is headed Monday 31 October 1853 and its endorsement reads 'Filed October 31, 1853'. The 29 October date belongs to the order granting the appeal. Bowman and Hoffman both use 31 Oct; the decree governs.\nDEPARTMENTAL ASSEMBLY NEVER APPROVED THE GRANT. Bidwell's deposition, stamped PAGE NO. 42 (img48): Q 'whether said grant was approved by the Departmental Assembly? Ans - It was not as far as I know'; he was employed by Reading to procure the approval and abandoned the attempt in June 1846 because of the disturbances (stamped PAGES NO. 42-43, img48-49). The Board confirmed anyway. Relevant to any register column about assembly approval.\nSTAMP/IMAGE DRIFT grows steeply here: img5=stamped p.1 (drift 4), img40=p.34 (6), img133=p.123 (10), img154=p.144 (10). Note the stamp format differs from the SD files: 'CASE NO. 4ND / PAGE NO. n', not '4 ND PAGE n'.\nSOURCE ROUTE: Wayback Machine mirror (capture 20240604121043, 121,380,978 bytes, %PDF-1.5, 154 images); digicoll is WAF-challenged today. Only the query-string form of this URL was archived; the bare /files/ form has no 200 capture."
+ },
+ {
+  "id": "rancho-san-carlos-jonata",
+  "pdf_url_used": "https://web.archive.org/web/20240607005846id_/https://digicoll.lib.berkeley.edu/nanna/record/266116/files/cubanc_lcf_sd156.pdf",
+  "pdf_pages_stated": 63,
+  "pdf_images": 73,
+  "pages_read": [
+   "1-18",
+   "58-73"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Spanish expediente cover, stamped 156 SD PAGE 10 (img15): 'Espediente promovido por los Ciudadanos Joaquin Carrillo y Jose M.a Covarrubias en pretencion del terreno de \"S.n Carlos de Jonata\"'. Concession decree, stamped PAGE 12 (img17): 'el terreno nombrado San Carlos de Jonata'. District Court decree, stamped PAGE 55 (img65): 'known by the name of \"San Carlos de Jonata\"'. The register's full form matches the decree; the red label (img1) and transcript title (stamped PAGE 1, img5) use the short form 'JONATA GRANT' / 'Jonata'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 156 SD PAGE 12 (img17): 'Angeles Setiembre 24 de 1845. Vista la solicitud con que da principio este espediente...'. District Court decree, stamped PAGE 55 (img65): 'granted to the said Carrillo and Cobarrubias on the twenty fourth day of September A.D. 1845 by Pio Pico then Governor of California'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree closes, stamped 156 SD PAGE 13 (img18): 'Pio Pico Gobernador interino del Departamento de las Californias, asi lo mand\u00e9, decrete y firm\u00e9, de que doy fe. Pico. Jose M.a Covarrubias Srio'. Earlier marginal order on the petition, stamped PAGE 11 (img16): 'Angeles Junio 20 de 1845. Informe la Comision de Misiones... Pico'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 156 SD PAGE 12 (img17): 'declaro a los Se\u00f1ores D.n Joaquin Carrillo y D.n Jose M.a Covarrubias due\u00f1os del terreno nombrado San Carlos de Jonata'. District Court decree, stamped PAGE 55 (img65), names 'the said appellees Joaquin Carrillo and J. M. Covarrubias'. Register's 'J. Carrillo et al' is its standard abbreviation for the named pair; grantees and U.S.-era claimants are the same two men, so no claimant-for-grantee substitution."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 156 SOUTHERN DISTRICT'; typed slip img2 'LAND CASE 156 SD pgs. 63'; every leaf stamped '156 SD'; District Court caption, stamped PAGE 55 (img65): 'No. 156 \"Jonata\"'. Board docket was No. 534 (transcript title, stamped PAGE 1, img5)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "All three levels present in the file. Board: stamped 156 SD PAGE 3 (img8): 'San Francisco January 31, 1854. In the same Case Commissioner Alpheus Felch delivered the opinion of the Board confirming the Claim.' District Court, December Term 1856, stamped PAGE 55 (img65): 'It is ordered adjudged and decreed by the court that the decision of the said Commissioners be affirmed, and that the title of the said appellees Joaquin Carrillo and J. M. Covarrubias to the lands claimed in this case be and is hereby decreed to be good and valid', signed Isaac S. K. Ogier; endorsed 'Decree. Filed Feby 24th 1857' (stamped PAGE 57, img67). Supreme Court MANDATE, No. 146 December Term 1863, stamped PAGES 60-63 (img70-73): 'it is now here ordered, adjudged and decreed by this Court that the decree of the said District Court in this cause be and the same is hereby affirmed to the extent of six square leagues of land and no more, within the exterior limits of the grant in this case, on payment of costs by appellees in this Court. 24 March' (stamped PAGE 62, img72), teste Roger B. Taney, C.J., first Monday of December 1863, D. W. Middleton, Clerk. Confirmed at first instance and affirmed twice; no rejection anywhere."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "STRONGEST-EVIDENCED RECORD OF THE SIX: the full chain Board / District Court / Supreme Court sits inside this one file, so nothing rests on the catalogue.\nTHE SUPREME COURT NARROWED THE CONFIRMATION. The mandate affirms 'to the extent of six square leagues of land and no more, within the exterior limits of the grant' (stamped 156 SD PAGE 62, img72). That is a quantity limitation, not a rejection, so 'Confirmed' stands; but a register column for acreage or extent should carry the six-league cap.\nSIXTEEN-YEAR GAP BETWEEN DECREE AND MANDATE FILING. The Supreme Court decided 24 March 1864 but the mandate was not filed in the District Court until 3 September 1872 (endorsement, stamped PAGE 59, img69, and the mandate's own endorsement at stamped PAGE 63, img73: 'Filed in open Court this 3rd day of September A.D. 1872'). Ogden Hoffman then ordered that the claimants 'may proceed thereon... as a final decree' (stamped PAGE 58, img68). This explains the register's patent date of Dec. 2, 1872: the patent follows the mandate filing by three months, not the 1864 decision. Useful for anyone modelling patent lag.\nCONFLICT OF INTEREST ON THE FACE OF THE GRANT: Jose Maria Covarrubias is one of the two grantees AND the Secretary who countersigned Pico's decree - 'Pico. Jose M.a Covarrubias Srio' (stamped PAGE 13, img18). The United States nonetheless did not prevail. Worth a flag in any person-authority layer.\nGRANT PRICE: the first condition required the grantees to deliver to Mission Santa Ines 'cincuenta vaquillas, cincuenta toretes, cincuenta vacas y cincuenta novillos, o pagaran a los acreedores a d.ho establecimiento la cantidad de seis cientos veinticinco pesos' (stamped PAGE 12, img17).\nSTAMP/IMAGE DRIFT: img5=stamped p.1 (drift 4), img17=p.12 (5), img65=p.55 (10), img73=p.63 (10).\nSOURCE ROUTE: Wayback Machine mirror (capture 20240607005846, 77,098,209 bytes, %PDF-1.5, 73 images); digicoll is WAF-challenged today."
+ },
+ {
+  "id": "rancho-san-diego-island",
+  "pdf_url_used": "https://web.archive.org/web/20240605121218id_/https://digicoll.lib.berkeley.edu/nanna/record/267598/files/cubanc_lcf_sd257.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1",
+  "pdf_pages_stated": 108,
+  "pdf_images": 119,
+  "pages_read": [
+   "1-18",
+   "19-32",
+   "105-119"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The exact form 'Island of San Diego' appears in the District Court's 1867 caption, stamped 257 SD PAGE 96 (img107). Fuller official form on the red label, img1: 'ISLAND OR PENINSULA AT THE PORT OF SAN DIEGO GRANT', and on the transcript title, stamped PAGE 1 (img5): 'FOR THE PLACE NAMED \"Island or Peninsula at the Port of San Diego\"'. Spanish, stamped PAGE 16 (img21): 'el terreno conocido \u00f3 nombrado Isla \u00f3 peninsula en el punto de S.n Diego'. Register's inversion is a normal index form. See notes: the land is in fact a peninsula (today Coronado)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 257 SD PAGE 16 (img21): 'Angeles Mayo 15 de 1846. Vista la solicitud con que da principio este expediente los informes necesarios... declara \u00e1 D.n Pedro Carrillo due\u00f1o en propiedad...'. Sworn translation, stamped PAGE 21 (img27): 'Angeles May 15th 1846'. Corroborated by the 1846 deed of sale, stamped PAGE 24 (img31): 'el correspondiente titulo de fecha quince de Mayo de mil ochocientos cuarenta y seis'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 257 SD PAGE 16 (img21): 'Pio Pico Gobernador Constitucional de California asi lo mando decret\u00e9 y firm\u00e9. doy fe\u00e9. Pio Pico. Jos\u00e9 Matias Moreno Srio.' Titulo opens, stamped PAGE 17 (img22): 'Pio Pico Gobernador Constitucional del Departamento de Californias.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 257 SD PAGE 16 (img21): 'declara \u00e1 D.n Pedro Carrillo due\u00f1o en propiedad del terreno conocido \u00f3 nombrado Isla \u00f3 peninsula en el punto de S.n Diego'. Titulo, stamped PAGE 17 (img22): 'Por cuanto D.n Pedro Casarino [Catarino] Carrillo ha pretendido para su beneficio personal y el de su familia el terreno...'. Espediente cover, stamped PAGE 14 (img19): 'Espediente promovido por el Ciudadano Pedro C. Carrillo... N.o 554'. THIS IS THE AUDIT'S DOMINANT ERROR CLASS AND THE REGISTER PASSES IT: the U.S.-era claimants were Frederick Billings, James R. Bolton and Henry W. Halleck as assignees of Bezar Simmons (red label img1; petition, stamped PAGE 4, img9), and Carrillo had sold the rancho to Simmons on 20 Oct 1846 (deed, stamped PAGES 23-25, img30-32). The register records Carrillo, the Mexican grantee, not any of the four Anglo holders."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 257 SOUTHERN DISTRICT'; typed slip img2 'LAND CASE 257 SD 108 pgs.'; every leaf stamped '257 SD'; Supreme Court mandate, stamped PAGE 99 (img110): '(No. 257 \"Island or peninsular of San Diego\")'. Board docket was No. 188 (transcript title, stamped PAGE 1, img5) and the Mexican expediente number 554 (stamped PAGE 14, img19)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "The register's bare 'Confirmed' is the correct FINAL disposition but conceals a rejection at first instance, and I did not read the confirming decree itself. THE BOARD REJECTED: docket entry, stamped 257 SD PAGE 3 (img8): 'San Francisco October 31' 1854. In the same Case Commissioner S. B. Farwell delivered the Opinion of the Board REJECTING THE CLAIM (Vide page 39 of this Transcript.)'. Confirmation came only from the District Court, whose decree is recited but not reproduced in the images I read: District Court, April Term 1867, stamped PAGE 97 (img108): 'It is Ordered that the Appeal heretofore sued out and allowed the United States from the DECREE OF CONFIRMATION rendered in this Cause by the late U.S. District Court for the Southern District of California, be and the same is hereby Dismissed, and that said Claimants be and they are hereby allowed to proceed under said Decree of Confirmation as under a final decree', signed Ogden Hoffman. Supreme Court mandate, stamped PAGE 99 (img110): the cause 'wherein the decree was rendered in favor of the said appellants'; dismissal, stamped PAGE 101 (img112): 'on the motion of Mr Attorney General Bates of Counsel for the Appellant, It is now here ordered Adjudged, and decreed by this Court that this cause be and the same is hereby dismissed. 12 Feb.', teste Roger B. Taney, Dec. Term 1863 (stamped PAGE 102, img113), filed 7 May 1867. The District Court decree of confirmation itself lies in the unread stretch, PDF images 33-104 (roughly stamped pages 26-93)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "outcome": "'Rejected by the Land Commission 31 Oct 1854; confirmed on appeal by the U.S. District Court (Southern District); U.S. appeal to the Supreme Court dismissed 12 Feb 1864, mandate filed 7 May 1867' - per stamped 257 SD PAGES 3, 97, 99-102."
+  },
+  "notes": "THIS IS THE TRAP RECORD OF THE CHUNK, and it is the only outcome in the six that is not a first-instance confirmation.\n\n(1) BOARD REJECTION DATE: THE CATALOGUE AND HOFFMAN ARE BOTH WRONG BY A YEAR. The digicoll/Bowman description for record/267598 says 'Rejected by the Board Oct. 31, 1853', and a 20th-century clerk's slip bound into the file itself, stamped 257 SD PAGE 106 (img117), quoting Hoffman's Reports, says 'rejected by the Commission October 31st, 1853, and confirmed by the District Court January 9th, 1857'. The transcript's own docket entries say 1854, and they are internally chronological and cannot be reconciled with 1853: stamped PAGE 2 (img7) 'San Francisco September 23' 1853. Case no. 188 called; on motion of the Counsel for the Claimants, ordered to the foot of the docket'; then 'San Francisco, September 19th 1854. Case no. 188... was ordered to be placed at the foot of the 2nd class cases on the Trial Docket'; then stamped PAGE 3 (img8) 'San Francisco October 18' 1854' (Johns deposition), 'San Francisco October 24' 1854' (submitted without argument), and 'San Francisco October 31' 1854' (Farwell's opinion rejecting). A case sent to the foot of the docket in Sept 1853 and only placed on the trial docket in Sept 1854 cannot have been decided in Oct 1853. Recommend the register/errata layer record 31 October 1854.\n\n(2) DISTRICT COURT CONFIRMATION DATE IS ALSO CONTESTED: the Bancroft catalogue says 12 January 1857; the file's own Hoffman's-Reports slip (stamped PAGE 106, img117) says 9 January 1857. I could not settle it because the decree sits in the unread images 33-104. Whoever re-reads should target that stretch.\n\n(3) TWO COPIES OF THE SAME TITULO IN THIS FILE DISAGREE ON THE DATE BY TWO MONTHS. The Surveyor General's archive copy, stamped 257 SD PAGE 17 (img22), certified by Saml. D. King 29 April 1852 (certificate at stamped PAGE 18, img23), closes 'Dado en la Ciudad de los Angeles en este papel comun por falta de sellado \u00e0 15 de MAYO de 1846'. The claimants' own copy, the document marked J.W. No. 1 annexed to Santiago Arguello's deposition, stamped PAGE 22 (img29), closes 'Dado en la Ciudad de los Angeles en este papel comun por falta de sellado \u00e0 15 de MARZO de 1846'. The concession decree (stamped PAGE 16, img21) and the 1846 deed of sale (stamped PAGE 24, img31) both say May, so May governs and Marzo looks like a copyist's slip; but this is a Pico grant made two months before the U.S. seizure of California, exactly the class the government attacked as antedated, so the discrepancy should be recorded rather than silently normalised. Year is 1846 on every copy.\n\n(4) TRANSCRIPT CLERICAL DEFECT: the caption of Santiago Arguello's deposition, stamped 257 SD PAGE 6 (img11), names the claimant as 'Maria Antonia de la Guerra y Lataillade whose petition is No 188 on the Docket of the Board'. Docket 188 is Billings et al.; the de la Guerra y Lataillade name belongs to a different claim. The clerk copied a caption from an adjacent case.\n\n(5) ISLAND vs PENINSULA: Thomas D. Johns's deposition, stamped PAGE 8 (img13): 'It is a peninsular bounded on the South by the Pacific Ocean, on the North and West by the Bay of San Diego, and on the East by the main land... about 8 miles long', 'about 1000 acres altogether'. The grant calls it 'Isla \u00f3 peninsula'. The register's 'San Diego Island' is defensible but the land is the Coronado peninsula, and the register's patent_acres of 4,185.46 is four times Johns's estimate.\n\n(6) PATENT FIELDS (left null per method, but corroborated in the file): the register's patent_to 'Archibald C. Peachy and William H. Aspinwall' is supported by the District Court order of 1867 substituting 'said Archibald C. Peachy and William H. Aspinwall as Claimants and Confirmees herein And that all further Proceedings had herein be in their names', signed Ogden Hoffman (stamped PAGE 94, img105, filed 7 May 1867), and by the clerk's ownership memo, stamped PAGE 107 (img118): 'The ownership is now - und'd 1/2 in Wm H. Aspinwall - and und'd 1/2 in Archibald C. Peachy'. No patent copy is in the file.\n\n(7) The file also contains 1919 papers (subpoena and order in United States v. Coronado Beach Co., E 34 Eq., stamped PAGES 103-105, img114-116), when the whole 1852-67 record was withdrawn from San Francisco to Los Angeles as evidence. Useful provenance.\n\nSTAMP/IMAGE DRIFT: img5=stamped p.1 (drift 4), img21=p.16 (5), img32=p.25 (7), img105=p.94 (11), img119=p.108 (11).\nSOURCE ROUTE: Wayback Machine mirror (capture 20240605121218, 108,287,051 bytes, %PDF-1.5, 119 images); digicoll is WAF-challenged today."
+ }
+]

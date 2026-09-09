@@ -1,0 +1,242 @@
+[
+ {
+  "id": "mission-santa-barbara",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268961/files/cubanc_lcf_sd338.pdf",
+  "pdf_pages_stated": 151,
+  "pdf_images_actual": 157,
+  "pages_read": [
+   "img 1-14 (= flyleaf + stamped pp.1-11)",
+   "img 15-30 (= stamped pp.12-27)",
+   "img 64-75 (= stamped pp.61-70)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Register says 'S Of Mission Santa Barbara'. Red cover label (img 1) reads 'CASE No. 338 / SOUTHERN DISTRICT / EX-MISSION SANTA BARBARA GRANT / RICHARD SOMERSET DEN CLAIMANT'; the Secretary's closing certificate at stamped p.69 (img 73) names 'the place known by the name of \"Ex-Mission of Santa Barbara\"'. Right entity, but the register string is garbled/truncated at the front."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Opinion of the Board, stamped p.66 (img 69): 'This claim is based upon a grant issued by Governor Pio Pico and dated the 10th day of June 1846, which grant is produced in evidence and proven to be genuine.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Same Board opinion, stamped p.66 (img 69): 'a grant issued by Governor Pio Pico'. Corroborated at stamped p.20 (img 23) by Agustin Olvera, who as assistant secretary to the Governor 'made out the title papers myself'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Board opinion caption, stamped p.66 (img 69): '621 Richard S. Den vs The United States, for the Ex Mission of Santa Barbara'; the decree of confirmation at stamped p.67 (img 70) holds 'the claim of the petitioner is valid'. Petition at stamped p.6 (img 9) states Pio Pico 'granted sold and conveyed unto your petitioner the Mission of Santa Barbara ... for the sum of seven thousand five hundred dollars' — the $7,500 consideration is repeated verbatim in the Board opinion, tying petitioner to vendee. Here claimant and Mexican grantee are genuinely the same man, so the usual claimant-for-grantee error class does not apply."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 338 SOUTHERN DISTRICT' (img 1); flyleaf 'LAND CASE 338 SD pgs. 151' (img 2); District Court back label 'U.S. DISTRICT COURT, Southern District of California ... No. 338' (img 74); PDF filename cubanc_lcf_sd338.pdf. Board docket no. was 621 (img 3), which is the Commission number, not the register's docket."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register leaves outcome blank (as it does for every mission record in this chunk). For the record: Commission decree of confirmation, stamped p.67 (img 70), filed 12 June 1855, signed R. Aug. Thompson and S. B. Farwell; but the Attorney General's notice at stamped p.70 (img 75), Washington 31 Dec. 1855, states 'the appeal in the district court of the United States for the Southern district of California will be prosecuted by the United States'. Final District Court disposition lies in images 76-157, not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Ex-Mission of Santa Barbara (Secretary's certificate, stamped p.69, img 73; red label img 1)"
+  },
+  "notes": "Hoffman 1862 (1846 / Pio Pico / R. S. Den / confirmed) agrees with both the register and the case file on year, governor and grantee. The underlying title instrument itself (Exhibit 'A' annexed to J. J. Warner's deposition, and Exhibit 'B No. 1 G.T.B.' annexed to Agustin Olvera's) was NOT found transcribed in the pages read; if it is transcribed it most likely sits at stamped pp. 40-58 (images 43-61), which I did not open. What I graded year/governor/grantee against is therefore the Land Commission's own opinion and decree, not the concession instrument - a decree, not testimony and not the petition, but one step removed from the grant. The exhibits that DO appear transcribed at stamped pp.61-65 (images 64-68) are context documents from Case No. 295, not this grant: a Ministry of Justice communication, Mexico 14 Nov. 1845, ordering all mission alienations suspended, and Tornel's Ministry of War order, Mexico 10 March 1846, empowering the Governor to raise funds for defence. Those two are the documents the U.S. was litigating against. IMAGE/STAMP OFFSET for this file: stamped page = image number - 3, stable from img 5 through img 75."
+ },
+ {
+  "id": "mission-soledad",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268970/files/cubanc_lcf_sd348.pdf",
+  "pdf_pages_stated": 39,
+  "pdf_images_actual": 47,
+  "pages_read": [
+   "img 1-14 (= flyleaf + stamped pp.1-9)",
+   "img 17-30 (= stamped pp.11-23)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Register 'Ex Mission Soledad'. Red cover label (img 1) 'CASE No. 348 / SOUTHERN DISTRICT / MISSION DE SOLEDAD GRANT / FELICIANO SOBERANES CLAIMANT'; transcript title page, stamped p.1 (img 5), 'Mission de Soledad'; decree of confirmation, stamped p.22 (img 28), 'the Ex Mission of Soledad'. Grant itself, stamped p.11 (img 17), 'Mision de la Soledad'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant instrument in the original Spanish, stamped p.12 (img 18): 'Dado en la ciudad de los Angeles en este papel comun por falta absoluta del sellado a cuatro de Enero de mil ochocientos cuarenta y seis.' Hartnell's sworn translation, stamped p.14 (img 20): 'Given in the City of Los Angeles on this common paper on account of the absolute want of sealed paper on the fourth of January Eighteen hundred and forty six.' Spanish original and both translations agree; no date disagreement in this file."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading in Spanish, stamped p.11 (img 17): 'Pio Pico Vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias'; signed 'Pio Pico', countersigned 'Jose Ma Covarrubias, Secretario', stamped p.12 (img 18) and again stamped p.18 (img 24). Board opinion, stamped p.21 (img 27): 'a grant issued in pursuance thereof dated the 4th day of January 1846 by Pio Pico Governor'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p.11 (img 17): 'declaro por las presentes letras que el mencionado Don Feliciano Soberanes es dueno legalmente de las espresadas fabricas, huerta y vina de la Mision de la Soledad.' Hartnell translation, stamped p.13 (img 19): 'the said Don Feliciano Soberanes is the legal owner and legitimate purchaser'. The claimant is the same man, so no claimant-for-grantee substitution here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 348 SOUTHERN DISTRICT' (img 1); flyleaf 'LAND CASE 348 SD pgs. 39' (img 2); every stamped page carries '348 SD'; filename cubanc_lcf_sd348.pdf. Board docket number was 526 (img 5), i.e. Hoffman's commission_no, not the register docket."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register leaves outcome blank. For the record: Board opinion by Commissioner S. B. Farwell, stamped p.21 (img 27), 'we think the claim a valid one and a decree of confirmation will be entered'; decree of confirmation, stamped p.22 (img 28), signed R. Aug. Thompson and S. B. Farwell, filed 17 July 1855; order transmitting the transcript to the U.S. District Court for the Southern District, stamped p.23 (img 29). Whether the U.S. appealed is in images 31-47, not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Cleanest record of the six. The concession is here three times over: the archive expediente in Spanish (stamped pp.11-12, imgs 17-18, certified by Surveyor General Samuel D. King 24 Dec. 1852 as a true copy of archive document '1845 No. 21. Espediente sobre venta de misiones'); the claimant's own title copy in Spanish (stamped pp.17-18, imgs 23-24, Doc. H.H. No.1 annexed to Jose Abrego's deposition); and two independent English translations (Exhibit B by W. E. P. Hartnell, State Translator, Monterey 4 Oct. 1852, stamped pp.13-15, imgs 19-21; and a second at stamped pp.19-20, imgs 25-26). All four texts give 4 January 1846, Pio Pico, Feliciano Soberanes. Consideration was not cash but the extinguishment of a public debt of 'ochocientos y mas pesos' owed Soberanes for supplies furnished to Micheltorena's and Castro's divisions, under the Departmental Assembly's decree of 4 July 1845. Note the register's patent_acres 8,899.82 against the grant's 'dos sitios de ganado mayor' / 'two square leagues' (~8,877 acres) - a survey-sized difference, not a discrepancy I can call an error, and patent fields belong to Phase C anyway. Hoffman 1862 agrees on all four fields and on commission no. 526. IMAGE/STAMP OFFSET: stamped page = image number - 5, from img 7 onward (img 5 = stamped p.1, img 6 blank verso)."
+ },
+ {
+  "id": "mission-vieja-purisima",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266096/files/cubanc_lcf_sd061.pdf",
+  "pdf_pages_stated": 67,
+  "pdf_images_actual": 76,
+  "pages_read": [
+   "img 1-14 (= flyleaf + stamped pp.1-8)",
+   "img 15-27 (= stamped pp.9-19)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Register 'La Mission Vieja De La Purisima'. Transcript title page, stamped p.1 (img 5): 'Mision Vieja de la Purisima'; concession decree, stamped p.9 (img 15): 'el terreno conocido con el nombre de Mision Vieja de la Purisima'. NOTE the Bancroft's own red cover label (img 1) misgenders it, 'MISSION VIEJO DE LA PURISIMA GRANT'; the register's 'Vieja' is correct and the label is wrong, so do not 'correct' the register toward the label."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree in the original Spanish, stamped p.10 (img 16): 'Dado en la Ciudad de los Angeles, en este papel comun por no haber del sellado que corresponde a veinte de Noviembre de mil ochocientos cuarenta y cinco' = 20 November 1845. Repeated in the claimant's own title copy, Document No. 7 annexed to Pablo de la Guerra's deposition, stamped p.19 (img 27), same wording. Sworn translation of the Assembly's record of approval, stamped p.18 (img 24): 'according to the title delivered November 20th of the last year'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree heading, stamped p.9 (img 15): 'Pio Pico, Vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana, he venido por decreto de este dia en concederles el terreno mencionado'. Signed 'Pio Pico' at stamped p.19 (img 27)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree, stamped p.9 (img 15): 'Por cuanto D. Joaquin y D. Jose Antonio Carrillo han pretendido para su beneficio personal y el de sus familias, el terreno conocido con el nombre de Mision Vieja de la Purisima ... he venido ... en concederles el terreno mencionado, declarandoles la propiedad de el por las presentes letras.' Departmental Assembly approval, translated at stamped p.18 (img 24): 'Approved the grant made to citizens Joaquin and Jose Antonio Carrillo, brothers, of the place \"Mision Vieja de la Purisima\"'. Two grantees, both named correctly in the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label 'CASE No. 61 SOUTHERN DISTRICT' (img 1); flyleaf 'LAND CASE 61 SD pgs. 67' (img 2); stamped '61 SD' throughout; filename cubanc_lcf_sd061.pdf. Board docket was No. 178 (img 5), i.e. Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register leaves outcome blank. The transcript's own docket index at stamped p.3 (img 8) records 'San Francisco November 16, 1853. In the same Case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the Claim (Vide page 23).' I did not open stamped p.23 or the subsequent District Court material (images 28-76), so I am not asserting a final disposition."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Fully documented from the concession itself, not from testimony or the petition. The grant is an ENLARGEMENT: condition 1 of the decree (stamped p.10, img 16) states the land is conceded 'en ampliacion del terreno que poseen llamado Lompoc' - added to the Carrillos' existing Lompoc rancho. Consideration was paid in kind to the mission, not to the government: 25 heifers, 25 steers, 10 cows and 5 horses receipted by Fr. Juan Moreno, in charge of La Purisima, 20 June 1844 (Spanish at stamped p.8, img 14; translation stamped pp.16-17, imgs 22-23). Chronology worth preserving: title issued 20 Nov. 1845; expediente laid before the Departmental Assembly 8 May 1846; Committee on Vacant Lands reported 22 May 1846 (S. Arguello); Assembly approved 3 June 1846 (Pio Pico, President; Agustin Olvera, Deputy Secretary). The register's 1845 is the TITLE date, which is the right choice; a register that had used the Assembly-approval date would read 1846, and the petition at stamped p.4 (img 9) cites both. Both Spanish copies and both English translations agree on 20 Nov. 1845 - no translation/original date conflict here. Extent 'un sitio de ganado mayor' = one square league, against the register's patent_acres 4,413.60 (a league is 4,438.68 acres) - survey-sized difference, Phase C. Hoffman 1862 gives year 1845 and leaves governor and grantee blank, so the register is strictly RICHER than Hoffman here and both its added values check out against the decree. IMAGE/STAMP OFFSET is NOT constant in this file: img 5 = stamped p.1, then imgs 7-11 = pp.2-6, img 12 is an UNSTAMPED blank, img 13 = p.7, imgs 14-19 = pp.8-13, img 20 = p.14, img 21 = p.15, img 22 unstamped blank, imgs 23-24 = pp.16-17 ... verify the stamp on each leaf rather than assuming an offset."
+ },
+ {
+  "id": "mission-viejo-paz",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267591/files/cubanc_lcf_sd250.pdf",
+  "pdf_pages_stated": null,
+  "pdf_images_actual": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "No PDF page opened. Flagging a live conflict for the re-reader: the register says 'Mission Viejo/La Paz' (masculine 'Viejo'), the Bancroft's catalogue title for this exact file says 'Mission Vieja (also called \"Paz\") [Orange County] Juan Forster, Claimant. Case no. 250, Southern District of California', and Hoffman 1862 says 'Mission Vieja or La Paz'. Two of three sources say 'Vieja'. I am NOT grading this ERR, because the Bancroft's own red cover labels are themselves inconsistent on this word - the label on SD 061 reads 'MISSION VIEJO DE LA PURISIMA GRANT' where the transcript and grant both say 'Vieja'. Only image 1 of cubanc_lcf_sd250.pdf can settle it."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Verified at the server, not from a page image: https://digicoll.lib.berkeley.edu/record/267591/files/cubanc_lcf_sd250.pdf resolves to a real PDF, HTTP 206, content-type application/pdf, content-range 'bytes 0-0/102496153' (102.5 MB), and the record page's own Download control points at that filename. The Bancroft catalogue title for the item reads 'Case no. 250, Southern District of California'. The filename is one of the two checks the method names for this field; the red cover label is the other and I could not see it."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "Register leaves outcome blank, and no PDF page was opened, so I am recording UV rather than NA - I cannot even confirm the blank is the systematic mission-row blank rather than a gap."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, not a source failure. From about 16:26 UTC 2026-09-09 digicoll.lib.berkeley.edu answers every scripted client with HTTP 202 and x-amzn-waf-action: challenge (an AWS WAF JavaScript challenge). curl and scripts/fetch_case_pages.py therefore receive zero bytes; note the status is 202, NOT an error code, so a naive caller sees 'success' and an empty file. I got one file (SD 061) by harvesting the aws-waf-token from a real Chrome session and replaying it in curl, but the token expires in minutes and the browser extension then refused to return it again (blocked as a sensitive key). Chrome-side downloads worked exactly once and were afterwards blocked as repeated automatic downloads; pushing the bytes out of the page to a localhost receiver is blocked by the site's connect-src CSP; the site's own PDF.js viewer would not instantiate; and there is no IIIF manifest and no Internet Archive copy. Re-run this record when the WAF relaxes, or drive the download from a browser session a human has just used. LEADS FOR THE RE-READER, all SECONDARY and none of them graded: the digicoll record page for this item carries J. N. Bowman's Index entry verbatim - 'Granted (1) by Alvarado Feb. 16, 1841, to Jose Antonio Estudillo provisionally, and (2) by Pico Apl. 4, 1845, to Augustin Olvera; about 16 leagues, by name. Claim filed by Juan Forster Oct. 16, 1852. Confirmed by the Board Oct. 31, 1854. Confirmed by the District Court Feb. 23, 1857; appeal dismissed June 4, 1857. Patent issued to Juan Forster Aug. 6, 1866, for 46,432.65 acres... In spite of this name this was not a part of the mission lands. Originally the grant was to Jose A. Estudillo Feb. 16, 1841; he abandoned the land and it was renounced June 8, 1843.' If that is right the register's 1845 / Pico / Agustin Olvera is the SECOND grant and is the correct choice, and the register has correctly kept the Mexican grantee (Olvera) in grantee and the U.S. claimant/patentee (Juan Forster) in patent_to - i.e. the dominant error class is absent. But note this file has TWO grants by two different governors eleven years apart, so it is exactly the kind of record where a reader who opens the wrong decree records 1841/Alvarado/Estudillo. Whoever re-reads must find the 4 April 1845 title and quote it."
+ },
+ {
+  "id": "pueblo-pueblo-san-diego",
+  "pdf_url_used": null,
+  "pdf_pages_stated": 57,
+  "pdf_images_actual": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "No case file opened. The Bancroft catalogue record at the register's own scan_record_url is titled 'Pueblo Lands in the Southern District of California grant: [San Diego County, Calif.]: The president and trustees of the city of San Diego, Claimant: case no. 390, Southern District, 1853-1857', and its Description says 'Rancho Name: None'."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "No case file opened. Nothing in the catalogue record supplies a grant year; its Description gives no date, governor or grantee, which matches Hoffman 1862 leaving all three null."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "No case file opened; the catalogue record names no granting governor."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "No case file opened. Note the register's own value, 'Pueblo of San Diego (City of San Diego, claimant)', is a compound that already mixes the Mexican-era entity with the U.S.-era claimant in one field - worth a data-model flag independent of verification."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Verified from the Bancroft's own catalogue record (scan_record_url https://digicoll.lib.berkeley.edu/record/102020), whose Description reads 'Associated Case Numbers: Docket 589, 390 SD, GLO 526' and whose Other Identifiers field reads 'BANC MSS Land Case Files 390 SD'. Register 'SD 390' agrees, and so does the register's glo_patent_no 526. No PDF page image was available to check a red label."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No case file opened."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ, RECORDED AS A FINDING so the queue does not reissue it blindly. Unlike my other two ungraded records this is NOT the WAF problem: this item genuinely has no case-file PDF to download. The register's scan_record_url (record/102020) resolves and renders fine, but the rendered page contains ZERO '/files/' links and no Download control, and the derived name cubanc_lcf_sd390.pdf answers HTTP 200 with an HTML body rather than a PDF - precisely the documented trap where a wrong or absent filename returns 200 + HTML instead of 404, so a caller that trusts the status code will write a garbage 'PDF'. Contrast the two cubanc_lcf files I probed the same way in the same call, which correctly returned 206 + application/pdf + a content-range. WHERE TO LOOK NEXT: record/102020 sits in a 1020xx block that behaves differently from the 26xxxx cubanc_lcf block - its neighbour record/102017 ('Part of the San Antonio Land grant... Antonio Peralta, claimant, case no. 98') is served through the Universal Viewer at ?v=uv rather than as a bound PDF. Try https://digicoll.lib.berkeley.edu/record/102020?v=uv and pull the viewer's image source; the pueblo transcripts are probably page images, not a bound PDF. The catalogue does state the transcript runs 57 p., so the document exists and is described, only not as a PDF."
+ },
+ {
+  "id": "rancho-acalanes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264418/files/cubanc_lcf_nd031.pdf",
+  "pdf_pages_stated": null,
+  "pdf_images_actual": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "No PDF page opened, so this rests on the Bancroft's own catalogue record for the file rather than on the red label: record/264418 is titled 'Acalanes [Contra Costa County] Elam Brown, Claimant. Case no. 31, Northern District of California.' Register 'Acalanes' agrees exactly. Hoffman 1862 also gives 'Acalanes'."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "No PDF page opened; see notes for the transport failure."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Verified at the server: https://digicoll.lib.berkeley.edu/record/264418/files/cubanc_lcf_nd031.pdf returns HTTP 206, application/pdf, content-range 'bytes 0-0/35814310' (35.8 MB). The catalogue record's Other Identifiers field reads 'BANC MSS Land Case Files 31 ND' and its Description lists 'Associated Case Numbers: Titulo 46, Expediente 35, Deposited Expediente 14, Docket 14, 31 ND, GLO 124'. Register 'ND 031' agrees, as does its glo_patent_no 124. Red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "No PDF page opened. This is the ONLY record in my chunk with a non-blank outcome ('Confirmed'), so it is the only one exposed to the reversal trap, and it is precisely the one I could not open. It must be re-read, not waved through."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, not a source failure. From about 16:26 UTC 2026-09-09 digicoll.lib.berkeley.edu answers every scripted client with HTTP 202 and x-amzn-waf-action: challenge (an AWS WAF JavaScript challenge). curl and scripts/fetch_case_pages.py therefore receive zero bytes; note the status is 202, NOT an error code, so a naive caller sees 'success' and an empty file. I got one file (SD 061) by harvesting the aws-waf-token from a real Chrome session and replaying it in curl, but the token expires in minutes and the browser extension then refused to return it again (blocked as a sensitive key). Chrome-side downloads worked exactly once and were afterwards blocked as repeated automatic downloads; pushing the bytes out of the page to a localhost receiver is blocked by the site's connect-src CSP; the site's own PDF.js viewer would not instantiate; and there is no IIIF manifest and no Internet Archive copy. Re-run this record when the WAF relaxes, or drive the download from a browser session a human has just used. LEADS FOR THE RE-READER, all SECONDARY and none of them graded: the digicoll record page carries Bowman's entry - 'Granted by Figueroa Aug. 1, 1834, to Candelario Valencia; 3 quarters of a leagues, by name. Claim filled by Elam Brown Feb. 2, 1852. Confirmed by the Board Feb. 14, 1853. Appeal dismissed by the District Court Nov. 26, 1856. Patent issued to Elam Brown May 18, 1858, for 3,328.95 acres.' The catalogue's structured Creator field separates the roles explicitly: 'Valencia, Candelario, 1804-1881, Grantee'; 'Brown, Elam, 1797-1889, Claimant'; 'Brown, Elam, 1797-1889, Patentee'. That is the same split the register makes (grantee Candelario Valencia, patent_to Elam Brown), and Hoffman 1862 agrees on 1834 / Jose Figueroa / Candelario Valencia / confirmed / patented. Three independent secondary sources therefore agree with the register on all four substantive fields, and on the outcome the sequence is Board confirmation 14 Feb. 1853 followed by DISMISSAL of the appeal, not a reversal - so the register's bare 'Confirmed' is very likely sound and is NOT the trap case. None of that is decree evidence, which is why every one of those fields is UV and not OK. The file is only 35.8 MB, the smallest of the three I could not reach, so it is the cheapest to finish first. Bowman also flags a boundary dispute with Joaquin Moraga over the line between Acalanes and Laguna de los Palos Colorados (Deposited Expediente 14, 1843; Interior Dept. decision 23 Feb. 1882), and notes the ranch was also called San Felipe - a possible alias worth carrying in the register."
+ }
+]

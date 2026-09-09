@@ -1,0 +1,323 @@
+[
+ {
+  "id": "rancho-punto-ano-nuevo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264453/files/cubanc_lcf_nd070.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI catalog title: 'Punta del Año Nuevo [San Mateo County] ... Case no. 70, Northern District of California.'"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier gives the filename cubanc_lcf_nd070.pdf, consistent with register 'ND 070', but the red case label was not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bancroft/Bowman finding-aid abstract via OAI-PMH record oai:digicoll.lib.berkeley.edu:264453 (SECONDARY - not the decree, not graded)",
+   "quote": "Granted by Alvarado May 27, 1842, to Simeon Castro; 4 leagues, by name. Claim filed by Antonia Pico de Castro and heirs Aug. 30 1852. Confirmed by the Board Dec. 13, 1853. Confirmed by the District Court Dec. 4, 1856. The patent was issued to Maria Antonia Pico et al heirs of Simeon Castro Dec. 3, 1857, for 17,753.15 acres. ... No. 205 General Land Ofice map.",
+   "agrees_with_register_on": [
+    "year 1842",
+    "governor Alvarado",
+    "grantee Simeon Castro",
+    "outcome Confirmed",
+    "patent_date Dec. 3, 1857",
+    "glo 205"
+   ],
+   "leads": [
+    "register patent_to 'Simeon Castro' but the abstract says the patent issued to 'Maria Antonia Pico et al heirs of Simeon Castro' - Simeon Castro died 1842, so the register's patent_to looks like the grantee carried into a patentee field; Phase C should test this.",
+    "abstract lists Associated Case Numbers '... 70 ND, 199 SD' - the same claim also carries a Southern District number; a re-reader may find a second file under SD 199."
+   ]
+  },
+  "notes": "NULL READ, not a clean record. Case file exists and its URL is confirmed by the repository's own OAI identifier, but it is unreachable without solving a bot-challenge, which is out of bounds. Nothing here is graded from the concession decree, so no field earned an OK. Re-run once digicoll is reachable."
+ },
+ {
+  "id": "rancho-putos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264457/files/cubanc_lcf_nd074.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI title: 'Putos (also called \"Lihuaytos,\" \"Legueitas,\" and \"Ulattis\") [Solano County] ... Case no. 74, Northern District of California.'"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier filename cubanc_lcf_nd074.pdf matches register 'ND 074'; red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. REVERSAL TRAP - see catalog_crosscheck."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bowman abstract via OAI record 264457 (SECONDARY, not graded)",
+   "quote": "Granted (1) by M.O. Vallejo June 6, 1842, permission to occupy, and (2) in fee by Micheltorena Jan. 27, 1843, and (3) by Pico July 30, 1845, to Juan M. Vaca and Juan F. Pena (under the name of Armijo); 10 leagues, by name. Claim filed by Juan M. Vaca and Juan F. Pena Feb 20. 1852. Rejected by the Board Nov. 15, 1853. Confirmed by the District Court July 5, 1855. Confirmed by the Supreme Court Mar. 12, 1856, by mandate...",
+   "agrees_with_register_on": [
+    "year 1843",
+    "governor Micheltorena",
+    "grantee J. M. Vaca and J. F. Pena"
+   ],
+   "leads": [
+    "PRIORITY REVERSAL TRAP: the register's bare 'Confirmed' is true only because the District Court (5 Jul 1855) and Supreme Court (12 Mar 1856) reversed a Board REJECTION of 15 Nov 1853. Outcome must be graded on the later decrees, and if the file is multi-volume the confirming decree may sit in vol. B.",
+    "THREE-INSTRUMENT GRANT CHAIN: a 1842 Vallejo permission to occupy, the 1843 Micheltorena grant in fee, and an 1845 Pico grant. year/governor must be graded against the Micheltorena fee grant of Jan. 27, 1843 specifically; a reader who lands on the Vallejo or Pico instrument will mis-grade both fields.",
+    "grantees appear in the record 'under the name of Armijo' - watch for the surname Armijo standing in for Vaca/Pena in the decree."
+   ]
+  },
+  "notes": "NULL READ. Highest re-read priority of the six: outcome hides a Commission rejection reversed on appeal, and the grant is a three-instrument chain with two decoy governors (Vallejo 1842, Pico 1845) flanking the 1843 Micheltorena fee grant."
+ },
+ {
+  "id": "rancho-rancheria-rio-estanislao",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264260/files/cubanc_lcf_nd413.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI title: 'Ranchería del Río Estanislao (also called \"Río Estanislao\") [Stanislaus and Calaveras County] ... Case no. 413, Northern District of California.'"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier filename cubanc_lcf_nd413.pdf matches register 'ND 413'; red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. two District Court decrees on record - see catalog_crosscheck."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bowman abstract via OAI record 264260 (SECONDARY, not graded)",
+   "quote": "Granted by Micheltorena Dec. 29, 1843, to Francisco Rico and José A. Castro; 11 leagues, by name. Claim filed by Francisco Rico and José A. Castro Mar. 2, 1853. Confirmed by the Board Oct. 16, 1855. Confirmed by the District Court Nov. 10, 1856, and Jan. 10, 1862. Patent issued to Francisco Rico and José A. Castro Jan. 31, 1863, for 48,836.64 acres.",
+   "agrees_with_register_on": [
+    "year 1843",
+    "governor Micheltorena",
+    "grantee Francisco Rico and Jose Antonio Castro",
+    "outcome Confirmed",
+    "patent_date Jan. 31, 1863",
+    "glo 102",
+    "patent_acres 48,836.64"
+   ],
+   "leads": [
+    "TWO District Court confirmations (10 Nov 1856 and 10 Jan 1862); grade outcome on the later one, and expect a long file.",
+    "internal consistency check passes: Hoffman 1862 records patented=false and the register's patent date is Jan. 1863, i.e. the patent postdates Hoffman's table rather than contradicting it."
+   ]
+  },
+  "notes": "NULL READ. Register and catalog agree on every gradeable field; that is a lead, not a verification, because the concession decree was never opened."
+ },
+ {
+  "id": "rancho-real-aguilas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267603/files/cubanc_lcf_sd262.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. NAME VARIANT: register 'Real De Las Aguilas', Hoffman 'Real de las Aguilas', but the Bancroft catalog title reads 'Real de los Aguilar [San Benito County]'. Needs the red label to settle."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. register 'Saturnino Cariaga' vs catalog 'Saturnino Carriaga' (double r) - orthographic, unsettled."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier filename cubanc_lcf_sd262.pdf matches register 'SD 262'; red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. REVERSAL TRAP - see catalog_crosscheck."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bowman abstract via OAI record 267603 (SECONDARY, not graded)",
+   "quote": "Granted by Micheltorena Jan. 17, 1844, to Francisco Arias and Saturnino Carriaga; 7 leagues, by name. Claim filed by Maria Antonia Castro de Anzar et al Feb. 24, 1853. Rejected by the Board Dec. 12, 1854. Confirmed by the District Court Feb. 23, 1857. Appeal dismissed by the Supreme Court Feb. 2, 1863, by mandate. Patent issued to Frederick A. McDougal et al Sept. 23, 1869, for 31,052.18 acres.",
+   "agrees_with_register_on": [
+    "year 1844",
+    "governor Micheltorena",
+    "grantee Francisco Arias and Saturnino Cariaga (spelling aside)",
+    "patent_date Sept. 23, 1869",
+    "glo 236"
+   ],
+   "leads": [
+    "REVERSAL TRAP: register's 'Confirmed' rests on the District Court decree of 23 Feb 1857 reversing a Board REJECTION of 12 Dec 1854, with the Supreme Court appeal dismissed 2 Feb 1863.",
+    "NAME: catalog says 'Real de los Aguilar' (the Aguilar family) against register/Hoffman 'Real de las Aguilas' (the eagles). These are different words, not a spelling drift. The red case label decides it; this is the single most likely genuine ERR in this chunk.",
+    "CLAIMANT-vs-GRANTEE separation holds so far: grantees Arias and Carriaga, claimant Maria Antonia Castro de Anzar et al, patentee Frederick A. McDougal et al. Register's patent_to is blank and should be filled with McDougal, NOT the grantees."
+   ]
+  },
+  "notes": "NULL READ. Flagged as the most suspicious of the six on the name field ('los Aguilar' vs 'las Aguilas') and as a second reversal trap on outcome."
+ },
+ {
+  "id": "rancho-refugio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267615/files/cubanc_lcf_sd275.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI title: 'Refugio (also called \"Arroyo del Matadero\") [Santa Cruz County] ... Case no. 275, Southern District of California.'"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier filename cubanc_lcf_sd275.pdf matches register 'SD 275'; red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bowman abstract via OAI record 267615 (SECONDARY, not graded)",
+   "quote": "Granted by Alvarado Apl. 7, 1841, to Jose Bolcoff; 6 ¾ leagues, by name and diseño. Claim filed by Francisco and Juan Bolcoff May 5, 1852. Confirmed by the Board Jan. 20, 1855. Appeal dismissed by the District Court Feb. 21, 1857. Patent issued to Francisco and Juan Bolcoff Feb. 4, 1860, for 12,147.12 acres. ... This grant was formerly known as Arroyo del Matadero.",
+   "agrees_with_register_on": [
+    "year 1841",
+    "governor Alvarado",
+    "grantee Jose Bolcoff",
+    "outcome Confirmed",
+    "patent_to Francisco and Juan Bolcoff",
+    "patent_date Feb. 4, 1860",
+    "glo 207",
+    "patent_acres 12,147.12"
+   ],
+   "leads": [
+    "the register keeps the Mexican grantee (Jose Bolcoff, the Russian-born Osip Volkov) distinct from the U.S.-era claimants/patentees (his sons Francisco and Juan) - i.e. it does NOT show the dominant claimant-for-grantee error here, subject to the decree confirming it.",
+    "note the alias 'Arroyo del Matadero' if searching the transcript by name."
+   ]
+  },
+  "notes": "NULL READ. Cleanest-looking of the six on catalog evidence; still ungraded because the decree was never opened."
+ },
+ {
+  "id": "rancho-rincon",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268923/files/cubanc_lcf_sd297.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI title: 'Rincón [San Bernardino and Riverside County] Bernardo Yorba, Claimant. Case no. 297, Southern District of California.'"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. see AUGMENTATION caveat in catalog_crosscheck."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design. OAI dc:identifier filename cubanc_lcf_sd297.pdf matches register 'SD 297'; red label not seen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "no PDF page read: digicoll.lib.berkeley.edu is behind an AWS WAF JS bot-challenge (HTTP 202, header x-amzn-waf-action: challenge) on every /record/ and /files/ path, verified continuously 16:43-17:05 UTC 2026-09-09 over 20+ requests at 50s spacing; content.cdlib.org mirrors the same challenge. Not bypassed by design."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "catalog_crosscheck": {
+   "source": "Bowman abstract via OAI record 268923 (SECONDARY, not graded)",
+   "quote": "Granted by Alvarado Apl. 8, 1839, to Juan Bandini; 1 league augmentation. Claim filed by Bernardo Yorba Oct. 9, 1852. Confirmed by the Board Feb. 13, 1855. Confirmed by the District Court Feb. 11, 1857; appeal dismissed Mar. 4, 1858. Patent issued to Bernardo Yorba Nov. 14, 1879, for 4,431.27 acres.",
+   "agrees_with_register_on": [
+    "year 1839",
+    "governor Alvarado",
+    "grantee Juan Bandini",
+    "outcome Confirmed",
+    "patent_to Bernardo Yorba",
+    "patent_date Nov. 14, 1879",
+    "glo 476",
+    "patent_acres 4,431.27"
+   ],
+   "leads": [
+    "AUGMENTATION CAVEAT: the 1839 instrument is described as a '1 league augmentation', i.e. an enlargement of an earlier concession. The expediente may therefore contain BOTH the original grant and the augmentation decree with different dates and possibly a different governor; year/governor must be graded against whichever instrument the register is describing.",
+    "the register separates grantee (Juan Bandini) from patentee (Bernardo Yorba, who bought in) - the trap handled correctly here, pending the decree."
+   ]
+  },
+  "notes": "NULL READ. Watch the augmentation-vs-original-grant distinction on re-read; that is the plausible failure mode for the year field on this record."
+ }
+]

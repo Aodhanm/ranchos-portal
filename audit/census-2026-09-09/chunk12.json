@@ -1,0 +1,249 @@
+[
+ {
+  "id": "rancho-san-antonio-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265459/files/cubanc_lcf_nd099.pdf",
+  "pdf_pages_stated": 69,
+  "pages_read": [
+   "img 1-24",
+   "img 66-76"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img 1 red label: 'CASE NO. 99 / NORTHERN DISTRICT / PART OF SAN ANTONIO GRANT / YGNACIO PERALTA CLAIMANT'; stamped p1 (img 5) transcript title page 'FOR THE PLACE NAMED San Antonio'. Register's parenthetical '(Y. Peralta)' matches the claimant named on the label."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p16 (img 21), Commissioner Thompson's opinion reciting the expediente: 'on the 20th of June 1820 Luis Peralta a Sergeant of the Presidio of San Francisco petitioned Don Pablo Vicente de Sola then Governor of California under the authority of the King of Spain for a grant of the land now claimed. On the 3d of August following Governor Sola issued his order directing him to be placed in possession'. Confirmed at stamped p65 (img 72): 'The Decree of possession is dated August 3d 1820'; stamped p68 (img 75) calls it 'the Concession of 1820'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "all three names verified in the file: Sola (stamped p16, img 21, and p65, img 72: 'Governor Sola issued his order'); Arguello (stamped p66, img 73: 'Governor Arguello Ordered on the 30th June 1823 that he should be so restored, on the ground that he was owner of the land by virtue of the concession of 1820'); Micheltorena (stamped p66-67, img 73-74: 'On the 11th of February 1844 Ignacio Peralta presented a Petition to Governor Micheltorena ... the Governor ordered a new title for the land to the extent of the whole boundary'). Stamped p68 (img 75) sums them: 'the Concession of 1820, as well as the Decrees of 1822, 1823 and 1844'."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "the register names the U.S.-era CLAIMANT, not the Mexican grantee. Stamped p64 (img 71), District Court brief: 'The whole Rancho was claimed by the Sons of the original Grantee, who claimed under their Father's Will, by virtue of a Grant by the Spanish Government'; stamped p65 (img 72): 'Lewis Peralta applied for the Land June 20th 1820'; stamped p9 (img 14): 'the original grant from Governor Sola ... to Luis Peralta'; stamped p6 (img 11): 'the Rancho of land called San Antonio was granted to their father on the 16th Aug 1820 [by] Don Pablo Vicente de Sola'. Ignacio Peralta is the son/donee who filed claim no. 274 (stamped p2, img 7) and is styled 'Appellee' at stamped p64 (img 71). Hoffman 1862 also gives the grantee as 'Luis Peralta', agreeing with the case file against the register."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img 1 red label 'CASE NO. 99 NORTHERN DISTRICT'; every transcript leaf stamped '99 ND'; PDF filename cubanc_lcf_nd099.pdf; District Court caption stamped p59 (img 66) 'D.C. 99: L.C. 274'."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: stamped p3 (img 8) 'San Francisco Feb. 7th 1854. In the same Cases Commissioner Alpheus Felch delivered the opinion of the Majority of the Board confirming the Claim'. District Court then decreed in claimant's favor and the appeal was abandoned: stamped p59 (img 66), order of 20 April 1857 before Judge Ogden Hoffman, 'The Attorney General of the United States having given notice that appeal will not be prosecuted in this case ... it is Ordered Adjudged and decreed that claimant have leave to proceed under the decree of this Court heretofore rendered in his favor, as under Final Decree'; endorsed 'Final Decree, Filed April 20th 1857' at stamped p60 (img 67). No Commission rejection to reverse, so the 'Confirmed' is earned at both levels."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Luis Maria Peralta per the case file: stamped p65 (img 72) 'Lewis Peralta applied for the Land June 20th 1820'; stamped p64 (img 71) 'the Sons of the original Grantee'. 'Ignacio Peralta' belongs in patent_to/claimant, not grantee."
+  },
+  "notes": "Unflagged record that nevertheless contains the audit's dominant error class. Hoffman 1862 DID disagree with the register on grantee (Hoffman 'Luis Peralta' vs register 'Ignacio Peralta') yet hoffman_flags is empty, so the flagging harness missed a real Hoffman/register disagreement here. The register's own ND 098 rows use 'Luis Maria Peralta' in the grantee field, so this is an internal inconsistency as well. Case history: LC 4 (Vicente, Domingo, Antonio Ma. and Ygnacio Peralta jointly) was split by order of the Board into LC 4, LC 273 (Antonio Ma.) and LC 274 (Ygnacio) -- stamped p61-62 (img 68-69); LC 274 became District Court no. 99 ND. No patent copy in the file. Leaf count stated at img 2: 'LAND CASE ND 99 69 pages' (the 9 written over an 8); the PDF holds 76 images. Download note: digicoll began returning an AWS WAF JS challenge (HTTP 202, text/html, 0 bytes) to curl and to fetch_case_pages.py around 10:00 local; the PDF had to be pulled through the user's Chrome session instead."
+ },
+ {
+  "id": "rancho-san-antonio-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102017 (NO PDF: this docket is served as 479 page JPEGs, cubanc_1_2_000234xx..000587xx_k.jpg; the derived cubanc_lcf_nd098.pdf does not exist)",
+  "pdf_pages_stated": 475,
+  "pages_read": [
+   "cover label (img 1)",
+   "stamped 98 ND pp. 1,2,3,4,7,9,10,11,14,20,22,23"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "cover red label (img 1): 'CASE NO. 98 / NORTHERN DISTRICT / PART OF SAN ANTONIO GRANT / ANTONIO PERALTA CLAIMANT'; stamped p2 (img 3): 'The Petition of Antonio Peralta for the part of the Place named \"San Antonio\" was presented, and ordered to be filed and docketed with No. 273'. The rancho name is right, but the bare form 'San Antonio' is indistinguishable from rancho-san-antonio-3, which carries the SAME land_case (ND 098), the same acreage (15,207), the same patent date and the same scan_record_url. One of the two rows is a duplicate; the case file records a single claim, by Antonio Maria Peralta, under docket 273 / 98 ND."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p22 (dissenting opinion of Commissioner R. Aug. Thompson, reciting the expediente): 'that on the 20th of June 1820 Luis Peralta a Sergeant of the Presidio of San Francisco petitioned Don Pablo Vicente de Sola then Governor of California under the Authority of the King of Spain for a grant of the land now claimed. On the 3d of August following Governor Sola issued his Order directing him to be placed in possession of the land prayed for in his petition, which was accordingly done, as appears by his return, by Ignacio Martinez'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p22 as quoted above ('Governor Sola issued his Order'), and stamped p23: 'On the 18th of October 1822, Governor Sola issued to the petitioner a formal title or as it is termed in the Espediente a certifying document for the land ... declaring that the land had been granted him in the name of the King of Spain in consideration of his petition of the 20th of June 1820 and of forty years honorable service in the Military Career'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p22: 'Luis Peralta a Sergeant of the Presidio of San Francisco petitioned ... for a grant of the land now claimed'. The digicoll catalogue record for this docket states 'Grantee: Luis Maria Peralta' and Hoffman 1862 gives 'Luis Peralta'. Antonio Maria Peralta is the son and U.S.-era claimant, correctly kept out of this field here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "cover red label (img 1) 'CASE NO. 98 NORTHERN DISTRICT'; every transcript leaf stamped '98 ND'; digicoll title 'Part of the San Antonio Land grant ... Antonio Peralta, claimant : case no. 98, Northern District, 1852 - 1871'. Commission docket was No. 273 (stamped p2), which is what Hoffman's commission_no records."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p9, the Commission's decree: 'Antonio Peralta vs The United States. In this Case on hearing the proofs and allegations it is adjudged by the Commission that the Claim of the said petitioner is valid and it is therefore decreed that the same be confirmed. The land of which confirmation is hereby made is situated in Alameda County and is a portion of the Land known by the name of San Antonio'; signed at stamped p10 by Alpheus Felch, Thompson Campbell and R. Aug. Thompson, 'Filed in Office Feby 7th 1854'. Stamped p3 records the same date and that Felch delivered the majority opinion confirming. Confirmation was in FULL, so the 'Confirmed' does not depend on a reversal of any rejection."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "PRIMARY FINDING IS STRUCTURAL, NOT FIELD-LEVEL: rancho-san-antonio-2 and rancho-san-antonio-3 are the same record twice (identical land_case ND 098, acres 15207, patent_date 1874-06-25, glo_patent_no 130, bancroft_scan_url record/102017); they differ only in the name string and an accent on 'Luis'. The case file shows ONE claim under 98 ND, by Antonio Maria Peralta. Recommend collapsing to one row named 'San Antonio (A. M. Peralta)'. SECOND FINDING, for Phase C: the Bancroft catalogue note on record/102017 says the Antonio Maria Peralta patent 'is recorded in Oakland, No. 129, General Land Office map', while the register carries glo_patent_no 130 on both ND 098 rows; 130 is the number the catalogue gives for the ND 099 (Ignacio Peralta) patent. Left null per method but the 130 on these rows looks copied from the wrong sibling. ACCESS NOTE: 98 ND has NO case-file PDF on digicoll. Record 102017 is the only ND 098 record (searched 'Case no. 98, Northern District of California' = 0 hits; the sequential PDF run skips it, 265458 = nd097 and 265459 = nd099) and it serves 479 individual page JPEGs at 937x1500 with no IIIF endpoint and no ?v=pdf. curl was WAF-blocked, so pages were read by rendering each JPEG in the user's Chrome tab and screenshotting. Transcript structure: stamped pp. 1-11 Board record (petition p4-5, Castro deposition p6-8, decree p9-10, claimants' stipulation p11), pp. 13-30ish Commissioner Thompson's dissenting opinion, which is the same text that appears in the ND 099 transcript at its pp. 5-19 with a +7 page offset."
+ },
+ {
+  "id": "rancho-san-antonio-3",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102017 (NO PDF: this docket is served as 479 page JPEGs; the derived cubanc_lcf_nd098.pdf does not exist)",
+  "pdf_pages_stated": 475,
+  "pages_read": [
+   "cover label (img 1)",
+   "stamped 98 ND pp. 1,2,3,4,7,9,10,11,14,20,22,23"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "cover red label (img 1): 'CASE NO. 98 / NORTHERN DISTRICT / PART OF SAN ANTONIO GRANT / ANTONIO PERALTA CLAIMANT'; stamped p2 (img 3): 'The Petition of Antonio Peralta for the part of the Place named \"San Antonio\" ... docketed with No. 273'. The register's parenthetical '(A. M. Peralta)' matches the claimant on the label; digicoll's own title is 'Part of the San Antonio Land grant ... Antonio Peralta, claimant'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p22 (Thompson dissent reciting the expediente): 'that on the 20th of June 1820 Luis Peralta a Sergeant of the Presidio of San Francisco petitioned Don Pablo Vicente de Sola then Governor of California ... On the 3d of August following Governor Sola issued his Order directing him to be placed in possession of the land prayed for in his petition'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p22 ('Governor Sola issued his Order') and stamped p23 ('On the 18th of October 1822, Governor Sola issued to the petitioner a formal title ... declaring that the land had been granted him in the name of the King of Spain in consideration of his petition of the 20th of June 1820')."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p22: 'Luis Peralta a Sergeant of the Presidio of San Francisco petitioned ... for a grant of the land now claimed'; the digicoll catalogue record states 'Grantee: Luis Maria Peralta'; Hoffman 1862 gives 'Luis Peralta'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "cover red label (img 1) 'CASE NO. 98 NORTHERN DISTRICT'; transcript leaves stamped '98 ND'; Commission docket No. 273 per stamped p2, matching Hoffman's commission_no 273 / court_no 98."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p9: 'it is adjudged by the Commission that the Claim of the said petitioner is valid and it is therefore decreed that the same be confirmed'; stamped p10 signatures of Felch, Campbell and Thompson, 'Filed in Office Feby 7th 1854'. Confirmed in full, not a reversal of a rejection."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Duplicate pair with rancho-san-antonio-2 (same docket, acreage, patent data and scan url); this is the better-formed of the two rows because its name disambiguates the claimant. Same Phase C flag as on record 2: the Bancroft catalogue gives the Antonio Maria Peralta patent as 'No. 129, General Land Office map' while the register records glo_patent_no 130 (which the catalogue assigns to the Ignacio Peralta / ND 099 patent). District Court proceedings for 98 ND were not reached inside the 479-image portfolio (the record's own date span runs 1852-1871 and the catalogue gives a patent of June 25, 1874), so the outcome grade rests on the Board decree of 7 Feb 1854 only."
+ },
+ {
+  "id": "rancho-san-augustin",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265781/files/cubanc_lcf_nd180.pdf",
+  "pdf_pages_stated": 63,
+  "pages_read": [
+   "img 1-15",
+   "img 17-26",
+   "img 44-55"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img 1 red label: 'CASE NO. 180 / NORTHERN DISTRICT / SAN AUGUSTIN GRANT / J. L. MAJORS CLAIMANT'; stamped p1 (img 5) transcript title page 'FOR THE PLACE NAMED \"San Agustin\"'. The sworn English translation at stamped p16 (img 22) also spells it 'San Augustin', so the register's spelling is the file's own."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "the Spanish original of the concession, stamped p12 (img 18): 'Dado en Monterrey a veinte y uno de Abril de mil ochocientos cuarenta y uno. Juan B. Alvarado. Manl. Jimeno Srio.'; its sworn translation at stamped p17 (img 23): 'Given in Monterey on the 21st of April 1841. Signed Juan B Alvarado, Manuel Jimeno Secretary'; and the Board's opinion at stamped p37 (img 45): 'A Grant of the land Claimed made to him by Governor Alvarado under date April 21st 1841'. Spanish and translation agree on the date."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Spanish original, stamped p11 (img 17): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado'; translation stamped p16 (img 22): 'Juan B Alvarado Constitutional Governor of the Department of the Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Spanish concession, stamped p11 (img 17): 'Por cuanto Jose Crisostomo Mayor naturalizado y casado con Mejicana ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de San Agustin colindante con la Villa de Branciforte'; the act of juridical possession, stamped p14 (img 20), gives the full form the register uses: 'Ciudadano Juan Jose Crisostomo Mayor'; the sworn translation at stamped p16 (img 22) reads 'Don Juan Jose C. Mayor naturalized and married to a Mexican'. The claimant Joseph L. Majors is the same man under his Anglo name, so the claimant/grantee confusion does not arise here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img 1 red label 'CASE NO. 180 NORTHERN DISTRICT'; every transcript leaf stamped '180 ND'; img 2 'LAND CASE 180 ND pgs. 63'; PDF filename cubanc_lcf_nd180.pdf; District Court caption at stamped p42 (img 51) 'D.C. 180: L.C. 208'. Commission docket 208, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board: stamped p37 (img 45) 'The Claim is adjudged to be valid and a decree of confirmation will be entered. Confirmed. Filed in Office October 3 1854', with the Decree of Confirmation on the same and following leaf signed by Felch, R. Aug. Thompson and S. B. Farwell, 'Filed in Office October 3rd 1854' (stamped p38, img 46). The United States did appeal (Attorney General's notice of 7 April 1855, stamped p40, img 49), and the District Court AFFIRMED: stamped p42 (img 51), 23 December 1857 before Judge Ogden Hoffman, 'it is by the Court hereby ordered, adjudged and decreed, with the consent of the Attorney of the United States, that the said decision be and the same is in all things hereby affirmed; that the claim of the said appellant is a good and valid claim, and that the same is hereby confirmed in accordance with the decree of the said Board of Commissioners'; the appeal was then vacated and the decree made final the same day (stamped p44-45, img 53-54). Confirmation at both levels; no rejection was ever entered."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record; all six graded fields verified against the concession itself, not testimony. The file carries BOTH the Spanish original (stamped pp. 11-15) and the sworn English translation (stamped pp. 16-19), and they agree on the date, the governor and the grantee, so the translation-disagreement trap does not bite here. Worth noting for completeness that the register records only the operative grant: the Bancroft catalogue describes an earlier concession of the same ground by Figueroa, 23 Nov 1833, to Jose A. Bolcoff, and the 1841 Alvarado decree itself recites it, 'resultando haberlo abandonado D. Jose Bolcoff, a quien se le habia concedido' (stamped p11, img 17). Recording 1841/Alvarado/Mayor is correct because that is the title the claim rests on. A diseno of the tract sits at stamped p46. No patent copy in the file (catalogue: patent to Joseph L. Majors, 25 July 1866, 4,436.78 acres, GLO 202) -- Phase C. Access note: curl is WAF-blocked; this PDF was obtained by opening it in the digicoll viewer in the user's Chrome tab and using the viewer's own save button."
+ },
+ {
+  "id": "rancho-san-benito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265818/files/cubanc_lcf_sd068.pdf",
+  "pdf_pages_stated": 58,
+  "pages_read": [
+   "img 1-12",
+   "img 13-24",
+   "img 34-45",
+   "img 56-67"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img 1 red label: 'CASE NO. 68 / SOUTHERN DISTRICT / SAN BENITO GRANT / JAMES WATSON CLAIMANT'; stamped p1 (img 5) transcript title page 'FOR THE PLACE NAMED San Benito'; the Spanish expediente wrapper at stamped p7 (img 13) reads 'Espediente promovido por el Cuidadano Franco. Garcia en Solicitud del parage conocido con el Nombre de San Benito. 1842'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "the concession decree itself, stamped p11 (img 17): 'Monterey Abril 5 de 1842. Vista la peticion con que da principio este espediente ... declaro al C[iudada]no Franco Garcia, dueno del parage conocido con el nombre de San Benito'; and the title at stamped p13 (img 20): 'Monterey a cinco de Abril de Mil ocho cientos cuarenta y dos.' The sworn translation agrees, stamped p17 (img 24): 'Monterey April 5th 1842 ... I declare citizen Francisco Garcia to be the owner of the place called by the name of San Benito', preceded by Alvarado's marginal decree of 'Monterey March 11. 1842'. Both operative dates fall in 1842; Spanish and translation do not disagree."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "the title, stamped p12 (img 19): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto el Ciudadano Franco. Garcia Mejicano por nacimiento ha obtenido la propriedad del sitio llamado Sn. Benito ... he venido en confirmarle dicho derecho en nombre de la Nacion Mejicana'; translation at stamped p29 (img 37) 'Juan B Alvarado Constitutional Governor of the Department of the Californias'; and the decree of 5 April 1842 is signed 'El Sr. Dn. Juan B Alvarado Gobernador Constitucional del Departamto. de las Californias asi lo mando y firmo' (stamped p11, img 17)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p11 (img 17): 'declaro al C[iudada]no Franco Garcia, dueno del parage conocido con el nombre de San Benito'; stamped p12 (img 19) 'el Ciudadano Franco. Garcia Mejicano por nacimiento'. James Watson, the register's patent_to, is correctly kept out of the grantee field: he is the U.S.-era claimant who bought from Garcia by the indenture of 11 October 1850 recited at stamped p37 (img 45)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img 1 red label 'CASE NO. 68 SOUTHERN DISTRICT'; img 2 'LAND CASE 68 SD pgs. 58'; every leaf stamped '68 SD'; PDF filename cubanc_lcf_sd068.pdf; District Court caption at stamped p49 (img 61) 'Docket No. 68 / Transcript No. 562'. Commission docket 562 matches Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: stamped p2 (img 7) 'San Francisco January 17 1854. In the same Case Commissioner Thompson Campbell delivered the opinion of the Board confirming the Claim'; the U.S. petition for review recites the same at stamped p49 (img 61), 'on or about the 17th day of January A.D. 1854, the said Commissioners confirmed, by final decision, the said claim of said petitioner'. The United States appealed (Attorney General's notice 30 Nov 1854, and notice filed 10 Jan 1855 at stamped p45) and the District Court AFFIRMED: stamped p55 (img 65), 'James Watson Appellee ads The United States Appellants. Case No 68 \"San Benito\" Transcript No 562. Decree ... It is ordered adjudged and decreed that the decision of the said Board of Commissioners be and the same is hereby confirmed, and that the claim of Appellee is good and valid in law, and the same is hereby confirmed to him'. No rejection anywhere in the chain."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean on all six fields; the grant is documented in the file both in the Spanish original (stamped pp. 7-13, certified as a true copy from the Mexican archives by U.S. Surveyor General John C. Hays, 3 Nov 1853, at stamped p13) and in W. E. P. Hartnell's sworn State Translation (stamped pp. 14-36, certified at stamped p36), and the two agree. PHASE C FLAG on glo_patent_no: the Bancroft catalogue note for this docket says the Watson patent of 6 Sept 1869 'is recorded in Salinas, Monterey County. No. 304 General Land Office map', but the register carries 303 -- the same number it carries on rancho-san-bernabe (SD 306). One of the two rows has the wrong GLO number and 304 is the likelier value here. Note also that digicoll's own 'Associated Case Numbers' string on record 265818 reads 'Toma 82, Toma 129, Unclassified Expediente 153, Expediente 224, Docket 571, 306 SD, GLO 303' -- docket 571 and 306 SD are San Bernabe's numbers, not San Benito's (whose docket is 562 / 68 SD per the transcript), so the register's 303 may have been copied from this defective catalogue field. FILE ODDITY worth recording: stamped pp. 46-48 are leaves from a DIFFERENT case bound into 68 SD -- a notice of appeal by John H. Watson and D. S. Gregory in the claim for 'Bolsa del Pajaro', claim no. 634, from a Board decision REJECTING that claim. They are not part of the San Benito record and must not be read as a rejection of this claim. The rancho is also called San Lucas in the papers. Access note: curl is WAF-blocked; PDF pulled through the digicoll viewer's save button in the user's Chrome tab."
+ },
+ {
+  "id": "rancho-san-bernabe",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268932/files/cubanc_lcf_sd306.pdf",
+  "pdf_pages_stated": 91,
+  "pages_read": [
+   "img 1 (cover)",
+   "img 5-6 (stamped pp. 2-3)",
+   "img 21-22 (stamped pp. 17-18)",
+   "img 83 (stamped p75)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img 1 red label: 'CASE NO. 306 / SOUTHERN DISTRICT / SAN BERNABE GRANT / HENRY COCKS CLAIMANT'; stamped p2 (img 5): 'The Petition of Henry Cocks for the Place named \"San Bernabe\" was presented, and ordered to be filed and docketed with No. 571'; the Spanish concession at stamped p18 (img 22) calls it 'un sitio de ganado Mayor en el parage nombrado San Bernabe'. (The Board's opinion at stamped p75 styles it 'San Bernabe de Santa Cruz'; the Bancroft catalogue notes the same alias.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Opinion of the Board, stamped p75 (img 83), listing the claimant's documentary evidence: 'A Grant issued by Juan B Alvarado to Jesus Molina for one league of the land in question bearing date the 10th day of March 1841.' The concession so dated is the one transcribed in Spanish at stamped p18 (img 22)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "the concession itself, stamped p18 (img 22): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias. Por cuanto el Ciudadano Jesus Molina ha pretendido para su beneficio personal y el de su familia un sitio de ganado Mayor en el parage nombrado San Bernabe ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. The Board's opinion at stamped p75 attributes both grants to 'Juan B Alvarado'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "the concession names 'el Ciudadano Jesus Molina' (stamped p18, img 22) -- JESUS, not Jose. The second grantee is likewise in the file: stamped p17 (img 21), the wrapper of Exhibit A, reads 'Ano de 1842. Escritura publica otorgada por el Ciudo. Jesus Molina en venta del Rancho titulado \"San Bernabe\" en favor del Ciudo. Petronilo Rios segun como se expresa'; and the Board's opinion at stamped p75 recites 'a grant from the same for two leagues, the balance of the land claimed, bearing date the 8th day of January 1842 to ... Patronilo Rios'. Henry Cocks, the claimant and patentee, is correctly kept out of this field."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img 1 red label 'CASE NO. 306 SOUTHERN DISTRICT'; leaves stamped '306 SD'; PDF filename cubanc_lcf_sd306.pdf; digicoll 'Other Identifiers: BANC MSS Land Case Files 306 SD'. Commission docket 571 (stamped p2, img 5) matches Hoffman's commission_no 571."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p3 (img 6): 'San Francisco, March 20 1855. In the same Case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim; (Vide page 79 of this Transcript.) And the following order was made, to wit: (vide page 82 of this Transcript.)'. The opinion so referenced is at stamped p75 (img 83), headed 'Opinion of the Board. Number 571. Henry Cocks in trust for [his wife and children] vs The United States. For a place called San Bernabe de Santa Cruz, containing three square leagues, in the County of Monterey.' The Board CONFIRMED; there is no rejection in the chain, so the register's 'Confirmed' cannot be a reversal artifact."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean on all six. TWO THINGS A RE-READER SHOULD KNOW. (1) The Bancroft finding aid is WRONG on the grantee's forename and the register is right: digicoll's description says 'Granted (1) by Alvarado Mar. 10, 1841, 1 league, by name, to Jose Molina', and its authority heading reads 'Molina, Jose de los Santos, approximately 1805-1837, Grantee' (a death date that cannot be squared with a grant of 1841 anyway); but the concession in the file says 'el Ciudadano Jesus Molina' (stamped p18) and the Board's opinion says 'Jesus Molina' (stamped p75). Hoffman 1862 also has 'Jesus Molina'. Register 'Jesus Molina' stands. (2) The row compresses TWO grants: Alvarado to Jesus Molina, 1 league, 10 March 1841, and Alvarado to Petronilo Rios, 2 leagues, 8 January 1842 per the Board's opinion (the catalogue dates the second grant 6 April 1842). The register's single year 1841 is the date of the first grant only; the second grantee it names was granted in 1842. Graded OK because 1841 is verbatim correct for the foundational concession and the register handles multi-grant ranchos this way elsewhere (cf. rancho-san-antonio-1), but a reader should not infer 1841 for the Rios moiety. Register spells 'Petronillo'; the file spells 'Petronilo'. The Bancroft catalogue's GLO 303 for THIS rancho is confirmed by its own description ('No. 303 General Land Office map'), which is what makes the identical 303 on rancho-san-benito suspect -- see that record's note. District Court proceedings (catalogue: appeal dismissed 8 June 1857) were not reached. ACCESS NOTE: this PDF could not be saved to disk at all -- curl gets the AWS WAF challenge and both the anchor download and the viewer's save button failed for this docket -- so all pages were read by paging the digicoll PDF viewer in the user's Chrome tab and screenshotting. Stamped page = PDF image minus 3 near the front of the file."
+ }
+]

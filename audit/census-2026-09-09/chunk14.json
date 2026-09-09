@@ -1,0 +1,224 @@
+[
+ {
+  "id": "rancho-san-francisco-llagas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265507/files/cubanc_lcf_nd147.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Francisco De Las Llagas'; digicoll MARC 245 for record 265507 reads 'San Francisco de las Llagas [Santa Clara County]', but that is the catalog title, not the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1834; Bancroft catalog abstract (MARC 520, Bowman I,685) says 'Granted by Figueroa Feb. 3, 1834'. Catalog abstract is SECONDARY - the concession decree was never opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Jose Figueroa'; catalog abstract says Figueroa. Decree signature not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Carlos Castro'; catalog abstract says 'to Carlos Castro' and MARC 600 gives the authority form 'Castro, Carlos Antonio, 1775-1848'. Decree wording not seen."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'ND 147'; MARC 024 of record 265507 = 'BANC MSS Land Case Files 147 ND' and its file manifest (MARC 856, uuid ccc8d945-6872-463f-bb5f-4770e50baba5, 152,326,663 bytes) = cubanc_lcf_nd147.pdf. Corroborated by the catalog but NOT by the p.1 red label, which is the method's test."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 22 Aug 1854, District Court confirmed 22 Oct 1855 and 27 Nov 1863, Supreme Court appeal dismissed by mandate 15 Mar 1864. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - CAUSE IS ACCESS, NOT A MISSING FILE. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. The case file exists and is digitized: 152.3MB PDF, single volume, no multi-volume note in the catalog. RESUME INSTRUCTIONS: MARC 500 says 'Spanish text on pages 20-29, 37-42, 47-49, 55-56', so the expediente and its sworn translation sit in the first third of the transcript; --pages 1-60 should carry both the concession and the Board decree. LEADS (secondary, Bowman I,685 via MARC 520, NOT graded): grant Figueroa 3 Feb 1834 to Carlos Castro, 2 leagues by name but 4 measured; Castro in possession since 1828 after two earlier failed attempts; patent to James and Martin Murphy 19 Mar 1868, 22,283.24 acres, GLO 226 - every one of the register's patent fields matches Bowman verbatim. The 'Confirmed' REVERSAL TRAP does not apply here: the Board confirmed first, so the confirmation is not a reversed rejection. The DOMINANT ERROR CLASS is worth a hard look anyway - the U.S. claimants are the Murphy brothers and the register correctly carries the Mexican grantee Castro, so if the decree confirms 'Carlos Castro' this row is clean. Check whether the decree reads 'Carlos Antonio Castro', which would make the register's short form a PART, not an OK."
+ },
+ {
+  "id": "rancho-san-francisquito",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267588/files/cubanc_lcf_sd247.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Francisquito'; MARC 245 of record 267588 = 'San Francisquito [Monterey County]'. Catalog title, not the p.1 red label."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1835; catalog abstract (MARC 520, Bowman I,687) 'Granted by Castro Nov. 7, 1835'. Decree not opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Jose Castro'; catalog abstract gives only the surname 'Castro'. Which Castro and in what capacity (Jose Castro was acting jefe politico Jan 1835 - Jan 1836) can only be settled from the decree."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Catalina Manzaneli de Munras'; catalog abstract 'to Catalina M. de Munras'. Decree not seen."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'SD 247'; MARC 024 = 'BANC MSS Land Case Files 247 SD', file manifest = cubanc_lcf_sd247.pdf (uuid c0bba26d-604e-45cb-8c01-3886dba4ae2f, 96,431,879 bytes). Catalog-corroborated, red label unseen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 17 Oct 1854, District Court confirmed 10 Jan 1859 and 22 Feb 1859. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - ACCESS BLOCK. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. File is digitized and single-volume: 96.4MB. Bancroft also holds a microfilm surrogate, 'BANC MSS C-A 300 FILM 247 SD' (MARC 300), which is an OFFLINE fallback if digicoll stays challenged. RESUME: MARC 500 'Spanish text on pages 14-21, 26-41' - the expediente is early, --pages 1-45 should reach the concession and the Board decree. LEADS (secondary, Bowman I,687, NOT graded): Castro 7 Nov 1835 to Catalina M. de Munras, 2 leagues by name; claim filed 17 Feb 1853 by Jose Abrego, Guadalupe Garner, Ignacio Garner and Gatilda Garner; patent to Jose Abrego et al 9 June 1862, 8,813.50 acres, GLO 287 - matches the register's patent block exactly. POSITIVE SIGN on the dominant error class: the U.S. claimant/patentee is Jose Abrego and the register does NOT put him in the grantee slot, it carries Munras. The field most at risk here is GOVERNOR, because Bowman writes a bare 'Castro' and the register expands it to 'Jose Castro'; the decree's own signature block is the only thing that settles whether that expansion is right."
+ },
+ {
+  "id": "rancho-san-gabriel-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267526/files/cubanc_lcf_sd139.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Gabriel'; MARC 245 of record 267526 = 'Land, San Gabriel [Los Angeles County]' and Hoffman's rancho column reads '700 varas by 400'. This is a varas house-lot near Mission San Gabriel, not a named rancho, so even the register's label is in question - but only the p.1 red label settles it."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1845; catalog abstract (MARC 520, Bowman I,336) 'Granted by Pico May 15, 1845'. Decree not opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Pio Pico'; catalog abstract 'Pico'. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Ramon Valencia et al'; catalog abstract 'to Ramon Valencia, and Pablo, Indians'. Whether 'et al' fairly stands for 'Pablo, Indian' is decidable only against the decree, which names the concessionaires."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'SD 139'; MARC 024 = 'BANC MSS Land Case Files 139 SD', file manifest = cubanc_lcf_sd139.pdf (uuid 9701ec2e-dee7-4de6-bc70-845a045d5430, 42,946,882 bytes). Red label unseen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 28 Feb 1854, District Court confirmed 15 Jan 1856, appeal dismissed 24 Jan 1857. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - ACCESS BLOCK. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. Smallest of my six at 42.9MB, single volume - this is the cheapest one to re-run first when digicoll clears. RESUME: MARC 500 'Spanish text on pages 8-9' ONLY, so the concession is two pages and --pages 1-20 is almost certainly enough for grant, translation and Board decree together. TWO THINGS A RE-READER MUST NOT MISS. (1) GRANTEE: Bowman has the grant going to 'Ramon Valencia, and Pablo, Indians' - two Indian grantees. The register's 'Ramon Valencia et al' may be fine or may be swallowing a named co-grantee; read the decree's list of names, not the petition. (2) A CONTRADICTION INSIDE THE BANCROFT CATALOG ITSELF on the GLO number: the 520 prose says 'No. 416 General Land Office map' while the same record's Associated Case Numbers field says 'GLO 415'. The register says 415. One of the two catalog statements is wrong; flag for Phase C's GLO check. Claimants/patentees are Andrew J. Courtney and Juana Puebla de Courtney (patent 20 June 1871, 49.29 acres) and the register does NOT put them in the grantee slot, so the dominant error class is not obviously present."
+ },
+ {
+  "id": "rancho-san-gabriel-3",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265875/files/cubanc_lcf_sd136.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Gabriel'; MARC 245 of record 265875 = 'Land, San Gabriel [Los Angeles County]', Hoffman's rancho column '500 varas by 250'. A varas lot, not a named rancho. Red label unseen."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1843; catalog abstract (MARC 520, Bowman I,335) 'Granted by Micheltorena May 13, 1843'. Decree not opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Micheltorena' (surname only; Hoffman has 'Manuel Micheltorena'). Decree signature not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Manuel Dolivera'; the Bancroft catalog abstract says 'to Manuela Dolivera' - FEMININE - and adds 'The grantees name is also written Olivera'. Register and Hoffman agree on the masculine 'Manuel', the Bancroft disagrees with both. Only the decree can settle it and it was not opened."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'SD 136'; MARC 024 = 'BANC MSS Land Case Files 136 SD', file manifest = cubanc_lcf_sd136.pdf (uuid e5bf5004-9645-4f1a-a519-fbb364432b44, 37,208,493 bytes). Red label unseen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 14 Mar 1854, District Court confirmed 18 Feb 1857, appeal dismissed 4 Mar 1858. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - ACCESS BLOCK. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. 37.2MB, the smallest file of the six; single volume. *** THIS IS THE HIGHEST-VALUE RECORD OF MY SIX AND SHOULD BE RE-RUN FIRST. *** It is exactly the case the unflagged stratum is built to hide: hoffman_flags is empty because Hoffman's 1862 table and the register BOTH say 'Manuel Dolivera', so the cross-check that would normally raise a hand cannot fire - yet the Bancroft's own case-file abstract (Bowman I,335) reads 'Granted by Micheltorena May 13, 1843, to MANUELA Dolivera', a woman, and notes the surname is also written Olivera. If the concession names Manuela Olivera, the register's 'Manuel Dolivera' is wrong in gender AND surname while agreeing perfectly with the printed 1862 table - i.e. an error the whole unflagged-stratum assumption would miss. Two independent secondary sources disagreeing means neither can decide it; read the decree. RESUME: MARC 500 'Spanish text on pages 10-11, 14' - --pages 1-24 covers the Spanish concession, its sworn translation and the Board decree. Read the SPANISH original at stamped pp. 10-11 and quote it, because the translation may normalise the name. SECOND POINT: register governor is the bare surname 'Micheltorena' where Hoffman writes 'Manuel Micheltorena' - candidate PART on form. THIRD: patent to Juan Silvas 3 Nov 1910 (an unusually late patent, 52 years after the appeal was dismissed) for 22.09 acres with NO GLO number; the register's empty glo_patent_no is consistent with the catalog's 'GLO patent issued but no GLO recorded'. Note also that Bowman makes the GRANT '500 varas' while the CLAIM was '500 by 250 varas' - the acreage fields are claim-shaped, not grant-shaped."
+ },
+ {
+  "id": "rancho-san-gabriel-4",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267523/files/cubanc_lcf_sd095.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Gabriel'; MARC 245 of record 267523 = 'Land, San Gabriel [Los Angeles County]', Hoffman's rancho column '500 by 200 varas'. A varas lot, not a named rancho. Red label unseen."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1846; catalog abstract (MARC 520, Bowman I,332) 'Granted by Pico June 1, 1846'. Decree not opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Pio Pico'; catalog abstract 'Pico'. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Simeon'; catalog abstract 'to Simeon, Indian'. Decree not seen - the Spanish would read 'Simeon, indio' and may carry a surname or rancheria the register drops."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'SD 095'; MARC 024 = 'BANC MSS Land Case Files 95 SD', file manifest = cubanc_lcf_sd095.pdf (uuid cdb0d511-cff0-49cf-8101-32e161d3a542, 44,224,148 bytes). The register's zero-padded 'SD 095' and the catalog's '95 SD' are the same docket. Red label unseen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 13 Dec 1853, District Court confirmed 19 Feb 1856, appeal dismissed 24 Feb 1857. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - ACCESS BLOCK. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. 44.2MB, single volume. RESUME: MARC 500 'Spanish text on pages 12-13' - --pages 1-26 should carry the concession, translation and Board decree. LEADS (secondary, Bowman I,332, NOT graded): Pico 1 June 1846 to Simeon, Indian, '500 by 200 varas and 500 by 230 varas' (TWO parcels - Hoffman prints only the first, and the register's 30.45 patented acres presumably covers both); claim filed by Simeon himself 1 Nov 1852; patent to 'Simeon, an Indian' 27 Dec 1876, 30.45 acres, GLO 451. STRUCTURAL NOTE FOR THE AUDIT: this is one of the rare rows where grantee, claimant and patentee are the SAME person, so the dominant claimant-for-grantee error class is structurally impossible here and an agreement between register and file proves less than it does elsewhere. The live question is instead whether the decree gives Simeon a fuller name than the bare 'Simeon' the register carries, which would make the grantee field a PART."
+ },
+ {
+  "id": "rancho-san-gabriel-6",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265871/files/cubanc_lcf_sd132.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'San Gabriel'; MARC 245 of record 265871 = 'Land, San Gabriel [Los Angeles County]'. Hoffman's rancho column happens to read 'San Gabriel' here rather than a varas dimension, but the catalog title still marks it a lot, not a rancho. Red label unseen."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 1845; catalog abstract (MARC 520, Bowman I,333) 'Granted by Pico Mar. 27, 1845'. Decree not opened."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Pio Pico'; catalog abstract 'Pico'. Decree not seen."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'M. White'; catalog title and abstract both give 'Michael C. (Maria) White'. The Mexican concession would almost certainly name him in Spanish (Miguel Blanco / Miguel White), which the register's anglicised initial-plus-surname does not reflect - but the decree was not opened, so this stays UV rather than PART."
+   },
+   "land_case": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'SD 132'; MARC 024 = 'BANC MSS Land Case Files 132 SD', file manifest = cubanc_lcf_sd132.pdf (uuid ddf33082-d378-46be-a588-309de594c0e6, 46,711,128 bytes). Red label unseen."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NO PDF PAGE READ - register 'Confirmed'; catalog abstract: Board confirmed 28 Feb 1854, District Court confirmed 10 Jan 1856, appeal dismissed 24 Feb 1857. No decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "NULL READ - ACCESS BLOCK. digicoll.lib.berkeley.edu returned HTTP 202 with header 'x-amzn-waf-action: challenge' and a zero-length body on every request between 17:22 and 18:05 UTC 2026-09-09 (~40 min, incl. two 5-minute quiet windows and both /record/ and /record/.../files/ paths). No PDF byte was ever delivered, so no transcript page could be read. Passing the challenge would require executing the AWS WAF bot-detection JS, which this audit will not do. 46.7MB, single volume. RESUME: MARC 500 'Spanish text on pages 7-11' - the expediente is right at the front, --pages 1-24 is ample. LEADS (secondary, Bowman I,333, NOT graded): Pico 27 Mar 1845 to Michael C. (Maria) White, 500 varas; claim filed by Michael White 26 Oct 1852; patent to Michael White 26 Aug 1871, 73.23 acres, GLO 420 - the register's patent block matches. WHAT TO ACTUALLY CHECK: like san-gabriel-4, grantee = claimant = patentee, so agreement between register and file is weak evidence and the dominant error class cannot show itself. The real question is the FORM of the name in the concession. Michael White the English-born San Gabriel settler appears in Mexican documents as Miguel Blanco; if the decree reads 'Miguel Blanco' or 'Miguel Blanco (Miguel White)', the register's 'M. White' is at best a PART. Quote the Spanish at stamped pp. 7-11 rather than the sworn translation, which will have anglicised him back."
+ }
+]

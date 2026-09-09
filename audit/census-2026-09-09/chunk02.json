@@ -1,0 +1,122 @@
+[
+  {
+    "id": "rancho-mariposas",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264396/files/cubanc_lcf_nd001.pdf (graded from a pre-existing local excerpt /tmp/casefile-cache/cubanc_lcf_nd001-p95_114.pdf, cut 2026-09-08; digicoll refused every fresh request this session, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": ["images 95-114 = stamped transcript pages 87-104"],
+    "verdicts": {
+      "name": {"grade": "OK", "evidence": "Stamped PAGE NO. 88 (PDF image 96), Micheltorena's decree of 29 Feb 1844: 'I declare Don Juan Bautista Alvarado, the owner in fee of the tract of land known by the name of the \"Mariposas\" within the boundaries of the Snow Mountain (Sierra Nevada) and the rivers called the Chauchillas, the Merced and San Joaquin.' Spanish register extract, stamped PAGE NO. 92 (image 100): 'el terreno llamado nombrado las Mariposas'; its sworn translation, stamped PAGE NO. 93 (image 101): 'the tract called \"Las Mariposas\".'"},
+      "year": {"grade": "OK", "evidence": "Concession decree, stamped PAGE NO. 88 (image 96): 'Monterey 29th Feby 1844'; the formal title closes at stamped PAGE NO. 91 (image 99): 'Given in Monterey the 29th day of month of February in the year of 1844.' The Spanish original at stamped PAGE NO. 92 (image 100) agrees with its translation: 'Ano de 1844 ... Dn Juan B. Alvarado en 29 de Febrero de 1844.'"},
+      "governor": {"grade": "OK", "evidence": "Stamped PAGE NO. 89 (image 97): 'Manuel Michelltorena, Brigadier General of the Mexican Army, Adjutant General of the Staff of the same, Governor and Commandant General & Inspector of the Department of the Californias'; signed 'Michelltorena' on the decrees at stamped PAGE NO. 88 (image 96) and PAGE NO. 91 (image 99), countersigned 'Manl. Jimeno Secretary'."},
+      "grantee": {"grade": "OK", "evidence": "Stamped PAGE NO. 89 (image 97): 'Whereas Don Juan B. Alvarado, Colonel of the Auxiliary Militia of this Department ... by virtue of the authority in me vested, in the name of the Mexican Nation, I have granted to him, the aforesaid tract of land, declaring the same, by these presents, his property in fee.' Spanish register extract, stamped PAGE NO. 92 (image 100): 'Dn Juan B. Alvarado en 29 de Febrero de 1844. Se le dio titulo del terreno llamado nombrado las Mariposas.' The register has resisted the dominant error class here: Fremont appears only as the U.S. claimant, stamped PAGE NO. 97 (image 105), 'the Claimant John Charles Fremont, whose petition is No. 1 on the Docket of the Board', and Alvarado's sale to him (Monterey, 10 Feb 1847, before Walter Colton) is recited at stamped PAGE NO. 95 (image 103)."},
+      "land_case": {"grade": "OK", "evidence": "Red case stamp printed on every leaf of the excerpt reads 'CASE NO. 1 ND' (e.g. beside stamped PAGE NO. 88, image 96). Corroborated in the transcript at stamped PAGE NO. 97 (image 105): 'whose petition is No. 1 on the Docket of the Board.' PDF filename cubanc_lcf_nd001.pdf."},
+      "outcome": {"grade": "UV", "evidence": "The excerpt covers only the expediente translation and Alvarado's deposition of 11 Aug 1852 (stamped pages 87-104). No Commission, District Court or Supreme Court decree falls within the pages available, and the rest of the file could not be fetched. Not graded rather than guessed."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {},
+    "notes": "Stamped transcript page = PDF image number minus 8 across this whole stretch (image 95 = stamped 87 ... image 114 = stamped 104); a third pencil foliation in the top-left margin runs with the stamped number, not the image number. Year/governor/grantee/name/land_case all confirmed verbatim against the concession decree AND against the Spanish register extract, which agree with each other on the date; Hoffman 1862 agrees. OUTCOME LEFT UV DELIBERATELY and is the field most at risk in this record: Las Mariposas is the textbook 'Confirmed' that did not travel a straight road (Board, then District Court, then the U.S. Supreme Court), so an OK would have to rest on decrees that sit outside the pages I could reach. Whoever resumes should read the decree section of ND 001 and settle outcome together with the 19 Feb 1856 patent-to-Fremont line. This record was gradeable at all only because an excerpt of images 95-114 happened to be cached locally from 2026-09-08."
+  },
+  {
+    "id": "rancho-agua-hedionda",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267579/files/cubanc_lcf_sd238.pdf (UNREACHABLE - AWS WAF challenge, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": [],
+    "verdicts": {
+      "name": {"grade": "UV", "evidence": "No PDF page could be read; digicoll answered every request with HTTP 202 and an AWS WAF JavaScript challenge page instead of the file."},
+      "year": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "governor": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "grantee": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "land_case": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). The docket is corroborated off-file by the Bancroft's own OAI-PMH record, which titles it 'Case no. 238, Southern District of California' and lists the file as cubanc_lcf_sd238.pdf, but that is catalogue metadata, not the red label."},
+      "outcome": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {},
+    "notes": "NULL READ, cause external: the case file is unreachable, not missing. Recorded so the queue does not re-issue it blindly. Off-file corroboration gathered from the Bancroft's OAI-PMH interface (verb=GetRecord, oai:digicoll.lib.berkeley.edu:267579), which is NOT behind the WAF and quotes Bowman's Index: 'Granted by Alvarado Aug. 10, 1842, to Juan M. Marron; 3 leagues, by name ... Confirmed by the Board Oct. 24, 1854. Confirmed by the District Court Oct. 4, 1855, in an opinion which ordered the decree -- the decree is lost; appeal dismissed Feb. 24, 1857. Patent issued to Juan M. Marron Dec. 12, 1872, for 13,311.01 acres ... No. 521 General Land Office map.' That agrees with the register on every claimed field including patent_to, patent_date, glo_patent_no and patent_acres. This record therefore looks clean, but Bowman is a secondary index and I have NOT graded any field on it. One thing for the re-reader: Bowman says the District Court decree IS LOST, so outcome for SD 238 may not be confirmable from a decree inside the file at all; the confirmation will have to be read off the opinion. Also of note, the catalogue records alternate names 'Bateguitos' and 'San Francisco' for this grant."
+  },
+  {
+    "id": "rancho-aguajit",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268946/files/cubanc_lcf_sd323.pdf (UNREACHABLE - AWS WAF challenge, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": [],
+    "verdicts": {
+      "name": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Flagged as a correction candidate on off-file evidence only, see corrections."},
+      "year": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "governor": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "grantee": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "land_case": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Docket corroborated off-file only: the Bancroft OAI-PMH record titles it 'Case no. 323, Southern District of California', file cubanc_lcf_sd323.pdf."},
+      "outcome": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). This is the field the record most needs, see notes: the register's bare 'Confirmed' is on off-file evidence a Commission REJECTION later reversed."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {
+      "name": "CANDIDATE ONLY, not graded: register 'Aguajit' appears truncated. The Bancroft OAI-PMH title reads 'Aguajito [Monterey County]' and Hoffman 1862 also prints 'Aguajito'. Two independent off-file sources against the register; needs the red label on page 1 to settle."
+    },
+    "notes": "NULL READ, cause external. THIS IS THE HIGHEST-VALUE RECORD OF MY SIX AND IT IS UNGRADED. Bancroft OAI-PMH (oai:digicoll.lib.berkeley.edu:268946), quoting Bowman's Index: 'Granted by Figueroa Aug. 13, 1835, to Gregorio Tapia; 1/2 league, by name. Claim filed by Gregorio Tapia Feb. 17, 1853. REJECTED BY THE BOARD MAY 8, 1855. Confirmed by the District Court Feb 8, 1858; appeal dismissed and case remanded by the Supreme Court Mar. 24, 1864, by mandate. Patent issued to Gregorio Tapia Mar. 19, 1868, for 3,322.56 acres ... No. 282 General Land Office map.' That is exactly the trap the method warns about: the register's 'Confirmed' is true only because the District Court reversed a Commission rejection, and Hoffman 1862 recorded 'confirmed' without the reversal showing, which is why this record carries no Hoffman flag. Year 1835, governor Figueroa, grantee G. Tapia and the whole patent line all match Bowman. Priority re-read: page 1 red label for the name, then the 8 May 1855 rejection and the 8 Feb 1858 District Court decree. Also note the county: the register groups this under a San Diego district docket but the land is in MONTEREY County, which is normal for the SD district numbering but worth not tripping over."
+  },
+  {
+    "id": "rancho-aguas-frias",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264206/files/cubanc_lcf_nd370.pdf (UNREACHABLE - AWS WAF challenge, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": [],
+    "verdicts": {
+      "name": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "year": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "governor": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "grantee": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Two separate correction candidates stand against this field on off-file evidence, see corrections."},
+      "land_case": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Docket corroborated off-file only: Bancroft OAI-PMH title 'Case no. 370, Northern District of California', file cubanc_lcf_nd370.pdf."},
+      "outcome": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {
+      "grantee": "TWO CANDIDATES, neither graded. (1) Spelling: register 'Salvador Oslo' is almost certainly a transcription slip for 'Salvador OSIO'; Hoffman 1862 prints 'Salvador Osio' and the Bancroft catalogue's creator authority is 'Osio, Antonio Maria, 1800-1878'. (2) Substance: Bowman's Index as quoted by the Bancroft says the grant went 'to Antonio M. Osio FOR HIS SON Salvador Osio', so the grantee named in the decree may be the father, Antonio Maria Osio, with Salvador as beneficiary. Only the concession decree can settle which name the grant itself carries."
+    },
+    "notes": "NULL READ, cause external. Bancroft OAI-PMH (oai:digicoll.lib.berkeley.edu:264206), quoting Bowman: 'Granted by Micheltorena Nov. 9, 1844, to Antonio M. Osio for his son Salvador Osio; 6 leagues, by description. Claim filed by Andrew Randall and later by Samuel Todd, May 12, 1852. Confirmed by the Board July 17, 1853. Confirmed by the District Court May 7, 1857; appeal dismissed May 7, 1857. Patent issued to Samuel Todd July 19, 1860, for 26,761.40 acres ... No. 13 General Land Office map.' Year 1844 and governor Micheltorena match the register; the whole patent line matches. The grantee is the field to read for. Worth noting for the stratification argument: this record is UNFLAGGED because Hoffman and the register agree on 'Salvador Osio', yet the Bancroft catalogue says the decree names the father. If that holds, it is an unflagged grantee error of exactly the kind the flagged stratum was supposed to monopolise, and it would have been invisible to any Hoffman-based screen because Hoffman made the same simplification."
+  },
+  {
+    "id": "rancho-alamos",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265831/files/cubanc_lcf_sd083.pdf (UNREACHABLE - AWS WAF challenge, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": [],
+    "verdicts": {
+      "name": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "year": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "governor": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "grantee": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "land_case": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Docket corroborated off-file only: Bancroft OAI-PMH title 'Case no. 83, Southern District of California', file cubanc_lcf_sd083.pdf, which also confirms the register's zero-padded 'SD 083' resolves correctly."},
+      "outcome": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {},
+    "notes": "NULL READ, cause external. Bancroft OAI-PMH (oai:digicoll.lib.berkeley.edu:265831), quoting Bowman: 'Granted by Alvarado Mar. 9, 1839, to Jose A. de la Guerra y Carrillo; by diseno and by name, estimated at about 11 leagues. Claim filed by Jose A. de la Guerra y Carrillo Sept. 7, 1852. Confirmed by the Board Jan. 17, 1854. Confirmed by the District Court Mar. 7, 1856; appeal dismissed Feb. 5, 1857. Patent issued to Jose A. de la Guerra y Carrillo Sept. 12, 1872, for 48,803.38 acres ... No 358 General Land Office map. This grant was also called Alamitos.' Every claimed field agrees, and unusually the grantee and the patentee are the SAME man, so this record is structurally immune to the dominant claimant-for-grantee error class. Minor note for the re-reader: the catalogue and Bowman call it 'Alamos', the register and Hoffman 'Los Alamos'; the article is not worth an ERR but check the red label. Lowest-risk of my six."
+  },
+  {
+    "id": "rancho-medanos",
+    "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264201/files/cubanc_lcf_nd364A.pdf AND .../cubanc_lcf_nd364B.pdf (UNREACHABLE - AWS WAF challenge; MULTI-VOLUME, see notes)",
+    "pdf_pages_stated": null,
+    "pages_read": [],
+    "verdicts": {
+      "name": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "year": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "governor": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "grantee": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge)."},
+      "land_case": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Off-file the Bancroft record is internally inconsistent about the docket, see corrections."},
+      "outcome": {"grade": "UV", "evidence": "No PDF page could be read (AWS WAF challenge). Two-volume case, so even with the file in hand the final decree may sit in volume B, see notes."},
+      "patent_to": null,
+      "patent_date": null,
+      "glo_patent_no": null
+    },
+    "corrections": {
+      "glo_patent_no": "CANDIDATE ONLY, not graded: the register leaves glo_patent_no blank; the Bancroft catalogue, quoting Bowman, gives 'No. 111 General Land Office map' for the Medanos patent. Phase C should test 111 against the GLO records."
+    },
+    "notes": "NULL READ, cause external, AND a two-volume case: the Bancroft record lists cubanc_lcf_nd364A.pdf and cubanc_lcf_nd364B.pdf, so the derived single-volume name cubanc_lcf_nd364.pdf would have answered 200 with an HTML error page. Bancroft OAI-PMH (oai:digicoll.lib.berkeley.edu:264201), quoting Bowman: 'Granted by Alvarado Nov. 26, 1839, to Jose Antonio Mesa and Jose Maria Mesa (Garcia); 2 leagues, by name. Claim filed by Jonathen D. Stevenson, Michael Murphy, James Welch, and Ellen Fallon Feb. 20, 1853. Confirmed by the Board June 19, 1855. Confirmed by the District Court Oct. 16, 1856, AND NOV. 23, 1869. Patent issued to Jonathan D. Stevenson Oct. 8, 1872, for 8,858.83 acres ... No. 111 General Land Office map.' Year 1839, governor Alvarado and 'Jose Antonio Mesa et al' all match; the 'et al' is right, the second grantee is his brother Jose Maria Mesa Garcia. TWO WARNINGS FOR THE RE-READER. (1) Two District Court confirmations thirteen years apart (1856 and 1869) plus a two-volume file is the exact shape of the trap the method names: whichever volume you open, say which one you did not. (2) CATALOGUE ANOMALY, worth checking independently of this record: the OAI record's own 'Associated Case Numbers' line reads 'Expediente 185, Docket 691, 291 ND' while its title, its filenames and Hoffman all say 364 ND, and Hoffman gives docket 616, not 691. Either this catalogue line is mis-keyed onto record 264201 or Medanos carries a second docket. The census has found mis-keyed catalogue rows before, so this should not be assumed harmless."
+  }
+]

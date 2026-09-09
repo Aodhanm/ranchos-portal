@@ -1,0 +1,237 @@
+[
+ {
+  "id": "rancho-san-geronimo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256614/files/cubanc_lcf_nd283.pdf (65255035 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "MARC 245$a (OAI rec. 256614): 'San Geronimo (also called \"Canada de San Geronimo and Satracotchoa) [Marin County] Jose W. Revere, Claimant. Case no. 283, Northern District of California.' Register 'San Geronimo' agrees. NO PDF PAGE - catalogue evidence only."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. Bowman's Index via MARC 520$a reads 'Granted by Micheltorena Feb. 12, 1844, to Rafael Cacho' - AGREES with register 1844, but Bowman is a finding aid, not the decree."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a (Bowman I, 691): 'Granted by Micheltorena Feb. 12, 1844' - agrees, not decree-verified."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 700 $a='Cacho, Rafael' $e='Grantee' and 520$a 'to Rafael Cacho' - agrees with register; MARC 700 $e='Claimant'/'Patentee' = Revere, so the register is NOT carrying the U.S.-era claimant here. Still UV: no decree page read."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 283 ND'; 035$a '(landcasefiles)cubanc_lcf_nd283'; 856$u '.../record/256614/files/cubanc_lcf_nd283.pdf'. Register 'ND 283' agrees. NO PDF PAGE."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Confirmed by the Board Feb. 13, 1855. Confirmed by the District Court June 26, 1858.' No rejection anywhere in the chain, so the 'reversed-rejection' trap does not apply here; but the decrees themselves were not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 1 OF 6. Original portfolio is 79 p. (MARC 300$a); Spanish text on pp. 30-36 and 48 (MARC 500$a), which is where the expediente/concession sits and where a re-reader should go first. WARNING FOR THE RE-READER: MARC 520$a states 'The Board transcript has been lost but is now replaced by a photostat copy from Washington, in 1938' - so the Commission transcript in this file is a 1938 photostat surrogate, not the 1850s printed transcript, and its stamped pagination may not behave like other dockets. Associated numbers (MARC 520$a): Toma 203, Expediente 343, Docket 667, 283 ND, GLO 39 - Docket 667 matches hoffman_1862.commission_no 667 exactly. Bowman also notes 'The Toma entry implies that there was a previous grant and that this was an augmentation', which is worth checking against the decree. Register patent columns (Jose W. Revere / April 4, 1860 / GLO 39 / 8,701.00 acres) match MARC 520$a word for word.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:256614"
+ },
+ {
+  "id": "rancho-san-geronimo-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266049/files/cubanc_lcf_sd008.pdf (70167732 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "MARC 245$a (OAI rec. 266049): 'San Geronimo [San Luis Obispo County] Rafael Villavicancio, Claimant. Case no. 8, Southern District of California.' Register 'San Geronimo' agrees. NO PDF PAGE."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a (Bowman I, 690): 'Granted by Alvarado July 24, 1842, to Rafael Villavicancio' - agrees with register 1842; not decree-verified."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Granted by Alvarado July 24, 1842' - agrees; not decree-verified."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. Register 'R. Vilavicencio' is Hoffman's abbreviated and misspelled form, copied verbatim (hoffman_1862.grantee = 'R. Vilavicencio'). Bancroft name authority MARC 700 $a='Villavicencio, Rafael Jose Serapio, 1803-1879' $e='Grantee'. Right man, wrong form; likely PART once the decree is read, but UV until it is."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 8 SD'; 856$u '.../record/266049/files/cubanc_lcf_sd008.pdf'. Register 'SD 008' agrees (zero-padded form). NO PDF PAGE."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Confirmed by the Board Feb. 14, 1853. Confirmed by the District Court Oct. 14, 1859. Case dismissed by the Supreme Court Feb. 12, 1864, by mandate.' Bare 'Confirmed' is incomplete for a case that ran to a Supreme Court dismissal of the appeal in 1864; a re-reader must decide whether the register's one-word outcome should carry that. Not graded without the decrees."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 2 OF 6. Original portfolio 71 p. (MARC 300$a); Spanish text on pp. 8-15 and 59-61 (MARC 500$a) - the expediente is almost certainly the pp. 8-15 block. CATALOGUE DEFECT WORTH RECORDING: MARC 035$a for this item is malformed, '(landcasefiles}cubanc_lcf_sd008.pdf' - a closing curly brace instead of a parenthesis and a stray '.pdf'; every other record in this chunk reads '(landcasefiles)cubanc_lcf_XXNNN'. Harmless for the audit but it will break any script that parses 035$a. Associated numbers: Toma 152, Expediente 290, Docket 61, 8 SD, GLO 324 - Docket 61 matches hoffman_1862.commission_no 61. Register patent columns (Rafael Villavicancio / July 10, 1876 / GLO 324 / 8,893.35 acres) match MARC 520$a exactly; hoffman_1862.patented_1862 = false is consistent, the patent is 1876.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:266049"
+ },
+ {
+  "id": "rancho-san-gregorio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265450/files/cubanc_lcf_nd088.pdf (92513474 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "MARC 245$a (OAI rec. 265450): 'Part of San Gregorio [San Mateo County] Encarnacion Buelna de Rodriguez and heirs of Maria Concepcion Valencia de Rodriguez, Claimants. Case no. 88, Northern District of California.' Right rancho, but the register's disambiguator 'San Gregorio (Rogriguez)' misspells Rodriguez as 'Rogriguez' (g for d). MARC 700 $a='Rodriguez, Encarnacion Chino' $e='Patentee'. NO PDF PAGE - catalogue evidence only."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a (Bowman I, 692): 'Granted by Alvarado Apl. 16, 1839, to Antonio Buelna' - agrees with register 1839; not decree-verified."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Granted by Alvarado Apl. 16, 1839' - agrees; not decree-verified."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. Register 'Antonino Buelna' is Hoffman's form copied verbatim (hoffman_1862.grantee = 'Antonino Buelna'). The Bancroft name authority disagrees: MARC 700 $a='Buelna, Antonio Jose, 1780-1842' $e='Grantee', and MARC 520$a 'to Antonio Buelna'. 'Antonino' vs 'Antonio' is a one-letter divergence that Hoffman and the register share; the decree (Spanish text, pp. 17-20 per MARC 500$a) settles it. UV until read; expect PART."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 88 ND'; 035$a '(landcasefiles)cubanc_lcf_nd088'; 856$u '.../record/265450/files/cubanc_lcf_nd088.pdf'. Register 'ND 088' agrees. NO PDF PAGE. Caution for Phase C: MARC 520$a lists BOTH '88 ND' and '89 ND' among the associated case numbers, so a companion docket exists for this grant."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. THIS IS THE REVERSED-REJECTION TRAP NAMED IN THE BRIEF, and the register's bare 'Confirmed' sits right on it: MARC 520$a (Bowman I, 692) reads 'Rejected by the Board Dec. 27, 1853. Confirmed by the District Court Oct. 29, 1855; appeal dismissed July 24, 1857.' Hoffman's 1862 table records only the end state ('confirmed'), so the Hoffman cross-check cannot see the Commission rejection at all. Final disposition is confirmation, so 'Confirmed' is defensible, but it must be graded off the District Court decree, which was not reachable."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'San Gregorio (Rodriguez)' - the register's parenthetical reads 'Rogriguez'; MARC 245$a/700$a give Rodriguez (catalogue evidence, no PDF page)"
+  },
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 3 OF 6. Original portfolio 96 p. (MARC 300$a); Spanish text pp. 17-20 and 22-24 (MARC 500$a) = where the concession and the 1839 petition sit. A MICROFILM SURROGATE EXISTS AND MAY BE THE WAY AROUND THE BLOCK FOR THIS RECORD: MARC 300$a 'Copies: Microfilm : BANC MSS C-A 300 FILM 88 ND'. Associated numbers: Toma 19, Expediente 197, Filed Expediente 118, Docket 542, 88 ND, 89 ND, GLO 171 - Docket 542 matches hoffman_1862.commission_no 542. TWO Bowman remarks a re-reader needs: (a) 'Buelna's petition to the governor Mar. 22, 1839, states that a grant of 1 league had already been made, but no record of it has been found' - so an earlier grant may underlie this one; (b) 'The papers in the case state that the petitioner's name was Maria Concepcion Valencia de Rodriguez, and not Encarnacion' - which means the register's patent_to string 'Encarcacion Chino Rodriguez, widow of Antonio Buelna' reproduces a name the case papers themselves contradict. That patent_to string is verbatim Bowman, misspelling 'Encarcacion' included, which is direct evidence of where the register's patent columns come from.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:265450"
+ },
+ {
+  "id": "rancho-san-joaquin-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264495/files/cubanc_lcf_sd178.pdf (198264663 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "MARC 245$a (OAI rec. 264495): 'San Joaquin (also called \"Rosa Morada\") [San Benito County] Cruz Cervantes, Claimant. Case no. 178, Southern District of California.' Register 'San Joaquin' agrees. (Hoffman prints the alias as 'Rosas Morada', the Bancroft as 'Rosa Morada'; the register carries no alias, so nothing turns on it.) NO PDF PAGE."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a (Bowman I, 700): 'Granted by Gutierrez Apl. 1, 1836, to Cruz Cervantes' - agrees with register 1836; not decree-verified."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Granted by Gutierrez Apl. 1, 1836'. Register 'Nicolas Gutierrez' is the correct interim governor for April 1836 on its face, but the decree was not read and Gutierrez held the office twice in 1836, so the identification is not confirmed here."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 700 $a='Cervantes Ximenes, Jose Maria de la Cruz, 1794-1875' carries $e='Claimant', $e='Grantee' AND $e='Patentee' - the same man occupies all three roles, so this record is structurally immune to the audit's dominant error class (claimant written into the grantee slot). Register 'C. Cervantes' is Hoffman's abbreviation verbatim. UV: no decree page read."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 178 SD'; 035$a '(landcasefiles)cubanc_lcf_sd178'; 856$u '.../record/264495/files/cubanc_lcf_sd178.pdf'. Register 'SD 178' agrees. NO PDF PAGE. Note that MARC 520$a also lists '3 ND' among the associated case numbers: this claim was docketed in the Northern District before being remanded south, which is why a second docket exists."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. LONGEST AND MOST CONTESTED CHAIN IN THE CHUNK, and a bare 'Confirmed' hides all of it. MARC 520$a: 'Confirmed by the Board Dec. 18, 1852. Rejected by the Northern District Oct. 31, 1853. On May 24, 1854, the Supreme Court reversed the decision of the Northern District and remanded the case to the Southern District. Confirmed by the Southern District June 27, 1855. Confirmed by the Supreme Court May 12, 1856, by mandate.' A District Court REJECTION reversed by the Supreme Court is exactly the trap the brief warns about, inverted: here it is the district court that rejected and the Supreme Court that restored. Final state is confirmation, so the register's word is defensible, but grading it needs the 1855 Southern District decree and the 1856 mandate, neither read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 4 OF 6. Largest file in the chunk at 198.3MB (MARC 856$s). Original portfolio 201 p. (MARC 300$a) with a second 300$a reading 'Pgs. 148-152 missing' - A PHYSICAL GAP IN THE ORIGINAL, so a future reader who finds the stamped sequence jumping 147 to 153 is NOT looking at a scan defect and must not 'fix' it. Spanish text is scattered over pp. 20-27, 35-43, 50, 54-55, 59-61, 65, 69-72, 76 (MARC 500$a); the concession is most likely in the 20-27 block. Associated numbers: Expediente 156, Docket 56, 178 SD, 3 ND, GLO 232 - Docket 56 matches hoffman_1862.commission_no 56. Bowman flags a date discrepancy that a re-reader should expect to meet in the file itself: 'The Supreme Court mandate in the file is dated May 14 instead of May 12 as given in 15 Law Ed 484.' Register patent columns (Cruz Cervantes / Jan. 6, 1874 / GLO 232 / 7,424.69 acres) match MARC 520$a exactly.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:264495"
+ },
+ {
+  "id": "rancho-san-jose-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265863/files/cubanc_lcf_sd122.pdf (123087208 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "MARC 245$a (OAI rec. 265863): 'San Jose [Los Angeles County] Ignacio Palomares, Claimant. Case no. 122, Southern District of California.' Right rancho. But the register disambiguates this row as 'San Jose (Dalton Et Al)', and Henry Dalton is NOT the claimant of SD 122 - MARC 700 gives $a='Dalton, Henry, 1804-1884' $e='Patentee' only, while $e='Claimant' is Palomares. The register has labelled the row with the 1875 patentee rather than the party the Bancroft caption names, which is the audit's dominant error class (U.S.-era figure displacing the Mexican-era one) leaking into the name field. NO PDF PAGE - catalogue evidence only."
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: grant (1) 'Apl. 15, 1837' - agrees with register 1837 for the two-name grantee set. Not decree-verified. See the shared note: this docket is the 1837 grant, SD 128 is the 1840 regrant, and the two must not be crossed."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Granted by Alvarado (1) Apl. 15, 1837' - agrees; not decree-verified."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "PART not ERR, deliberately, because the man named IS a real grantee and only a co-grantee is missing; a re-reader who finds the concession naming both should consider ERR. SUBSTANTIVE AND VISIBLE WITHOUT THE DECREE: the register names one grantee, 'Y. Palomares', where the grant went to two men jointly. MARC 700 carries TWO $e='Grantee' entries for this record - $a='Palomares, Ygnacio Maria, 1811-1864' AND $a='Vejar, Juan Nepomuceno Ricardo, 1805-1879' - and MARC 520$a reads 'Granted by Alvarado (1) Apl. 15, 1837, to Ignacio Palomares and Ricardo Vijar'. Register 'Y. Palomares' is Hoffman's column copied verbatim (hoffman_1862.grantee = 'Y. Palomares'), so Hoffman could never flag it. GRADED ON CATALOGUE EVIDENCE, NOT ON A DECREE PAGE: two independent Bancroft fields (520$a narrative and the 700 name-authority block) agree that a co-grantee is missing. A re-reader with the PDF should confirm on the concession itself (Spanish text pp. 11-19 per MARC 500$a) ; note the same register lists all THREE grantees on the SD 128 row, so it has no 'name only the first grantee' convention to fall back on."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 122 SD'; 035$a '(landcasefiles)cubanc_lcf_sd122'; 856$u '.../record/265863/files/cubanc_lcf_sd122.pdf'. Register 'SD 122' agrees. NO PDF PAGE. MARC 520$a also lists '121 SD' among the associated numbers, a companion docket."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Confirmed by the Board Jan. 31, 1854. Confirmed by the District Court Feb. 25, 1856; appeal dismissed Feb. 23, 1857.' No rejection in the chain, so the reversed-rejection trap does not apply; but no decree was read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "'Ignacio Palomares and Ricardo Vijar' per MARC 520$a and the two 700 $e='Grantee' entries on OAI rec. 265863; register carries only 'Y. Palomares' (catalogue evidence, no PDF page)",
+   "name": "the disambiguator '(Dalton Et Al)' names the 1875 patentee, not the claimant; MARC 245$a caption is 'San Jose ... Ignacio Palomares, Claimant'"
+  },
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 5 OF 6. SD 122 AND SD 128 ARE THE SAME LAND AND MUST BE GRADED TOGETHER. Bowman (MARC 520$a on both records) describes one grant made twice: '(1) Apl. 15, 1837, to Ignacio Palomares and Ricardo Vijar, about 1.5 leagues, by name, and (2) Mar. 14, 1840, to Ricardo Vijar, Ignacio Palomares and Luis Arenas, the above grant and an augmentation of 1 league to San Jose. On Feb. 12, 1846, the grant was partitioned among the three grantees.' So the TWO-name grantee set belongs to 1837 and the THREE-name set (with Arenas) belongs to 1840. Both dockets carry the identical Commission and District Court dates (Board 31 Jan 1854, District Court 25 Feb 1856, appeal dismissed 23 Feb 1857) and both were patented to the same trio, Dalton/Palomares/Vijar, on different days in 1875 under GLO 457 and 458. Original portfolio 122 p. (MARC 300$a); Spanish text pp. 11-19 and 31-58 (MARC 500$a) - two large Spanish blocks, consistent with both the 1837 concession and the 1840 regrant/partition papers being bound in. Associated numbers: Toma 58, Filed Expediente 75, Unclassified Expediente 124, Expediente 141, Docket 365, 122 SD, 121 SD, GLO 457 - Docket 365 matches hoffman_1862.commission_no 365. Seven associated diseno maps are listed in MARC 856 (B-1125 to B-1127, D-1124, D-1128, D-1129, E-1130) and those are on content.cdlib.org, a different host from the blocked one. Register patent columns (Henry Dalton, Ignacio Palomares, and Ricardo Vijar / Dec. 4, 1875 / GLO 457 / 4,430.64 acres) match MARC 520$a exactly.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:265863"
+ },
+ {
+  "id": "rancho-san-jose-addition",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265868/files/cubanc_lcf_sd128.pdf (139616425 bytes per MARC 856$s) - REQUESTED AND REFUSED BY WAF, NOT READ",
+  "pdf_pages_stated": null,
+  "pages_read": [],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "MARC 245$a (OAI rec. 265868): 'San Jose [Los Angeles County] Ricardo Vejar and Ignacio Palomares, Claimants. Case no. 128, Southern District of California.' The register's 'San Jose Addition' is not the Bancroft caption but it is substantively right and it does the disambiguating work SD 122's label failed at: MARC 520$a describes this docket's grant as 'the above grant and an augmentation of 1 league to San Jose', i.e. the addition. NO PDF PAGE."
+   },
+   "year": {
+    "grade": "ERR",
+    "evidence": "THE ONE HARD YEAR PROBLEM IN THIS CHUNK. The register pairs year 1837 with grantee 'R. Vejar, Ignacio Palomares and Luis Arenas'. Per MARC 520$a those two facts belong to different grants: '(1) Apl. 15, 1837, to Ricardo Vijar and Ignacio Palomares, about 1.5 leagues, by name, and (2) Mar. 14, 1840, to Ricardo Vijar, Ignacio Palomares and Luis Arenas, the above grant and an augmentation of 1 league'. Luis Arenas enters only in 1840, and the AUGMENTATION - which is what 'Addition' names - is the 1840 act. The correct year for the grant this row describes is 1840. Note the register could not have taken 1837 from a decree with Arenas in it, and Hoffman is no check here: hoffman_1862 prints year 1837 with governor AND grantee BLANK for court no. 128, so the register's three-name grantee string came from somewhere other than Hoffman while the year came from Hoffman - the conflation is mechanically explained. GRADED ERR ON CATALOGUE EVIDENCE, NOT ON A DECREE PAGE; the concession is in the Spanish block at pp. 8-19 (MARC 500$a) and a re-reader must confirm there."
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. Alvarado made both the 1837 grant and the 1840 regrant per MARC 520$a, so the register's 'Alvarado' survives the year problem either way; but hoffman_1862.governor is null for this docket and no decree was read, so this is not confirmed."
+   },
+   "grantee": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. Register 'R. Vejar, Ignacio Palomares and Luis Arenas' matches the THREE grantees of the 1840 regrant in MARC 520$a. But MARC 700 for this record lists only TWO $e='Grantee' entries, Palomares and Vejar - Arenas is absent from the name-authority block though present in the 520 narrative, an internal inconsistency in the Bancroft record itself. Cannot be settled without the decree."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "MARC 024$a: 'BANC MSS Land Case Files 128 SD'; 035$a '(landcasefiles)cubanc_lcf_sd128'; 856$u '.../record/265868/files/cubanc_lcf_sd128.pdf'. Register 'SD 128' agrees. NO PDF PAGE."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "NOT READ: case file PDF unreachable (AWS WAF challenge, see notes). No decree page seen. MARC 520$a: 'Confirmed by the Board Jan. 31, 1854. Confirmed by the District Court Feb. 25, 1856; appeal dismissed Feb. 23, 1857.' Identical to SD 122. No rejection in the chain; no decree read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "year": "1840 - MARC 520$a on OAI rec. 265868: the grant to 'Ricardo Vijar, Ignacio Palomares and Luis Arenas' with 'an augmentation of 1 league to San Jose' is dated 'Mar. 14, 1840'; 1837 is the earlier two-man grant, which is docket SD 122 (catalogue evidence, no PDF page)"
+  },
+  "notes": "TRANSPORT FAILURE, NOT A SOURCE FAILURE, AND NOT A CLEAN RECORD. Recorded as a null read so the queue does not reissue it blind. From 2026-09-09 ~16:28Z to at least 18:17Z digicoll.lib.berkeley.edu answered EVERY request under /record/* and /search* with HTTP 202 + header 'x-amzn-waf-action: challenge' and a zero-length body (an AWS WAF JavaScript challenge). Confirmed with curl over HTTP/1.1 and HTTP/2, with the audit UA, a Chrome UA and no UA, with HEAD, plain GET and Range GET, and with python urllib; and by four separate polling runs totalling ~25 minutes of 30-second retries (17:31-17:36Z, 17:53-17:58Z, 18:04-18:09Z, 18:10-18:17Z). Never once did the body begin with %PDF. SCOPE OF THE BLOCK, MEASURED: only /record/* and /search* are challenged. Still open and used here: https://digicoll.lib.berkeley.edu/oai2d (OAI-PMH, verb=GetRecord&metadataPrefix=marcxml - the Bancroft's own catalogue record for the same item), digicoll /robots.txt, content.cdlib.org (the associated diseno maps), www.oac.cdlib.org (the collection finding aid) and calisphere.org. So the item metadata is reachable and only the page images are not. ROUTES TRIED AND DEAD: Merritt via the ark in MARC 951$a redirects into an endless guest_login loop (merritt.cdlib.org/m/ark%3A%2F13030%2F... -> /guest_login -> /home/choose_collection -> ...); the Wayback Machine has no capture of these PDFs; archive.org holds exactly one cubanc_lcf item (Ballona, SD) and it is not one of these; Calisphere returns 404 for the Merritt arks. I did NOT attempt to solve, replay or evade the WAF challenge. RETRY ADVICE: poll the PDF URL directly, not the record page, and treat anything that is not %PDF in the first four bytes as a failure - the challenge returns HTTP 202, a SUCCESS code, so any checker that tests the status code alone will record a false success and write a zero-byte file (/tmp/casefile-cache already holds two such zero-byte files, cubanc_lcf_sd157.pdf and cubanc_lcf_nd324.pdf, left by other agents in this same pass). || EVIDENCE TIER: MARC/OAI catalogue record, NOT a PDF page. Per method, year/governor/grantee/outcome must be graded against the concession decree or its sworn translation inside the case file, so those stay UV. name and land_case are graded from the Bancroft's own item-level catalogue (024$a docket, 035$a and 856$u filename, 245$a caption), which is the same authority the red label carries; evidence strings therefore cite MARC fields instead of a stamped page, which is a deviation from the output contract and is flagged here. || RECORD 6 OF 6. SD 122 AND SD 128 ARE THE SAME LAND AND MUST BE GRADED TOGETHER. Bowman (MARC 520$a on both records) describes one grant made twice: '(1) Apl. 15, 1837, to Ignacio Palomares and Ricardo Vijar, about 1.5 leagues, by name, and (2) Mar. 14, 1840, to Ricardo Vijar, Ignacio Palomares and Luis Arenas, the above grant and an augmentation of 1 league to San Jose. On Feb. 12, 1846, the grant was partitioned among the three grantees.' So the TWO-name grantee set belongs to 1837 and the THREE-name set (with Arenas) belongs to 1840. Both dockets carry the identical Commission and District Court dates (Board 31 Jan 1854, District Court 25 Feb 1856, appeal dismissed 23 Feb 1857) and both were patented to the same trio, Dalton/Palomares/Vijar, on different days in 1875 under GLO 457 and 458. Original portfolio 134 p. (MARC 300$a); Spanish text pp. 8-19, 36-43, 96, 98-100, 111-112, 114-115, 122-125, 127-129, 131-132 (MARC 500$a) - by far the most scattered Spanish in the chunk, consistent with the 1846 partition papers being bound in after the expedientes. Associated numbers: Filed Expediente 75, Unclassified Expediente 124, Expediente 141, Docket 388, 128 SD, GLO 458 - Docket 388 matches hoffman_1862.commission_no 388, and Filed Expediente 75 / Unclassified Expediente 124 / Expediente 141 are the SAME three expediente numbers listed on SD 122, confirming the two dockets share one expediente file. Six associated diseno maps in MARC 856 (A-1138, A-1139, B-1140, B-1141, D-1143, E-1142); B-1141 (hb5r29n9z0) is also listed on SD 122 as D-1128, i.e. one diseno is catalogued under two different letter-numbers across the two dockets. Register patent columns (Henry Dalton, Ignacio Palomares, and Ricardo Vijar / Jan. 20, 1875 / GLO 458 / 22,340.41 acres) match MARC 520$a exactly.",
+  "metadata_source": "https://digicoll.lib.berkeley.edu/oai2d?verb=GetRecord&metadataPrefix=marcxml&identifier=oai:digicoll.lib.berkeley.edu:265868"
+ }
+]
