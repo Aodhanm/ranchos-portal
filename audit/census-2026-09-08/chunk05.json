@@ -1,0 +1,514 @@
+[
+ {
+  "id": "rancho-carne-humana",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264434/files/cubanc_lcf_nd047.pdf",
+  "pdf_pages_stated": null,
+  "pdf_image_count": 351,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-24 (stamped 8-16)",
+   "img 25-34 (stamped 17-25)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 47 / NORTHERN DISTRICT / HULIC NAMA o' CARNE HUMANA / RANCHO o' CALIGOLMAN GRANT / MARIA YGNACIA de BALE, et al CLAIMANT'; transcript title stamped p1 'for the place named \"Huilic-Nama\" o' Carne Humana o' Caligolman'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "sworn translation of the grant title, stamped p25: 'Given in Monterey on the fourteenth of March One thousand eight hundred forty one. Signed Alvarado'; Spanish original stamped p20: 'Dado en Monterey a catorce de marzo de mil ochocientos cuarenta y uno'; expediente cover stamped p15 'Espediente promovido por Dn. Eduardo A. Bale ... 1841'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p24 (translation): 'Juan B Alvarado Constitutional Governor of the Department of the Californias ... I have granted him the aforesaid land'; Spanish decree stamped p17 signed 'Alvarado / Manl. Jimeno Sr[i]o.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "grant runs to 'Dn. Eduardo A. Bale' (expediente cover stamped p15; Spanish title stamped p19 'Dn. Eduardo A. Bale naturalizado y casado en la Republica Mexicana'), translated stamped p24 as 'Don Edward A Bale'. Register's 'Edouardo A. Bale' is Hoffman's printed spelling, not the case file's."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 47 NORTHERN DISTRICT'; page stamps throughout read 'CASE 47 ND'; PDF filename cubanc_lcf_nd047.pdf. Board docket no. was 166 (stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p5 (img 10), San Francisco Apl. 22d 1853: 'A Statement was read by Commissioner Hiland Hall in behalf of the Board, accompanied with the Opinion and Decree of final Confirmation in Case No. 166'. Full decree text sits at transcript p79, not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Eduardo A. Bale (Sp.) / Edward A. Bale (Eng.) per expediente cover stamped p15 and grant translation stamped p24; register has 'Edouardo'"
+  },
+  "notes": "Grant = concession of 14 March 1841 by Alvarado to Eduardo (Edward) A. Bale, four sitios de ganado mayor, bounded S by Yount's rancho, N by Sonoma. Prior Sonoma-level petition 12 Sept 1840 to Comdte. Gral. Vallejo (stamped p24, translation). Claim prosecuted by the widow Maria Ygnacia Soberanes de Bale and children; Kilburn, Fowler and Hargrave intervened. Board confirmed 22 Apr 1853. Register/Hoffman agree on year, governor, disposition. Single 351-image volume, no multi-volume note."
+ },
+ {
+  "id": "rancho-carneros",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269003/files/cubanc_lcf_sd384.pdf",
+  "pdf_pages_stated": 69,
+  "pdf_image_count": 77,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 23-34 (stamped 17-27)",
+   "img 66-77 (stamped 58-69)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 384 / SOUTHERN DISTRICT / LOS CARNEROS GRANT / MARIA ANTONIA CASTRO DE ANZAR, ET AL CLAIMANT'; District Court caption stamped p65 'Claim for tract of land called \"Los Carneros\"'. The register's '(Mcdougal)' tag is corroborated: Frederick A. McDougall is the first-named appellee in the District Court decree, stamped p61."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, Spanish, stamped p17: 'Monterey 5 de Octubre de 1842 ... declaro a Da. Ma. Antonia Linares dueña en propiedad de una parte del terreno nombrado Los Carneros'; titulo stamped p19: 'Dado en Monterey a seis de Octubre de mil ocho cientos cuarenta y dos'. (The sworn English translation, stamped p25, mistranslates this as 'the sixteenth day of October'; the 1843 escritura, stamped p27, cites the title as of 7 Oct 1842. All agree on 1842.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "titulo stamped p18: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias ... he venido en concederle el terreno mencionado'; District Court decree stamped p62 refers to 'the grant of the land to Dona Antonia Linares by Juan B Alvarado Governor of California'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "titulo stamped p18: 'Por cuanto Da. Ma. Antonia Linares ha pretendido para su beneficio personal y el de su familia una parte del terreno que se conoce con el nombre de los Carneros'; expediente heading stamped p21 'Instituted by Don[a] Maria Antonio Linares in solicitation of the tract of land known by the name of \"Carneros\"'; her own petition signed 'Maria Antonio Linares', Cañada de los Carneros, March 1, 1842 (stamped p22)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 384 SOUTHERN DISTRICT'; page stamps '384 SD' throughout; img2 typed slip 'LAND CASE 384 SD pgs. 69'; filename cubanc_lcf_sd384.pdf. Board docket was no. 680 (stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 28 Aug 1855 (stamped p3: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim'); U.S. District Court, Southern District, Dec. Term 1856, stamped p61-62: 'it is ordered adjudged and decreed that the decision of the said board be and the same is hereby affirmed, and that the title of the said Frederick A. McDougal, Juan Francisco Anzar, Anatolio Anzar and Policronio Anzar ... is a good and valid one ... confirmation hereby made is to the extent only of one square league', signed Isaac S. K. Ogier, U.S. Dist. Judge; appeal vacated and the decree made final 14 June 1858 (stamped p68)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Fully settled: grant of 5-6 Oct 1842 by Alvarado to Da. Maria Antonia Linares (widow of Guadalupe Abila), one sitio de ganado mayor at Los Carneros, Monterey Co.; sold 14 July 1843 by her attorney Petronilo Rios to Juan Miguel Anzar (escritura, stamped p26-27). Claim prosecuted by Anzar's widow Maria Antonia Castro de Anzar and children, with Frederick A. McDougall joining as co-claimant by the District Court stage. Register, Hoffman and the case file agree on year, governor, grantee and disposition. Single-volume file, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-carneros-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268945/files/cubanc_lcf_sd322.pdf",
+  "pdf_pages_stated": null,
+  "pdf_image_count": 87,
+  "pages_read": [
+   "img 1-24 (stamped 1-20)",
+   "img 24-44 (stamped 20-40)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 322 / SOUTHERN DISTRICT / LOS CARNEROS GRANT / THE HEIRS OF DAVID LITTLEJOHN CLAIMANT'; transcript title stamped p1 'for the place named \"Los Carneros\"'. Spanish expediente cover stamped p16: 'Espediente sobre el parage nombrado \"Los Carneros\" Solicitado por David Litteljohn'. Register's '(Littlejohn)' is a disambiguator, not part of the name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title (titulo), stamped p28: 'Dado en Monterey a 28 de junio de 1834. Jose Figueroa / Agustin V. Zamorano Srio.' Concession decree of 13 May 1834 recited in the same title (stamped p27) and in the Diputacion's approval of 14/19 June 1834 (stamped p26)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "title, stamped p27: 'Jose Figueroa General de Brigada de la Rep.a Mejicana, Comandante General Inspector y Jefe superior politico del territorio de la Alta California ... he venido en concederle el terreno mencionado declarandole la propiedad de el p.r las presentes letras', signed p28 'Jose Figueroa'. English translation of the same decree stamped p36 names 'D. Jose Figueroa, Brigadier General ... and Superior Political Chief of Upper California'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "title, stamped p27: 'Por cuanto David Litteljohn naturalizado en los Estados Unidos Mejicanos ha pretendido p.a su beneficio personal y el de su familia el terreno conocido con el nombre de Los Carneros colindante con la Mision de S. Juan Bautista, Rancho de S. Cayetano y S. Antonio y lomas laterales'. Naturalization letter, stamped p34 (translation): 'Francisco Xavier David Littlejohn, Native of Arbroath in the Province of Angus in the Kingdom of Scotland ... naturalised in the Mexican United States. Given in Monterey on the 5th June 1833.' Spanish hand writes 'Litteljohn', the sworn translation and the Bancroft label write 'Littlejohn'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 322 SOUTHERN DISTRICT'; every transcript leaf stamped '322 SD'; PDF filename cubanc_lcf_sd322.pdf. Board docket no. was 665 (transcript title stamped p1 and docket entry stamped p2), matching Hoffman's commission_no 665."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco May 22 1855: 'In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (vide page 67 of this Transcript) and the following order was made (vide page 70)'. Opinion/order text at transcript pp. 67 and 70 lies beyond the ~30-image cap and was not read; Hoffman 1862 independently records 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = titulo of 28 June 1834 by Figueroa to David Litteljohn (Littlejohn), one sitio, Canada de los Carneros, Monterey County, bounded by Mission San Juan Bautista and the ranchos of San Cayetano and San Antonio. Chain: petition Monterey 28 Oct/28 Nov 1833 (stamped pp17-18 Sp., pp30-31 transl.); Figueroa's referral decree 11 Dec 1833; ayuntamiento colonization committee favourable 26 Jan 1834 (p21/p35); three-witness informacion 11 Feb 1834; concession decree 13 May 1834; Diputacion approval 19 June 1834 (p26); titulo 28 June 1834 (pp27-28). Predecessor: Manuel Victoria had verbally told Littlejohn to occupy the canada, certified by Zamorano 10 July 1832 (p19 Sp. / p33 transl.). Juridical possession Aug 1835 by Alcalde Spence. U.S. Surveyor General John C. Hays certified the archive copy 2 Feb 1855 (p29). Claim prosecuted by widow Francisca Higuera de Littlejohn and children (motion to add her name granted, p15). Register/Hoffman agree on year, governor, grantee, disposition. Single volume, no MULTI-VOLUME note. Note in passing: the titulo's condition 4 calls the tract 'un sitio de ganado menor' (p28) while the U.S. petition (p5) says 'ganado mayor'."
+ },
+ {
+  "id": "rancho-castac",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268971/files/cubanc_lcf_sd349.pdf",
+  "pdf_pages_stated": 58,
+  "pdf_image_count": 68,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-24 (stamped 8-18)",
+   "img 25-30 (stamped 19-23)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "img1 red label 'CASE NO. 349 / SOUTHERN DISTRICT / CASTEC GRANT / JOSE MARIA COVARRUBIAS CLAIMANT'; transcript title stamped p1 'for the place named \"Castec\"'; Spanish expediente cover stamped p17 'Ano de 1842 Espediente promovido p.r el Vec.no de Sta. Barb.a D.n Jose M.a Covarrubias en pretencion del Paraje conosido con el Nombre de \"Castec\"'; grant title stamped p20 'el terreno conocido con el nombre de Castec'. The case file spells the place CASTEC throughout; the register (and Hoffman) print 'Castac'. Same place, different orthography. The U.S. petition, stamped p4, spells it a third way, 'Castic'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p21: 'Dado en Monterey a beinte y dos de Nov.re de 1843. Man.l Micheltorena Gob.or / Man.l Jimeno Srio.' Micheltorena's marginal 'Concedido' dated Monterey Nov.re 14 de 1843 at stamped p19."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p20: 'D. Manuel Micheltorena Gral de Brigada del Ejercito Mejicano, Ayudante Gral de la plana Mayor del mismo, Comandante Gral del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado', signed stamped p21 'Man.l Micheltorena Gob.or'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p20: 'Por cuanto D.n Jose M.a Covarrubias ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Castec'. Petition to the Prefect signed 'Jose Maria Covarrubias', Santa Barbara May 8 1842 (Spanish stamped p18, translation stamped p23). Register's 'J. M. Covarrubias' is the same man, abbreviated; grantee and U.S. claimant are one person here, so the claimant/grantee trap does not bite."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 349 SOUTHERN DISTRICT'; leaf stamps '349 SD'; img2 archival slip 'LAND CASE 349 SD 58 pages'; PDF filename cubanc_lcf_sd349.pdf. Board docket no. 536 (transcript title stamped p1), matching Hoffman's commission_no 536."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco May 10 1855: 'In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (vide page 35 of this Transcript)' with the order at transcript p37. Opinion and order text lie past the ~30-image cap and were not read; Hoffman 1862 independently records 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Castec' is the spelling used by the case label, the transcript title, the expediente cover (stamped p17) and the grant title (stamped p20); register has 'Castac'"
+  },
+  "notes": "Grant = titulo of 22 Nov 1843, Micheltorena to Jose Maria Covarrubias, five sitios de ganado mayor (condition 5, stamped p20), bounded by the Tejon lands, the Tulares, La Brea, Los Alamos and the Salinas de Cortes. Chain: petition to Prefect Argüello, Santa Barbara 8 May 1842 (p18/p23); juez Joaquin Carrillo's favourable informe 13 May 1842 (p19); Argüello's report to the governor, Angeles 6 Aug 1842 (p19); Micheltorena 'Concedido' 14 Nov 1843; titulo 22 Nov 1843. U.S. Surveyor General John C. Hays certified the archive copy 15 April 1854 (p21). Substantive dispute in the file is about EXTENT, not title: J. J. Warner first swore the lake marked A on the diseno was 'Castec', then corrected himself on 17 Oct 1854 (stamped pp15-16) that the lakes are the Salinas de Castec and that the place the older Angelenos called Castec was the Canon de las Uvas; Pedro C. Carrillo (p6-7) put the ranch at about 5 or 6 leagues. Register/Hoffman agree on year, governor, grantee, disposition; only the name spelling differs from the file. Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-catacula",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264455/files/cubanc_lcf_nd072.pdf",
+  "pdf_pages_stated": 48,
+  "pdf_image_count": 57,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 19-30 (stamped 13-22)",
+   "img 30-42 (stamped 22-33)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 72 / NORTHERN DISTRICT / CATACULA GRANT / JOSEPH B. CHILES CLAIMANT'; transcript title stamped p1 'for the place named \"Catacula\"'; Board decree stamped p24 'The land of which confirmation is hereby made is known by the name of Catacula'; clerk's certificate stamped p25 'for the place known by the name of \"Catacula\"'. Baldridge deposition stamped p6 derives it from 'a small valley the Indians called Catacula'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, Spanish, stamped p14: 'Dado en Monterey a nueve de Noviembre de mil ocho cientos cuarenta y cuatro'; same in the second Spanish copy stamped p17; sworn translation stamped p21: 'Given in Monterey November 9th 1844'. Board opinion stamped p23 repeats: 'granted to the claimant a Naturalized Mexican citizen by Gov. Manuel Micheltorena on the 9th day of November 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p13/p16: 'El Ciudadano Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante General de la Plana Mayor del mismo, Gobernador Comandante General e Inspector del Departamento de las Californias', signed stamped p14 'Manl. Micheltorena / Manuel Jimeno Srio.' Micheltorena's own marginal order 'Let the title be issued' at stamped p19."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p13/p16: 'Por cuanto el Ciudadano Joseph B. Chiles ha pretendido para su beneficio personal el terreno conocido con el nombre de Catacula'; translation stamped p19-20 'Whereas the citizen Joseph B. Chiles has petitioned for his own benefit the land known by the name of Catacula ... I ... have granted him the land aforesaid'. Naturalization certificate, Monterey 10 Sept 1844, stamped p22 (Sp. 'D. Jose Chiles'; transl. 'Mr Joseph Chiles'). Grantee and U.S. claimant are the same man; the register's 'Jose B. Chiles' is the Spanish form of the same name."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 72 NORTHERN DISTRICT'; img2 archival slip 'LAND CASE 72 ND pgs. 48'; leaf stamps '72 ND'; District Court wrapper stamped p25v 'U.S. DISTRICT COURT, Northern District of California. No. 72'; PDF filename cubanc_lcf_nd072.pdf. Board docket no. 197 (transcript title stamped p1)."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board CONFIRMED: opinion by Commr. R. Aug. Thompson, stamped p23, 'The case comes clearly within those equitable rules which have been laid down and acted on in other cases by this board, entitling the parties to a confirmation. The claim is therefore confirmed'; decree stamped p24, filed Nov 4 1853, signed Alpheus Felch, R. Aug. Thompson, Thompson Campbell: 'it is adjudged by the Commission that the claim is valid, & it is therefore decreed that the same be confirmed ... two square leagues'. BUT the United States APPEALED: Attorney General's notice, Washington 26 Oct 1854 (stamped p26), appeal notice filed Dec 2 1854 (stamped p27), and the U.S. petition for review filed 16 July 1855 (stamped pp32-33) praying 'that the said decision of the Board be reversed and that this Court decree the said title to be invalid'. The District Court's own decree lies in stamped pp. 34-48, past the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = titulo of 9 Nov 1844, Micheltorena to Joseph B. Chiles, two sitios de ganado mayor in the Napa valley, bounded by the mineral (soda) springs, the Arroyo de Napa and the line of Senor Pope. Chain: petition to the Sonoma alcalde 21 Oct 1844 (Jacob P. Leese's informe, stamped p19, notes Chiles 'is a foreigner - until now he has not shown his letter of Naturalization'); naturalization granted Monterey 10 Sept 1844 (p22); petition to Micheltorena, Monterey 9 Nov 1844; Jimeno's informe and 'Let the title be issued' the same day; titulo 9 Nov 1844. Grant was expressly 'subject to the approval of the Most Excellent Departmental Assembly'; Commr. Thompson found (p23) it never received that approval, so the grant was INCHOATE and confirmed on equity only. Baldridge (p5-7) testified Chiles selected the land in summer 1844, occupied from 1844, built house, corral, vineyard. Archive copy certified by Surveyor General Saml. D. King, 14 April 1852 (p15). Hoffman 1862 has no row for this claim in the input. Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-cerritos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266058/files/cubanc_lcf_sd017.pdf",
+  "pdf_pages_stated": 190,
+  "pdf_image_count": 199,
+  "pages_read": [
+   "img 1-12 (stamped 1-9)",
+   "img 21-30 (stamped 18-26)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 17 / SOUTHERN DISTRICT / LOS CERRITOS GRANT / JUAN TEMPLE CLAIMANT'; exhibit cover stamped p19 'Documentos pertenecientes al Rancho de los Cerritos propriedad de D. Juan Temple'; grant title stamped p20 'del parage conocido con el nombre de los Serritos'; possession act stamped p22 'el rancho de los Cerritos propriedad de Dona Manuela Nieto'. (The printed transcript title page, stamped p1, and the Board docket write it 'Los Serritas'; the register's 'Los Cerritos' matches the label and the exhibit cover.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p21: 'Dado en Monterey a veinte y dos de Mayo de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano Srio.' Zamorano's razon of the same date follows: 'Monterrey veinte y dos de Mayo de mil ochocientos treinta y cuatro.' Temple's petition, stamped p6, agrees: 'bearing date of the 22d of May 1834.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p20: 'Jose Figueroa General de Brigada de los Ejercitos nacionales Mejicanos, Comandante General y Inspector y Jefe Superior Politico del territorio de la Alta California ... usando de las facultades que me son conferidas, por decreto de veinte y siete del Julio del ano anterior, a nombre de la nacion Mejicana, he venido en declararle la propiedad'; signed stamped p21 'Jose Figueroa'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p20: 'Por cuanto Dona Manuela Nieto tiene acreditado su derecho a la testamentaria del finado Manuel Nieto, y tomando en consideracion la antigua y pacifica posesion que tiene del parage conocido con el nombre de los Serritos ... he venido en declararle la propiedad de el'; delivery clause stamped p21 'se le entregue a la interesada'. Juridical possession given to 'Dona Manuela Nieto de Cota', 14 March 1835 (stamped p22-24). REGISTER IS CORRECT ON THE CLAIMANT/GRANTEE TRAP: the U.S. claimant was Juan Temple, who bought the rancho from Manuela Nieto's heirs 16 Dec 1843 (petition stamped p6); the register records the Mexican grantee, not the claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 17 SOUTHERN DISTRICT'; img2 archival slip 'LAND CASE 17 SD PAGES 190'; leaf stamps '17 SD'; PDF filename cubanc_lcf_sd017.pdf. Board docket no. 351 (transcript title stamped p1 and docket stamped p2), matching Hoffman's commission_no 351."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p5, San Francisco April 11th 1853: 'In case No 351 Juan Temple for the place named \"Los Serritas\", Commissioner Hiland Hall delivered the Opinion and the Decree of Final Confirmation. Ordered that the said Opinion and Decree of Final Confirmation be Recorded on the Records of this Board (vide page 57 of this Transcript)'. The opinion/decree text at transcript p57 and any later District Court proceedings in this 190-page file were not read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = titulo of 22 May 1834, Figueroa to Dona Manuela Nieto, five sitios de ganado mayor (condition 4, stamped p21), bounded by San Pedro, Santa Gertrudis, Los Coyotes, Los Alamitos and the sea. Not a fresh colonization grant but a confirmation-on-partition of the old Manuel Nieto estate: the title recites that Manuela 'tiene acreditado su derecho a la testamentaria del finado Manuel Nieto' and rests on her 'antigua y pacifica posesion', and Temple's petition (p7) explains the expediente is really the Nieto heirs' partition of Santa Gertrudis, whose traced copy sits in Board claim No. 339. Juridical possession by regidor Rafael Guirado with surveyor Abel Stearns, 13-26 March 1835 (pp22-25); Roberto Pardo the only adjoining owner who did not appear. Denouncement attempts by Juan Forster and Bernardino Guirado were defeated: Guillermo Cota's protest and Micheltorena's decrees of 30 May and 8 June 1843 (Doc C, stamped pp25-26). Register/Hoffman agree on year, governor, grantee, disposition. Large single volume (199 images), no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-chimiles",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264430/files/cubanc_lcf_nd043.pdf",
+  "pdf_pages_stated": 41,
+  "pdf_image_count": 49,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-22 (stamped 8-16)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 43 / NORTHERN DISTRICT / CHIMILES GRANT / WILLIM GORDON AND NATHAN COMBS CLAIMANT'; transcript title stamped p1 'for the place named Chimiles'; Spanish expediente cover stamped p6 'Espediente promovido por el Ciudadano Jose Ygn.o Berreyesa en solicitud de cuatro sitios de ganado mayor en el parage conocido con el nombre de Chimiles en la Jurisdiccion de Sonoma'; title stamped p11 'un terreno situado en la jurisdiccion de Sonoma, conocido con el nombre de Chimiles'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p12: 'Dado en la Ciudad de los Angeles en papel comun por falta del sellado, a dos dias del mes de Mayo de mil ocho cientos cuarenta y seis. Pio Pico / Jose Matias Moreno Srio int.o'; sworn translation stamped p16: 'Given in the City of Los Angeles ... on the 2d May 1846'; concession decree stamped p8 headed 'Angeles Mayo 2 de 1846'. NOTE the U.S. petition (stamped p4) misdates the grant '12th May 1846'; the decree and title both read 2 May 1846. The register's year 1846 is right either way."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped pp9 and 11: 'Pio Pico Gobernador Constitucional del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mexicana, he venido por decreto de este dia en concederle el espresado terreno'; concession decree stamped p8 signed 'Pio Pico / Jose Matias Moreno Srio int.o' and reciting 'Pio Pico Gobernador Constitucional del Departamento de Californias asi lo mando, decrete y firme de que doy fe'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p8: 'declaro a Dn. Jose Ignacio Berreyeza, dueno de cuatro sitios de ganado mayor en un terreno situado en Sonoma colindando con el rancho de los Berreyesas, Armijo, del Sr. Baca y Juarez. Librese el titulo correspondiente'; title stamped p11 'Por cuanto Don Jose Ignacio Berreyesa vecino de San Jose Guadalupe ha pretendido para su beneficio personal y el de su familia un terreno ... conocido con el nombre de Chimiles'. REGISTER IS CORRECT ON THE CLAIMANT/GRANTEE TRAP: the U.S. claimants were William Gordon and Nathan Coombs, purchasers by deed of 25 May 1851 (petition stamped p4); the register records the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 43 NORTHERN DISTRICT'; img2 archival slip 'LAND CASE 43 ND pgs. 41'; leaf stamps 'CASE 43 ND'; PDF filename cubanc_lcf_nd043.pdf. Board docket no. 202 (transcript title stamped p1, docket stamped p2), matching Hoffman's commission_no 202."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco April 11, 1853: 'In case no. 202 William Gordon, Nathan Coombs et al. for the place named \"Chimiles\" Commissioner Harry I. Thornton delivered the Opinion and Decree of final Confirmation which opinion and decree are as follows, to wit: (vide page 25 of this Transcript.)'. The opinion/decree text at transcript p25 sits past the pages read; Hoffman 1862 independently records 'confirmed' and 'patented'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = titulo of 2 May 1846, Pio Pico to Jose Ignacio Berreyesa, four sitios de ganado mayor in the Sonoma jurisdiction, bounded by the ranchos of the Berreyesas, Armijo, Cayetano Juarez and the hills toward Senor Baca's. Chain: petition to the Juez 1o of the Sonoma frontier, Sonoma 29 Dec 1844 (Sp. stamped p7, transl. p14); Jacob P. Leese's informe of the same date allowing provisional occupation 'at his own risk whilst the papers go through the legal steps'; Pico's concession decree and titulo, Los Angeles 2 May 1846, expressly reserved for the approval of the Departmental Assembly. Surveyor General Saml. D. King certified the six-page traced archive copy, San Francisco 1 May 1852 (stamped p10). Downstream conveyances in the file: power of attorney from Berreyesa to Salvador Vallejo to sell one sitio, Sonoma 20 Sept 1847, with receipt of 800 pesos and declaration of the property in Vallejo's favour, Sonoma 22 Sept 1849 (stamped p13, Sonoma County recorder's copy) - hence the supplemental petitions filed 2 March 1853 for John Wooden and for Salvador Vallejo (docket stamped p3). Berreyesa's brother Jose S. Berreyesa deposed 19 Oct 1852 that the grant was made 'sometime in May 1846 by Gov. Pio Pico' and that a house was built and the land occupied that same year (stamped p5). Register/Hoffman agree. Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-chorro",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266065/files/cubanc_lcf_sd025.pdf",
+  "pdf_pages_stated": 75,
+  "pdf_image_count": 83,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-24 (stamped 8-19)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The grant itself names the place CANADA DEL CHORRO, not 'El Chorro': title stamped p9 'el terreno conocido con el Nombre de Canada del Chorro, que se encuentra baldio entre tierras de Guadalupe Cantua, de los indigenas Romualdo y Toribio y del Rancho de la Canada de los Osos', translation stamped p16 'the land known by the name of \"Canada del Chorro\"'; img1 red label 'CANADA DEL CHORRO GRANT'; transcript title stamped p1 'for the place named Canada del Chorro'. The register's short form is attested in the file as a colloquial variant only: the Assembly's approval calls it 'el parage del Chorro' (stamped p10 / transl. p17) and the possession diligencias 'el parage del Chorro' / 'the place known by the name of the Chorro' (stamped p12, p19). Right place, less precise form."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p10: 'Dado en la Ciudad de los Angeles, en este papel comun por falta del Sellado que corresponde, a diez de Octubre de Mil ocho cientos cuarenta y cinco. Pio Pico / Jose M.a Covarrubias Sec.o'; sworn translation stamped p17: 'Given in the City of Los Angeles ... on the 10th day of October One thousand Eight hundred and forty five (Sgd) Pio Pico'. Departmental Assembly approved the concession 8 July 1846 (Narciso Botello's certificate, stamped p10-11 / transl. p17), and juridical possession followed 15 May 1846 (stamped pp12-15)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p9: 'Pio Pico Vocal decano de la Asamblea departamental y Gobernador provisional de las Californias por ministerio constitucional ... usando de las facultades que me son conferidas a Nombre de la Nacion Mejicana, he venido por decreto de este dia en concederles el espresado terreno'; signed stamped p10 'Pio Pico'; translation stamped p16 'Pio Pico Senr Vocal of the Departmental Assembly and Ex Officio provisional Governor of the Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p9: 'Por cuanto Don Diego Scott y Don Juan Wilson han pretendido para su beneficio personal y el de sus familias el terreno conocido con el Nombre de Canada del Chorro'; translation stamped p16 'Whereas Don Diego Scott and Don Juan Wilson have for their personal benefit and that of their families petitioned for the land known by the name of \"Canada del Chorro\"'. Assembly certificate stamped p10 confirms 'la concesion hecha p.r el Gobierno Departamental a favor de D.n Diego Scott y D. Juan Wilson del parage del Chorro'. Register's 'Diego Scott and Juan Wilson' is verbatim the decree's pair; Wilson alone was the U.S. claimant, having bought Scott's half 1 June 1848 (petition stamped p4), and the register correctly kept the grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 25 SOUTHERN DISTRICT'; img2 archival slip 'LAND CASE 25 SD PAGES 75'; leaf stamps '25 SD'; PDF filename cubanc_lcf_sd025.pdf. Board docket no. 220 (docket entry stamped p2 'ordered to be filed and docketed with No. 220', and every later entry), matching Hoffman's commission_no 220 - note the printed transcript title page, stamped p1, carries a mis-written 'NO. 221'."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco Apl. 22, 1853: 'A Statement was read by Commissioner Hiland Hall, on behalf of the Board, accompanied with the Opinion and the decree of final Confirmation in case no. 220, and others therein mentioned' (statement at transcript p27, opinion and decree at p29). Those pages sit past the ~24 images read; Hoffman 1862 independently records 'confirmed' and 'patented'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Canada del Chorro' per the grant title (stamped p9, transl. p16), the case label and the transcript title; register has the short form 'El Chorro'"
+  },
+  "notes": "Grant = titulo of 10 Oct 1845, Pio Pico (as provisional governor by ministry of the constitution) to Diego Scott and Juan Wilson, one sitio de ganado mayor 'or somewhat less', expressly granted as an EXTENSION of the Canada de los Osos rancho they already possessed (condition 1, stamped p9 / transl. p16). Bounded by Guadalupe Cantua's land, the lands of the Indians Romualdo and Toribio, and Canada de los Osos. Departmental Assembly approved 8 July 1846 (Botello, stamped p10). Juridical possession by Juez de Paz Jose de Jesus Pico, at the Chorro, 15 May 1846, cordel of 100 varas, circumference 13,800 varas, adjoiners Cantua, Victor Linares and Mariano Bonilla present and not objecting (stamped pp11-15 Sp. / pp18-20 transl.); originals returned to Wilson in seven leaves 17 May 1846. Pablo de la Guerra proved the signatures of Pio Pico, Covarrubias, Botello, Jose de Jesus Pico, Mariano Bonilla, Pedro C. Carrillo, James Scott, John Wilson and Thomas M. Robbins, 10 May 1852 (stamped p6). John Young deposed 4 Jan 1853 that Wilson had occupied the Canada del Chorro since 1845 with cattle and horses (stamped p7). Register/Hoffman agree on year, governor, grantee and disposition; only the rancho's name is abbreviated. Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-cienega-o-paso-tijera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265865/files/cubanc_lcf_sd125.pdf",
+  "pdf_pages_stated": 91,
+  "pdf_image_count": 100,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-24 (stamped 8-18)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "ERR",
+    "evidence": "SD 125 IS NOT THE CIENEGA GRANT. img1 red label: 'CASE NO. 125 / SOUTHERN DISTRICT / AGUA DEL CENTINELA GRANT / BRUNO ABILA CLAIMANT'; transcript title stamped p1 'for the place named \"Agua del Centinela\"'; docket stamped p2 'The Petition of Bruno Abila for the Place named \"Agua del Centinela\" ... docketed with No. 381'. The grant itself, stamped p10, describes 'el terreno nombrado Laguna del Centinela, desde el ojo de agua hasta el maiz', with Jimeno's note stamped p11: 'La concesion se entiende que es el parage nombrado Aguaje del Centinela colindante con el llano conocido por el Plan, por el Oriente con D. Antonio Ygnacio Avila y D.n Vicente Sanchez, por el Norte con el mismo Senor Sanchez, y por el Poniente con los Senores Machados.' Hoffman's table agrees, printing 'Aguage del Centinela' for court no. 125. Cienega o Paso de la Tijera is the SEPARATE claim, SD 376 (the register's own next row)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p10: 'Dado en Monterrey a catorce de Setiembre de mil ochocientos cuarenta y cuatro. Manl. Michelt.a / Manl. Jimeno Srio.'; translation stamped p15 'Given in Monterey the fourteenth of September one thousand eight hundred and forty four'. Note the 1844 instrument REVALIDATES an earlier title: 'he venido en revalidarle el titulo del terreno mencionado que obtuvo en 21 de Mayo de 837' (stamped p10 / transl. p15, 'which he obtained on the 21st of May 1837')."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, stamped pp9-10: 'El Ciudadano Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante General de la Plana Mayor del mismo, Gobernador, Comandante General e Inspector del Departamento de Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana', signed 'Manl. Michelt.a' stamped p10."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p10: 'Por cuanto Don Ygnacio Machado (Mejicano por nacimiento) ha pretendido p.a su beneficio personal y el de su familia el terreno nombrado Laguna del Centinela'; juridical possession given 'a Don Ygnacio Machado' by 1st Alcalde Manuel Requena, 21 Dec 1844 (stamped pp11-13 / transl. pp16-18). REGISTER IS CORRECT ON THE CLAIMANT/GRANTEE TRAP: the U.S. claimant was Bruno Abila, who bought from Machado by deeds of 20 May 1844 and 7 April 1845 (petition stamped p4); the register kept the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 125 SOUTHERN DISTRICT'; img2 archival slip 'LAND CASE 125 SD 91 pgs.'; leaf stamps '125 SD'; PDF filename cubanc_lcf_sd125.pdf. Board docket no. 381 (transcript title stamped p1 and docket stamped p2), matching Hoffman's commission_no 381."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco March 21, 1854: 'In the same Case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the Claim (vide page 65 of this Transcript).' A further order was made on motion of the United States Law Agent, San Francisco Aug. 15, 1854 (transcript p68), text not read - it sits past the ~24 images read, as does the opinion at p65. Hoffman 1862 independently records 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Agua / Aguaje del Centinela (case label img1 and transcript title stamped p1: 'Agua del Centinela'; grant stamped p10: 'Laguna del Centinela'; Jimeno's clarifying note stamped p11: 'el parage nombrado Aguaje del Centinela'). The register has 'Cienega O Paso De La Tijera', which belongs to SD 376, not SD 125."
+  },
+  "notes": "PRIORITY FINDING: this register row carries the WRONG RANCHO NAME. Every other field (1844 / Micheltorena / Ygnacio Machado / SD 125 / confirmed / patent to Bruno Abila / 2,219.26 acres) fits the Aguaje del Centinela claim exactly; only the name has been taken from the neighbouring Cienega row. Grant = titulo of 14 Sept 1844, Micheltorena to Ygnacio Machado, revalidating a title Machado had obtained 21 May 1837; half a sitio de ganado mayor 'poco mas o menos' (condition 4, stamped p10). Conditions: subject to whatever rights Antonio Ygnacio Avila might show; if the land proved to be within the Los Angeles ejidos he must pay the canon; he may not sell, alienate, donate or mortgage it. Juridical possession by 1st Alcalde Manuel Requena, 21 Dec 1844, with witnesses Ygnacio Coronel and Basilio Valdez: Antonio Ygnacio Avila appeared and OPPOSED, claiming the aguaje was his, but 'los titulos se le pidieron y no los presento' (stamped p12 / transl. p18), so the measurement went on. Boundaries measured with a 100-vara cord: 2,000 varas W to the hills at 'el Maiz', 2,800 varas N to the Machados' line at la Ballona, 2,900 varas E to a nopalera on Vicente Sanchez's line, 2,900 varas S back to the start. Abel Stearns deposed 11 Nov 1852 that the rancho lies about three and a half leagues south-westerly of Los Angeles and that Machado was in possession before the grant, built a small house and held it until he transferred it to Abila (stamped pp6-7). Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-cienega-o-paso-tijera-1",
+  "pdf_url_used": null,
+  "pdf_pages_stated": null,
+  "pdf_image_count": 119,
+  "pages_read": [
+   "img cubanc_1_2_00054988a_k (cover)",
+   "00054989-00054991 (stamped 1-3)",
+   "00054994 (stamped 5)",
+   "00054996 (stamped 7)",
+   "00054998 (stamped 9)",
+   "00055001-00055002 (stamped 12-13)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p13: 'declaro a D.n Vicente Sanchez dueno en propiedad del parage conocido con el nombre de la Cienega o Paso de la Tijera'; transcript title stamped p1 'for the place named La Cienega o Paso de la Tijera'; docket stamped p2 'The Petition of Tomas Sanchez et al. for the Place named \"La Cienega o Paso de la Tijera\"'. (The gilt case label on the binding, image 00054988, misprints it 'LA CIENEGA O' PASO DE LA TIJERO GRANT'; digicoll's own catalogue title flags this with '[sic]'. The register agrees with the decree, not the label.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p13, headed 'Angeles. Mayo 16 de 1843' and signed off 'El Sr. D.n Manuel Micheltorena Gobernador Comandante General y Inspector del Departamento de ambas Californias, asi lo mando, decreto y firmo de que doy fee.' Micheltorena's prior order, stamped p12: 'Angs. Mayo 13 de 1843. Como pide: espidase el titulo. Michelltorena.' Abel Stearns deposed 1 Nov 1852 (stamped p7) to 'a grant to Vicente Sanchez of a tract of land called La Cienega dated the 16th day of May 1843, to which is attached a testimonial of the giving of judicial possession June 1843.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p13: 'El Sr. D.n Manuel Micheltorena Gobernador Comandante General y Inspector del Departamento de ambas Californias, asi lo mando, decreto y firmo'; his marginal referral to Prefect Santiago Arguello, stamped p12, is signed 'Michelltorena' and dated 'Gobierno del Depart.o de Californias, Mayo 3 de 1843'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p13: 'declaro a D.n Vicente Sanchez dueno en propiedad del parage conocido con el nombre de la Cienega o Paso de la Tijera'; his own petition, stamped p12, 'Vicente Sanchez, Mejicano por nacimiento y vecino de esta demarcacion ... la antigua posecion que tengo del terreno nombrado la Cienega o Paso de la Tijera', signed 'Angeles Mayo 2 de 1843. Vicente Sanchez'. REGISTER IS CORRECT ON THE CLAIMANT/GRANTEE TRAP: the U.S. claimants were Tomas A. Sanchez, Luisa, Ramon and Josefa Sanchez, grandchildren claiming by inheritance (petition stamped p5); the register kept the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "binding label image 00054988 'CASE NO. 376 SOUTHERN DISTRICT'; every leaf stamped '376 SD'; transcript title stamped p1 'IN CASE NO. 427 Tomas Sanchez et al CLAIMANTS'. Board docket no. 427 matches Hoffman's commission_no 427."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco July 10, 1855: 'In the same cases Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim. (Vide page 79 of this transcript.)' The opinion text at transcript p79 was not reached. Hoffman 1862 independently records 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "ACCESS NOTE for re-readers: the register's scan_record_url (digicoll record 102023) serves NO cubanc_lcf PDF - fetch_case_pages.py fails with 'no cubanc_lcf PDF listed', and a derived https://digicoll.lib.berkeley.edu/record/102023/files/cubanc_lcf_sd376.pdf answers HTTP 200 with an HTML error page (the two-volume trap in a new dress). The case file is served ONLY as ~119 page JPEGs named cubanc_1_2_000NNNNNa_k.jpg, running 00054988-00055096 plus 00057800-00057809 in transcript order; a digicoll search for any other SD 376 record returns nothing. Download individual leaves with curl and Read them.\n\nGrant = decree of 16 May 1843, Micheltorena to Vicente Sanchez, one sitio de ganado mayor 'poco mas o menos', bounded S by Ygnacio Machado's rancho, N by the Sanja de Agua de la Tijera, W by the punta de la Cienega, E by the Sanja del Rodeo de en medio, subject to a censo if the tract turned out to fall inside the Los Angeles ejidos, and referred to the Junta Departamental for approval (stamped p13). This 1843 decree PERFECTED a much older provisional title: the expediente copies the 'titulo Interino de Don Vicente Sanchez, Ano de 1823' issued by Luis Antonio Arguello, captain of the San Francisco presidial cavalry company and interim Jefe Superior Politico y Militar of Alta California, on Sanchez's petition of 10 Feb 1823 (stamped pp13-14); Prefect Santiago Arguello's informe of 11 May 1843 (stamped p12) confirms Sanchez 'poseia el terreno conocido con el nombre de la Cienega y Paso de la Tijera desde el ano de 1823 por titulo provisional'. Judicial possession June 1843 (Stearns, stamped p7). A RIVAL CLAIM to the same place was docketed as Board no. 458, Casilde Aguilar et al.; the claimants' motion to consolidate 427 and 458 was DENIED by Commr. Alpheus Felch, 14 April 1854 (stamped p3), and both were confirmed together 10 July 1855. Witnesses: Abel Stearns (1 Nov 1852), Julian Chavez (3 Nov 1852), Agustin Olvera (6 Nov 1852), J. J. Warner (18 Oct 1853)."
+ },
+ {
+  "id": "rancho-cienega-paicines",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267562/files/cubanc_lcf_sd220.pdf",
+  "pdf_pages_stated": 50,
+  "pdf_image_count": 60,
+  "pages_read": [
+   "img 1-12 (stamped 1-6)",
+   "img 13-24 (stamped 7-18)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p16: 'declaro a los Ciudadanos Angel Castro y Jose Ant.o Rodriguez duenos en propiedad del terreno conocido con el nombre de Cienega de los Paicines'; Spanish expediente cover stamped p14: 'Espediente promovido por D.n Angel Castro y D.n Jose Antonio Rodriguez en solicitud del parage conocido con el Nombre de Cienega de los \"Paicines\"'; U.S. petition stamped p4 'the tract of land called \"Cienega de los Paicines\" in the District of Monterey'. (The binding label, img1, and the transcript title page, stamped p1, use the short form 'LOS PAICINES'; the register matches the decree's full form.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p16, headed 'Monterrey 5 de Octubre de 1842'; Alvarado's referral to the Prefect of the 1st District stamped p15 'Monterrey Oct.e 3 de 1842'; Prefect Jose R. Estrada's informe 'Prefectura del 1er Distrito. Monterrey Oct.e 4 de 1842'; petitioners' instancia signed 'Monterey Set.e 6 de 1842'. The U.S. petition, stamped p4, agrees: 'on the 5th day of October A.D. 1842'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "concession decree, stamped p16, closes 'El Ex.mo Sr. Gobernador asi lo decreto y firmo de que doy fee'; the governor is identified on the same expediente by his own signature, stamped p15: 'Monterrey Oct.e 3 de 1842. Pase al Sr. Prefecto del 1er Districto lo conveniente. Alvarado', and by the sealed-paper endorsement 'Revalidado p.a los anos de 1842 y 1843. Alvarado'. Petition stamped p4: 'Juan B Alvarado Governor of California by virtue of authority in him vested granted'. Francisco Diaz, the alcalde who gave possession, deposed 26 June 1854 (stamped p11) that the governor's order 'was signed by Governor Alvarado, was made in 1842'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "THE GRANT RAN TO TWO MEN, NOT ONE. Concession decree, stamped p16: 'declaro a los Ciudadanos Angel Castro y Jose Ant.o Rodriguez duenos en propiedad del terreno conocido con el nombre de Cienega de los Paicines'. Their joint petition, stamped p15, is signed 'Jose Antonio Rodrigz. / Angel M.a de Castro'; the expediente cover stamped p14 names both. Manuel Lucas deposed 24 Feb 1853 (stamped p6) of 'Jose Antonio Rodriguez, one of the grantees in this case; he was drowned in Monterey some years ago', and Francisco Diaz that in 1842 'I gave judicial possession of the place to Angel Castro and Antonio Rodriguez' (stamped p8). The register (like Hoffman) records only Angel Castro and drops the co-grantee Jose Antonio Rodriguez. Right entity, incomplete."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 220 SOUTHERN DISTRICT'; img2 archival slip 'LAND CASE 220 SD pgs. 50'; leaf stamps '220 SD'; PDF filename cubanc_lcf_sd220.pdf. Board docket no. 596 (transcript title stamped p1 and docket stamped p2), matching Hoffman's commission_no 596."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entry stamped p3, San Francisco October 14, 1854: 'In the same Case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (Vide page 29 of this Transcript.) And the following order was made, to wit: (Vide page 32 of this Transcript.)' Opinion and order text at transcript pp29 and 32 lie past the pages read; Hoffman 1862 independently records 'confirmed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Angel Castro AND Jose Antonio Rodriguez, jointly, per the concession decree stamped p16: 'declaro a los Ciudadanos Angel Castro y Jose Ant.o Rodriguez duenos en propiedad del terreno conocido con el nombre de Cienega de los Paicines'"
+  },
+  "notes": "Grant = decree of 5 Oct 1842, Alvarado to Angel Castro and Jose Antonio Rodriguez jointly, two sitios de ganado mayor, bounded N by the Rancho Santa Ana (Juan Anzar), E and S by the serranias, W by the Rancho San Justo (Jose Castro); referred to the Junta Departamental for approval. The petitioners' own argument (stamped p15) was frontier-defensive as much as economic, and Prefect Estrada endorsed it (p16): the tract 'se encuentra situado p.r el rumbo donde hacen sus incursiones los barbaros', so settling it would in time block that raiding road. Judicial possession given in 1842 by Francisco Diaz, First Alcalde and judge in charge of Mission San Juan Bautista, secretary Jose Maria Bravo, measurers Capistrano Lopez and Jose Vasquez, with Manuel Lucas of Rancho Santa Ana present as adjoining owner; measured with a 50-vara rope, 10,000 varas north from a canada, about one league across, marked by a cross cut on an oak at the San Justo line and a heap of stones at Santa Ana (stamped pp8-10). Rodriguez drowned in a shipwreck at Monterey about 1845, leaving the widow Hilaria Castro de Rodriguez and three children (Ypolito/Ysabel, Dionisio and Maria Dolores) - hence the claim by 'Angel Castro and the heirs of Jose Antonio Rodriguez' (petition stamped p4, depositions pp6-7). The record of possession was left in the San Juan Bautista archives and passed to Diaz's successor Quintin Ortega (stamped p13). Attorneys Halleck, Peachy & Billings. Single volume, no MULTI-VOLUME note."
+ },
+ {
+  "id": "rancho-coches",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264167/files/cubanc_lcf_nd289.pdf",
+  "pdf_pages_stated": 133,
+  "pdf_image_count": 147,
+  "pages_read": [
+   "img 1-12 (stamped 1-6)",
+   "img 15-26 (stamped 9-20)",
+   "img 46-57 (stamped 40-51)",
+   "img 67-78 (stamped 61-72)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 289 / NORTHERN DISTRICT / LOS COCHES GRANT / ANTONIO SUNOL, et al. CLAIMANT'; transcript title stamped p1 'for the place named \"Los Coches\"'; sworn translation of the grant title, stamped p64: 'Roberto ... has claimed for his personal use and that of his family a portion of the Land called Los Coches'; endorsement stamped p68 'Los Coches, Rancho'. Hoffman's 'part of Los Coches' registers the same fact the title states, that the grant was a PORTION of the tract so called."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Spanish grant title, stamped p61: 'Dado en Monterey a doce de Marzo de mil ochocientos cuarenta y cuatro. Manl. Michelt.a / Manl. Jimeno S.rio. Queda tomada razon de esta concesion en el libro respectivo a f.o 7. Jimeno'; sworn translation stamped p65: 'Given at Monterey this 12th day of March one thousand eight hundred and forty four'. Roberto's certificate of emancipation is of the same date (translation stamped p63, 'Monterey 12 March 1844')."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title, translation stamped p64: 'Manuel Micheltorena General of Brigade of the Mexican army, adjutant General of the staff of the same, Governor Commandant General and Inspector of the Department of the Californias ... by virtue of the authority in me vested and in the name of the Mexican Nation have granted to him the said Land'; Spanish signature stamped p61 'Manl. Michelt.a / Manl. Jimeno S.rio'. James A. Forbes deposed 27 July 1854 (stamped p49) 'I was in Monterey in the Government House when his title came and saw it'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, translation stamped p64: 'Whereas Roberto a native of Santa Clara and a resident of the Pueblo of San Jose has claimed for his personal use and that of his family a portion of the Land called Los Coches'. Roberto was an emancipated neophyte of Mission Santa Clara: his certificate of emancipation, same date, stamped p63, 'Whereas the Native of Santa Clara called Roberto has proved that since the year 1840 the Governor of the Department has detached him from his Mission, he having shewn by his integrity and abilities his capacity to maintain himself'. REGISTER IS CORRECT ON THE CLAIMANT/GRANTEE TRAP: the U.S. claimants were Antonio Sunol, Paula Sunol de Sainsevain and Henry M. Naglee, purchasers; the register kept the Indian grantee. His fuller name appears only in the conveyances as 'Jose Roberto Valermino' (Doc. H.J.T. No 1, stamped p66); the title itself says simply 'Roberto', exactly as the register has it."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 289 NORTHERN DISTRICT'; img2 archival slip 'LAND CASE 289 ND PAGES 133'; leaf stamps '289 ND'; PDF filename cubanc_lcf_nd289.pdf. Board docket no. 167 (transcript title stamped p1 and docket stamped p2), matching Hoffman's commission_no 167."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket entries stamped pp3-4, San Francisco March 20, 1855: 'In the same Case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim (vide page 95 of this Transcript.) And the following order was made, to wit: (vide page 119 of this Transcript.)'. Case had been argued and submitted 4 Aug 1854. Opinion and order text at transcript pp95 and 119 lie past the pages read; Hoffman 1862 independently records 'confirmed' and 'patented'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant = titulo of 12 March 1844, Micheltorena to Roberto, an emancipated Indian of Mission Santa Clara, half a square league (condition 3, stamped p65), bounded by the Guadalupe river of the Pueblo de San Jose, the Alameda (line drawn 20 varas from it and parallel), the oak grove called el Trotal, and the cienequita of Santa Clara; expressly subject to Departmental Assembly approval and inalienable by its own condition 1. Chain: Roberto occupied from about 1836 by permission of the Santa Clara padres (Forbes, stamped p41; Fernandez, stamped p13); on the report of the subordinate officer the governor decreed a PROVISIONAL grant to occupy, 9 Oct 1840 (petition stamped p5); alcalde's registry of his cattle brand, Pueblo of San Jose 18 July 1843 (translation stamped p62); confirmation of emancipation and the full title both issued 12 March 1844; registered in the proper book at fo. 7 (Jimeno, stamped p61). Roberto sold the rancho to Antonio Sunol for 500 pesos, San Jose 1 Jan 1847, the deed marked with his cross and those of his wife Manuela, son Juan and daughter Maria Regina Valermino (Doc. H.J.T. No 1, stamped p66); after Roberto and his widow died the two surviving children ratified the extrajudicial sale before 2nd Alcalde Jose Fernandez, 8 Jan 1850, witnesses M. G. Vallejo, Jose Noriega and Jose Maria Covarrubias (stamped pp66-67). Sunol conveyed undivided thirds to Paula Sunol de Sainsevain and Henry M. Naglee, 15 Dec 1849. Surveyed by William J. Lewis under a state court order, Feb 1850 (stamped pp18-19). The contested issue in the file is the northern boundary and the meaning of 'el Trotal', with Hartfield, Campbell and Headly deposing for the United States. A large single volume, no MULTI-VOLUME note. Note for re-readers: the exhibits are filed well past the depositions - the Spanish title ends at stamped p61 and its sworn translation runs stamped pp64-65, i.e. PDF images 67 and 70-71, far beyond the usual 30-image cap."
+ }
+]

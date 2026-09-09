@@ -1,0 +1,496 @@
+[
+ {
+  "id": "rancho-guenoc",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264405/files/cubanc_lcf_nd013.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "img1-14 = stamped transcript pages 1-9"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 13 / NORTHERN DISTRICT / GUENOC GRANT / ARCHIBALD A. RITCHIE ET AL CLAIMANT'; transcript title page (stamped PAGE 1) 'FOR THE PLACE NAMED \"Guenoc\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 7, opinion of Comm'r Harry I. Thornton: grant 'by Pio Pico, who was the Governor of California, on the 8th of August, 1845, and approved by the Departmental Assembly on the 26th of September, 1845'; petition at stamped PAGE 2 agrees ('the eight day of August A.D. one thousand eight hundred and forty five')"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 7: '...by Pio Pico, who was the Governor of California, on the 8th of August, 1845'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 7: 'The claim in this case presented is founded on a grant to George Rock, made and delivered to him... By various mean conveyances, the interest of the said original grantee, has been transferred to the present claimants'. Register correctly holds the Mexican grantee (George Rock), not the U.S.-era claimants Ritchie and Forbes"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 13 NORTHERN DISTRICT'; page stamps read 'CASE 13 ND'; PDF filename cubanc_lcf_nd013.pdf. (Board docket no. was 12 — stamped PAGE 1 'IN CASE NO. 12' — but the district-court/Bancroft docket is 13 ND, which is what the register records.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGES 8-9, 'No 12. Decree of Final Confirmation ... It is decreed that the said claim be confirmed to the extent and quantity of six square leagues, or sitios de ganado mayor, and for no more', signed Hiland Hall and Harry I. Thornton, Commissioners, 18 Dec. 1852"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Board docket 12 vs Bancroft case 13 ND (Hoffman gives commission_no 12 / court_no 13 — consistent). PDF has 167 images; only images 1-14 (stamped pages 1-9) read. Board confirmation verified; no appeal/district-court decree read, but the register's bare 'Confirmed' is corroborated by the final decree of the Board. No duplicate exposures observed in the range read; image n = stamped page n-5 from img7 onward."
+ },
+ {
+  "id": "rancho-guesisosi",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264414/files/cubanc_lcf_nd026.pdf",
+  "pdf_pages_stated": 45,
+  "pages_read": [
+   "img1-14 = stamped pages 1-9",
+   "img19-28 = stamped pages 14-21"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "img1 red label: 'CASE NO. 26 / NORTHERN DISTRICT / QUESESOSI GRANT / WILLIAM GORDEN CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"Quesesosi\"'. Register spells it 'Guesisosi'. The grant decree itself (stamped PAGE 21) names the land 'Jesus Maria', not Quesesosi"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree in sworn translation, stamped PAGE 21: 'Angeles January 27' 1843. In view of the petition with which this Expediente commences... I do declare Don William Gordon owner in fee of the land called Jesus Maria, at which place two leagues are granted him'. Spanish original at stamped PAGE 16: 'Angeles Enero 27 de 843'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 21: 'Don Manuel Micheltorena Governor, Commandant General and Inspector of the Department of the Californias, did thus command, decree and sign, which I attest'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 21 decree: 'I do declare Don William Gordon owner in fee of the land called Jesus Maria, at which place two leagues are granted him, bounded by the Sierra which divides Napa and by the river Sacramento'. Grantee and U.S.-era claimant are the same man, so the claimant/grantee trap does not bite here"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 26 NORTHERN DISTRICT'; page stamps 'CASE 26 ND'; leaf 2 archival slip 'LAND CASE 26 ND pgs. 45'; filename cubanc_lcf_nd026.pdf. (Board docket was No. 203 — stamped PAGE 1.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 4, journal entry 'Monday January 10th 1853. In Case No 203, William Gorden, for the place named \"Quesesosi,\" Commissioner Harry I. Thornton delivered the opinion of this Board, and the decree of final confirmation'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case file spells the grant 'Quesesosi' (red label img1; transcript title stamped PAGE 1); the decree itself calls the land 'Jesus Maria' (stamped PAGE 21). Register 'Guesisosi' is a corrupt variant."
+  },
+  "notes": "Archival slip states 45 transcript pages; PDF has 55 images. Full text of the decree of confirmation sits at transcript pages 35-36, beyond the 30-image excerpt read, but the journal entry at stamped PAGE 4 records its delivery. Grant was for two leagues on the Rio Jesus Maria; the earlier 1842 Vallejo concession (stamped PAGES 14, 19) was only a provisional two-sitio concession requiring the political government to issue title, which Micheltorena did 27 Jan. 1843."
+ },
+ {
+  "id": "rancho-habra",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268977/files/cubanc_lcf_sd355.pdf",
+  "pdf_pages_stated": 77,
+  "pages_read": [
+   "img1-12 = stamped pages 1-7",
+   "img13-24 = stamped pages 8-17"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 355 / SOUTHERN DISTRICT / LA HABRA GRANT / ANDRES PICO, ET AL CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"La Habra\"'. The Spanish expediente cover (stamped PAGE 11) reads 'Espediente promovido por el C.no Mariano R. Roldan en solicitud del paraje conocido con el nombre de la \"Haba\" 1839'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 13: 'Monterey 22 de 8bre de 1839... he concedido en nombre de la Nacion Mejicana a D.n Mariano R. Roldan el paraje nombrado \"Haba\"'; the titulo at stamped PAGE 16 closes 'Dado en Monterey a Veintedos de 8bre de mil ochocientos treinta y nueve'; Alvarado's 10 June 1840 order (stamped PAGE 14) refers to 'el terreno de Habra que obtuvo en 22 de Octubre de 1839'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 13: 'El Sor D.n Manuel Jimeno Casarin primer vocal propietario de la Exma Junta Departamental de las Californias en ejercicio del Gobierno del mismo asi lo mando, decreto y firmo de que doy fe. Manuel Jimeno'. Register's 'Jimeno' is correct; he signed as acting governor, not Alvarado (Alvarado appears only in the 1840 testimonio order, stamped PAGE 14)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 13: 'he concedido en nombre de la Nacion Mejicana a D.n Mariano R. Roldan el paraje nombrado \"Haba\"'; departmental-assembly approval 20/22 May 1840 (stamped PAGE 15) 'Se aprueba la consecion echa de la Canada de la Haba en la persona de D.n Mariano R. Roldan'. Register correctly holds the Mexican grantee, NOT the U.S.-era claimants Andres Pico / Francisca Uribe de Ocampo"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 355 SOUTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 355 SD pgs. 77'; page stamps '355 SD'; filename cubanc_lcf_sd355.pdf. (Board docket was No. 401 — stamped PAGES 1-2.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco July 3' 1855. In the same case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim; (Vide page 59 of this Transcript) And the following order was made, to wit: (Vide page 68 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All four substantive fields (name/year/governor/grantee) verified against the Spanish concession decree of 22 Oct. 1839 and the titulo, not against the claim petition. Hoffman agrees with register and with the file on all fields. Board confirmation of 3 July 1855 read only as a journal entry; the opinion text (transcript p59) and order (p68) lie beyond the 30-image excerpt, as would any district-court decree. PDF has 92 images for 77 transcript pages. No duplicate exposures detected in the range read (stamped page = image number minus 5 throughout)."
+ },
+ {
+  "id": "rancho-huasuna",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265819/files/cubanc_lcf_sd069.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "img1-12 = stamped pages 1-7",
+   "img13-23 = stamped pages 8-17"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "img1 red label: 'CASE NO. 69 / SOUTHERN DISTRICT / HUASNA GRANT / ISAAC J. SPARKS CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"Huasna\"'; Spanish expediente cover (stamped PAGE 8) '1844. Espediente relativo a la posesion del rancho de Huasna'; grant decree (stamped PAGE 9) 'el paraje conocido con el nombre de Huasna'. Register spells it 'Huasuna' with an intrusive u"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 10: 'Dado en Monterey a ocho de Diciembre de mil ochocientos cuarenta y tres. Man.l Micheltorena. Man.l Jimeno, Srio.'; sworn translation at stamped PAGE 17 heads the same instrument; petition (stamped PAGE 4) agrees ('on or about the 8th day of December 1843')"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 9: 'Senl. Manuel Micheltorena General de Brigada del Ejercito Mejicano... Gobernador Comandante General e Inspector del Departamento de las Californias'; signed 'Man.l Micheltorena' at stamped PAGE 10"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 9: 'Por cuanto D.n Isaac J. Sparks, Ciudadano Mejicano por naturalizacion ha pretendido para su beneficio personal y el de su familia el paraje conocido con el nombre de Huasna... he venido en concederle el terreno mencionado declarandole la propiedad de el'. Grantee and U.S.-era claimant are the same man"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 69 SOUTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 69 SD pgs. 56'; page stamps '69 SD'; filename cubanc_lcf_sd069.pdf. (Board docket was No. 363 — stamped PAGES 1-2.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco January 17' 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim; (Vide page 25 of this Transcript.)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case file spells it 'Huasna' (red label img1; transcript title stamped PAGE 1; grant decree stamped PAGE 9). Register 'Huasuna' is wrong; Hoffman also gives 'Huasna'."
+  },
+  "notes": "Grant was five sitios de ganado mayor; judicial possession given 16-17 Feb. 1844 by Juez de 1a instancia Jose Maria Covarrubias (stamped PAGES 11-16). CAUTION for a re-reader: the possession act at stamped PAGE 15 misdates the title as 'el ocho de Diciembre del ano mil ochocientos cuarenta y seis' — a scribal slip in the possession record; the title itself (stamped PAGE 10) and its sworn translation are dated 8 Dec. 1843, and the possession was taken in Feb. 1844, so 1843 is right. Board confirmation of 17 Jan. 1854 read as a journal entry; the opinion text (transcript p25) lies beyond the 30-image excerpt. PDF has 67 images for 56 transcript pages; no duplicate exposures detected in the range read."
+ },
+ {
+  "id": "rancho-huerta-romualdo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267602/files/cubanc_lcf_sd261.pdf",
+  "pdf_pages_stated": 92,
+  "pages_read": [
+   "img1-12 = stamped pages 1-7",
+   "img17-28 = stamped pages 10-21",
+   "img44-55 = stamped pages 37-48",
+   "img87-101 = stamped pages 78-92"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"Huerta de Romualdo\"'; District Court decree (stamped PAGE 83) 'is known by the name of \"Huerta de Romualdo\" or \"El Chorro\"'. NOTE the Bancroft red label (img1) reads 'HUERTA DE ROMALDO GRANT' - a binder's misspelling contradicted by the transcript and by the decree"
+   },
+   "year": {
+    "grade": "PART",
+    "evidence": "Two dates, and the register carries only the earlier. Alvarado's certificate (stamped PAGE 11): 'Certifico que siendo Gobernador de este Departamento en el ano de 1842 mande orden en dicho tiempo al Encargado de la mision de S.n Luis Obispo entonces D.n Mariano Bonilla, para que de los terrenos valdios pertenecientes a dicha mision repartiere... resultando agraciado el Indigena Romualdo con el paraje llamado el Chorro'. But the instrument actually confirmed is Pio Pico's title, stamped PAGE 17: 'Dado en el pueblo de S.n Luis Obispo... a Diez de Julio de mil ocho cientos cuarenta y seis'. Commissioner Felch expressly held (stamped PAGE 40) 'No grant was ever obtained and in truth none is pretended to have been procured from any competent authority until that signed by Pio Pico in 1846'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "both named officials are documented: Alvarado's own certificate of the 1842 mission-land distribution at stamped PAGE 11 ('Juan B. Alvarado Coronel de la Milicia auxiliar... Certifico que siendo Gobernador... en el ano de 1842'), and Pico's grant at stamped PAGE 17 ('Pio Pico Gobernador Constitucional del Departamento de Californias... he venido en confirmar la concesion de el referido terreno', signed 'Pio Pico. Jose Matias Moreno Srio Int.o', 10 July 1846). Register's compound 'J. B. Alvarado; Pio Pico' matches the file"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "the file spells the grantee 'Romualdo' throughout, never 'Romaldo': expediente cover (stamped PAGE 10) 'Chorro o Huerta de Romualdo'; Alvarado cert. (stamped PAGE 11) 'el Indigena Romualdo'; his own mark on the 1846 deed (stamped PAGE 13) 'Romualdo +'; Pico's grant (stamped PAGE 17) 'Por cuanto el indigena Romualdo ha hecho constar...'; District Court decree (stamped PAGE 83) 'Huerta de Romualdo'. Right person, wrong spelling. Correctly the Indian grantee and not the U.S.-era claimant John/Juan Wilson, who bought from him in 1846"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 261 SOUTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 261 SD 92 pgs.'; District Court caption (stamped PAGE 82) 'No. 261 ... Transcript from the Board of Land Commissioners No. 50'; filename cubanc_lcf_sd261.pdf"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "TRAP CLEARED. The Board REJECTED: stamped PAGE 3, 'San Francisco December 12' 1854. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim' (opinion at stamped PAGES 38-48, resting on the 10 July 1846 grant being post-conquest). Reversed on appeal: District Court decree, Judge Isaac S. K. Ogier, December Term 1856, filed 9 Feb. 1857, stamped PAGES 82-83: 'Ordered, adjudged and decreed, that the decision of said Board of Land Commissioners declaring invalid and rejecting the claim of the appellant John Wilson... be and the same is hereby reversed: And it is further ordered adjudged and decreed that the title of the appellant John Wilson to the land so claimed by him is a good and valid title, and that his claim to said land be and the same hereby is confirmed.' The United States appealed; the U.S. Supreme Court mandate, December Term 1863 (stamped PAGES 85-88), records that 'on the motion of Mr Attorney General Bates of Counsel for the Appellants, it is now here ordered adjudged and decreed by this Court that this cause be and the same is hereby dismissed', 24 March. Ogden Hoffman, District Judge, then ordered (stamped PAGE 89) 'that the claimant be allowed to proceed under the decree of this Court confirming the title to said lands as under final decree'. Register's 'Confirmed' is right and final"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "'Romualdo' (Pico's grant, stamped PAGE 17: 'el indigena Romualdo'; his mark 'Romualdo +' at stamped PAGE 13). Register 'Romaldo' follows the Bancroft red label, which is itself wrong.",
+   "year": "Register's 1842 is the year of the mission-land distribution certified after the fact by Alvarado (stamped PAGE 11). The title actually confirmed by the District Court is Pio Pico's of 10 July 1846 (stamped PAGE 17). A precise register entry would read '1842 (Alvarado, per later certificate); title 10 July 1846 (Pico)'."
+  },
+  "notes": "PRIORITY CASE for the 'bare Confirmed hides a Commission rejection' trap - here the trap resolves in the register's favour, but only the District Court decree of Feb. 1857 and the 1864 Supreme Court dismissal make 'Confirmed' true; the Board rejected in Dec. 1854. Grant was tiny (about 1,000 x 300 varas; register's patent_acres 117.13 is consistent). PAGE-INDEX DRIFT WARNING for re-readers: in the first part of the volume stamped page = PDF image minus 7 (img17 = PAGE 10), but by the end stamped page = image minus 9 (img87 = PAGE 78); two extra exposures (oversize folded court documents shot separately) enter mid-file. Always cite the stamped page. Read in three passes: images 1-30, 44-72, 73-101."
+ },
+ {
+  "id": "rancho-huichica",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264437/files/cubanc_lcf_nd050.pdf",
+  "pdf_pages_stated": 82,
+  "pages_read": [
+   "img1-12 = stamped pages 1-7",
+   "img13-22 = stamped pages 8-17",
+   "img23-30 = stamped pages 18-25"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 50 / NORTHERN DISTRICT / HUICHICA GRANT / JACOB P. LEESE CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"Huichica\"'; expediente cover (stamped PAGE 8) 'Espediente promovido por D.n Jacob Leese en pretencion del Terreno llamado Huichica'. Hoffman's 'Huichicha' is Hoffman's error, not the register's"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "first title in sworn translation, marked 'B', stamped PAGE 23: 'Given in Monterey on the twenty sixth day of October, eighteen hundred & forty one. (Signed) Manuel Jimeno. (Signed) Jose L. Fernandez, Secretary ad interim.' Spanish original at stamped PAGE 25. Confirmed by Leese's own 1844 petition (stamped PAGE 16 translation): 'that on the month of October 1841 I obtained from this Departmental Government the title of the Rancho of Huichica'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "first title, stamped PAGE 22 (translation) / PAGE 25 (Spanish): 'Manuel Jimeno Casarin, First Member of the Most Excellent Junta of the Department of the Californias, in charge of the Government thereof ad interim... I have by virtue of the powers conferred upon me, granted unto him the said land, in the name of the Mexican Nation'. Register's 'Jimeno' is right for the 1841 grant"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "first title, stamped PAGE 22: 'Whereas Mr Jacob P. Leese has solicited for his personal benefit & that of his family, the place known by the name of Huichica'; Spanish (stamped PAGE 25) 'Por cuanto D. Jacobo P. Leese ha pretendido para su beneficio y el de su familia el paraje conocido con el nombre de Huichica'. Grantee and U.S.-era claimant are the same man"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 50 NORTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 50 ND pgs. 82'; page stamps 'CASE 50 ND'; filename cubanc_lcf_nd050.pdf. (Board docket was No. 165 - transcript title page stamped PAGE 1.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco April 22' 1853. A Statement was read by Commissioner Hiland Hall, in behalf of the Board, accompanied with the opinion and decree of final confirmation in Case No. 165, Jacob P. Leese and others therein mentioned' (opinion at transcript p55, statement at p53)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TWO-STAGE GRANT, and the register records only the first stage. (1) 26 Oct. 1841, Manuel Jimeno Casarin as acting governor, two sitios de ganado mayor (title 'B', stamped PAGES 22-23; Spanish PAGE 25); juridical possession 14 Feb. 1842 by Salvador Vallejo, Juez de Sonoma, who mismeasured six sitios (stamped PAGE 24). (2) 6 July 1844, Micheltorena granted an extension of three and a half sitios 'besides the two already granted, so that the whole extent comprises five sitios & a half': translation stamped PAGES 20-21, 'Given in Monterey on the Sixth of July eighteen hundred & forty four. (Signed) Manuel Michelltorena. (Signed) Manuel Jimeno, Secretary'; Spanish at stamped PAGES 13-14. Hoffman records both ('Manuel Jimeno, and July 6th, 1844, by Manuel Micheltorena') and the register does not; not graded as an error since the register's year/governor fields describe the original grant correctly, but a fuller entry would note the 1844 extension. Jimeno's own 1844 informe (stamped PAGES 10, 17) held the 1842 possession null because 'three times as much land was measured as was granted'. PDF has 90 images for 82 transcript pages; stamped page = image minus 5 throughout the range read; no duplicate exposures seen."
+ },
+ {
+  "id": "rancho-jamacho",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266085/files/cubanc_lcf_sd048.pdf",
+  "pdf_pages_stated": 80,
+  "pages_read": [
+   "img1-12 = stamped pages 1-7",
+   "img13-20 = stamped pages 8-12 (incl. an inserted PAGE 10A)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 48 / SOUTHERN DISTRICT / JAMACHO GRANT / APOLINARIA LORENZANA CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"Jamacho\"'; sworn translation of the grant (stamped PAGE 10A) 'the tract known by the name of Jamacho'. The Spanish original spells it 'Jamacha' (stamped PAGE 9, and the Assembly approval at PAGE 12 'del terreno conocido con el nombre de Jamacha')"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, Spanish, stamped PAGE 9: 'Dado en Monterey a 27 de Abril de mil ochocientos cuarenta. Juan B. Alvarado.'; sworn translation, stamped PAGE 11: 'Given at Monterey this twenty seventh of April One thousand eight hundred and forty'. Departmental Assembly approved 22 May 1840, certificate issued 30 May 1840 (stamped PAGE 12)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 9: 'Juan B. Alvarado, Gobernador constitucional del Departamento de las Californias... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he venido en concederle el terreno mencionado'; signed 'Juan B. Alvarado' with 'Man.l Jimeno, Srio del Despacho' countersigning"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 9: 'Por cuanto D.a Apolonaria Lorenzana a pretendido para su beneficio personal el paraje conocido con el nombre de Jamacha colindante al Sur con el rancho nacional, al [Poniente] con la mision de San Diego y al Este con la Sierra'; translation stamped PAGE 10A 'Whereas Dona Apolinaria Lorenzena has claimed for her personal benefit the tract known by the name of Jamacho'. Grantee and U.S.-era claimant are the same woman"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 48 SOUTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 48 SD PAGES 80'; page stamps '48 SD'; filename cubanc_lcf_sd048.pdf. (Board docket was No. 442 - transcript title page stamped PAGE 1.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco Nov. 4th 1853. In the same case Commissioner Robert A. Thompson delivered the Opinion of the Board, confirming the claim; (Vide page 18 of this Transcript.)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant of two sitios de ganado mayor to Apolinaria Lorenzana, the San Diego mission nurse; grantee and claimant identical, so the claimant/grantee trap does not bite. Judicial possession 12 Aug. 1840 (per Abel Stearns's deposition, stamped PAGE 6). PAGE-STAMP WARNING for re-readers: this volume contains an inserted leaf stamped 'PAGE 10A' between PAGE 10 and PAGE 11 (PDF image 17) - the sworn translation of the grant. Cite 10A, not '10'. PDF has 92 images for 80 transcript pages. Board confirmation read as a journal entry; the opinion text (transcript p18) lies beyond the range read, as would any district-court decree; register's 'Confirmed' plus the 1871 patent is consistent."
+ },
+ {
+  "id": "rancho-jurupa-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/102013/files/cubanc_1_2_00058591a_k.jpg ... 00058756a_k.jpg (166 JPEGs; NO cubanc_lcf_sd213.pdf exists)",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "img1-18 = stamped pages 1-18 (cover + transcript pages 2-18)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "img1 red label: 'CASE NO. 213 / SOUTHERN DISTRICT / JURUPA GRANT / JUAN BANDINI CLAIMANT'; transcript (stamped PAGE 2) 'The Petition of Juan Bandini for the Place named \"Jurupa\"'; grant decree (stamped PAGE 10) 'el terreno conocido con el nombre de Jurupa'. The grant name is simply 'Jurupa'. The register's disambiguating tag '(Stearns)' finds NO support in this case file: Abel Stearns appears only as a deposing witness to signatures (stamped PAGES 6-9), never as claimant, grantee or patentee"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, Spanish, stamped PAGE 10: 'Dado en Santa Barbara a veinte y ocho de Septiembre de mil ocho cientos treinta y ocho. Juan B. Alvarado'; sworn translation 'B', stamped PAGE 13: 'Given in Santa Barbara the 28th of September 1838. Juan B. Alvarado'. Judicial possession followed 4-10 Dec. 1838 (stamped PAGES 17-18)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 10: 'Juan Bpta Alvarado Gefe politico Interino de la Alta California... usando de las facultades q.e me son conferidas a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado'; translation stamped PAGE 12 'Juan B. Alvarado, Political Chief, ad interim of Alta California'. Note he signs here as political chief ad interim, not yet constitutional governor; the register's bare 'Alvarado' is right"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 10: 'Por cuanto el ciudadano Juan Bandini ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Jurupa'; translation stamped PAGE 12 'Whereas the Citizen Juan Bandini has asked for his personal benefit and that of his family, the land known by the name of Jurupa'. Assembly approval (stamped PAGE 14) 'of the land known by the name of Jurupa, to Don Juan Bandini'. Grantee and claimant are the same man"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 213 SOUTHERN DISTRICT'; every page stamped '213 SD'; digicoll record 102013 is titled 'Jurupa grant... Juan Bandini, claimant : case no. 213, Southern District, 1838-1879'. (Board docket was No. 361 - stamped PAGES 2, 6.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco October 17' 1854. In the same case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim: (Vide page 23 of this Transcript.) and the following Order was made, to wit: (Vide page 27 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case file names the grant 'Jurupa' plainly (red label img1; grant decree stamped PAGE 10). The register's '(Stearns)' qualifier is unsupported here - the claimant and grantee are both Juan Bandini, and Abel Stearns is only a witness."
+  },
+  "notes": "DELIVERY TRAP, worth recording for the pipeline: SD 213 has NO cubanc_lcf_sd213.pdf. digicoll serves it as 166 individual JPEGs under record/102013 (cubanc_1_2_00058591a_k.jpg through ...00058756a_k.jpg), so fetch_case_pages.py exits with 'no cubanc_lcf PDF listed'. I downloaded the first 18 JPEGs and stitched them with PIL to read them. Guessing sibling record numbers is useless: digicoll answers HTTP 200 with an HTML error body for every wrong /files/ path (confirmed on records 267554, 267555, 266250, 266251). DATE DISCREPANCY INSIDE THE FILE, and the register is on the right side of it: the Departmental Assembly's act of approval (translation, stamped PAGE 14) recites 'the Grant heretofore the Government made, of date the 16th of April 1839', while the title itself is dated 28 Sept. 1838. Abel Stearns flagged this at stamped PAGE 8: 'The grant to which said approval refers is described in the same as bearing date the 16th of April 1839, and not the date of the grant herein before described & marked No 1.' The register's 1838 follows the title, which is correct. Grant was seven leagues of grazing land; Bandini sold a portion to Benjamin D. Wilson c.1841-43 (later Louis Rubidoux), the residue keeping the name 'Snapa'/'Guapa' (stamped PAGES 4-5, 9). No stamped-page drift in the range read (image n = stamped page n from img2 on)."
+ },
+ {
+  "id": "rancho-laguna",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/269007/files/cubanc_lcf_sd388.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "img1-12 = cover + stamped pages 1-9"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "ERR",
+    "evidence": "The bound volume stamped '388 SD' is NOT a rancho named Laguna. img1 red label reads verbatim: 'CASE NO. / 388 / SOUTHERN DISTRICT / LANDS AND PROPERTY OF THE CATHOLIC CHURCH GRANT / JOSEPH S. ALEMANY / CLAIMANT'. Transcript title page (stamped PAGE 1): 'TRANSCRIPT OF THE PROCEEDINGS IN CASE NO. 609. Joseph S. Alemany, CLAIMANT vs. THE UNITED STATES, DEFENDANT, FOR THE PLACE NAMED Lands and property of the Catholic Church'. The journal entry at stamped PAGE 2 repeats: 'The Petition of Joseph S. Alemany ... Lands & property of the Catholic Church was presented, and ordered to be filed and docketed with No. 609'. The word 'Laguna' appears nowhere in the pages read"
+   },
+   "year": {
+    "grade": "UV",
+    "evidence": "No grant decree for any place named Laguna appears in the pages read (stamped PAGES 1-9 are the case caption, the Board journal of depositions 1853-1855, and the opening of Alemany's petition). The claim in this volume is not a single dated land grant at all but a corporate claim to church property in 21 missions and 15 parishes (stamped PAGE 8)"
+   },
+   "governor": {
+    "grade": "UV",
+    "evidence": "same as year - no concession decree naming a granting governor is in the pages read (stamped PAGES 1-9); this volume contains no single grant instrument"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "'Bishop S. Alemany' is the U.S.-era CLAIMANT, not a Mexican grantee, and he could not have received an 1844 grant. His own petition, stamped PAGE 7, describes him as 'Joseph Sadoc Alemany, Roman Catholic Bishop of the Diocess of Monterey, in the State of California, a corporation Sole' and expressly as 'the lawful successor of the late Rt. Rev. Francisco Garcia Diego, the late Catholic Bishop of the Diocess of California, as the same existed under the former Government of this State'. The Mexican-era bishop was therefore Francisco Garcia Diego, not Alemany. This is the audit's dominant error class: the land-case claimant sitting in the grantee field"
+   },
+   "land_case": {
+    "grade": "PART",
+    "evidence": "The docket string resolves to a real volume - img1 red label 'CASE NO. 388 SOUTHERN DISTRICT', every leaf stamped '388 SD', filename cubanc_lcf_sd388.pdf, 371 images - but that volume is the Catholic Church property claim (Board docket No. 609), not a rancho. Separately, the register's own scan_record_url, digicoll record 269007, titles the SAME docket 'Canada de los Pinos (also called \"College Rancho,\" \"San Isidro,\" \"Aguichum,\" and \"Rancho de Collegio Episcopal\") [Santa Barbara County] Bishop S. Alemany, Claimant. Case no. 388, Southern District of California.' So the docket number is attached in the catalogue to a Santa Barbara rancho whose name is not Laguna either. The docket-to-rancho mapping in this register row is unreliable"
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "The Board DID confirm the claim in this volume - stamped PAGE 6: 'San Francisco Dec.r 18' 1855. In the same case Comm.r Alphens Felch delivered the opinion of the Board confirming the claim (Vide page 317 of this Transcript) and the following order was made to wit: (Vide page 345 of this Transcript)', with a marginal note '* For Decree of Board of Land Commission see page 336 of this transcript' - but that confirmation is of the Catholic Church's church-property claim, which cannot be attributed to a rancho named Laguna. Not determinable for this register row"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "SD 388 is 'Lands and property of the Catholic Church' (red label img1; transcript title stamped PAGE 1), Board docket 609, Joseph S. Alemany claimant. The Bancroft catalogue record the register itself cites (digicoll 269007) titles the same docket 'Canada de los Pinos (also called College Rancho, San Isidro, Aguichum, and Rancho de Collegio Episcopal), Santa Barbara County'. Neither is 'Laguna'.",
+   "grantee": "Not Alemany. His petition (stamped PAGE 7) names the Mexican-era bishop as 'the late Rt. Rev. Francisco Garcia Diego, the late Catholic Bishop of the Diocess of California'. The actual grantee of whatever grant this register row means is NOT established here - no decree was read - so Phase C must resolve it from the correct case file."
+  },
+  "notes": "HIGHEST-VALUE FINDING IN THIS CHUNK, and it needs a human decision. Three sources disagree about what 'SD 388' is: (1) the bound volume's own red label and page stamps say it is the Catholic Church property case, Board 609, Alemany claimant; (2) digicoll catalogue record 269007 - the register's own scan_record_url - titles the same docket 'Canada de los Pinos / College Rancho', Santa Barbara County, Bishop S. Alemany claimant; (3) the register calls it 'Laguna', 1844, Micheltorena, grantee Bishop S. Alemany. INFERENCE, NOT VERIFIED: the register's patent_to 'Bishop Joseph S. Alemany' matches the catalogue record's claimant, so this row probably belongs to Canada de los Pinos rather than to any 'Laguna'; do not act on that without reading the right decree. NOTE this chunk contains two other genuine Laguna ranchos (rancho-laguna-1 = SD 161 'La Laguna', Julian Manriquez; rancho-laguna-2 = SD 021 'La Laguna', Miguel Abila), both of which check out, so the register's Laguna cluster is where a row got crossed. Searching digicoll for 'Laguna Alemany' returns only record 79215, the ATLAS volume for the same case 609. The full volume is 371 images; only images 1-12 were read - enough to settle the identity of the case beyond doubt, not enough to prove a Laguna grant is absent from the church schedule, though the petition at stamped PAGE 9 expressly excludes ranchos: 'the same do not include what were termed the Mission lands or Mission Ranchos, but were entirely distinct therefrom.'"
+ },
+ {
+  "id": "rancho-laguna-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266120/files/cubanc_lcf_sd161.pdf",
+  "pdf_pages_stated": 158,
+  "pages_read": [
+   "img1-12 = cover + stamped pages 1-6",
+   "img14-24 = stamped pages 8-17"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 161 / SOUTHERN DISTRICT / LA LAGUNA GRANT / ABEL STEARNS / CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"La Laguna\"'; journal entry (stamped PAGE 2) 'The Petition of Abel Stearnes for the Place named \"La Laguna\"'. The register's '(Stearns)' qualifier is correct here - Stearns is the claimant on the label. Underlying place name in the Mexican papers is 'la laguna de Temecula' (stamped PAGES 12, 15) and witnesses call it 'Rancho Laguna de Temecula' (stamped PAGES 9, 10)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped PAGE 16, verbatim: 'Monterey Junio 7 de 1844. Concedasele como solicita el interesado cinendose a los linderos de S. Jacinto, la punta de la laguna del lado de Temecula y los linderos del Temescal asi como las condiciones que ofrece. Michelt.a'. Petition dated Angeles 27 May 1844 (stamped PAGE 15); Argueello deposition (stamped PAGE 6) confirms 'a grant to Julian Manriquez of a tract of land called Temecula and dated June 7. 1844'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant decree signed 'Michelt.a' at stamped PAGE 16; Micheltorena's earlier referral order on the same expediente, 'Monterey June 4th 1844. Report to the Secretary of the Department, taking other reports if he shall deem them necessary. Micheltorena' (translation, stamped PAGE 17)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "expediente cover, stamped PAGE 11: 'Espediente Promovido por D.n Julian Manrrique en pretencion del terreno de Temecula'; his petition, stamped PAGE 15, 'solicito el paraje de la laguna de Temecala en la estencion de seis sitios', subscribed 'A ruego de Julian Manrrique / Juan Bandini' (he signed by request, being unlettered); sworn translation, stamped PAGE 17: 'The citizen Julian Manriquez, resident of the City of Los Angeles, and the Ranch of Santa Anna... I solicit the place of the Laguna de Temecula of the extent of Six leagues (Sitios)'. Register correctly holds the Mexican grantee, NOT the U.S.-era claimant Abel Stearns, who bought from Manriquez's heirs by deed of 11 Nov. 1851 (stamped PAGES 4, 8)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 161 SOUTHERN DISTRICT'; page stamps '161 SD'; a 1948 U.S. District Court clerk's letter bound at the front (img3) reads 'Re: Abel Stearns vs. United States, No. 161 SD... we are transmitting herewith all of the papers in the case, (including a map) which consists of 158 pages'; filename cubanc_lcf_sd161.pdf. (Board docket was No. 346 - stamped PAGES 1-2.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3, journal entry: 'San Francisco Feb.y 14' 1854. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim; (Vide page 35 of this Transcript.)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record - all six fields agree with the case file, and the grantee field correctly holds the Mexican grantee rather than the claimant. Grant was for six sitios at the Laguna de Temecula, bounded by San Jacinto, the point of the lake on the Temecula side, and the Temescal boundaries. The expediente copies are Surveyor-General tracings certified by Sam'l D. King, 6 Nov. 1852 (stamped PAGE 16), not the originals. Manriquez died c.1849 leaving a widow Trinidad Dominguez and sons Manuel and Juan, who conveyed to Stearns 11 Nov. 1851 (stamped PAGES 8-10). BOUND-IN MODERN MATTER: images 2-3 are 1948 U.S. District Court papers (Judge Michael J. Roche's order of 14 May 1948 transmitting the file to Los Angeles at the request of California Attorney General Fred N. Howser), so the Bancroft red label is image 1 and transcript PAGE 1 is image 6 - stamped page = image minus 6 in the head of the volume, minus 7 from img14 on. Cite stamped pages. Board confirmation read as a journal entry; the opinion text (transcript p35) and any district-court decree lie beyond the range read."
+ },
+ {
+  "id": "rancho-laguna-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266061/files/cubanc_lcf_sd021.pdf",
+  "pdf_pages_stated": 68,
+  "pages_read": [
+   "img1-12 = cover + stamped pages 1-5",
+   "img17-28 = stamped pages 10-19"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 21 / SOUTHERN DISTRICT / LA LAGUNA GRANT / OCTAVIANO GUTIERREZ / CLAIMANT'; transcript title (stamped PAGE 1) 'FOR THE PLACE NAMED \"La Laguna\"'; expediente cover (stamped PAGE 10) '1845. Espediente promovido por Octaviano Gutierez en pretencion del terreno nombrado la Laguna'. The register's '(Gutierrez)' qualifier is correct"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Pico's definitive title, stamped PAGE 19 (margin: 'La Laguna. original Grant') and its archive copy at stamped PAGES 16-17: 'Dado en la Ciudad de los Angeles en este papel comun por falta del sellado que corresponde a trece de Noviembre de mil ochocientos cuarenta y cinco. Pio Pico. Jose M.a Covarrubias Srio.' Register's 1845 matches the definitive grant"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Pico's title, stamped PAGE 19: 'Pio Pico, vocal Decano de la Asamblea Departamental y Gobernador provisional de las Californias... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he venido por Decreto de este dia en concederle el espresado terreno declarandole la propiedad de el por las presentes letras, de conformidad con la ley de 18 de Agosto de 1824 y reglamento de 21 de Noviembre de 1828'"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grantee is OCTAVIANO GUTIERREZ, not Miguel Abila, and BOTH title instruments say so. Pico's definitive title, stamped PAGE 19 (and archive copy stamped PAGE 16): 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"La Laguna\", el diseno que acompano a su solicitud...' Micheltorena's earlier provisional title, stamped PAGE 12: 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia se le concede principalmente el terreno conocido con el nombre de la Laguna', closing at stamped PAGE 13 'Dado en Monterey a Doce de Marzo de mil ochocientos cuarenta y cuatro. Manuel Micheltorena. Manuel Jimeno Secretario.' The expediente cover (stamped PAGE 10) and the claimant's own petition (stamped PAGE 5, 'granted to the petitioner') agree. The name 'Miguel Abila' does not occur anywhere in the pages read"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 21 SOUTHERN DISTRICT'; leaf 2 archival slip 'LAND CASE 21 SD PAGES 68'; page stamps '21 SD'; filename cubanc_lcf_sd021.pdf. (Board docket was No. 217 - transcript title stamped PAGE 1 'IN CASE NO. 217'; Hoffman's commission_no 217 / court_no 21 confirm this is the same case.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3: 'San Francisco Feby 21st 1853. In Case No 217 Octaviano Gutierrez for the place named \"La Laguna,\" Commissioner Hiland Hall delivered the Opinion and the Decree of Final Confirmation of this Board. Ordered that the Opinion and the Decree of Final Confirmation of this Board delivered this day in this case be recorded in the Journal' (text at transcript p36)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "'Octaviano Gutierrez'. Pico's grant, stamped PAGE 19: 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"La Laguna\"'. Micheltorena's provisional title of 12 March 1844 (stamped PAGES 12-13) names the same man. The register's 'Miguel Abila' is unsupported by the case file; grantee and patentee are the same person, so the register's own patent_to field ('Octaviano Gutierrez') is the correct value for the grantee field too."
+  },
+  "notes": "CONFIRMED REGISTER ERROR, and Hoffman shares it. Hoffman's 1862 row for this case (commission 217 / court 21 - unambiguously this file) also gives the grantee as 'Miguel Abila'; the case file overrides both. This is a useful control: it shows Hoffman is not merely a screen but an actual SOURCE of at least one propagated error, so agreement between register and Hoffman must not be treated as corroboration. TWO-STAGE GRANT: (1) Micheltorena, 12 March 1844, a PROVISIONAL title of three sitios de ganado mayor expressly 'sin perjudicar los derechos que deduzcan las personas q.e tengan accion a d.ho terreno' and conditioned on compensating Mission Santa Ines (stamped PAGES 12-13); Gutierrez's receipt for 47 pesos paid to the mission is at stamped PAGE 12. (2) Pio Pico, 13 November 1845, the definitive title in property (stamped PAGES 16-17 archive copy, PAGE 19 the original). EARLIER RIVAL APPLICANTS appear in the same expediente - Damaso Rodriguez petitioning with his mother Maria Bernardina Ruiz, Monterey 7 July 1840, and her renunciation at Santa Barbara 3 Aug. 1841 (stamped PAGES 14-15) - but no Miguel Abila among them in the pages read; if 'Abila' has any basis it must lie in the 49 transcript pages not read. Expediente copies are Surveyor-General tracings certified by Sam'l D. King, 12 April 1852 (stamped PAGE 18). Register's patent_acres 48,703.91 is far larger than the three sitios granted - flag for Phase C. PDF has 81 images for 68 transcript pages; stamped page = image minus 7 through img26, then the original grant at img28 = stamped PAGE 19."
+ },
+ {
+  "id": "rancho-laguna-san-antonio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264447/files/cubanc_lcf_nd061.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "img1-11 = cover + stamped pages 1-7",
+   "img15-25 = stamped pages 10-19"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 61 / NORTHERN DISTRICT / LAGUNA de SAN ANTONIO GRANT / BARTOLOME BARTOLOME [sic] CLAIMANT'; transcript title (stamped PAGE 1) 'Bartolome Bojorquez CLAIMANT... FOR THE PLACE NAMED \"Laguna de San Antonio\"'; Pico's title (stamped PAGE 18) 'el terreno nombrado \"Laguna de San Antonio\"'. NOTE the red label's claimant line is a gilder's error, repeating 'BARTOLOME' instead of 'BARTOLOME BOJORQUEZ'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Pico's decree, stamped PAGES 13-14: 'Angeles Noviembre 25 de 1845. Vista la solicitud con que da principio este espediente, el informe del Juez de Paz de Sonoma... declaro dueno del terreno nombrado \"Laguna de S.n Antonio\" al Ciudadano Bartolome Bohorquez'; the titulo itself (stamped PAGE 19, and archive copy stamped PAGE 15) 'Dado en la Ciudad de los Angeles en este papel comun por falta del Sellado a Veinte Uno de Noviembre de mil ocho cientos cuarenta y cinco. Pio Pico. Jose M.a Covarrubias'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "titulo, stamped PAGE 18: 'Pio Pico vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias... en uso de las facultades q.e me son conferidas a Nombre de la Nacion Mejicana he venido por decreto de este dia en concederle el mencionado terreno declarandole la propriedad del por las presentes letras'; decree signed 'Pio Pico. Jose M.a Covarrubias' (stamped PAGE 14)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "titulo, stamped PAGE 18: 'Por Cuanto el Ciudadano Bartolome Bojorquez ha pretendido para su beneficio personal y el de su familia el terreno nombrado \"Laguna de San Antonio\" colindante al S.E. con Juan Martin, al N.O. con las dos Piedras, al S.O. con los Tamales y al S.E. con Juan Miranda'; decree (stamped PAGE 14) 'declaro dueno del terreno nombrado \"Laguna de S.n Antonio\" al Ciudadano Bartolome Bohorquez'; Assembly approval (stamped PAGE 16) 'Se Aprueva la concesion hecha al Ciud.no Bartolome Bojorquez del parage laguna de San Antonio, en Sonoma, en la estencion de seis sitios de Ganado mayor'. Grantee and claimant are the same man"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 61 NORTHERN DISTRICT'; every leaf stamped '61 ND'; filename cubanc_lcf_nd061.pdf. (Board docket was No. 44 - transcript title stamped PAGE 1 'IN CASE NO. 44', journal stamped PAGE 2.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped PAGE 3: 'San Francisco Oct. 12th 1853. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim, and the Decree of final confirmation: (vide page 29 of this Transcript.)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record; all six fields agree with the case file. Long pre-history documented in the expediente: Bojorquez petitioned M. G. Vallejo as Director of Colonization on 17 May 1837 and got a written licence to settle dated Sonoma 6 May 1839 (stamped PAGE 12); he petitioned Micheltorena from Sonoma 20 May 1844 (stamped PAGES 10-11) and Jacob P. Leese as Juez de Sonoma reported the land vacant 3 Sept. 1844 (stamped PAGE 11), but Micheltorena never decided; Bojorquez re-petitioned Pico 29 July 1845 (stamped PAGE 13) and got the grant. Six sitios de ganado mayor. Departmental Assembly: committee on vacant lands reported favourably 22 May 1846 (S. Arguello), Assembly approved 3 June 1846 (stamped PAGE 16). Expediente copies certified by Surveyor-General Sam'l D. King, 4 Dec. 1851 (stamped PAGE 17). ⚠ INTERNAL DATE DISCREPANCY worth flagging, though it does not disturb the year: the decree is dated 25 Nov. 1845 (stamped PAGE 13) but both copies of the titulo it orders issued are dated 21 Nov. 1845 (stamped PAGES 15, 19), and the claimant's English petition says the grant was 'made & delivered' on '5th day of November 1845' (stamped PAGE 5) while calling the decree 25 Nov. The Assembly committee read the title as dated 25 Nov. (stamped PAGE 16). Three November 1845 dates for one instrument; 1845 is safe, the day is not. PDF has 147 images; stamped page = image minus 3 at the head, minus 5 from img15 on."
+ }
+]

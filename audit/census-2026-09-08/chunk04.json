@@ -1,0 +1,500 @@
+[
+ {
+  "id": "rancho-camaritas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264237/files/cubanc_lcf_nd387.pdf",
+  "pdf_pages_stated": 117,
+  "pages_read": [
+   "1-12",
+   "24-30"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red case label: 'CASE NO. 387 / NORTHERN DISTRICT / LAS CAMARITAS GRANT / FERDINAND VASSAULT CLAIMANT'; stamped transcript p22 heading of the expediente translation: 'Record of the Proceedings instituted by the Citizen Jose de Jesus Noe claiming a small tract of Land called \"Las Camaritas\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original at stamped transcript p19 (PDF img24): 'Dado en Monterey a 21 de Enero de 1840. Alvarado. Man.l Jimeno Sec.o'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p19 (PDF img24) decree opens 'Juan Bautista Alvarado Gobernador Constitucional del Departamento de las Californias' and is signed 'Alvarado'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p19 (PDF img24) decree: 'el expediente que promovio D.n Jose de Jesus Noe en pretencion de una parte del terreno conocido con el nombre de las Camaritas'; the register correctly holds the Mexican grantee Noe, not the U.S.-era claimant Ferdinand Vassault (p1 label, stamped p4 petition)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 387 NORTHERN DISTRICT'; every transcript leaf stamped '387 ND'; filename cubanc_lcf_nd387.pdf; img2 'LAND CASE 387 ND 117'"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "docket at stamped transcript p3 (PDF img8): 'San Francisco Sept 4, 1855 - In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim (vide page 81 of this transcript) and the following order was made (vide page 86)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "117-page file, single volume. Commission docket no. 629 (matches Hoffman commission_no 629). Grant decree is present in Spanish at stamped p19; expediente translation begins stamped p22. Only the Land Commission confirmation (4 Sept 1855) is verified within pages read; the District Court decree, if any, sits beyond transcript p25 and was not read. Register's patent fields (Ferdinand Vassault, 18 Dec 1882, GLO 543) not physically in the pages read - Phase C/GLO."
+ },
+ {
+  "id": "rancho-canada",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268941/files/cubanc_lcf_sd316.pdf",
+  "pdf_pages_stated": 76,
+  "pages_read": [
+   "PDF img 1-10",
+   "13-19",
+   "21-28",
+   "55-70 (excerpt; stamped transcript pp. 52-56 read)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 316 / SOUTHERN DISTRICT / LA CANADA GRANT / SCOTT AND HAYES CLAIMANT'; Board opinion, stamped transcript p53: 'For a place called La Canada in the County of Los Angeles Containing two Square Leagues'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped transcript p53: 'a grant from the said Governor to the said Coronel dated 12th day of May 1843'; judicial possession 31 May 1843; same date recited in the petition, stamped p4"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p53: 'the Expediente of Ygnacio Coronel, addressed to Governor Micheltorena and a grant from the said Governor to the said Coronel dated 12th day of May 1843'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p53 (Board opinion) 'the Expediente of Ygnacio Coronel'; petition stamped p4 'originally granted to Ignacio Coronel by Manuel Micheltorena'. Register correctly holds the Mexican grantee, not the U.S.-era claimants Scott and Hayes"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 316 SOUTHERN DISTRICT'; every leaf stamped '316 SD'; img2 'LAND CASE 316 SD pgs. 76'; filename cubanc_lcf_sd316.pdf. Commission docket no. 317 (title page, stamped p1) matches Hoffman commission_no 317"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Decree, stamped transcript p54: 'it is Adjudged by the Commissioners that the claim of the said petitioners is valid and it is therefore decreed that their Application for a Confirmation thereof be allowed', signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed 3 April 1855; opinion p53 endorsed '(Confirmed)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single volume, 76 pages; the Board transcript proper is 58 pages (Secretary's certificate, stamped p56). TRAP NOTED: witness Rafael Gallardo swore twice (stamped pp.18, 20) that the Canada 'was granted to Antonio F. Coronel in the Year 1843 by the Governor Micheltorena' - a witness error; the Board opinion (p53) and the petition (p4) both name Ygnacio Coronel, and Manuel F. Coronel (p11-12) testifies Ignacio F. Coronel was his father. Register is right. The original grant decree/translation was not located in the pages read (not filed with the Stearns deposition where H.H. Nos.1-3 are referenced at stamped p9); year/governor/grantee therefore rest on the Board's own recital of the grant document at p53, which is a finding on the produced instrument rather than witness testimony. District Court proceedings beyond the Board transcript (file pages 57-76) not read; no evidence of reversal seen."
+ },
+ {
+  "id": "rancho-canada-alisos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266070/files/cubanc_lcf_sd031.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "PDF img 1-9",
+   "12-19"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 case label 'CASE NO. 31 / SOUTHERN DISTRICT / CANADA DE LOS ALISOS GRANT / JOSE SERRANO CLAIMANT'; expediente cover, stamped transcript p8: 'Espediente promovido por el Ciudadano Jose Serrano en solicitud del parage conocido con el nombre de Canada de los Alisos'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree in Spanish, stamped transcript pp.11-12 (PDF img 17-18), closing: 'Dado en Monterrey a trece de Mayo de mil ochocientos cuarenta y dos' = 13 May 1842. (The claim petition, stamped p4, says 'on or about the third day of May A.D. 1842'; the decree itself reads 'trece'. Year 1842 either way.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree opens, stamped transcript p11: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la nacion Mejicana he venido en concederle el terreno mencionado'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Decree, stamped transcript p11: 'Por cuanto el Ciudadano Jose Serrano ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de Canada de los Alisos'. Register's 'J. Serano' is the right man but a corrupt form (single r, no forename) carried over from Hoffman's printed table"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 label 'CASE NO. 31 SOUTHERN DISTRICT'; img2 'Land Case 31 SD'; every leaf stamped '31 SD'; filename cubanc_lcf_sd031.pdf. Commission docket no. 431 (title page, stamped p1) matches Hoffman commission_no 431"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco October 21st 1853. In the same case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the Claim (vide page 43 of the Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Serrano, per the grant decree, stamped transcript p11: 'el Ciudadano Jose Serrano'"
+  },
+  "notes": "Single volume, 104 PDF images; the microfilm slip (img2) gives no page count. Here the U.S.-era claimant IS the Mexican grantee (Jose Serrano), so the claimant/grantee confusion class does not apply. TWO grants are in the file: the 1842 Alvarado concession of one sitio de ganado mayor (decree stamped pp.11-12) and a separate 1846 ampliacion - second expediente cover, stamped p13, 'Espediente promovido por el Ciudadano Jose Serrano en ampliacion de terreno al que posee', No. 558, dated 1846 - which the petition (stamped p4) attributes to 'the 27th day of May A.D. 1846 Pio Pico then Governor of California', matching Hoffman's note. A provisional occupation had been granted 18 June 1841 (stamped p10: 'Monterrey 18 de Junio de 1841. Estiendase una concesion provisional a D. Jose Serrano del parage de los Alisos'). Register's single year/governor pair records the principal 1842 Alvarado grant and is correct for it; the 1846 Pico addition is unrecorded. Board confirmation 21 Oct 1853 verified from the docket; the opinion at transcript p43 and any District Court decree were not read."
+ },
+ {
+  "id": "rancho-canada-capitancillos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265492/files/cubanc_lcf_nd132A.pdf",
+  "pdf_pages_stated": 1070,
+  "pages_read": [
+   "PDF img 1-24 of vol. A (stamped transcript pp. 1-19)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Transcript title page, stamped p1: 'for the place named \"Los Capitancillos\"'; expediente cover, stamped p12: 'Espediente promovido por el ciudadano Justo Larios en solicitud del paraje conocido con el nombre de Canada de los \"Capitancillos\". 1842. 294'; sworn translation heading, stamped p17: 'Espediente presented by the Citizen Justo Larios who asks for the place known by the Name of the \"Canada de los Capitancillos\". 1842'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's decree, stamped transcript p14: 'Monterey 16 de Junio de 1842. Vista la peticion con que da principio este Espedt.e ... declaro al mencionado Justo Larios dueno en propiedad de una parte del terreno nombrado Canada de los Capitancillos'; the titulo, stamped pp.15-16, closes 'Dado en Monterey a 1.o de Ag.to de 1842'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p15: 'Juan B. Alvarado Gobernador constitucional del departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado'; English translation, stamped p19: 'Juan B. Alvarado Constitutional Governor of the Californias'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p15: 'Por cuanto el C.no Justo Larios ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de los Capitancillos'; translation stamped p19: 'Whereas the Citizen Justo Larios has asked for his own benefit and that of his family the land known by the name of the Capitancillos ... I have granted him the said land'. Register correctly holds the Mexican grantee Larios, not the U.S.-era claimant Charles Fossat (title page, stamped p1)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Every transcript leaf stamped '132 ND'; Commission docket no. 340 on the title page (stamped p1) and in the petition (stamped p2), matching Hoffman commission_no 340. Filename caveat in notes"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco, February 28, 1854. In the same Case, Commissioner Alpheus Felch delivered the Opinion of the Board, confirming the claim. (Vide page 77 of this Transcript.)' Confirmation by the Land Commission verified; no patent appears in the pages read (Phase C checks GLO for the 3 Feb 1865 patent to Charles Fossatt, GLO 194)"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "MULTI-VOLUME: the Bancroft binds this case as cubanc_lcf_nd132A.pdf (1,070 pages / 1,085 PDF images) and cubanc_lcf_nd132B.pdf; the register's derived single-volume name cubanc_lcf_nd132.pdf does not exist. Volume B was NOT read. This is the New Almaden quicksilver litigation (Fossat v. United States); the Commission confirmation of 28 Feb 1854 was followed by District Court and U.S. Supreme Court proceedings whose decrees sit deeper in vol. A and in the unread vol. B, so 'outcome' is graded PART and not OK. Month discrepancy worth a re-read by someone checking dates: the claim petition (stamped p4) says the land was 'granted on the 1st of September 1842 to Justo Larios by Juan B. Alvarado', but the titulo's own date line (stamped p16) reads 'Dado en Monterey a 1.o de Ag.to de 1842'. The YEAR, which is the graded field, is 1842 on every instrument."
+ },
+ {
+  "id": "rancho-canada-corte-madera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264243/files/cubanc_lcf_nd395.pdf",
+  "pdf_pages_stated": 216,
+  "pages_read": [
+   "PDF img 1-26 (stamped transcript pp. 1-19)",
+   "PDF img 205-231 excerpt (stamped pp. 203-211 read)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 395 / NORTHERN DISTRICT / CANADA del CORTE de MADERA GRANT / DOMINGO PERALTA CLAIMANT'; expediente cover, stamped transcript p14: 'Espediente sobre el paraje nombrado Canada del Corte de Madera, solicitado p.a su cultivo por Maximo Martinez y Domingo Peralta'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's decree, stamped transcript p18: 'Monterrey. 18 de Mayo de 1833. Vista la peticion con que da principio este Espediente ... se declara a los ciudadanos Maximo Martinez y Domingo Peralta duenos en propiedad del terreno conocido con el nombre de la Canada de Corte de Madera'. Expediente cover (p14) is headed 'Ano de 1833'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree signed, stamped p18: 'El Sor. Don Jose Figueroa, Comandante General Inspector y Gefe Superior Politico del territorio de la alta California asi lo mando decreto y firmo. Doy fee. Jose Figueroa. Agustin V. Zamorano, Srio.'; the titulo, stamped p19, opens 'Jose Figueroa General de Brigada de los Ejercitos Mejicanos, Comand.te General Inspector y Gefe Superior Politico del Territorio de la Alta California'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The titulo, stamped transcript p19, grants to TWO men jointly: 'Por cuanto Maximo Martinez y Domingo Peralta han pretendido para su beneficio personal y el de sus familias el terreno conocido con el nombre de la Canada del Corte de Madera ... he venido en concederles el terreno mencionado declarandoles la propiedad de el'. The Commission petition, stamped p5, agrees: 'in the year 1833 General Figueroa then governor of California granted to Maximo Martinez conjointly with this petitioner a tract of vacant land ... called Canada de Corte Madera'; Peralta prayed confirmation of 'the undivided one half' (stamped p6). The register names only Peralta and drops the co-grantee"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 395 NORTHERN DISTRICT'; img2 'LAND CASE 395 ND PAGES 216'; every leaf stamped '395 ND'; filename cubanc_lcf_nd395.pdf. Commission docket no. 306 (title page, stamped p1) matches Hoffman commission_no 306"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "The LAND COMMISSION REJECTED this claim: docket, stamped transcript p4, 'San Francisco Oct 2, 1855. In the same case Commissioner Alpheus Felch delivered the opinion of the Board, rejecting the claim. (Vide page 77 of this Transcript) and the following order was made (Vide page 78)'. Confirmation came only on appeal: H. W. Carpentier's sworn affidavit, stamped p210, recites 'after the said claim of the said claimants herein was finally confirmed to them by the Supreme Court of the United States, a suit was brought in the District Court of the 12th Judicial District in and for the County of San Mateo ... by one Maximo Martinez as plaintiff against Cipriano Thurn and Horace W. Carpentier'. The confirming District Court / Supreme Court decree itself sits in the unread stretch (stamped pp. 20-202) and was NOT read, so the register's bare 'Confirmed' is not graded OK"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Maximo Martinez y Domingo Peralta (joint grantees), per the titulo, stamped transcript p19: 'Por cuanto Maximo Martinez y Domingo Peralta han pretendido ... he venido en concederles el terreno mencionado'. Hoffman's table agrees ('D. Peralta and Maximo Martinez')."
+  },
+  "notes": "TRAP CONFIRMED, the one flagged in the method: a bare 'Confirmed' in the register hides a Land Commission REJECTION (2 Oct 1855) later reversed on appeal. Single volume, 216 pages / 231 PDF images. Domingo Peralta died during the litigation and Horace W. Carpentier and Cipriano Thurn were substituted as claimants by order of 17 March 1858 (recited stamped p204), which is why the register's patentees are Thurn and Carpentier and not Peralta. The register's 'Jose Domingo Peralta' forename is corroborated inside the file ('Jose D. Peralta deceased', stamped p204) even though the 1833 titulo says only 'Domingo Peralta'; the substantive defect is the DROPPED CO-GRANTEE Maximo Martinez, who was still litigating against Thurn and Carpentier in the 1860s-70s (final decree in his favour 7 Jan 1865 in the state 12th Judicial District, recited stamped p210)."
+ },
+ {
+  "id": "rancho-canada-nogales",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266063/files/cubanc_lcf_sd023.pdf",
+  "pdf_pages_stated": 86,
+  "pages_read": [
+   "PDF img 1-9",
+   "10-17",
+   "18-24 (stamped transcript pp. 1-16)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 23 / SOUTHERN DISTRICT / CANADA DE LOS NOGALES GRANT / JOSE MARIA AGUILAR CLAIMANT'; grant decree, stamped transcript p12: 'dueno de medio sitio de ganado mayor en la Canada q.e llaman de los Nogales'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's decree, stamped transcript p12: 'Monterey 30 de Ag.to de 1844. Vista la peticion con que da principio este espediente, los informes que preceden ... declaro a D.n Jose M.a Aguilar dueno de medio sitio de ganado mayor en la Canada q.e llaman de los Nogales'; the titulo (stamped pp.14-16) closes 'Monterey 30 de Ag.to de 1844'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p14: 'Man.l Michelt.na Gral de Brigada del Ejercito Mejicano Gob.dor Comman.te Gral e Inspector del Departam.to de California'; earlier marginal decrees in the expediente are signed 'Michelt.na' (stamped pp.11-12, Monterey 22 and 25 Aug 1844)"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Titulo, stamped transcript p14: 'Por cuanto D.n Jose Ma. Aguilar a pretendido p.a su beneficio personal y el de su familia el terreno conocido con el Nombre de Canada de los Nogales'; expediente cover, stamped p10: 'Solicitud de Jose M.a Aguilar vecino de la Cuidad de los Ang.les'. The register's 'J. M. Aguila' drops the final r and the forenames, reproducing Hoffman's corrupt printed form; the man is Jose Maria Aguilar, who is also the U.S.-era claimant (red label img1) and the register's own patentee"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 23 SOUTHERN DISTRICT'; img2 'LAND CASE 23 SD PAGES 86'; every leaf stamped '23 SD'; filename cubanc_lcf_sd023.pdf. Commission docket no. 360 (title page, stamped p1) matches Hoffman commission_no 360"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p4: 'San Francisco April 11th 1853. In case No 360 Jose Maria Aguilar for the place named \"Canada de los Nogales\" Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation. Ordered that the said Opinion and Decree of Final Confirmation be recorded on the Records of this Board (vide page 38 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Maria Aguilar, per the titulo, stamped transcript p14: 'Por cuanto D.n Jose Ma. Aguilar a pretendido p.a su beneficio personal y el de su familia el terreno conocido con el Nombre de Canada de los Nogales'"
+  },
+  "notes": "Single volume, 86 pages / 98 PDF images. Grant is half a sitio de ganado mayor (decree p12, condition 3 at p15: 'El terreno de que se hace donacion es de medio sitio de ganado mayor'), matching the register's 1,199.56 patent acres. The expediente also shows the grant was carved out of land the Angeles ayuntamiento had not yet surveyed as ejidos, with condition 1 subjecting it 'a los ejidos de la cuidad de Los Ang.les cuando estos sean medidos' (stamped p15). Judicial possession 20 Sept 1844 (petition, stamped p5). Note a name trap: witness Manuel Requena (stamped p7) speaks of 'a petition of Cristoval Aguilar for judicial possession' - Cristobal Aguilar, a Los Angeles regidor, acted for his father Jose Maria Aguilar (see stamped p11, 'A Nombre de mi padre D.n Jose Ma. Aguilar, Cristoval Aguilar'); the grantee is the father. Confirmation is the Board's, 11 April 1853, styled 'Decree of Final Confirmation'; the opinion at transcript p38 was not read and no patent copy appears in the pages read."
+ },
+ {
+  "id": "rancho-canada-pogolimi",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264431/files/cubanc_lcf_nd044.pdf",
+  "pdf_pages_stated": 45,
+  "pages_read": [
+   "PDF img 1-12",
+   "20-26 (stamped transcript pp. 1-6, 13-19)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The file spells the toponym POGOLOME, not Pogolimi: PDF img1 red label 'CASE NO. 44 / NORTHERN DISTRICT / CANADA de POGOLOME GRANT / MARIA ANTONIO CAZARES CLAIMANT'; transcript title page, stamped p1, 'for the place named \"Canada de Pogolome\"'; the Spanish titulo, stamped p14, 'el terreno que hoy ocupa, conocido con el nombre de Canada de Pogolome'. The Board clerk also writes 'Pogolomi' and 'Pologome' in the docket (stamped p3). The register's 'Pogolimi' transposes the vowels of every form in the file"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p15: 'Dado a Monterrey a doce de Febrero de mil ochocientos cuarenta y cuatro. Man.l Micheltorena'; petition, stamped p5: 'That on the twelfth day of February one thousand eight hundred and forty-four, Manuel Micheltorena, Governor of the Californias ... granted to the petitioner in her own name'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p14: 'Manuel Micheltorena, General de Brigada del Ejercito Mejicano, Ayudante General de la plana mayor del mismo, Gobernador Comandante General e Inspector de la alta California'; signed 'Man.l Micheltorena' at p15"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The grantee is a WOMAN. Titulo, stamped transcript p14: 'Por cuanto D.a ANTONIA Cazares Mejicana por nacimiento, VIUDA de Santiago Dawson, ha probado bastantemente a este Gobierno los Derechos que tubo su finado Esposo para solicitar el terreno que hoy ocupa ... he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras'. Petition, stamped p5: 'The petitioner, Dona Antonia Cazares, widow of the late James Dawson now deceased ... Manuel Micheltorena ... granted to the petitioner IN HER OWN NAME and subsequent to the death of her said husband'. The register's masculine 'Antonio Cazares' is the wrong form of the right person (its own patent_to field has her correctly as Maria Antonia Cazares)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 44 NORTHERN DISTRICT'; img2 'LAND CASE 44 ND pgs. 45'; every leaf stamped 'CASE 44 ND'; filename cubanc_lcf_nd044.pdf. Commission docket no. 19 (title page, stamped p1) matches Hoffman commission_no 19"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p4: 'San Francisco April 11th 1853. In case No 19 Antonio Cazares for the place named \"Pogolome\" Commissioner Harry I. Thornton delivered the Opinion and Decree of Final Confirmation of the Board. Ordered that the said Opinion and Decree of Final Confirmation be Recorded on the Records of the Board (vide page 25 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Antonia Cazares (Dona Maria Antonia Cazares, widow of James / Santiago Dawson), per the titulo, stamped transcript p14: 'Por cuanto D.a Antonia Cazares Mejicana por nacimiento, viuda de Santiago Dawson'",
+   "name": "Canada de Pogolome, per the red case label (PDF img1), the transcript title page (stamped p1) and the titulo (stamped p14)"
+  },
+  "notes": "Single volume, 45 pages / 54 PDF images. Two sitios de ganado mayor (titulo, stamped p14), consistent with the register's 8,780.81 patent acres. Rich back-story visible in the sworn translations, stamped pp.16-19: the land at the Estero Americano was granted to Manuel McIntosh 4 Sept 1839, approved by the Departmental Junta 22 May 1840, with James Dawson and James Black EXCLUDED 'as wanting the indispensable requisite of naturalization to enable them to hold property in Mexican Territory' (stamped p19); Dawson was naturalized at Monterey 27 Dec 1841 by Manuel Jimeno Casarin acting as governor (stamped p17) and petitioned again 18 Sept 1843; he died before the title issued, and Micheltorena granted the Canada de Pogolome to his widow in her own name on 12 Feb 1844. Departmental Assembly approval 26 Sept 1845 (petition, stamped p5). Grant recorded in Sonoma County Book F pp.234-235 on 14 Nov 1851 (endorsement, stamped p15). Board confirmation 11 April 1853; the opinion at transcript p25 was not read, and no patent copy appears in the pages read (register's GLO 51 / 3 Nov 1858 is for Phase C)."
+ },
+ {
+  "id": "rancho-canada-san-felipe-animas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268955/files/cubanc_lcf_sd332.pdf",
+  "pdf_pages_stated": 67,
+  "pages_read": [
+   "PDF img 1-10",
+   "15-22 (stamped transcript pp. 1-5, 9-16)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 332 / SOUTHERN DISTRICT / CANADA DE SAN FELIPE Y LAS ANIMAS GRANT / CHARLES M. WEBER CLAIMANT'; expediente cover, stamped transcript p9: 'Espediente promovido por D.n Tomas Boun y en solicitud del parage nombrado \"S.n Felipe y las Animas\"'; concession decree, stamped p11: 'el paraje nombrado Canada de San Felipe y las animas'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped transcript p11, dated at Monterey August 1839 and declaring Boun owner; the confirmation minute at stamped p12 recites the grant as one 'que obtuvo en diez y siete de agosto de mil ochocientos treinta y nueve'; the sworn English translation, stamped p16, opens 'Monterey August 17. 1839. Having seen the petition with which this Espediente begins ... I declare Tomas Boun owner of the place named \"Canada de San Felipe y Las Animas\" in extent two square leagues'. Departmental Junta approval 22 May 1840 (stamped p13)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped transcript p11: 'El Sor. D.n Manuel Jimeno Casarin vocal propietario de la Excma. Junta del Departamento de las Californias EN EJERCICIO DEL GOBIERNO del mismo lo mando, decreto y firmo, de que doy fee. Man.l Jimeno. Francisco C. Arce, Oficial 1.o'. The petition (stamped p4) agrees: 'Manuel Jimeno Casarin Governor of California by virtue of authority in him vested granted to Tomas Boun'. Jimeno was acting governor; Alvarado, the titular governor, appears only later, signing the confirmation minute at stamped p12"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Concession decree, stamped transcript p11: 'declaro a TOMAS BOUN dueno del paraje nombrado Canada de San Felipe y las animas en estencion de dos sitios de ganado mayor'; the sworn translation renders the name 'Thomas Bown' (stamped p15, 'We Thomas Bown married to a Mexican Woman and Natan Deli'). Register's 'Tomas Bonn' is the right man in a corrupt form (Hoffman prints 'Tomas Boun'). Register correctly holds the Mexican grantee, not the U.S.-era claimant Charles M. Weber"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 332 SOUTHERN DISTRICT'; img2 'LAND CASE 332 SD pgs. 67'; every leaf stamped '332 SD'; filename cubanc_lcf_sd332.pdf. Commission docket no. 333 (transcript title page and stamped p2) matches Hoffman commission_no 333"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco May 8, 1855. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (vide page 43 of this Transcript) And the following order was made, to wit (vide page 53 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Tomas Boun (anglice Thomas Bown/Bowen), per the concession decree, stamped transcript p11: 'declaro a Tomas Boun dueno del paraje nombrado Canada de San Felipe y las animas'; the sworn translation at stamped p15 spells it 'Thomas Bown'"
+  },
+  "notes": "Single volume, 67 pages / 79 PDF images. Chain of title recited in the petition (stamped pp.4-5): Boun sold to Francisco Garcia and Carlos Moreno 7 Oct 1842, who sold to Charles Maria Weber 10 Nov 1845, which is why the U.S.-era claimant is Weber. Worth flagging for a date-checker: the original petition to the prefect was made JOINTLY by 'Thomas Bown ... and Natan Deli' (stamped p15, Pueblo of San Jose de Alvarado, 14 May 1839), but the concession decree declares Boun ALONE the owner, so the register is right to name only him. Two dates for the concession appear in the file: 17 August 1839 (decree recital, stamped p12, and the sworn translation, stamped p16, both explicit) versus '1.o de Agosto de 1839' in the Junta committee's approving article (stamped p13). The year, the graded field, is 1839 in every instrument. Board confirmation 8 May 1855; the opinion at transcript p43 and any District Court proceedings were not read."
+ },
+ {
+  "id": "rancho-canada-san-vicente-mesa-padre-barona",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266121/files/cubanc_lcf_sd162.pdf",
+  "pdf_pages_stated": 42,
+  "pages_read": [
+   "PDF img 1-10",
+   "13-20 (stamped transcript pp. 1-5, 8-15)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Expediente cover, stamped transcript p8: 'Ano de 1845. Jurisdiccion del Partido de San Diego. Expediente promovido p.r el C. Juan Lopez en solicitud del parage de S. Vicente y Mesa del P. Barona'; grant decree, stamped p10: 'el terreno conocido bajo el nombre de Canada de S.n Vicente y Mesa del padre Barona'; sworn translation, stamped p15: 'the tract bearing the name of Canada de San Vicente and Mesa del Padre Barona'. (The red case label, PDF img1, gives only the short form 'CANADA DE SAN VICENTE GRANT'; the register's longer form matches the decree.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's decree, stamped transcript p10: 'Angeles Enero 26 de 1846 ... declaro al Ciudadano Juan Lopez dueno en propiedad del terreno conocido bajo el nombre de Canada de S.n Vicente y Mesa del padre Barona'; the titulo, stamped pp.11-12, closes 'Dado en la ciudad de los Angeles, en este papel comun por falta del sellado a veinte y cinco de Enero de mil ocho cientos cuarenta y seis'. Departmental Assembly approval 3 June 1846 (stamped p13)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree, stamped transcript p10: 'Pio Pico Gobernador provisional de las Californias asi lo mando, decreto y firmo de que doy fe. Pio Pico. Jose M.a Covarrubias S.rio'; titulo, stamped p11: 'Pio Pico Vocal decano de la Asamblea departamental y Gobernador provisional de las Californias'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Decree, stamped transcript p10: 'declaro al Ciudadano JUAN LOPEZ dueno en propiedad del terreno'; titulo, stamped p11: 'Por cuanto el ciudadano Juan Lopez ha pretendido para su beneficio personal y el de su familia, el terreno nombrado Canada de S.n Vicente y mesa del padre Barona ... he venido por decreto de este dia en concederle el espresado terreno'. Register correctly holds the Mexican grantee Lopez, not the U.S.-era claimant Domingo Yorba, who bought Lopez out on 13 May 1850 (petition, stamped p4)"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 162 SOUTHERN DISTRICT'; img2 'LAND CASE 162 SD pgs. 42'; every leaf stamped '162 SD'; filename cubanc_lcf_sd162.pdf. Commission docket no. 426 (transcript title page, stamped p1, and pencilled '426' on the flyleaf) matches Hoffman commission_no 426"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco May 2d, 1854. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board, confirming the Claim (vide page 25 of this Transcript)'; a further order on the U.S. Law Agent's motion, 1 Aug 1854, at transcript p26"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single volume, 42 pages / 48 PDF images. Hoffman's 1862 table carries no year/governor/grantee for this entry (all null in the input), so the case file is the only authority here and it settles every field: three sitios de ganado mayor (titulo condition 3, stamped p12), consistent with the register's 13,316.13 patent acres. Small internal date wrinkle, both 1846: the decree is dated Angeles 26 January 1846 (stamped p10, and the translation at p15) while the titulo issued on it is dated 25 January 1846 (stamped p12); the Assembly committee report (stamped p13) cites 'titulo librado con fha 25 de En.o de este ano', matching the register's 1846 either way. Land was San Diego mission community land declared vacant by the padre ministro Fr. Vicente P. Oliva, 11 Sept 1845 (stamped p9). Juan Lopez abandoned the rancho during the war (Elisalde deposition, stamped p5: 'Lopez left the place on account of the war and of trouble from the Indians'), which is why no judicial possession was ever given (petition, stamped p4). Board confirmation 2 May 1854; the opinion at transcript p25 was not read, and no patent copy appears in the pages read."
+ },
+ {
+  "id": "rancho-canada-vaqueros",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256659/files/cubanc00004692_ae_a.pdf",
+  "pdf_pages_stated": 55,
+  "pages_read": [
+   "PDF img 1-10",
+   "24-29 (stamped transcript pp. 1-6, 20-24)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 386 / NORTHERN DISTRICT / CANADA de los BAQUEROS GRANT / ROBERT LIVERMORE CLAIMANT'; grant, stamped transcript p21: 'el parage nombrado \"Canada de Baqueros\" colindante con el Rancho de Don Juan Mais, con el de D. Roberto Livermore y con el de Don Antonio Maria Pico'; sworn translation, stamped p23: 'the place called Canada de los Boqueros'. The file writes the word with a B throughout; the register's V is the standard modern orthography of the same word and is how the Bancroft's own catalogue titles the case"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, stamped transcript pp.21-22: 'Dado en Monterrey a veinte y nueve de febrero de mil ocho cientos cuarenta y cuatro. Manuel Micheltorena. Manuel Jimeno. Srio.'; sworn translation, stamped p24: 'Given in Monterey on the 29th of Feby 1844'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, stamped transcript p21: 'El ciudadano Manuel Micheltorena Gral de Brigada del Ejercito Mejicano, Ayudante Gral de la plana Mayor del mismo, Gobernador Comand.te Gral ... e Inspector del Departamento de Californias'; translation stamped p23 same"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant, stamped transcript p21: 'Por cuanto D.n FRANCISCO ALVISO, ANTONIO HIGUERA y MANUEL MIRANDA han pretendido para el parage nombrado \"Canada de Baqueros\" ... he venido en concederle provicionalmente el terreno mencionado'; translation stamped p23: 'Whereas Don Francisco Alvisa, Antonio Higuera and Manuel Miranda have petitioned for the place called Canada de los Boqueros ... I have thought proper to grant them provisionally the parcel of land mentioned'; the claim petition (stamped p4) names the same three. The register's 'Francisco Alvisu et al' has the surname corrupt (Alviso, not Alvisu) and hides the two named co-grantees behind 'et al'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 386 NORTHERN DISTRICT'; img2 'LAND CASE 386 ND PAGES 55'; every leaf stamped '386 ND'. Commission docket no. 79 (transcript title page, stamped p1, and stamped p2) matches Hoffman commission_no 79. FILENAME CAVEAT in notes"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco Sept. 4, 1855. In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim (vide page 47 of this Transcript) and the following order was made, to wit (vide page 52 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Francisco Alviso, Antonio Higuera y Manuel Miranda, per the grant, stamped transcript p21: 'Por cuanto D.n Francisco Alviso, Antonio Higuera y Manuel Miranda han pretendido para el parage nombrado \"Canada de Baqueros\"'"
+  },
+  "notes": "FILENAME TRAP, worth recording for the pipeline: this docket does NOT follow the cubanc_lcf_ndNNN convention. digicoll record 256659 serves the case as cubanc00004692_ae_a.pdf, and the derived https://digicoll.lib.berkeley.edu/record/256659/files/cubanc_lcf_nd386.pdf answers HTTP 200 with text/html, not a 404 - the same 200-with-HTML trap the method warns about for two-volume cases. fetch_case_pages.py's docket resolver reports 'no cubanc_lcf PDF listed' and needs --pdf-url here. Single volume, 55 pages / 69 PDF images. SUBSTANTIVE POINT the register does not carry: this was a PROVISIONAL grant only - 'he venido en concederle provicionalmente el terreno mencionado siempre que no perjudiquen a los colindantes mencionados, sugetandose a occurir al Gobierno por los titulos de propriedad' (stamped p21); the translation calls it a 'license' (stamped p24), granted until the neighbouring ranchos could be measured, so no definitive titulo ever issued. Chain to the claimant: Higuera conveyed to Alviso 16 Sept 1846, Miranda to Alviso 12 Oct 1846, Alviso to Livermore 24 April 1847 (petition, stamped p4). Board confirmation 4 Sept 1855 verified from the docket; the opinion at transcript p47 and the District Court decree were not read, and no patent copy appears in the pages read (register's 22 Nov 1889 patent to Livermore and Noriega, GLO 109, is for Phase C)."
+ },
+ {
+  "id": "rancho-canada-verde-arroyo-purisima",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264187/files/cubanc_lcf_nd350.pdf",
+  "pdf_pages_stated": 76,
+  "pages_read": [
+   "PDF img 1-9",
+   "11-16",
+   "18-26 (stamped transcript pp. 1-4, 6-11, 13-19)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p2: 'In case No. 359, Jose Antonio Alviso for the place named \"Canada de Verde\" y \"Arroyo de la Purisima\"'; petition, stamped p4: 'a tract of land known as La Canada de Verde y Arroyo de la Purissima of the extent of two square leagues situate in the North western part of the County of Santa Cruz'. (The gilt case label, PDF img1, is stamped 'CANADA VERUE GRANT' - a binder's misstamping of VERDE; the transcript title page has 'Canada Verde'.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "The operative concession is Alvarado's marginal decree on Jose Maria Alviso's petition, Exhibit H.H. No.1, stamped transcript p14: 'Sta Clara Mzo. 25 de 1838. Informe el Administrador de la Ex-mision de S. Fran.co de Asis, en concepto de que siendo baldio el terreno mencionado puede el interesado en virtud de este decreto ocuparlo provisionalmente debiendo acompanar el diseno correspondiente. Alvarado.' The petition itself is subscribed 'Sta. Clara Mzo. 25 de 1838. Jose M.a Alviso' (stamped p15); the sworn translation renders both dates 'Santa Clara April 25th 1838' (stamped pp.16-17). Year 1838 either way"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The concession decree is signed 'Alvarado' (stamped transcript p14; sworn translation, stamped p17, 'the interested party (petitioner) may occupy it provisionally by virtue of this decree ... Alvarado'). Jose Maria Covarrubias swore to the signature: stamped p13, 'I was personally and intimately acquainted with said Alvarado, have often seen him write and sign his name and this is his genuine signature without any doubt'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Exhibit H.H. No.1, stamped transcript p14: 'El Ciudadano Jose M.a Alviso ante V.S. respetuosamente me presento y digo que deseando dedicarme al interesante ramo de la agricultura ... suplico a V.S. se sirva concederme conforme a las leyes de colonizacion dos sitios de ganado mayor en las tierras que hay desde el arroyo de la Purisima a los linderos del rancho del Ciudadano Antonino Buelna'; subscribed 'Jose M.a Alviso' (stamped p15). The register's 'Alvisu' is a corrupt form of Alviso, carried over from Hoffman. Register is right to hold the brother JOSE MARIA and not the U.S.-era claimant JOSE ANTONIO Alviso"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 gilt label 'CASE NO. 350 NORTHERN DISTRICT'; img2 'LAND CASE 350 ND 76 pgs.' (typed 74, corrected in ink to 76); every leaf stamped '350 ND'; filename cubanc_lcf_nd350.pdf. Commission docket no. 359 (transcript title page, stamped p1, and stamped p2) matches Hoffman commission_no 359"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p3: 'San Francisco July 10, 1855. In the same case Commissioner S. B. Farwell delivered the opinion of the Board confirming the claim (vide page 29 of this transcript) and the following order was made, to wit (vide page 34 of this transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Maria Alviso, per Exhibit H.H. No.1, stamped transcript pp.14-15: 'El Ciudadano Jose M.a Alviso ... suplico a V.S. se sirva concederme conforme a las leyes de colonizacion dos sitios de ganado mayor', subscribed 'Sta. Clara Mzo. 25 de 1838. Jose M.a Alviso'"
+  },
+  "notes": "Single volume, 76 pages / 89 PDF images. SUBSTANTIVE POINT: there was NO formal titulo here. What the register records as an 1838 Alvarado grant is a marginal decree of PROVISIONAL OCCUPATION pending a report from the administrador of ex-Mission San Francisco de Asis; that report did not come until 30 April 1840 ('Establecimiento de Dolores Abril 30 de 1840. Jose de la C. Sanchez', stamped p15), and on the very same day Jose Maria Alviso ceded his right to his brother by an endorsement on the same sheet ('Cedo mi derecho que por la presente concesion me pertenece a mi Hermano Jose Antonio Alviso ... Sta. Clara Abril 30 de 1840', stamped p15). A cash sale followed at Mission Santa Clara on 2 May 1840 for 1,200 pesos (Exhibit No.1, stamped p18, translated p19), Jose Maria signing with a cross because he could not write. The claimant also produced a separate provisional concession from Jose Castro to Jose Antonio Alviso dated 10 June 1839 (Chaboya deposition, stamped p8). The Board confirmed anyway, 10 July 1855; opinion at transcript p29 not read. Bear in mind for the register's dating: the file's Spanish says 'Mzo. 25 de 1838' (25 March) where the sworn translation says 'April 25th 1838' - the month is contested inside the file, the year is not."
+ },
+ {
+  "id": "rancho-capay",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264429/files/cubanc_lcf_nd042.pdf",
+  "pdf_pages_stated": 62,
+  "pages_read": [
+   "PDF img 1-9",
+   "15-23 (stamped transcript pp. 1-4, 9-16)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 42 / NORTHERN DISTRICT / CAPAY GRANT / JOSEFA SOTO CLAIMANT'; transcript title page, stamped p1, 'for the place named \"Capay\"'; the titulo locates the land 'al norte de la embarcadura del rio Capay' (stamped p13)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p14: 'Dado en Monterey a los veinte y un dias del mes de Diciembre del ano de mil ochocientos cuarenta y cuatro. Man.l Michelt.na. Man.l Jimeno S.rio.' The governor's order to issue it is at stamped p12, 'Monterrey Dbre. 21 de 1844 ... espidase el titulo. Michelt.a', and the Assembly's land committee recites 'le fue concedido por el Gob.no Departamental con fha 21 de diciembre de 1844 ... segun titulo librado con fha 21 de Diciembre de 1844' (stamped p15)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p13: 'El C. Manuel Micheltorena General de Brigada del Ejercito Mejicano, Ayudante General de la Plana Mayor del mismo, Gobernador Comand.te General e Inspector del Departamento de Californias ... usando de las facultades que me son conferidas, a nombre de la Nacion Mejicana he venido en concederle el terreno mencionado'; W. E. P. Hartnell swore to the signatures, stamped p9: 'The paper now shown me purporting to be the original title to Josefa Soto is a genuine paper, it is in my own handwriting, and was written by me for Josefa Soto in December 1844, and I have no doubt that the signatures of Michelltorena and of Jimeno attached to it are the genuine signatures of those persons'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo, stamped transcript p13: 'Por cuanto D.a JOSEFA SOTO mejicana por nacimiento ha pretendido para su beneficio personal y el de su familia un terreno baldio situado en la orilla del oeste del Rio Sacramento, y al norte de la embarcadura del rio Capay'; expediente cover, stamped p10: 'Espediente promovido por D.a Josefa Soto en pretension de un terreno situado en el Sacramento'. She is also the U.S.-era claimant, so no claimant/grantee substitution is possible here"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 42 NORTHERN DISTRICT'; img2 'LAND CASE 42 ND pgs. 62'; every leaf stamped 'CASE 42 ND'; filename cubanc_lcf_nd042.pdf. Commission docket no. 157 (transcript title page, stamped p1, and stamped p2) matches Hoffman commission_no 157"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket, stamped transcript p4: 'San Francisco April 11th 1853. In case No 157 Josefa Soto for the place named \"Capay,\" Commissioner Harry I. Thornton delivered the Opinion and the Decree of Final Confirmation. Ordered that the said Opinion & Decree of Final Confirmation be Recorded on the Records of this Board (vide page 41-2-3 of this Transcript)'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single volume, 62 pages / 74 PDF images. Every register field checks out against the titulo. Grant is TEN sitios de ganado mayor (condition 4, stamped transcript p14: 'El terreno de que se hace donacion es de diez sitios de ganado mayor segun esplica el diseno respectivo'), consistent with the register's 44,388.17 patent acres. Useful detail the register does not carry: Josefa Soto petitioned at Monterey 5 Jan 1844 as 'viuda, hija legitima del finado Damasio Soto y M.a Antonia Alviso' and signed at her request by Jorge Allen because she could not write (stamped pp.10-11); Micheltorena referred the expediente to JOHN A. SUTTER as 'encargado del Sacramento', who certified the land vacant at 'Nueva Helvecia Marzo 19 de 1844' over his own signature 'J. A. Sutter, Juzgado del Distrito del Rio Sacramento' (stamped p11); Jimeno then advised suspending all Sacramento and San Joaquin grants pending a gubernatorial visita (stamped p12, 27 March 1844) and Micheltorena concurred, issuing only a provisional occupation permit on 13 July 1844 before finally ordering the title out on 21 Dec 1844 because the visita could not be made and 'estas familias nativas del Departamento y p.r consiguiente mejicanas' were being kept from their farming. Departmental Assembly approval 22 April 1845 under Pio Pico as president and Agustin Olvera as secretary (stamped pp.15-16). The Land Commission opinion at transcript pp.41-43 was not read, and no patent copy appears in the pages read."
+ }
+]

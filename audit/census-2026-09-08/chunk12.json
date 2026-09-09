@@ -1,0 +1,217 @@
+[
+ {
+  "id": "rancho-panoche-san-juan-carrisalitos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264276/files/cubanc_lcf_sd181.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "img1-14",
+   "img15-26",
+   "img40-58 (stamped pp.32-49)",
+   "img59-66 (stamped pp.50-57)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE No. 181 / SOUTHERN DISTRICT / SAN JUAN GRANT / JULIAN URSUA CLAIMANT'; stamped p19 (sworn translation of the expediente) and stamped p37 Decree of Confirmation both name the land 'La Panocha de San Juan y Los Carrisalitos'. Register's 'Panoche De San Juan Los Carrisalitos' is the same place in a variant spelling (drops the 'y', 'Panoche' for 'Panocha')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p19, translation of the grant decree: 'Monterey Feby 17th 1844 ... I declare Dn Julian Ursua owner of the land called Panocha de San Juan y los Carrisalitos'; Spanish original at stamped p15 'Monterey Febrero 17 de 1844'. Board opinion stamped p35: 'on the 17th day of February A.D. 1844 Governor Micheltorena granted to the said Julian Ursua the tract of land...'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p15 grant decree signed 'Michelt[oren]a'; stamped p35 Board opinion: 'Governor Micheltorena granted to the said Julian Ursua'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p19 decree translation: 'I declare Dn Julian Ursua owner of the land called Panocha de San Juan y los Carrisalitos'; stamped p35 same. Register's 'J. Ursua' = Julian Ursua. Pedro Romo is a later purchaser (deed of 1 July 1852, stamped p33), not a grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 181 SOUTHERN DISTRICT'; img2 pencil stamp 'LAND CASE 181 SD pgs. 56'; every transcript leaf stamped '181 SD'; PDF filename cubanc_lcf_sd181.pdf."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission Decree of Confirmation, stamped p37, filed 2 May 1854; U.S. appealed (appeal notice stamped p41, petition for review p42-45); District Court decree stamped pp.50-51, 17 Dec. 1856, Judge Isaac S. K. Ogier: 'the decision of said Board of Commissioners be, and the same hereby is affirmed ... the Claim of the Appellees to the lands called Panocha de San Juan y los Carrisalitos is good & valid and the same are hereby confirmed to them to the extent of five square leagues and no more'; U.S. Supreme Court mandate, stamped p55, Dec. Term 1863: 'on the motion of Mr Attorney General Bates ... this cause be and the same is hereby dismissed'. Confirmation therefore final."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record; all six fields verified. No patent copy in the case file (file ends with the 1863 Supreme Court mandate and the diseno card, stamped p57), so the register's patent data (Julian Ursua and Pedro Romo, 30 July 1867, GLO 235) is untested here and belongs to Phase C. Note for a re-reader: the Commission confirmed to the two petitioners in fixed proportions (Pedro Romo three leagues, Julian Ursua the remaining two), stamped p37."
+ },
+ {
+  "id": "rancho-paraje-sanchez",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267571/files/cubanc_lcf_sd230.pdf",
+  "pdf_pages_stated": 43,
+  "pages_read": [
+   "img1-12 (stamped pp.1-6)",
+   "img13-24 (stamped pp.7-17)",
+   "img25-30 (stamped pp.18-24)",
+   "img31-54 (stamped pp.22-43)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE No. 230 / SOUTHERN DISTRICT / PARAJE DE SANCHEZ GRANT / JUANA BRIONES DE LUGO, ET AL CLAIMANT'; grant translation stamped p16 names 'the Land known by the name of Paraje de Sanchez'; Commission decree stamped p23 'known by the name of \"Paraje de Sanchez\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "sworn translation of the title, stamped p17: 'Given in Monterey On the Eighth of June Eighteen hundred and thirty nine (Signed) Juan B Alvarado'; Spanish original stamped p10-11 'Dado en Monterrey a ocho de junio de mil ochocientos treinta y nueve. Juan B. Alvarado'. Board opinion stamped p22 confirms: 'a grant signed to them by Governor Juan B Alvarado dated June 8. 1839'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p16 translation heading: 'John B Alvarado Governor ad interim of the Department of the Californias'; Spanish p9 'Juan B. Alvarado Gobernador interino del Departamento de las Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p16: 'Whereas citizen Francisco Lugo has solicited for his personal benefit and that of his family the Land known by the name of Paraje de Sanchez ... I have ... granted unto him in the name of the Mexican Nation the Land mentioned'. The U.S.-era claimants (Juana Briones de Lugo, his widow, and their children Cayetano, Juan de Mata, Francisco, Josefa) are heirs, not grantees; the register correctly carries the grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 230 SOUTHERN DISTRICT'; img2 pencil stamp 'LAND CASE 230 SD pgs. 43'; District Court wrapper 'No. 230' (img34); PDF filename cubanc_lcf_sd230.pdf. Commission docket was No. 537 (transcript title page, stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission Opinion and Decree of Confirmation, stamped pp.22-23, filed 7 Nov. 1854: 'the Claim of the said petitioners is valid and the same is therefore Confirmed to the said Cayetano Lugo and the other Children of Francisco Lugo and Juana Briones de Lugo his wife both deceased'; U.S. appealed (notice stamped p25/p26); District Court opinion stamped p43: 'The Claimant is therefore entitled to a confirmation and a decree will be entered affirming the decision of the Commissioners'; Attorney-General Cushing, stamped p37, 1 Oct. 1856: 'confirmed to the Claimants by the Commissioners, case no. five hundred and thirty seven (537), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted'; stipulation and order vacating the Supreme Court appeal and making the District Court decree final, stamped pp.35-36 and 39, filed 5 Feb. 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "HOFFMAN IS WRONG HERE, and the register is right: the input's hoffman_1862 disposition 'dismissed' does not match the case file, which shows confirmation at the Commission (7 Nov. 1854) AND affirmance in the District Court, with the Supreme Court appeal vacated by stipulation on 5 Feb. 1857 (stamped pp.35-36). 'Dismissed' most likely records the dismissal/abandonment of the U.S. appeal, not the fate of the claim. No patent copy in the file, so the register's patent data (Cayetano Lugo et al, 9 Aug. 1866, GLO 292) is for Phase C."
+ },
+ {
+  "id": "rancho-pasa-bartolo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265834/files/cubanc_lcf_sd087.pdf",
+  "pdf_pages_stated": 204,
+  "pages_read": [
+   "img1-12 (stamped pp.1-7)",
+   "img13-24 (stamped pp.8-19)",
+   "img92-103 (stamped pp.83-92)",
+   "img199-216 (stamped pp.187-204)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Register has 'Pasa De Bartolo'; every instance in the file reads PASO. img1 red case label: 'CASE No. 87 / SOUTHERN DISTRICT / PASO DE BARTOLA GRANT / PIO PICO, ET AL CLAIMANT'; transcript title page stamped p1 'for the place named \"Paso de Bartolo\"'; expediente cover sheet stamped p10 'Espediente sobre el paraje Paso de Bartolo viejo solicitado para su ocupacion y beneficio por Juan Crispin Peres'; grant decree stamped p19 'el terreno conocido con el nombre de Paso de Bartolo viejo'. Right rancho, wrong first word."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped pp.18-19: 'Monterrey 1o de Junio de 1835 ... se declara a D. Juan Crispin Perez ... dueño en propiedad del terreno conocido con el nombre de Paso de Bartolo viejo ... Jose Figueroa / Agustin V. Zamorano Srio.' Board opinion stamped p84: 'Governor Figueroa issued the grant bearing date June 12th 1835. The approval of the departmental Assembly was obtained on the 29th day of August 1835 and judicial possession of the land was given to said grantee April 30th 1842.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p19, the titulo: 'Jose Figueroa General de Brigada de la Republica Mejicana, Comandante General, Inspector y Gefe Politico del territorio de la Alta California'; signed 'Jose Figueroa' with Zamorano as secretary. Board opinion stamped p84 names 'Governor Figueroa'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p19 decree: 'se declara a D. Juan Crispin Perez ... dueño en propiedad del terreno conocido con el nombre de Paso de Bartolo viejo'; Board opinion stamped p84: 'a grant of the land called Paso de Bartolo Viejo by Governor Figueroa to Juan Crespin Perez in 1835'. This is the classic claimant-vs-grantee trap and the register avoids it: the U.S.-era claimant of record was Pio Pico (red label img1, transcript title page stamped p1), who bought in from the Perez heirs 1850-52; the register correctly carries the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 87 SOUTHERN DISTRICT'; img2 slip 'LAND CASE 87 SD page 204'; District Court wrapper stamped 'No. 87 ... Pio Pico et al In \"Paso de Bartolo\" ... In Case No. 373' (img97); PDF filename cubanc_lcf_sd087.pdf. Commission docket 373."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Not simple, but the register's 'Confirmed' is right on the final decree. The Commission REJECTED Pico and Perez: decree stamped p87, filed 27 Dec. 1853, 'the said claim of the petitioners Pio Pico and Juan Perez are not valid, and the application of said Pico and Perez respectively for a confirmation thereof is therefore hereby denied', confirming only the small parcels of Joaquina Sepulveda and Bernardino Guirado (stamped pp.87-88). Claimants appealed (notice stamped pp.90-92, filed 24 Jan. 1854). District Court decree, stamped pp.191-193, filed 7 Feb. 1856: 'the said decision of said Board as to the above named Appellants, Pio Pico and Juan Perez, be, and the same hereby is, reversed ... the claim of the aforesaid Pio Pico, Juan Perez, Bernardino Guirado and Joaquina Sepulveda is good and valid and the same is hereby confirmed to them to the extent of two square leagues of land within the boundaries described in the Grant', signed Isaac S. K. Ogier. Attorney-General Cushing, stamped p197, 18 Sept. 1856: appeal to the Supreme Court 'will not be prosecuted'; order vacating that appeal and making the District Court decree final, stamped p199, filed 25 Sept. 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Paso de Bartolo (full form in the expediente, stamped p10 and p19: 'Paso de Bartolo viejo'); register's 'Pasa' is a typo"
+  },
+  "notes": "DUPLICATE REGISTER ROW. This id and 'rancho-paso-bartolo' carry identical claimed values and the same land case (SD 087 = Commission 373), and the case file contains ONE grant only: Paso de Bartolo Viejo, Figueroa to Juan Crispin Perez, 1 / 12 June 1835. There is no second Paso de Bartolo case in this file; Pio Pico appears only as the U.S.-era claimant who bought the Perez heirs' interests (deeds of 5 and 23 Mar. 1852, 20 Aug. 1850, 19 Feb. 1851, 28 Apr. 1851, recited in the Board opinion stamped pp.85-86). The two rows should be merged, or the '(Pico)' row retitled as a claimant note. Also worth noting for a re-reader: the Commission's own first decision went AGAINST the claim and was reversed on appeal, so a naive 'Confirmed' hides a rejection. No patent copy in the file (it ends with 1862 survey-service orders, stamped pp.201-204), so the register's GLO 464 is for Phase C."
+ },
+ {
+  "id": "rancho-paso-bartolo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265834/files/cubanc_lcf_sd087.pdf",
+  "pdf_pages_stated": 204,
+  "pages_read": [
+   "img1-12 (stamped pp.1-7)",
+   "img13-24 (stamped pp.8-19)",
+   "img92-103 (stamped pp.83-92)",
+   "img199-216 (stamped pp.187-204)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red case label 'CASE No. 87 / SOUTHERN DISTRICT / PASO DE BARTOLA GRANT / PIO PICO, ET AL CLAIMANT'; transcript title page stamped p1 'for the place named \"Paso de Bartolo\"'; expediente cover stamped p10 'Paso de Bartolo viejo'. The register's parenthetical '(Pico)' is accurate as a claimant tag: Pio Pico is the named claimant on the label and in the caption 'Pio Pico & als vs The United States' (Board opinion, stamped p84)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree stamped pp.18-19: 'Monterrey 1o de Junio de 1835 ... se declara a D. Juan Crispin Perez ... dueño en propiedad del terreno conocido con el nombre de Paso de Bartolo viejo'; Board opinion stamped p84: 'Governor Figueroa issued the grant bearing date June 12th 1835'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p19 titulo: 'Jose Figueroa General de Brigada de la Republica Mejicana, Comandante General, Inspector y Gefe Politico del territorio de la Alta California'; Board opinion stamped p84 'Governor Figueroa'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p19: 'se declara a D. Juan Crispin Perez ... dueño en propiedad'; Board opinion stamped p84 'a grant ... by Governor Figueroa to Juan Crespin Perez in 1835'. Pio Pico is the U.S.-era claimant only, taking by purchase from the Perez heirs 1850-52 (Board opinion stamped pp.85-86); the register correctly holds the Mexican grantee in the grantee field."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 87 SOUTHERN DISTRICT'; img2 slip 'LAND CASE 87 SD page 204'; PDF filename cubanc_lcf_sd087.pdf; Commission docket 373 (title page stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission decree stamped p87 (27 Dec. 1853) DENIED Pico's and Perez's claims and confirmed only Sepulveda's and Guirado's parcels; on appeal the District Court decree stamped pp.191-193 (filed 7 Feb. 1856) 'reversed' the Board as to Pico and Perez and confirmed the claim of 'Pio Pico, Juan Perez, Bernardino Guirado and Joaquina Sepulveda ... to the extent of two square leagues', with 'the whole of the above Confirmed premises' going to Pico and Perez except the two small parcels; the Supreme Court appeal was abandoned (AG Cushing, stamped p197, 18 Sept. 1856) and the decree made final by order stamped p199, filed 25 Sept. 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "DUPLICATE OF 'rancho-pasa-bartolo' (identical claimed values, same case). One grant, one land case: SD 087 / Commission 373. Keep this row (spelling 'Paso' is correct) and fix or merge the 'Pasa De Bartolo' row. Register field values all verified against the decrees. No patent copy in the file, so GLO 464 is untested here."
+ },
+ {
+  "id": "rancho-pauba",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267547/files/cubanc_lcf_sd203.pdf",
+  "pdf_pages_stated": 85,
+  "pages_read": [
+   "img1-12 (stamped pp.1-8)",
+   "img13-24 (stamped pp.9-20)",
+   "img34-45 (stamped pp.29-39)",
+   "img63-82 (stamped pp.57-73)",
+   "img83-94 (stamped pp.74-85)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 203 / SOUTHERN DISTRICT / PAUBA GRANT / LUIS VIGNES CLAIMANT'; transcript title page stamped p1 'for the place named \"Pauba\"'; grant translation stamped p32 'the land called \"Pauba\"'; District Court decree stamped p84 'known by the name of \"Pauba\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Translation of the expediente (Exhibit B), stamped p32: 'Monterey Nov 9th 1844. In view of the petition with which this Espediente begins ... I declare Don Vicente Moraga, owner in full property of the land called \"Pauba\" ... containing six leagues of the larger size'; the titulo follows at stamped p34, 'Given at Monterey the 9 of November 1844. Manuel Micheltorena / Manuel Jimeno Secy.' Board opinion stamped p57 states the same date. NOTE: a SECOND grant of the same land issued 4 Feb. 1846 (see notes)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Both governors named in the register are in the file. 1844 title, stamped p34: 'Manuel Micheltorena / Manuel Jimeno Secy', headed (stamped p32) 'The Citizen Manuel Micheltorena Brigadier General of the Mexican Army ... Governor Commanding General and Inspector of the Department of the Californias'. 1846 title, Spanish original Exhibit M at stamped p35 and translation Exhibit D at stamped p37: 'Pio Pico, Senior Vocal of the Departmental Assembly and Provisional Governor of the Californias', 'Given at the City of Los Angeles ... the 4th of February 1846. Pio Pico / Jose Ma Covarrubias Secy.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "The surname is misspelled in the head of the field ('V. Morago'), though the register's own parenthetical gets it right. 1844 decree, stamped p32: 'I declare Don Vicente Moraga, owner in full property of the land called \"Pauba\"'. 1846 grant translation, stamped p37: 'Whereas Don Vicente Moraga and Don Luis Arenas have asked for their own benefit and that of their families, the land known under the name of \"Pauba\" ... I have thought proper by decree of this day, to grant them the said land'. Board opinion stamped p59 explains the sequence: 'Moraga was unable to perform the conditions of the grant ... and he took in said Arenas as a partner, the two then applied to Governor Pico, and on surrendering the former grant made to Moraga, a new grant in the name of the two was issued'. The register correctly holds the Mexican grantees and not the U.S.-era claimant Luis Vignes, who took by mesne conveyances (Moraga+Arenas to Bonet & Martin 14 Oct. 1846; to Juan Manso 10 Feb. 1847; to Vignes 24 Jan. 1848 - Board opinion stamped pp.59-60)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE No. 203 SOUTHERN DISTRICT'; img2 slip 'LAND CASE 203 SD pgs. 85'; District Court file label (img72) 'No. 203 ... Luis Vignes \"Pauba\" ... In Case No. 341'; PDF filename cubanc_lcf_sd203.pdf. Commission docket 341."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Commission opinion (Alpheus Felch) stamped pp.57-60, decree stamped p61, both filed 2 May 1854: 'it is adjudged by the Commission that the said claim of the petitioner is valid, and it is therefore hereby decreed that the same be confirmed'. U.S. appealed (AG Cushing notice stamped pp.64/66, appeal notices filed 18 Apr. and 10 May 1855; Ord's petition for review stamped pp.68-70). District Court decree, stamped p84, filed 1 Mar. 1858, Isaac S. K. Ogier: 'the decision of said Commissioners be affirmed, and that the claim of the said Luis Vignes is a good and valid one, and the same is hereby Confirmed to him ... The quantity of land hereby Confirmed is of the extent of six square leagues and no more.' Supreme Court appeal abandoned: AG letter stamped p81, 4 Feb. 1857, and order vacating the appeal, stamped p82, December term 1857, 'that the claimant have leave to proceed upon the decree of this Court heretofore rendered as a final decree'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Vicente Moraga (not 'Morago'); grantees of the operative 1846 title = Vicente Moraga AND Luis Arenas"
+  },
+  "notes": "TWO GRANTS, and the register's single year hides the one the courts actually confirmed. Micheltorena granted Pauba to Vicente Moraga alone, 9 Nov. 1844 (stamped pp.32-34); Moraga could not perform the conditions, took Luis Arenas as partner, surrendered the first title, and Pio Pico regranted to the two of them 4 Feb. 1846 (stamped pp.35-38), approved by the Departmental Assembly 17 Mar. 1846. The District Court decree of 1 Mar. 1858 (stamped p84) confirms by reference to 'the grant and map attached thereto executed by Pio Pico Governor of California dated February 4th 1846' - i.e. the 1846 title, not the 1844 one. Recommend the register carry 1844/1846 the way its governor field already carries both names. Hoffman agrees with the register throughout. No patent copy in the file (it ends at the 1858 decree), so the register's patent data (Luis Vignes, 19 Jan. 1860, GLO 490) is for Phase C; note Hoffman's 1862 table marks this one patented, which is consistent with an 1860 patent."
+ }
+]

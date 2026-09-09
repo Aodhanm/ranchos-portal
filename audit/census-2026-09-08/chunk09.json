@@ -1,0 +1,421 @@
+[
+ {
+  "id": "rancho-laguna-tache",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267596/files/cubanc_lcf_sd255.pdf",
+  "pdf_pages_stated": 90,
+  "pages_read": [
+   "1-12 (images)",
+   "17-28 (images)",
+   "images 88-99 = stamped 79-90"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'CASE NO. 255 / SOUTHERN DISTRICT / LAGUNA DE TACHE GRANT / MANUEL CASTRO CLAIMANT'; transcript title leaf and stamped p2 both give 'Laguna de Tache'. Register form 'Laguna Del Tache' inserts 'Del' where the file reads 'de'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn translation of the grant, stamped p17: '...Given in the City of Los Angeles on this common paper for want of stamped paper on the 10th of January 1846. Pio Pico. Jose Maria Covarrubias Secretary.' Spanish original stamped p16 ends 'a diez de Enero de mil ochocientos cuarenta y seis'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree stamped p16/p17: 'Pio Pico eldest member of the Honourable Assembly of the Department of both Californias and Governor ad interim of the same ... I have concluded to grant the said Castro by these presents the ownership of the eleven square leagues of land'; signed 'Pio Pico'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree stamped p16: 'he venido en concederle al espresado Señor Castro por las presentes la propiedad de los once sitios de ganado mayor'; translation stamped p17: 'Whereas the Citizen Manuel Castro has solicited for his personal benefit eleven square leagues in the Laguna de Tache in the District of Monterey'. Claimant and grantee are the same man, Manuel Castro."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 255 SOUTHERN DISTRICT'; every transcript leaf carries the stamp '255 SD PAGE n'; PDF filename cubanc_lcf_sd255.pdf. Land Commission docket was No. 600 (title leaf, stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED the claim: opinion stamped pp19-20 ends 'the Claim must be rejected. Rejected', decree stamped p21 'the Claim of the said Petitioner is not valid and it is therefore decreed that his application for a confirmation thereof be denied', filed 17 Oct 1854. Reversed on appeal: District Court caption stamped p80 'Manuel Castro Appellant vs The United States Appellee No 255 Laguna de Tache', affidavit there recites 'after the confirmation of the same he drafted and submitted to the Court the decree'; U.S. Surveyor General's certificates stamped p87 and p89 read 'the Rancho Laguna de Tache confirmed to Manuel Castro has been surveyed by this office ... survey and plat approved ... 15th day of March 1864'. Register's 'Confirmed' is right, but only via the District Court, not the Commission."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Laguna de Tache' per p1 red label and stamped p17 translation, not 'Laguna Del Tache'"
+  },
+  "notes": "PDF has 99 images; early leaf stamped 'LAND CASE 255 SD 90 pgs.' Commission docket 600 = Hoffman's commission_no, court no. 255 = Hoffman's court_no; Hoffman, register and file all agree on 1846/Pico/M. Castro. Grant history in the expediente: Micheltorena's marginal decree of 12 Dec 1843 (stamped p12/p14) promised the surplus at Laguna de Tache left over from the Limantour grant, but the formal titulo was issued by Pio Pico 10 Jan 1846 (stamped p16-17); grade the grant to Pico/1846. No patent copy in the file (only the 1864 survey and the 1864/1865 publication certificates), so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-larkin-childrens",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265475/files/cubanc_lcf_nd115.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 1-12 = stamped 1-8",
+   "images 19-30 = stamped 15-25",
+   "images 31-40 = stamped 26-34"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The file uses both forms. Red label p1 and transcript title leaf (stamped p1): 'LARKIN'S RANCHO GRANT' / 'for the place named Larkin's Rancho'. But the depositions consistently call it the register's form: Jacob P. Leese, stamped p16, 'the tract of land claimed in this case called Rancho of Larkin's children'; Peter Lassen, stamped p21, 'the land called Rancho of Larkin's children'; John Bidwell, stamped p7, 'the Ranch of Larkin's children in the Sacramento river'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original stamped p29: 'Dado en Monterrey á los quince dias del mes de Diciembre de mil ochocientos cuarenta y cuatro' (15 Dec 1844). Micheltorena's order 'Let a title deed be issued', translation stamped p32, is dated 'Monterey December the 14th 1844'. Approved by the Departmental Assembly at Los Angeles 22 April 1846 (stamped p30), which is a confirmation of the 1844 grant, not a new grant."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, sworn translation stamped p34: 'The citizen Manuel Micheltorena, General of Brigade in the Mexican Army, Adjutant General in the staff of said Army, Governor, General Commander & Inspector of the Department of Californias ... I have found expedient to grant to them the aforementioned tract of land'; Spanish original stamped p28 same words, signed Micheltorena."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant, translation stamped p34: 'Whereas Francisco Larkin & his two sisters Carolina Ana & Sophia Adelaida, Mexicans by naturalization, have solicited for their personal benefit the location situated on the Western side of the Sacramento River'. Petition stamped p6 names the grantees as 'Francis, Caroline Ann & Sophia Adelaide Larkin'; the Spanish expediente heading stamped p25 is 'Espediente promovido por las hijas de D. Thomas O. Larkin'. Register's bare 'Francisco Larkin' names only one of three joint grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 115 NORTHERN DISTRICT ... FRANCISCO LARKIN, ET AL. CLAIMANT'; every leaf stamped '115 ND PAGE n'; PDF filename cubanc_lcf_nd115.pdf. Land Commission docket was No. 130 (title leaf and stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Certified chronological index of proceedings, stamped p4: 'San Francisco April 25 1854. In the same Case Commissioner Thompson Campbell delivered the opinion of the Board confirming the claim (Vide page 81 of this Transcript)'; stamped p5 notes 'For amended decree vide page 91 of this Transcript'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Grant was to three joint grantees, not one: 'Francisco Larkin & his two sisters Carolina Ana & Sophia Adelaida' (grant translation, stamped p34). Hoffman's 'F. Larkin et al.' and the red label's 'FRANCISCO LARKIN, ET AL.' both carry the 'et al.' the register drops."
+  },
+  "notes": "129 PDF images; no leaf stating the total stamped page count was found in the pages read (the usual 'LAND CASE ... pgs.' slip is absent from images 1-3). Confirmation graded from the certified index at stamped p4, not from the decree itself (decree at stamped p81, amended decree at stamped p91, both beyond the pages read); Hoffman 1862 independently records confirmed and patented, and the register's patent date is 18 Dec 1857, all consistent. Note the grant is a two-stage instrument: Micheltorena's title of 15 Dec 1844 was expressly 'subject to the approval of the Excellent Departmental Assembly', which approved it under Pio Pico at Los Angeles 22 April 1846 (stamped pp29-30). The register's 1844/Micheltorena is the correct reading of the grant."
+ },
+ {
+  "id": "rancho-laurelles",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267534/files/cubanc_lcf_sd187.pdf",
+  "pdf_pages_stated": 48,
+  "pages_read": [
+   "images 1-12 = stamped 1-7",
+   "images 13-24 = stamped 8-19",
+   "images 46-57 = stamped 37-48"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'CASE NO. 187 / SOUTHERN DISTRICT / LOS LAURELES GRANT / LEANDER RANSOM CLAIMANT'; transcript title leaf (stamped p1) 'for the place named \"Los Laureles\"'; grant translation stamped p18 'in the point called de \"Los Laureles\"'; District Court decree stamped p41 '\"Los Laureles\"'. The file never doubles the l."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, sworn translation stamped p19: 'Given at Monterey on the 13th of March, 1844. (Signed) Manl. Micheltorena, Manl. Jimeno Secy.' Spanish original stamped p17: 'Dado en Monterey á trece de Marzo de mil ochocientos cuarenta y cuatro.' The governor's concession decree that preceded it is stamped p15, 'Monterey 6th of March 1844'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p18: 'Manuel Micheltorena, General of Brigade of the Mexican Army, Adjutant General of Etat Major of the same, Governor, Commander General and Inspector of the Department of the Californias ... I have granted him the mentioned land declaring it to be his property by these present letters.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation stamped p18: 'Whereas the Native called Agricia has solicited for his personal benefit and that of his family, an extent of two thousand varas at each wind, in the point called de \"Los Laureles\"'. Full name in the expediente translation stamped p12: 'Jose Agricia, a Native of the Ex-mission of San Carlos'. Leander Ransom is only the U.S.-era claimant (p1 red label, petition stamped pp4-5 'he holds under the title so granted to said Jose Agricia'); the register correctly records the Mexican grantee, not the claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 187 SOUTHERN DISTRICT'; leaf stamp '187 SD PAGE n' throughout; District Court caption stamped p41 'No. 187 ... Transcript No. 610'; PDF filename cubanc_lcf_sd187.pdf. Land Commission docket was No. 610."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: index stamped p3, 'San Francisco Aug. 29 1854. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim (Vide page 29).' Reversed on appeal: District Court decree stamped p41, June Term 1857, 'It is ordered adjudged and decreed that there is error in the decision and decree of the said Land Commissioners, and that the same be and is hereby reversed and annulled; and it is further adjudged and decreed that the title of the Claimant is good and valid, and the same is hereby confirmed to him ... two thousand varas at each wind and no more'; signed stamped p42 'Thus decreed and signed in open Court at Monterey on this 3rd day of June A.D. 1857. Isaac S. K. Ogier, U.S. Dist. Judge.' The government's appeal was dismissed: U.S. Supreme Court mandate, December Term 1863, stamped p46, 'on the motion of Mr Attorney General Bates and of Counsel for the Appellants, it is now here considered, ordered and decreed by this Court that this cause be and the same is hereby dismissed', filed 11 Aug 1864 (stamped p47)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Los Laureles' per p1 red label and District Court decree stamped p41, not 'Los Laurelles'."
+  },
+  "notes": "48 stamped pages ('LAND CASE 187 SD pgs. 48', image 2), 57 PDF images. Register, Hoffman and the case file all agree on 1844 / Micheltorena / Jose Agricia. This is the small (2,000-vara, 718-acre) Los Laureles grant to the San Carlos Indian Jose Agricia, distinct from the larger Los Laureles rancho of Boronda and Blas Martinez that adjoins it and is repeatedly named in the expediente as the neighbouring property (stamped pp9-10, 14) — the register's '(Ransom)' disambiguator is doing useful work. Register's 'Confirmed' is right but only via the District Court; the Land Commission rejected the claim in 1854. No patent copy in the file, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-liebre",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266128/files/cubanc_lcf_sd170.pdf",
+  "pdf_pages_stated": 68,
+  "pages_read": [
+   "images 1-12 = stamped 1-7",
+   "images 69-80 = stamped 58-68"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 170 / SOUTHERN DISTRICT / LA LIEBRE GRANT / JOSE MARIA FLORES CLAIMANT'; transcript title leaf stamped p1 'for the place named \"La Liebre\"'; grant, stamped p6, 'el terreno conocido con el nombre de la Liebre en la jurisdiccion de Santa Barbara'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, Spanish original stamped p6: 'Dado en la ciudad de los Angeles en este papel comun por absoluta falta del sellado, á veinte uno de Abril de mil ochocientos cuarenta y seis' (21 April 1846). Abel Stearns, deposed 13 Nov 1852 (stamped p5), identifies the same instrument: 'A paper is shown me purporting to be a grant to Jose Maria Flores, dated April 21, 1846.' Departmental Assembly approval 1 June 1846 (Stearns, stamped p5)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p6: 'Pio Pico Gobernador Constitucional del Departamento de Californias ... he venido por decreto de este dia en concederle al espresado Flores el citado terreno'; signed 'Pio Pico. José Matias Moreno, Sr[io] Int[erin]o.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p6: 'Por cuanto el ciudadano José Maria Flores ha solicitado para su beneficio personal y el de su familia el terreno conocido con el nombre de la Liebre'. Grantee and claimant are the same man; Stearns, stamped p5, 'He came to California with Governor Micheltorena as a Captain in the Mexican Service.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 170 SOUTHERN DISTRICT'; leaf stamp '170 SD PAGE n'; District Court caption stamped p67 'Jose Maria Flores vs The United States, No. 170, In the matter of the Survey of the \"La Liebre\"'; PDF filename cubanc_lcf_sd170.pdf. Land Commission docket was No. 429 (title leaf, stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: index stamped p3, 'San Francisco May 2d 1854. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board rejecting the Claim (Vide page 13).' Reversed on appeal: District Court decree, stamped p58, confirms the tract bounded by 'the \"Salinas de Cortes\" on the North East, the \"Cuesta de la Bellota\" on the South, and the place of Los Alamos on the West. Provided that should the quantity of land within said boundaries be less than eleven square leagues, then confirmation is hereby made of such less quantity. Thus done & signed in open Court this 12th February 1857. Isaac S. K. Ogier, U.S. Dist. Judge for the S. Dist. of Cal.' The government's appeal was docketed and dismissed by the U.S. Supreme Court, December Term 1859 (mandate stamped p61: 'it appearing that the United States have failed to have their Cause filed and docketed in conformity to the rules of this Court ... this appeal ... be and the same is hereby docketed and dismissed, and that this Cause be and the same is hereby remanded to the said District Court'), and the District Court vacated its own order allowing the appeal on 6 March 1862 (stamped p63). Final survey by George H. Thompson, U.S. Deputy Surveyor, July 1862, affirmed and approved 1 December 1862 with no appeal allowed (stamped pp67-68)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "68 stamped pages ('LAND CASE 170 SD pgs. 68', image 2), 80 PDF images. Register, Hoffman and the case file agree on 1846; Hoffman's governor and grantee cells are blank in the input and his rancho name is OCR-garbled ('La Licbre'), so the file is the only source that settles them — it gives Pio Pico and Jose Maria Flores, exactly as the register has them. Register's 'Confirmed' is right but only via the District Court; the Land Commission rejected the claim 2 May 1854. Confirmation and approved final survey verified in the file; no patent copy present, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-little-temecula",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266092/files/cubanc_lcf_sd055.pdf",
+  "pdf_pages_stated": 69,
+  "pages_read": [
+   "images 1-12 = stamped 1-6",
+   "images 13-22 = stamped 7-14",
+   "images 70-81 = stamped 60-69"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The file never says 'Little'. p1 red label: 'CASE NO. 55 / SOUTHERN DISTRICT / TEMECULA GRANT / PABLO APIS CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Temecula\"'; expediente heading stamped p7 'Espediente promovido por Pablo Apis natural de S[a]n Luis Rey en pretencion de un terreno en el parage de Temecula'; Supreme Court mandate stamped p61 'No. 55 for place called \"Temecula\"'. Hoffman likewise prints 'Temecula'. Right entity, but 'Little Temecula' is a later distinguishing name, not the file's."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's concession decree, Spanish stamped p9 / translation stamped p13: 'Angeles Mayo 7 de 1845. Considerando el Gobierno de justicia que el indigena de la Mision de San Luis Rey Pablo Apis tenga la propiedad del terreno que se le concedió provicionalmente en Julio de 1843 en Temecula, librese el titulo correspond[ien]te para que se le asegure como lo pide la parte. Pico.' Abel Stearns, deposed 4 Nov 1852 (stamped p5), identifies the resulting instrument: 'A paper is now shown me purporting to be a grant to Pablo Apis of a tract of land of about one league long by half a league wide dated May 7 1845. The signatures of said Pico & Bandini on said paper I believe to be genuine.' The 1843 mission assignment (Fr. Jose Maria de Zalvidea and mayordomo Jose Joaquin Ortega, 9 July 1843, stamped pp10/13-14) was provisional and not a government grant."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree stamped p9, signed 'Pico'; the same hand's earlier order of 28 April 1845 directing the San Luis Rey administrator to report is also signed 'Pico' (stamped p8). Petition stamped p4 states it as 'Pio Pico then Governor of California, in the name of the Mexican Nation'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree stamped p9/p13 names 'el indigena de la Mision de San Luis Rey Pablo Apis'; expediente heading stamped p7 'Pablo Apis natural de S[a]n Luis Rey'; Hugo Reid, deposed 4 Nov 1852 (stamped p6), 'It is ten or twelve years since I knew Pablo Apis to be occupying the land.' Grantee and Land Commission claimant are the same man; his heirs (Maria Antonia Apis et al.) only appear later, after his death, as District Court appellees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 55 SOUTHERN DISTRICT'; leaf stamp '55 SD PAGE n'; District Court caption stamped p67 'No 55'; PDF filename cubanc_lcf_sd055.pdf. Land Commission docket was No. 435 (title leaf, stamped p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED: index stamped p3, 'San Francisco November 1st 1853. In the same case Commissioner Robert A. Thompson delivered the Opinion of the Board rejecting the Claim (Vide page 17).' Reversed on appeal: District Court decree in favour of the claimants, filed 23 Feb 1857 (docket back, stamped p60, 'Maria Antonia Apis et al., heirs at law of Pablo Apis deceased, Appellants ads The United States, Appellee — Decree — Filed Feby 23d 1857'); the Supreme Court mandate recites it, stamped p61, 'wherein the decree was rendered in favor of the said appellant'. The government's appeal was dismissed, December Term 1863 (stamped p63, 'on the motion of Mr Attorney General Bates of Counsel for the Appellants it is now here ordered, adjudged, and decreed by this Court that this Cause be and the same is hereby dismissed'), mandate filed 28 Nov 1864 (stamped p64). District Court then made it final, 7 May 1867 before Ogden Hoffman (stamped pp67-68): 'Whereas an appeal in this cause has heretofore been allowed to the United States Supreme Court from a decision of the late United States Dist Court for the Southern Dist of Cala confirming the claim of appellees ... It is ordered that the order of the said court allowing an appeal to the Supreme Court be and the same is hereby vacated and that the said appellees be allowed to proceed under the decree heretofore rendered as under a final decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "The case file and Hoffman both call it simply 'Temecula' (p1 red label; transcript title stamped p1); 'Little Temecula' appears nowhere in the pages read."
+  },
+  "notes": "69 stamped pages ('LAND CASE 55 SD PAGES 69', image 2), 81 PDF images. Register, Hoffman and the case file agree on 1845 / Pio Pico / Pablo Apis. Grant history is two-stage: the Mission of San Luis Rey assigned Apis the land provisionally on 9 July 1843 (Zalvidea and Ortega, stamped pp10, 13-14) after he settled a dispute with Andres and Jose Manuel; Pico regularised it by decree of 7 May 1845 and a title dated the same day. Register's 'Confirmed' is right but only via the District Court; the Land Commission rejected the claim 1 Nov 1853. The register's patent_to 'Maria Antonia Apis et al' is consistent with the file, which names 'Maria Antonia Apis et al, heirs at law of Pablo Apis deceased' as the parties from 1857 on. No patent copy in the file, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-llano-tequisquita",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265848/files/cubanc_lcf_sd106.pdf",
+  "pdf_pages_stated": 80,
+  "pages_read": [
+   "images 1-12 = stamped 1-7",
+   "images 13-24 = stamped 8-19",
+   "images 77-88 = stamped 69-80"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The file spells the second word with -quite, not -quita. Transcript title leaf stamped p1: 'for the place named \"Llano del Tequesquite\"'; expediente cover stamped p8 'Espediente sobre el paraje nombrado Llano del Tequesquite solicitado por José Maria Sanchez'; District Court decree stamped p75 'is known as the \"Llano de Tequesquite\"'. The gilt red label on the binding, p1, is a third form again: 'LLANO DEL TEQUESITE GRANT'. Hoffman's printed table agrees with the register ('Llano del Tequisquita'), so the register is following Hoffman here rather than the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, archive copy stamped p13 and testimonio stamped p19: 'Monterrey [O]bre 10 de 1835. Vista la peticion con que da principio este espediente la informacion secreta de testigos ... de conformidad con las leyes i reglamentos de la materia se declara á José Maria Sanchez dueño en propiedad del terreno conocido con el nombre del Llano del Tequesquite.' Confirmed as October by the Comision de terrenos baldios, stamped p14: 'Se aprueba la concesion hecha al Ciud[adan]o José M[ari]a Sanchez del terreno nombrado Llano del Tequesquite concedida en 10 de Obre de 1835. Mont[ere]y 12 de Obre de 1835. Salvio Pacheco', approved in session by the Diputacion the same day (stamped p14, 'Jose Castro, Pres[iden]te; Manuel Jimeno'). The U.S. petition, stamped p4, dates it 12 October 1835, i.e. to the Assembly's approval rather than the decree."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree stamped p13/p19: 'El S. D. José Castro primer vocal de la E. Diputacion i Gefe Politico interino de la alta California asi lo mandó, decretó i firmó de que doy fé. José Castro. Srio F[rancis]co del Castillo Negrete.' The U.S. petition, stamped p4, states the same: 'Jose Castro First member of the Deputation and Governor ad interim of the Territory of Upper California'. (The earlier stages of the expediente, Dec 1834 to Jan 1835, were before Gefe Superior Politico Jose Figueroa, stamped pp10, 18; Figueroa died in Sept 1835 and Castro succeeded ad interim, which is why the concession is Castro's.)"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition to the governor, stamped p9: 'José Maria Sanchez avecindado en este Territorio ... impetra de la vondad de V.S. se digne concederle el terreno nombrado Llano del Tequesquite para dedicarse á la cria de ganados y siembra de semillas ... Monterrey 20 de Diciembre de 1834'; decree stamped p13 'se declara á José Maria Sanchez dueño en propiedad'. Grantee and Land Commission claimant are the same man; Samuel C. Heace, deposed 6 Aug 1853 (stamped p7), testifies Sanchez 'departed this life on the [blank] day of December last, intestate, leaving the following named persons his only heirs and children viz: Vicente Sanchez, Refugio Sanchez, Candelaria Sanchez, Gregorio Sanchez and Guadalupe Sanchez.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 106 SOUTHERN DISTRICT'; leaf stamp '106 SD PAGE n'; District Court caption stamped p72 'No. 106 (No. 133 of Transcript). On Appeal from the United States Land Commission'; PDF filename cubanc_lcf_sd106.pdf. Land Commission docket was No. 133."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED: index stamped p3, 'San Francisco Mar. 14, 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board Confirming the Claim (vide page 53 of this Transcript).' Affirmed on the government's appeal: District Court decree, December Term 1855, stamped pp74-75, 'It is considered, ordered and adjudged by the Court, that the said decision of the said Commissioners, confirming unto the said Vicente Sanchez, Refugia Sanchez, Candelaria Sanchez, Gregorio Sanchez & Guadalupe Sanchez, heirs as aforesaid, appellees, the land described in the grant, map, and record of juridical possession ... be and the same is hereby affirmed, and that the title of the said appellees for said land is a good and valid title', signed 'Isaac S. K. Ogier, U.S. Dist Judge for the S. D. of Cal', filed 8 Jan 1857 (stamped p76). The further appeal was abandoned: Attorney General's Office to Pacificus Ord, 18 September 1856, stamped p79, 'In the case of the claim of José Maria Sanchez, confirmed to the claimant by the Commissioners, Case no. one hundred and thirty-three (133), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "The case file consistently reads 'Llano del Tequesquite' (transcript title stamped p1; expediente cover stamped p8; District Court decree stamped p75 'Llano de Tequesquite'), not 'Llano Del Tequisquita'."
+  },
+  "notes": "80 stamped pages ('LAND CASE 106 SD 80 pgs.', image 2), 88 PDF images. Register, Hoffman and the case file agree on 1835 / Jose Castro / J. M. Sanchez. This is one of the rare records where BOTH tribunals confirmed: the Land Commission on 14 Mar 1854 and the District Court in December Term 1855, with the U.S. formally abandoning the Supreme Court appeal in Sept 1856; the decree was nonetheless not entered until Jan 1857 on a motion nunc pro tunc (stamped pp70, 77). Register's patent_to 'Vicente Sanchez et al' matches the appellees named in the District Court decree (stamped p74). The month in the concession decree is written as a contraction ('Obre'); I read it as Octubre because the Comision approved the concession as 'concedida en 10 de Obre de 1835' on 12 Obre 1835 (stamped p14). No patent copy in the file, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-locoallomi",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265514/files/cubanc_lcf_nd154.pdf",
+  "pdf_pages_stated": 82,
+  "pages_read": [
+   "images 1-12 = stamped 1-6",
+   "images 13-24 = stamped 7-18",
+   "images 82-93 = stamped 71-82"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The register's exact form appears repeatedly in the file: Land Commission petition stamped p4, 'a certain tract of land called Locoallomi situate in the present County of Napa'; District Court statement of facts stamped p74, 'a grant from Manuel Jimeno acting Governor to Julian Pope of a place in Napa County called Locoallomi containing two square leagues dated September 30th 1841'; Ogden Hoffman's opinion stamped p78, 'the place called Locoallomi of the two sitios de ganado mayor'. The Spanish expediente uses 'Locoallomia' (cover stamped p13, decree stamped p14) and the binding label and transcript title use the truncated 'Coallomi' (p1 red label; title leaf stamped p1; Board transmittal stamped p82)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p14: 'Monterrey 30 de S[e]p[tiem]bre de 1841. Vista la peticion con que da principio este espediente el informe del Sor Comand[an]te Gral con todo lo demas que se tuvo presente ... declaro á D. Julian Pope dueño en propiedad del parage conocido con el nombre de Locoallomia colindante con las Serranias que lo circundan.' Pope's own petition on the same leaf is dated 'Monterrey 30 de S[e]t[iemb]re de 1841'. The preliminary Sonoma stage (Pope's application to M. G. Vallejo as Director of Colonization, Salvador Vallejo's report, and Vallejo's permission to occupy) is dated 7 September 1841 (stamped pp16-17)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped pp14-15: 'El Sor Dn Manuel Jimeno 1er Vocal de la Exma Junta Departamental en ejercicio del Gob[ier]no del mismo asi lo mandó, decretó y firmó de que doy fé. Jimeno. Jose M. Fernandez, Srio Int[erin]o.' District Court statement stamped p74 agrees: 'a grant from Manuel Jimeno acting Governor'. The sello on the same leaf is likewise countersigned 'Jimeno'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree stamped p14 'declaro á D. Julian Pope dueño en propiedad'; expediente cover stamped p13, 'Espediente promovido por Dn Julian Pope en solicitud del parage conocido con el nombre de Locoallomia. Numero 256'; petition stamped p14 signed 'Julian Pope', describing himself as 'natural de los Estados Unidos del Norte America y Mejicano por naturalizacion'. George C. Yount, deposed 21 April 1854 (stamped p11), explains the name: 'He was called William, also Julian.' The U.S.-era claimants are his five children (Joseph, Maria, Luciana, Isabel and Delabina Pope), so the register correctly records the Mexican grantee rather than the claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 154 NORTHERN DISTRICT'; leaf stamp '154 ND PAGE n'; District Court caption stamped p72 'D.C. 154; L.C. #719'; PDF filename cubanc_lcf_nd154.pdf. Land Commission docket was No. 719 (title leaf, stamped p2 and the pencil '719' on the flyleaf)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED: index stamped p3, 'San Francisco Aug. 1st 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim (Vide page 51 of this Transcript).' Affirmed on the government's appeal by Ogden Hoffman, 24 Aug 1856 (opinion stamped pp78-80): 'No objection whatever to this claim is urged on the part of the U.S. It was confirmed apparently without hesitation by the Board and I see no reason to doubt its entire validity. A decree must therefore be entered confirming the title to the land as bounded & described in the act of judicial possession to Joseph Pope, Maria Kilburn, Luciana Lemon, Isabel [Pope] & Delabina Pope, Heirs of Julian Pope dec'd.' Made final 9 Feb 1858 (stamped p72): 'The Attorney General of the United States having given notice that appeal will not be prosecuted in this case, and a stipulation to that effect having been entered into by the U.S. Attorney: On motion of the District Attorney, it is Ordered, Adjudged and Decreed that claimant have leave to proceed under the decree of this Court heretofore rendered in his favor, as under Final Decree. Ogden Hoffman, U.S. Dist Judge.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "82 stamped pages ('LAND CASE 154 ND 82 pages.', image 2), 93 PDF images. Register, Hoffman's 1862 table and the case file all agree on 1841 / Manuel Jimeno / Julian Pope, and both tribunals confirmed. Register's patent_to 'the heirs of Joseph Pope et al' is slightly off against the file: the decree runs to the heirs of JULIAN Pope (Joseph Pope being one of those five heirs, not the ancestor) - see Hoffman's decree, stamped p80, 'Joseph Pope, Maria Kilburn, Luciana Lemon, Isabel [Pope] & Delabina Pope, Heirs of Julian Pope dec'd'. Flagged here rather than graded because patent fields are Phase C. No patent copy in the file."
+ },
+ {
+  "id": "rancho-lomas-purificacion",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265856/files/cubanc_lcf_sd115.pdf",
+  "pdf_pages_stated": 57,
+  "pages_read": [
+   "images 1-12 = stamped 1-6",
+   "images 13-24 = stamped 7-17",
+   "images 59-70 = stamped 46-57"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 115 / SOUTHERN DISTRICT / LOMAS DE LA PURIFICACION GRANT / AUGUSTIN YANSENS CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Lomas de la Purificacion\"'; expediente cover stamped p7 'Espediente promovido por D. Agustin Yansens en solicitud del parage conocido con el nombre de Lomas de la Purificacion. No. 409'; District Court opinion stamped p46, 'the land known as the \"Lomas de la Purificacion\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, Spanish original stamped p12: 'Dado en Monterey á veinte y siete de Diciembre de mil ochocientos cuarenta y cuatro'; sworn translation stamped p17, 'Given in Monterey on the twenty seventh of December one thousand eight hundred and forty four.' District Court opinion stamped p46 agrees: 'a grant issued to appellee by Governor Micheltorena under date 27 Decr 1844'. The expediente runs from Yansens's petition of 29 July 1844 (stamped pp8-9) through the Santa Ynez minister's favourable report of 7 Oct 1844 and Micheltorena's order of 28 Dec 1844 directing the title to issue (stamped p10)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, translation stamped p16: 'Citizen Manuel Micheltorena, General of Brigade of the Mexican Army, Adjutant General of the Staff of the same, Governor Commandant General and Inspector of the Department of the Californias ... using the faculties conferred on me in the name of the Mexican Nation I have granted him the aforesaid land declaring to him the ownership of it by these presents subject to the approval of the Most Excellent Departmental Assembly.' Spanish original same words, stamped p11."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, translation stamped p16: 'Whereas, Don Agustin Yansens a Mexican by naturalization, has, for his own personal benefit and that of his family, petitioned for the land known by the name of Lomas de la Purificacion, bounded by the Rancho of the College of Santa Ynez, by that of Don Raymundo Carrillo, by that of the deceased Joaquin Villa, and by the Sierra de San Jose.' His own petition, translation stamped p14, describes him as 'a native of Brussels and established in the Mexican Republic about 18 years; married to a woman of the country, and residing in this place of Santa Barbara'. Grantee and Land Commission claimant are the same man."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 115 SOUTHERN DISTRICT'; leaf stamp '115 SD PAGE n'; District Court caption stamped p50 'No. 115 ... Transcript No. 266'; PDF filename cubanc_lcf_sd115.pdf. Land Commission docket was No. 266 (title leaf, stamped p1)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED: index stamped p3, 'San Francisco, March 14, 1854. In the same case, Commissioner R. Aug. Thompson delivered the Opinion of the Board, Confirming the claim (Vide page 31 of this Transcript).' Affirmed on the government's appeal: District Court opinion stamped p47, 'The decision of the Commissioners in favor of the validity of this claim must be affirmed'; decree stamped p48, 'adjudged and decreed the said decision be, and the same is hereby affirmed, and it is further ordered adjudged and decreed that the claim of the said Augustin Yansens is a good and valid claim and the same is hereby confirmed to the land described in the record to the extent of three square leagues', filed 2 Oct 1855 (stamped p49). The further appeal was abandoned: Attorney General's Office to Pacificus Ord, 10 September 1856, stamped p54, 'In the case of the claim of Augustin Yansens, confirmed to the claimant by the Commissioners, Case no. two hundred and sixty-six (266), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States'; order vacating the appeal and making the decree final, stamped pp52-53, filed 5 Feb 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "57 stamped pages ('LAND CASE 115 SD 57 pgs.', image 2), 70 PDF images. Register, Hoffman and the case file all agree on 1844 / Micheltorena / A. Yansens, and BOTH tribunals confirmed - the Board 14 Mar 1854 and the District Court 2 Oct 1855, with the U.S. abandoning the Supreme Court appeal in Sept 1856. Spelling note: the file writes the grantee 'Yansens' throughout (the red label 'AUGUSTIN YANSENS'; his own signature stamped pp9, 14 'Agustin Yansens'), so the register's 'Agustín Yansens' is right and its patent_to 'Augustin Yansens' matches the Anglicised form the court used. No patent copy in the file, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-lomas-santiago",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267533/files/cubanc_lcf_sd186.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 1-12 = stamped 1-6",
+   "images 15-26 = stamped 8-19",
+   "images 49-60 = stamped 40-51"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 186 / SOUTHERN DISTRICT / LAS LOMAS DE SANTIAGO GRANT / TEODOCIO YORBA CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Las Lomas de Santiago\"'; District Court caption stamped p50 '\"Lomas de Santiago\"' (the register's exact form); act of juridical possession stamped p18, 'estando en el parage de las Lomas de Santiago'. The grant itself describes rather than names it: 'la lomeria que está situada en la falda de la Sierra nombrada de Santiago' (stamped p12)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, Spanish original stamped p13 and duplicate stamped p17: 'Dado en la ciudad de los Angeles en este papel comun por falta del sellado respectivo á veinte y seis de Mayo de mil ochocientos cuarenta y seis' (26 May 1846); sworn translation stamped p15, 'Given in the City of Los Angeles in this common paper for want of the respective sealed paper on the 26th of May 1846'. Judicial possession followed on 7-8 July 1846 (stamped pp17-19). Petition stamped p4 states the same date."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p12: 'Pio Pico, Gobernador Constitucional del Departamento de las Californias ... usando de las facultades que me son conferidas á nombre de la Nacion Mejicana he venido en concederle el terreno mencionado declarandole la propiedad de él por las presentes letras'; signed stamped p15 'Pio Pico. Jose Matias Moreno, Secretary ad interim'. Pico himself testified in the case, deposed 19 April 1854 (stamped p9): 'I know that it has been granted to him ... it was granted before the war between the United States and Mexico. It was granted by me acting as Governor of California.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, sworn translation stamped p14: 'Whereas Dn Teodocio Yorba, Mexican by birth, has petitioned for his personal benefit and that of his family the range of hills situated upon the slope of the Sierra known by the name of Santiago'. Grantee and Land Commission claimant are the same man (p1 red label 'TEODOCIO YORBA CLAIMANT'); no U.S.-era substitution here. Corroborated by J. J. Warner, deposed 18 Oct 1853 (stamped p5): 'I have been acquainted with its occupation previous to the year 1846 both for grazing and farming purposes.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 186 SOUTHERN DISTRICT'; leaf stamp '186 SD PAGE n'; District Court caption stamped p50 'Case No. 186 ... Transcript 421'; PDF filename cubanc_lcf_sd186.pdf. Land Commission docket was No. 421 (title leaf, stamped p1 and the pencil '421' on the flyleaf)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED: index stamped p3, 'San Francisco Aug. 1st 1854. In the same Case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (Vide page 27 of this Transcript).' Affirmed on the government's appeal: District Court decree, December Term 1856, stamped pp50-51, 'That the decision of the said Board of Commissioners be and the same hereby is affirmed, And that the claim of the Appellee is good and valid, and that the same be and hereby is confirmed to him to the extent of Eleven Square leagues & no more, within the boundaries specified in the Grant or \"Titulo\" filed in this Case ... Thus done & Signed in open Court this 11th day of December 1856. Isaac S. K. Ogier, U.S. Dist Judge for the S. Dist of Cal', filed 13 Dec 1856. The further appeal was abandoned: Attorney General's Office to Pacificus Ord, 11 Feb 1857, stamped p46, 'In the case of the claim of Teodosio Yorba, confirmed to the claimant by the Commissioners, case no. four hundred and twenty-one (421), appeal will not be prosecuted by the United States'; order vacating the appeal and making the decree final, stamped p48, filed 2 Feb 1858."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "60 PDF images; no 'LAND CASE ... pgs.' slip in this volume (image 2 reads only 'Land Case 186 SD'), and the last stamped leaf read is p51, so pdf_pages_stated is left null. Register, Hoffman and the case file all agree on 1846 / Pio Pico / Teodocio Yorba, and BOTH tribunals confirmed. Two things a re-reader should know. (1) The grantee's name is spelled three ways in the one file: the Spanish grant and the act of juridical possession read 'Don Teodoro Yorba' (stamped pp12, 16, 17, 19), the sworn translation and every U.S. filing read 'Teodocio Yorba' (stamped p14; red label), and the Attorney General wrote 'Teodosio Yorba' (stamped p46). Same man; the register follows the case caption. (2) The grant conveyed 'cuatro sitios de ganado mayor poco mas ó menos' (four leagues, stamped p12), but the District Court confirmed to the BOUNDARIES with a cap of eleven leagues (stamped p50), which is why the register's patent acreage is 47,226.61 acres rather than roughly four leagues. No patent copy in the file, so patent fields left for Phase C."
+ },
+ {
+  "id": "rancho-lompoc",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266056/files/cubanc_lcf_sd015.pdf",
+  "pdf_pages_stated": 57,
+  "pages_read": [
+   "images 1-12 = stamped 1-7",
+   "images 13-24 = stamped 8-19",
+   "images 53-64 = stamped 46-57"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 15 / SOUTHERN DISTRICT / LOMPOC GRANT / JOAQUIN AND JOSE ANTONIO CARRILLO CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Lompoc\"'; grant stamped p8 'el terreno conocido con el nombre de Lompoc'; District Court caption stamped p52 'Lompoc'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, Spanish original stamped p9: 'Dado en la Ex-Mision de Sta Barbara á 15 de Abril de 1837. Juan B. Alvarado. Victor Prudon, S[ecretari]o Int[erin]o'; sworn translation stamped p14, 'Given in the Ex Mission of Santa Barbara on the 15th of April 1837'. Approved by the Diputacion four days later: stamped p9, 'Santa Barbara Abril 19 de 1837. En sesion de hoy aprobó la Exma Diputacion la proposicion del Dictamen de la comision de terrenos valdios'. Judicial possession followed 28 Oct to 2 Nov 1839 (stamped pp11-13)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p8: 'El ciudadano Juan Bautista Alvarado, Gobernador del Estado, Coronel á la Milicia Civica y Presidente de la Exma. Diputacion del mismo ... usando de las facultades que me son conferidas á nombre de la Nacion Mejicana he venido en concederles el terreno mencionado declarandoles la propiedad de él por las presentes letras'; signed stamped p9 'Juan B. Alvarado'. Pablo de la Guerra, deposed 4 Sept 1852 (stamped p5), authenticated the signature: 'I am acquainted with the hand writing & signatures of Juan B. Alvarado, Victor Prudon, Manuel Jimeno, Antonio Rodriguez, Joaquin Carrillo & Luis Carrillo ... I have no doubt they are their genuine signatures.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p8: 'Por cuanto los ciudadanos Joaquin y José Antonio Carrillo, han pretendido para su beneficio personal y el de sus familias el terreno conocido con el nombre de Lompoc'; Diputacion's approving resolution stamped p9, 'Se concede á los ciudadanos Joaquin y José Antonio Carrillo el parage nombrado Lompoc por tener los requisitos necesarios conforme á la ley de 18 de agosto de 1824 y el articulo 5 del reglamento de 21 de noviembre de 1828.' The two grantees are also the Land Commission claimants; their own 1839 petition for juridical possession is signed 'Joaquin Carrillo' and 'Jose Antonio Carrillo' (stamped p16)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 15 SOUTHERN DISTRICT'; leaf stamp '15 SD PAGE n'; District Court caption stamped p47 'No 15 ... For the place called \"Lompoc\"'; PDF filename cubanc_lcf_sd015.pdf. Land Commission docket was also No. 15 (stamped p2, 'ordered to be filed and docketed with No. 15'), so Hoffman's commission_no and court_no agree at 15."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board CONFIRMED, and did so as a final decree: certified index stamped p3, 'San Francisco April 11th 1853. In case No. 15 Joaquin and Jose Carrillo for the place named \"Lompoc\", Commissioner Henry J. Thornton delivered the Opinion and the decree of final confirmation of the Board. Ordered that the said Opinion and Decree of final confirmation be Recorded on the Record of this Board (Vide page 20 of this Transcript).' Nothing in the pages read reopens validity; the whole 1860-65 District Court file is about the SURVEY of land already confirmed - see stamped p47, October Term 1864, 'The Surveyor General of the State of California having in pursuance of an Order of this Court filed on the 25th day of September AD 1860, his plat of the final survey of the lands confirmed in this case ... It is Ordered adjudged and decreed that the said Survey made by Ralph W. Norris Deputy U.S. Surveyor be and the same is hereby rejected', and then stamped pp52-53, 19 Aug 1865, vacating even that: 'the Court being of opinion that it has no jurisdiction in the matter of said survey ... the whole proceedings heretofore had in this cause, in said matter of the survey and location of the said lands be and the same are hereby set aside and annulled.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "57 stamped pages ('LAND CASE 15 SD PAGES 57', image 2), 64 PDF images. Register, Hoffman and the case file all agree on 1837 / Juan B. Alvarado / Joaquin and Jose A. Carrillo. This is one of the very few claims the Board confirmed FINALLY at first instance (11 Apr 1853) with no appeal on the merits, which is why the file's later half is survey litigation only. ⚠ TRAP for a re-reader: stamped pp55-56 carry a Land Commission 'Decree of Confirmation' in the names of 'Joaquin Carrillo & Jose Carrillo' for a DIFFERENT and adjoining claim, 'La Mission Vieja de la Purisima ... containing in all one square league ... the same on which are the ruins of the old Mission La Purisima', filed 15 Nov 1853. It is bound into this Lompoc file only because the two surveys were heard together (stipulation stamped p50 captions both causes). Do not read it as the Lompoc decree. No patent copy in the file, so patent fields left for Phase C."
+ }
+]

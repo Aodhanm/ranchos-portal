@@ -1,0 +1,172 @@
+[
+ {
+  "id": "rancho-polka",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265519/files/cubanc_lcf_nd159.pdf",
+  "pdf_pages_stated": 78,
+  "pages_read": [
+   "img 1-12",
+   "img 13-24 (stamped 159 ND PAGE 1-18)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 159 / NORTHERN DISTRICT / LA POLKA GRANT / BERNARD MURPHY, CLAIMANT'; stamped p1 transcript title 'for the place named \"La Polka\"'"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Figueroa's grant decree, stamped p14: 'Dado en Monterey de la Alta California a diez y nueve de Junio de mil ochocientos treinta y trez' (19 June 1833); Zamorano's registration note 20 June 1833"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p12 heading of the decree: 'Jose Figueroa General de Brigada de los Egercitos Mejicanos Comandante General Inspector y Gefe Superior Politico de la Alta California'; signed 'Jose Figueroa / Agustin V. Zamorano Srio' stamped p14"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "decree stamped p12: 'Por cuanto Maria Ysabel Ortega esposa de Julian Cantua ha pretendido para su beneficio personal y el de su familia una parte del Rancho conocido con el nombre de San Ysidro' ... 'he venido en concederle el terreno mencionado' (stamped p13). Register 'Ysabel Ortega' = the grantee, not the claimant Bernard Murphy"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 159 NORTHERN DISTRICT'; every transcript page stamped '159 ND'; PDF filename cubanc_lcf_nd159.pdf. Board docket no. was 52 (stamped p2)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p4 docket entry, San Francisco Aug. 15, 1854: 'Commissioner Alpheus Felch delivered the Opinion of the Board Confirming the claim' (opinion at transcript p57). The chronological docket (stamped p2-4) ends 29 Aug 1854 with an order on motion of the U.S. Law Agent; no district-court or appellate proceeding is docketed"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Leaf 2 states 'LAND CASE 159 ND / 78 pages.'; PDF has 89 images. Grant is one of three parts of the old Ortega San Ysidro rancho divided among Quintin, Maria Clara and Maria Ysabel Ortega; Diputacion approval 17 May 1834, testimonio 12 June 1834 (stamped p15, p18). Register patent fields (Martin J.C. Murphy, Mar 3 1860, GLO 227) not checked here; Hoffman 1862 shows not yet patented in 1862, which is not inconsistent with an 1860 patent only if Hoffman's table is stale -- flag for Phase C GLO check."
+ },
+ {
+  "id": "rancho-posa-ositos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267553/files/cubanc_lcf_sd209.pdf",
+  "pdf_pages_stated": 60,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 13-22 (stamped 8-16)",
+   "img 58-72 (stamped 47-60)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Register 'Posa De La Ositos'. Transcript title stamped p1: 'for the place named \"Posa de los Ositos\"'; expediente cover stamped p8: 'Espediente promovido por Carlos Cayetano Espinosa en pretension del parage nomhado Posa de los Ositos'; Surveyor General certificate stamped p54: 'the Rancho \"Posa de los Ositos\"'. Register's 'De La' is wrong for 'de los'. (Bancroft's own red label img1 reads 'POSA DE LOS OSITAS GRANT', itself a slip.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado's decree, Spanish stamped p10 / sworn translation stamped p13: 'Monterey April 16th 1839 ... the Citizen Carlos Cayetano Espinosa is hereby declared owner in his own right of the location called \"Subida de la Mesa de la Posa de los Ositos\"'. Claimant's brief stamped p58 dates the despacho 6 May 1839; petition stamped p4 says 7 May 1839. Year 1839 either way."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "decree translation stamped p13: 'Don Juan Bautista Alvarado Governor of the Department of both Californias so ordered decreed and signed it of which I bear testimony. Alvarado'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "decree stamped p10/p13 names 'el Ciudadano Carlos Cayetano Espinosa' as the person declared owner; register 'C. C. Espinoza' is the same man (full name Carlos Cayetano Espinosa; case caption spells it Espinosa, stamped p48-50). Grantee and claimant are the same person here, so the claimant-for-grantee error class does not arise."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 209 SOUTHERN DISTRICT'; transcript pages stamped '209 SD'; District Court caption stamped p48 'No 209'; PDF filename cubanc_lcf_sd209.pdf. Commission docket no. was 624 (stamped p1-2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Land Commission REJECTED: stamped p3, 'San Francisco Sept. 26, 1854, Commissioner R. Aug. Thompson delivered the Opinion of the Board rejecting the Claim' (opinion at transcript p35, decree p37; index stamped p59 confirms 'Opinion of Commissioners Rejecting said Grant'). Reversed on appeal: District Court decree stamped p56-57, 'the decision of the Land Commissioners be in all things reversed and annulled ... the claim of the said Carlos C. Espinosa is a good and valid claim and that the same is hereby confirmed to the extent of four square leagues'. U.S. appeal to the Supreme Court was granted (stamped p50, judgment rendered on or about 26 Sept 1855) but abandoned: Attorney General Cushing to U.S. Atty Ord, 15 Sept 1856, stamped p52, 'appeal in the Supreme Court will not be prosecuted by the United States'. Register 'Confirmed' is right on the final decree."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Posa de los Ositos per transcript title stamped p1, expediente stamped p8, and Surveyor General certificate stamped p54"
+  },
+  "notes": "TRAP CASE: a bare 'Confirmed' in the register sits on top of a Commission REJECTION (26 Sept 1854) reversed by the U.S. District Court, S.D. Cal. Single volume, so the whole sequence is in this file. Attorney General Cushing's 1856 letter (stamped p52) misdescribes the claim as 'confirmed to the claimant by the Commissioners' -- it was rejected by them; do not use that letter as evidence of the Commission's action. File ends with Surveyor General's certificate of publication of survey, approved 4 Oct 1858, certified 22 Jan 1861 (stamped p54); no patent copy in the file, so register's patent fields (June 29 1865, GLO 298) left for Phase C. Leaf 2 states 'LAND CASE 209 SD pgs. 60'; PDF has 72 images."
+ },
+ {
+  "id": "rancho-positas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265495/files/cubanc_lcf_nd135.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "img 1-11 (stamped 1-5)",
+   "img 12-23 (stamped 6-14)",
+   "img 93-107 (stamped 79-93)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 135 NORTHERN DISTRICT / LAS POCITAS GRANT / JOSE NORIEGA, ET AL, CLAIMANT'; transcript title stamped p1 'for the place named \"Las Pocitas\"'; District Court decree stamped p84 'The land of which confirmation is hereby made is known as \"Las Pocitas\"'. Register 'Las Positas' is the same name; the sworn translation of the grant itself spells it 'las Positas' (stamped p12), so both forms are in the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, Spanish stamped p7 'Dado en Monterey a Diez de Abril de mil ochocientos treinta y nueve'; sworn translation stamped p13 'Given in Monterey April 10th 1839. (Signed) Juan B. Alvarado'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "decree heading stamped p6/p12: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias' / 'John B. Alvarado, Constitutional Governor of the Department of the Californias'; signed Alvarado, Manl Jimeno Secretary of State (stamped p13)"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The grant decree names two men and neither is Pacheco. Spanish stamped p6: 'Por cuanto D. Jose Noriega y D. Roberto Livermor han pretendido para sus beneficios personales y el de sus familias, el parage conocido con el nombre de las Pocitas ... he venido en concederles el parage mencionado declarandoles la propriedad de el'. Sworn translation stamped p12: 'Whereas Don Jose Noriega & Don Robert Livermor have petitioned ... I have thought proper to grant them said place declaring the same to be their property by this letter patent'. Junta Departamental approval 22 May 1840 and the confirming despacho of 10 June 1840 again name only 'D. Jose Noriega y D. Roberto Livermot' (stamped p9 / p14). Register 'Salvio Pacheco' is wrong."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 135 NORTHERN DISTRICT'; pages stamped '135 ND'; District Court caption 'No. 135' stamped p79, p83; PDF filename cubanc_lcf_nd135.pdf. Commission docket no. was 77 (stamped p1-2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 14 Feb 1854 (docket stamped p2: 'Commissioner Thompson Campbell delivered the Opinion of the Board confirming the claim', opinion at transcript p16). District Court, Hoffman J., 18 Feb 1859, stamped p84: 'the said decision be and the same is hereby in all things affirmed; that the claim of the appellees is a good and valid claim, and that the same is hereby confirmed', two square leagues. U.S. appeal granted 19 Feb 1859 (stamped p79) and the Supreme Court, December Term 1860, 'ordered, adjudged and decreed by this Court that the decree of the said District Court in this cause be and the same is hereby affirmed 24 Jany' (mandate, stamped p89); mandate filed and claimants allowed to proceed under final decree 24 Feb 1865 (stamped p81)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Noriega and Robert Livermore, per Alvarado's decree of 10 April 1839, stamped p6 (Spanish) and p12 (sworn translation): 'Whereas Don Jose Noriega & Don Robert Livermor have petitioned ... I have thought proper to grant them said place'"
+  },
+  "notes": "GRANTEE ERROR CONFIRMED. Register's 'Salvio Pacheco' appears nowhere in the file. A Pacheco does appear as a NEIGHBOUR: the District Court decree bounds Las Pocitas 'on the West by the rancho of Don Jose Dolores Pacheco' (stamped p84, p88) -- a different man from Salvio Pacheco, and in any case an adjoining owner, not the grantee. This is not the usual claimant-for-grantee slip either: the claimants (Noriega and Livermore) ARE the grantees. Hoffman's 1862 table also gives Salvio Pacheco, so Hoffman and the register agree against the case file; the file governs. Hoffman's 'unclear' disposition is likewise wrong: the claim was confirmed at all three levels. Leaf 2 states 'LAND CASE 135 ND / 93 pages.'; PDF has 107 images. No patent copy in file (register says May 25 1872 to Noriega/Livermore administrators) -- Phase C."
+ },
+ {
+  "id": "rancho-positas-calera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267532/files/cubanc_lcf_sd184.pdf",
+  "pdf_pages_stated": 125,
+  "pages_read": [
+   "img 1-12 (stamped 1-7)",
+   "img 17-28 (stamped 11-22)",
+   "img 37-48 (stamped 31-42)",
+   "img 121-134 (stamped 112-125)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Register 'Las Positas Y La Calera'. The file consistently puts La Calera first: img1 red label 'CASE NO. 184 SOUTHERN DISTRICT / LA CALERA O' LAS POSITAS GRANT / THOMAS M. ROBBINS CLAIMANT'; transcript title stamped p1 'for the place named \"La Calera o Las Positas\"'; District Court caption stamped p122 '\"La Calera o las Positas\"'. The 'y' form does occur: newspaper notice stamped p124, 'THOMAS W. HOPE vs. THE UNITED STATES. No. 184 -- \"LA CALERA Y LAS POSITAS.\"' Same rancho; the register reverses the order of the two elements."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Micheltorena's decree, stamped p32: 'Dado en la Ciudad de los Angeles a diez y seis de Mayo de mil ochocientos cuarenta y tres' (16 May 1843), signed 'Man.l Michelt.a / Fran.co Arce Srio int.o'. Judicial possession followed 12 June 1843 (stamped p33-36) and the 1845 deed of sale recites the grant 'con fecha diez i seis de Mayo de mil ochocientos cuarenta y tres' (stamped p37)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "decree heading stamped p31: 'El Ciudadano Manuel Micheltorena Gobernador Comandante General e Ynspector del Departamento de ambas Californias'; signed 'Man.l Michelt.a' stamped p32"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "decree stamped p31: 'Por cuanto D.n Narciso Fabregat ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de la Calera ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Register 'Narciso Fabrigat' is the same man; the documents spell it Fabregat throughout (also stamped p32, p35, p37). Not a claimant-for-grantee error: the U.S.-era claimants were Robbins, then Hope, and the register correctly holds the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 184 SOUTHERN DISTRICT'; pages stamped '184 SD'; District Court caption 'Dist Court No. 184 / Land Comm'n No. 221' stamped p122; PDF filename cubanc_lcf_sd184.pdf"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket stamped p3, 'San Francisco, April 11, 1854, Commissioner Thompson Campbell delivered the opinion of the Board confirming the claim' (opinion at transcript p55). Confirmation stood and went to survey: the District Court's own order stamped p122 speaks of 'the survey of the lands claimed in this case, made under final decree, & approved by the U.S. Surveyor General for California'. The later litigation in the file is about the SURVEY only, not the validity of the claim: exceptions to the approved plat overruled and denied, Haight J., 26 Oct 1863 (stamped p112), and claimant Hope's appeal to the Circuit Court granted 15 Feb 1865 (stamped p116-120)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "File form is 'La Calera o Las Positas' (red label, transcript title stamped p1, court caption stamped p122); the 'y' variant appears as 'La Calera y Las Positas' (notice stamped p124). Register reverses the order."
+  },
+  "notes": "Leaf 2 states 'LAND CASE 184 SD pgs. 125'; PDF has 134 images. Two Mexican title layers are in this file and only the first is the register's: (1) Micheltorena to Narciso Fabregat, 16 May 1843, the place 'la Calera' (Spanish decree stamped p31-32); (2) Pio Pico to Thomas M. Robbins, 1 July 1846, an ADDITION of 1.5 sitios adjoining 'las Positas', on ex-Mission Santa Barbara land (Spanish stamped p39-40, sworn translation stamped p41-42). Fabregat sold to Dona Manuela Carrillo de Jones 21 Aug 1845 (stamped p37-38); she and Robbins were co-petitioners; Thomas W. Hope was later substituted for Robbins (stamped p113). Unread: stamped pages 43-111, which contain the Board opinion (p55) and the District Court decree of confirmation; the outcome grade rests on the docket entry and on the court's own reference to a final decree, not on reading that decree. No patent copy in the file."
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "id": "rancho-nicasio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264241/files/cubanc_lcf_nd392.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "1-24 (img)",
+   "33-44 (img)",
+   "92-103 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'NICASIO GRANT'; transcript title page stamped p.1: 'for the place named \"Nicasio\"'. The parenthetical '(Buckelew)' is verified: Benjamin R. Buckelew is a named supplemental petitioner at stamped p.8."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 392 NORTHERN DISTRICT / NICASIO GRANT / H. W. HALLECK et al CLAIMANT'; every transcript leaf stamped '392 ND'; Bancroft filename cubanc_lcf_nd392.pdf; District Court caption at stamped p.85 reads 'D.C. 392: L.C. 270', matching Hoffman's commission_no 270 / court_no 392"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p.4 index: Board opinion of Comr. Alpheus Felch confirming the claim, 25 Sept 1855; stamped p.82 District Court decree of Ogden Hoffman, U.S. Dist. Judge, affirming and decreeing 'that the said claim be and the same is hereby confirmed to the extent and quantity of Sixteen Square Leagues', filed 9 March 1857 (p.83); stamped p.84 U.S. Attorney General 9 Jan 1858 'appeal will not be prosecuted by the United States'; stamped p.87 order of 30 April 1857 giving claimants 'leave to proceed under the decree of this Court heretofore rendered in their favor, as under Final Decree'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')"
+  },
+  "notes": "ND 392 is a single case file covering four register rows (rancho-nicasio, rancho-nicasio-1, rancho-niscasio, rancho-niscasio-1), all carrying the same claimed values. The register's grantee field holds the U.S.-era CLAIMANTS, not the Mexican grantees: Halleck and Black were the original petitioners (stamped p.5, filed 14 June 1852), and Buckelew, William Reynolds and Paul Frink came in by supplemental petition (stamped p.8, filed 2 March 1853). The petition itself concedes the point at stamped p.5: 'on the 1st day of August A.D. 1844 Manuel Micheltorena Governor of California ... granted and conveyed as a reward for public services to Pablo de la Guerra ten \"sitios de ganada Mayor\" ... and to Juan Cooper for the sum of four thousand dollars six sitios de ganada Mayor ... in all sixteen square leagues of land called \"Nicasio\"'. Departmental Assembly approval 30 Aug 1845, signed Pio Pico (stamped p.32-33). Hoffman's table calls the place 'Nicasia', which matches the Board's own transmittal at stamped p.93; the red label and the transcript title page both read 'Nicasio'. No patent copy is bound in the file. Stamped p.89 carries a sworn affidavit of William J. Miller (sworn 16 Oct 1873): 'that on the 1st day of November AD 1861 ... a patent from the United States was duly and regularly issued to James Black for a part of the Rancho called \"Nicasio\" situated in Marin County' - this corroborates the register's patent_date Nov. 1, 1861 but names only James Black, and for a PART of the rancho. patent_to / patent_date / glo_patent_no left null per method (Phase C checks GLO)."
+ },
+ {
+  "id": "rancho-nicasio-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264241/files/cubanc_lcf_nd392.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "1-24 (img)",
+   "33-44 (img)",
+   "92-103 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'NICASIO GRANT / H. W. HALLECK et al CLAIMANT'; transcript title page stamped p.1 names the claimant 'H. W. Halleck, et al'. The register's parenthetical spells the claimant 'Helleck'; the file spells it HALLECK throughout (p1 label, stamped p.5, p.85, p.93). Rancho name 'Nicasio' itself is correct."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 392 NORTHERN DISTRICT / NICASIO GRANT / H. W. HALLECK et al CLAIMANT'; every transcript leaf stamped '392 ND'; Bancroft filename cubanc_lcf_nd392.pdf; District Court caption at stamped p.85 reads 'D.C. 392: L.C. 270', matching Hoffman's commission_no 270 / court_no 392"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p.4 index: Board opinion of Comr. Alpheus Felch confirming the claim, 25 Sept 1855; stamped p.82 District Court decree of Ogden Hoffman, U.S. Dist. Judge, affirming and decreeing 'that the said claim be and the same is hereby confirmed to the extent and quantity of Sixteen Square Leagues', filed 9 March 1857 (p.83); stamped p.84 U.S. Attorney General 9 Jan 1858 'appeal will not be prosecuted by the United States'; stamped p.87 order of 30 April 1857 giving claimants 'leave to proceed under the decree of this Court heretofore rendered in their favor, as under Final Decree'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')"
+  },
+  "notes": "ND 392 is a single case file covering four register rows (rancho-nicasio, rancho-nicasio-1, rancho-niscasio, rancho-niscasio-1), all carrying the same claimed values. The register's grantee field holds the U.S.-era CLAIMANTS, not the Mexican grantees: Halleck and Black were the original petitioners (stamped p.5, filed 14 June 1852), and Buckelew, William Reynolds and Paul Frink came in by supplemental petition (stamped p.8, filed 2 March 1853). The petition itself concedes the point at stamped p.5: 'on the 1st day of August A.D. 1844 Manuel Micheltorena Governor of California ... granted and conveyed as a reward for public services to Pablo de la Guerra ten \"sitios de ganada Mayor\" ... and to Juan Cooper for the sum of four thousand dollars six sitios de ganada Mayor ... in all sixteen square leagues of land called \"Nicasio\"'. Departmental Assembly approval 30 Aug 1845, signed Pio Pico (stamped p.32-33). Hoffman's table calls the place 'Nicasia', which matches the Board's own transmittal at stamped p.93; the red label and the transcript title page both read 'Nicasio'. No patent copy is bound in the file. Stamped p.89 carries a sworn affidavit of William J. Miller (sworn 16 Oct 1873): 'that on the 1st day of November AD 1861 ... a patent from the United States was duly and regularly issued to James Black for a part of the Rancho called \"Nicasio\" situated in Marin County' - this corroborates the register's patent_date Nov. 1, 1861 but names only James Black, and for a PART of the rancho. patent_to / patent_date / glo_patent_no left null per method (Phase C checks GLO). Name graded PART only for the claimant spelling in the parenthetical (Helleck vs Halleck)."
+ },
+ {
+  "id": "rancho-niscasio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264241/files/cubanc_lcf_nd392.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "1-24 (img)",
+   "33-44 (img)",
+   "92-103 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label reads 'NICASIO GRANT', not 'Niscasio'; transcript title page stamped p.1 'Nicasio'. Register's spelling 'Niscasio' is a metathesis. The parenthetical '(Frink & Reynolds)' is verified: Paul Frink and William Reynolds are named supplemental petitioners at stamped p.8."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 392 NORTHERN DISTRICT / NICASIO GRANT / H. W. HALLECK et al CLAIMANT'; every transcript leaf stamped '392 ND'; Bancroft filename cubanc_lcf_nd392.pdf; District Court caption at stamped p.85 reads 'D.C. 392: L.C. 270', matching Hoffman's commission_no 270 / court_no 392"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p.4 index: Board opinion of Comr. Alpheus Felch confirming the claim, 25 Sept 1855; stamped p.82 District Court decree of Ogden Hoffman, U.S. Dist. Judge, affirming and decreeing 'that the said claim be and the same is hereby confirmed to the extent and quantity of Sixteen Square Leagues', filed 9 March 1857 (p.83); stamped p.84 U.S. Attorney General 9 Jan 1858 'appeal will not be prosecuted by the United States'; stamped p.87 order of 30 April 1857 giving claimants 'leave to proceed under the decree of this Court heretofore rendered in their favor, as under Final Decree'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')"
+  },
+  "notes": "ND 392 is a single case file covering four register rows (rancho-nicasio, rancho-nicasio-1, rancho-niscasio, rancho-niscasio-1), all carrying the same claimed values. The register's grantee field holds the U.S.-era CLAIMANTS, not the Mexican grantees: Halleck and Black were the original petitioners (stamped p.5, filed 14 June 1852), and Buckelew, William Reynolds and Paul Frink came in by supplemental petition (stamped p.8, filed 2 March 1853). The petition itself concedes the point at stamped p.5: 'on the 1st day of August A.D. 1844 Manuel Micheltorena Governor of California ... granted and conveyed as a reward for public services to Pablo de la Guerra ten \"sitios de ganada Mayor\" ... and to Juan Cooper for the sum of four thousand dollars six sitios de ganada Mayor ... in all sixteen square leagues of land called \"Nicasio\"'. Departmental Assembly approval 30 Aug 1845, signed Pio Pico (stamped p.32-33). Hoffman's table calls the place 'Nicasia', which matches the Board's own transmittal at stamped p.93; the red label and the transcript title page both read 'Nicasio'. No patent copy is bound in the file. Stamped p.89 carries a sworn affidavit of William J. Miller (sworn 16 Oct 1873): 'that on the 1st day of November AD 1861 ... a patent from the United States was duly and regularly issued to James Black for a part of the Rancho called \"Nicasio\" situated in Marin County' - this corroborates the register's patent_date Nov. 1, 1861 but names only James Black, and for a PART of the rancho. patent_to / patent_date / glo_patent_no left null per method (Phase C checks GLO). Name graded PART for the spelling 'Niscasio'; the file spells the place 'Nicasio' on the red label, the title page and throughout (Hoffman's 'Nicasia' matches the Board transmittal at stamped p.93 but not the label)."
+ },
+ {
+  "id": "rancho-niscasio-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264241/files/cubanc_lcf_nd392.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "1-24 (img)",
+   "33-44 (img)",
+   "92-103 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label reads 'NICASIO GRANT', not 'Niscasio'; transcript title page stamped p.1 'Nicasio'. The parenthetical '(Black)' is verified: James Black is a named original petitioner at stamped p.5 and the patentee named in the affidavit at stamped p.89."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28"
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 392 NORTHERN DISTRICT / NICASIO GRANT / H. W. HALLECK et al CLAIMANT'; every transcript leaf stamped '392 ND'; Bancroft filename cubanc_lcf_nd392.pdf; District Court caption at stamped p.85 reads 'D.C. 392: L.C. 270', matching Hoffman's commission_no 270 / court_no 392"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "stamped p.4 index: Board opinion of Comr. Alpheus Felch confirming the claim, 25 Sept 1855; stamped p.82 District Court decree of Ogden Hoffman, U.S. Dist. Judge, affirming and decreeing 'that the said claim be and the same is hereby confirmed to the extent and quantity of Sixteen Square Leagues', filed 9 March 1857 (p.83); stamped p.84 U.S. Attorney General 9 Jan 1858 'appeal will not be prosecuted by the United States'; stamped p.87 order of 30 April 1857 giving claimants 'leave to proceed under the decree of this Court heretofore rendered in their favor, as under Final Decree'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')"
+  },
+  "notes": "ND 392 is a single case file covering four register rows (rancho-nicasio, rancho-nicasio-1, rancho-niscasio, rancho-niscasio-1), all carrying the same claimed values. The register's grantee field holds the U.S.-era CLAIMANTS, not the Mexican grantees: Halleck and Black were the original petitioners (stamped p.5, filed 14 June 1852), and Buckelew, William Reynolds and Paul Frink came in by supplemental petition (stamped p.8, filed 2 March 1853). The petition itself concedes the point at stamped p.5: 'on the 1st day of August A.D. 1844 Manuel Micheltorena Governor of California ... granted and conveyed as a reward for public services to Pablo de la Guerra ten \"sitios de ganada Mayor\" ... and to Juan Cooper for the sum of four thousand dollars six sitios de ganada Mayor ... in all sixteen square leagues of land called \"Nicasio\"'. Departmental Assembly approval 30 Aug 1845, signed Pio Pico (stamped p.32-33). Hoffman's table calls the place 'Nicasia', which matches the Board's own transmittal at stamped p.93; the red label and the transcript title page both read 'Nicasio'. No patent copy is bound in the file. Stamped p.89 carries a sworn affidavit of William J. Miller (sworn 16 Oct 1873): 'that on the 1st day of November AD 1861 ... a patent from the United States was duly and regularly issued to James Black for a part of the Rancho called \"Nicasio\" situated in Marin County' - this corroborates the register's patent_date Nov. 1, 1861 but names only James Black, and for a PART of the rancho. patent_to / patent_date / glo_patent_no left null per method (Phase C checks GLO). Name graded PART for the spelling 'Niscasio'."
+ },
+ {
+  "id": "rancho-nipomo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266054/files/cubanc_lcf_sd013.pdf",
+  "pdf_pages_stated": 105,
+  "pages_read": [
+   "1-20 (img)",
+   "46-53 (img)",
+   "105-124 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The Mexican grant decree spells the place 'Nipomo' throughout: stamped p.10 'se declara a D. Guillermo Dana dueno en propiedad del terreno conocido con el nombre de Nipomo'; also stamped p.7 'el paraje nombrado Nipomo', p.8 'Sus linderos del Sitio de Nipomo son los siguientes', p.9, p.11, p.13. The register's 'Nipomo' matches the grant. NOTE the U.S.-era apparatus spells it 'Nipoma' (p1 red label 'NIPOMA GRANT'; transcript title page stamped p.1; petition stamped p.4; Fisher's certificate stamped p.37), which is also Hoffman's spelling."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant decree, stamped p.13: 'Dado en la Ex-Mision de Sta Barbara a 6 de Abril de 1837 = Juan B. Alvarado'; the decretal order at stamped p.10 opens 'Sta Barbara Abril 6 de 1837'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "stamped p.11: 'Asi el Sr. D. Juan Bautista Alvarado, Gobernador del Estado y Presidente de la Exma Diputacion del mismo, lo decreto, mando y firmo, de q.e doy fe = Juan B. Alvarado = Lic. Cosme Pina = Srio del despacho'; the title proper follows: 'El Ciud.o Juan B.ta Alvarado, Gobernador interino del Estado ... Por cuanto D.n Guillermo G. Dana, Mejicano por naturalizacion ha pretendido ... el terreno conocido con el nombre de Nipomo'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "stamped p.10 decree: 'se declara a D. Guillermo Dana dueno en propiedad del terreno conocido con el nombre de Nipomo'; stamped p.13 Diputacion proposition: 'Se concede a D. Guillermo G. Dana, el sitio de Nipomo, para q.e lo posea en propiedad conforme a la Ley de 18 de Agosto de 1824 y el Art. 5 del reglam.to de 21 de Nbre de 1828'. The register's 'Guillermo Dana' matches the decree verbatim; the file's own English apparatus calls him William G. Dana (p1 red label 'WILLIAM G. DANA CLAIMANT'). This is the unusual case where claimant and grantee are the same man, so the claimant-for-grantee error class does not bite here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 13 SOUTHERN DISTRICT / NIPOMA GRANT / WILLIAM G. DANA CLAIMANT'; every transcript leaf stamped '13 SD'; Bancroft filename cubanc_lcf_sd013.pdf; District Court papers docketed 'No 13' (stamped p.39, p.101, p.104), Commission docket No. 9 (stamped p.2, p.37) - matching Hoffman's commission_no 9 / court_no 13"
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Confirmation verified but no patent in the file. Commission: stamped p.3 index, 'San Francisco March 1st 1853 ... Commissioner Hiland Hall delivered the Opinion and the decree of Final Confirmation of this Board'; the U.S. petition for review recites it at stamped p.41: 'on the 1st day of March AD 1853 the said Commissioners Confirmed by final decree the said Claim of the said William G Dana, \"to the extent and quantity of land Contained within the boundaries described in the grant and the map to which the grant refers, and to no greater extent\"'. The U.S. did appeal (AG notice 11 Sept 1854, stamped p.38; filed in the District Court 7 Nov 1854, stamped p.39; summons served on Dana 26 Feb 1855, stamped p.104). The case then ran through to survey: stamped p.96, decree of Ogden Hoffman, Dist. Judge, 'that the Decree heretofore entered approving of the survey be final, and that the claimants have leave to proceed on said Decree as if the time for appealing had expired'; stamped p.98, stipulation of 16 July 1868 that 'the Decree of the Court in this case, filed and entered July 7 1868, approving the survey sent to this Court by the Surveyor General be final, and that the right of appealing from said Decree is hereby waived'. No patent copy is bound in the file (it ends at stamped p.105 with Surveyor General correspondence). Patent not in file (Phase C checks GLO)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register agrees with the case file on name, year, governor, grantee and docket. The register's claimed outcome 'Patented' (patent_to William G. Dana, Dec. 14, 1868, GLO 351) is consistent with the file's timeline - the survey decree was made final 16 July 1868, five months before the claimed patent date - but no patent instrument appears in the file, so outcome is graded PART, not OK. Hoffman 1862 agrees with the register on year 1837, governor Juan B. Alvarado, grantee Guillermo Dana, and disposition confirmed; his 'patented_1862: false' is consistent with a patent issued only in 1868. Stamped pages 43-95 (PDF images ~54-104) were not read: they carry the District Court pleadings, testimony and survey proceedings between the 1855 summons and the 1868 survey decree. Nothing graded here depends on them - the grant decree is at stamped p.10-13 and the terminal decrees at stamped p.96-98."
+ },
+ {
+  "id": "rancho-nojoqui",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266068/files/cubanc_lcf_sd029.pdf",
+  "pdf_pages_stated": 56,
+  "pages_read": [
+   "1-24 (img)",
+   "30-38 (img)",
+   "50-65 (img)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Right place, but no form in the file is spelled exactly 'Nojoqui'. The Mexican grant decree spells it NAJOQUI throughout the Spanish: stamped p.7 'el paraje conocido con el nombre de Najoqui, colindante por el N. con la Mision de Sta. Ynes, por el S. con la Sierra, al P. con D. Miguel Cordero y al O. con el Arroyo del Guijote'; also stamped p.10 (Pico title), p.12 'del Paraje Conocido con el nombre de Najoqui', p.16 'dho Rancho de Najoqui'. The U.S. apparatus spells it NOJOQUE: p1 red label 'NOJOQUE GRANT'; stamped p.2 'for the Place named \"Nojoque\"'; Board opinion stamped p.27 'the place known by the name of Nojoque'; Board decree stamped p.28; Fisher's certificate stamped p.29; District Court opinion stamped p.56 'under the name of Nojoque'. The register's 'Nojoqui' matches Hoffman's printed table, not the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p.8: 'Dado en la ciudad de los Ang.s a veintisiete de Abril de mil ochocientos cuarenta y tres. Manl. Michelt.a / Fran.co Arce, Srio Yn.to'. Confirmed by the Board opinion, stamped p.27: 'On the 27th day of April AD 1843 the claimant obtained a grant from Governor Micheltorena', and by the District Court opinion, stamped p.56: 'A grant of the land claimed in this case was made on the 27th of April 1843 by Governor Michel Torena to the present claimant, under the name of Nojoque'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "grant title heading, stamped p.7: 'Manuel Micheltorena Gobernador Comandante General e Ynspector del Departamento de ambas Californias'; signed 'Manl. Michelt.a' at stamped p.8"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "grant title, stamped p.7: 'Por cuanto D.n Raymundo Carrillo ha pretendido para su beneficio personal y el de su familia el paraje conocido con el nombre de Najoqui ... he benido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. Judicial possession delivered to him 2 Nov 1845 (stamped p.12-17, signed 'Raym.do Carrillo' p.17). The decree spells the forename RAYMUNDO; the register's 'Raimundo' is an orthographic variant of the same man, and the red label reads 'RAYMUNDO CARRILLO'. Grantee and claimant are the same person here, so the claimant-for-grantee error class does not bite."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 29 SOUTHERN DISTRICT / NOJOQUE GRANT / RAYMUNDO CARRILLO CLAIMANT'; every transcript leaf stamped '29 SD'; Bancroft filename cubanc_lcf_sd029.pdf; District Court papers headed 'Case No. 29 - Transcript No. 492' (stamped p.48, p.54) and the wrapper 'No. 29 Docket ... In Case No 492, Filed August 22 1854' - matching Hoffman's commission_no 492 / court_no 29"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at both levels. Board: opinion stamped p.27 ('we are therefore of the opinion his claim should be confirmed') and decree of confirmation stamped p.28, filed 12 Oct 1853, signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson, Comrs. District Court: opinion stamped p.56, 'the claimant is therefore entitled to a confirmation of his claim to the extent called for in the grant and with the metes and bounds described, and a decree affirming the decision of the Commissioners will therefore be entered'. Appeal closed: U.S. Attorney General, 10 Sept 1856, stamped p.50: 'In the case of the claim of Raymundo Carrillo, confirmed to the claimant by the Commissioners, Case no. four hundred and ninety-two (492) and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' The register's outcome field says 'Confirmed', which is exactly what the file shows."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "The grant decree spells the place 'Najoqui' (stamped p.7, p.10, p.12, p.16); the U.S. record spells it 'Nojoque' (p1 red label, stamped p.2, p.27, p.28, p.56). The register's 'Nojoqui' follows Hoffman."
+  },
+  "notes": "Year, governor, grantee, docket and outcome all check out against the decrees. TWO titles exist for this land and the register correctly records the first: Micheltorena's original concession of 27 April 1843 (Spanish, stamped p.7-8) and a second title from Pio Pico dated 1 September 1845 (Spanish, stamped p.10-11: 'Pio Pico Gobernador Ynterino del Departamento de las Californias ... de entera conformidad con la aprobacion de la Exma Asamblea Departamental que recayo en sesion del dia 29 de Agosto proximo pasado ... Dado en la Ciudad de los Angeles a primero de Septiembre de mil ochocientos cuarenta y cinco'). Both the Board (stamped p.27) and the District Court (stamped p.56) treated the 1843 Micheltorena grant as the operative concession and the 1845 Pico instrument as a re-issue after Departmental Assembly approval of 29 Aug 1845. The 1845 Pico title is why the claimed patent could later run to 1869. Hoffman 1862 agrees with the register on year 1843, governor Micheltorena, grantee R. Carrillo and disposition confirmed; his rancho spelling 'Nojoqui' is the register's source. Register's claimed patent (Raimundo Carrillo, Sept. 11, 1869, GLO 367) is not evidenced in this file - no patent instrument is bound in - so patent fields left null for Phase C. Not read: stamped pages 18-22 (the certified English translations of the grant and judicial possession, PDF images ~25-29) and stamped pages 30-44 (District Court pleadings, PDF images ~39-49); the Spanish originals of every instrument were read directly, so nothing graded turns on the translations."
+ },
+ {
+  "id": "rancho-novato",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265815/files/cubanc_lcf_nd223.pdf",
+  "pdf_pages_stated": 205,
+  "pages_read": [
+   "img1-20 (= stamped p.1-14)",
+   "img21-38 (= stamped p.15-32)",
+   "img206-219 (= stamped p.192-205)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "img1 red label: 'CASE NO. 223 / NORTHERN DISTRICT / NOVATO GRANT / ASSIGNEES OF BEZAR SIMMONS CLAIMANT'; transcript title stamped p.1 'for the place named \"Novato\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped p.30-31 (Spanish original in expediente copy): 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias... he venido en concederle el terreno mencionado... Dado en Monterey a diez y seis de Abril de mil ochocientos treinta y nueve' = 16 April 1839. The concession decree at stamped p.31 is likewise dated 'Monterrey Abril 16 de 1839'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Stamped p.30 grant heading: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias'; signed 'Juan B. Alvarado / Manl. Jimeno Srio' at stamped p.31. Junta Departamental approval recited at stamped p.32 ('la concesion echa por el Sr Gobernador Dn Juan Bautista Alvarado... en la persona de Dn Fernando Feliz')."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Stamped p.30: 'Por cuanto el Ciudadano Fernando Feliz ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de Novato'; decree stamped p.31: 'se declara al Ciudadano Fernando Feliz due\u00f1o en propiedad del parage conocido con el nombre de Novato en estension de dos leguas'. US brief stamped p.198 confirms in English: 'The land granted, in this case to Fernando Feliz, is called the Novato Ranch'. Register correctly holds the Mexican grantee, not the U.S.-era claimant (Assignees of Bezar Simmons)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "img1 red label 'CASE NO. 223 NORTHERN DISTRICT'; stamped-page rubber stamp on every leaf reads '223 ND'; PDF filename cubanc_lcf_nd223.pdf. Commission docket no. was 68 (stamped p.1-2), which is the Board number, not the District Court number."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmation: transcript index stamped p.4, 'San Francisco November 7 1854, In the same case Commissioner S.B. Farwell delivered the Opinion of the Board confirming the claim (Vide page 113 of this Transcript)'. District Court stage: U.S. Attorney's brief on exceptions to survey, stamped p.198-199, argues only boundaries remain open, expressly conceding 'the decree of confirmation pronounced in this case' as conclusive on the abstract validity of the grant. File ends at stamped p.205 in survey litigation."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single volume, 219 PDF images, transcript stamped 205 pages (leaf img2: 'LAND CASE 223 ND. 205 PAGES'). Image-to-stamped offset is +4 at the front of the transcript and +6 from stamped p.15 onward; evidence cites STAMPED pages. No patent copy in the file, so patent fields left for Phase C. Note the expediente also records a second, more precise Jimeno-era title of 13 Nov 1839 pleaded in the claimants' petition (stamped p.5), but the operative concession is Alvarado's of 16 April 1839, which the Junta approved 22 May/12 June 1840 (stamped p.32) - so year 1839 and governor Alvarado are right on either reading."
+ }
+]

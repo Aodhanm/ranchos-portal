@@ -1,0 +1,511 @@
+[
+ {
+  "id": "rancho-blucher",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265816/files/cubanc_lcf_nd224.pdf",
+  "pdf_pages_stated": 78,
+  "pages_read": [
+   "images 1-24 = stamped transcript pp. 1-18"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 224 NORTHERN DISTRICT / BLUTCHER RANCHO GRANT / STEPHEN SMITH CLAIMANT'; stamped transcript p1 title 'for the place named \"Blutcher Rancho\"'. The register spelling 'Blucher' is attested inside the file itself (Richardson deposition, stamped p10: 'the Vioget or Blucher Ranch'; Crowley deposition, stamped p15: 'the Blutcher Ranch')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Petition, stamped p5: 'The original grant was made on the 11th day of December 1844'; Vioget deposition, stamped p7: 'A paper is now shown me dated the 11th of December 1844, which is the original grant received by me from Secretary Jimeno.' NOTE an earlier PROVISIONAL grant from Alvarado (petition p4: '22nd of May 1842'; Vioget p7/p16: 'in the year 1841') precedes it; the definitive grant is 1844."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Petition, stamped p5: 'The original title was derived from Manuel Micheltorena who was Governor of the Californias at the time'; Vioget deposition p7: 'In 1844 I applied to Governor Micheltorena who gave me a full title.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition, stamped p4: 'that one Juan Vioget in the year 1840 occupied a parcel of land ... the said Vioget made application to Governor Micheltorena'; stamped p5: 'the name of the original claimant is Juan Vioget under whom your present petitioner claims.' Stephen Smith is the U.S.-era CLAIMANT (p1 label), a purchaser by deed from Vioget, not the grantee, so the register correctly holds the Mexican grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 224 NORTHERN DISTRICT'; leaf 2 stamp 'LAND CASE 224 ND. 78 PAGES'; every transcript leaf stamped '224 ND'; PDF filename cubanc_lcf_nd224.pdf. (Board docket no. was 24; court no. 224.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Transcript index, stamped p3: 'San Francisco October 31 1854. In the same Case Commissioner S. B. Farwell delivered the opinion of the Board confirming the claim' (opinion at transcript p55, order at p58, both beyond the pages read). Hoffman 1862 also records confirmed + patented."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record; no hoffman_flags and none warranted. Only the Land Commission decree is indexed within the pages read (stamped pp.1-18 of 78); no District Court decree or patent copy appeared, so the 'Confirmed' grade rests on the Board decree of 31 Oct 1854 plus Hoffman's 1862 concurrence. Chain of title in the file: Alvarado provisional grant 1841/1842 to Juan Vioget -> Micheltorena definitive grant 11 Dec 1844 -> conveyance to Stephen Smith (deed dated 24 Dec 1847 per Vioget, p8; sale completed spring 1846 per Vioget, p18 -- the file is internally inconsistent on the sale date, irrelevant to graded fields). Image/stamped-page offset in this PDF: stamped page n = image n+6 through image 24."
+ },
+ {
+  "id": "rancho-boca-playa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266106/files/cubanc_lcf_sd146.pdf",
+  "pdf_pages_stated": 33,
+  "pages_read": [
+   "images 1-12 = stamped pp.1-7",
+   "images 13-16 = stamped pp.8-11"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 146 SOUTHERN DISTRICT / BOCA DE LA PLAYA GRANT / EMIGDIO VEJAR CLAIMANT'; stamped p1 'for the place named \"Boca de la Playa\"'; the Spanish decree (stamped p7) calls it 'el terreno conocido con el nombre de \"Boca de la playa\" en la jurisdiccion de San Juan Capistrano'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p8 (closing): 'Dado en la Ciudad de los Angeles en papel comun por falta de sellado a siete dias de Mayo de mil ochocientos cuarenta y seis. Pio Pico. Jose Matias Moreno, Srio. Ynt[eri]no.' = 7 May 1846. Corroborated by the petition, stamped p4 ('by deed of grant in fee dated the 7th of May A.D. 1846') and the Stearns deposition, stamped p5."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree heading, stamped p7: 'Pio Pico Gobernador Constitucional del Departamento de Californias ... he venido por decreto de este dia en conceder al expresado Vejar el terreno mencionado'; signed 'Pio Pico' at stamped p8."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p7: 'Por cuanto el Ciudadano Emigdio Vejar ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Boca de la playa ... en conceder al expresado Vejar el terreno mencionado, declarandole la propiedad de el por las presentes letras.' Judicial possession to 'D. Emigdio Vejar' 19-20 April 1847 (stamped pp.9-11). Here the register's grantee and the U.S.-era claimant are the same man, so the claimant/grantee confusion does not arise."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 146 SOUTHERN DISTRICT'; leaf 2 stamp 'LAND CASE 146 SD pgs. 33'; every leaf stamped '146 SD'; PDF filename cubanc_lcf_sd146.pdf. (Board docket was No. 482, per stamped pp.1-2; 146 is the court number, which is what the register carries.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Transcript index, stamped p3: 'San Francisco March 14th 1854. In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim' (opinion at transcript p18, order at p20, beyond the pages read); a further order on motion of the U.S. Law Agent 15 Aug 1854 is indexed at p20. Hoffman 1862 also records confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record, all six fields confirmed against the Spanish grant decree itself (stamped pp.7-8), not merely the petition. No hoffman_flags and none warranted; Hoffman's 'Boca de la Plava' and 'E. Vejar' are OCR/abbreviation artifacts of the printed table, not disagreements. Only the Land Commission decree (14 Mar 1854) is documented in the pages read; the register's patent (1879, GLO 502) and any District Court decree lie beyond stamped p11 of 33 and are for Phase C. Image/stamped-page offset: stamped page n = image n+5 in this PDF."
+ },
+ {
+  "id": "rancho-boca-santa-monica",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265877/files/cubanc_lcf_sd141.pdf",
+  "pdf_pages_stated": 57,
+  "pages_read": [
+   "images 1-12 = stamped pp.1-7",
+   "images 13-19 = stamped pp.8-14"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 141 SOUTHERN DISTRICT / BOCA DE SANTA MONICA GRANT / YSIDRO REYES, ET AL CLAIMANT'; expediente cover, stamped p8: 'Espediente promovido por los C[iudadano]s Francisco Marques e Ysidro Reyes en pretencion del parage nombrado Boca de Santa Monica'. (The transcript's own docket page, stamped p2, writes 'Voca de Santa Monica' -- a clerk's V/B slip, not a variant name.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree in the expediente, stamped p12: 'Monterrey 19 de Julio de 1839. Vista la peticion con que da principio este expediente ... se les concede ... el parage nombrado Boca de Sta Monica.' NOTE the U.S. petition (stamped p4) and Stearns (stamped p6) both date the grant '19th day of June A.D. 1839' / '19 June 1839'; the decree itself reads JULIO. Year 1839 either way, so the register is right; the month in the secondary statements is not."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p12: 'El Sor D[o]n Manuel Jimeno Casarin primer vocal propietario de la Ex[cele]nt[isi]ma Junta del Departamento de las Californias, en ejercicio del Gobierno del mismo, asi lo mando decreto y firmo de que doy fe.' The U.S. petition (stamped p4) renders this as 'Manuel Jimeno first Member of the Departmental Assembly and Ex Officio Governor of California'. Register's 'Jimeno' is exactly what the decree says."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p12: 'se les concede a los C[iudadano]s Fran[cis]co Marquez e [Ys]idro Reyes el parage nombrado Boca de Sta Monica, en uso de las facultades que me conceden las leyes' (Reyes's given name is written in a contracted hand; every other document in the file, including the expediente cover at stamped p8 and the petition at stamped p4, reads Ysidro/Isidro). Petition, stamped p4: 'granted in full property unto Francisco Marques and Isidro Reyes'. The register's 'Francisco Marques et al' names the first grantee correctly and the 'et al' covers Reyes; the U.S.-era claimants (Reyes plus the eight Marques heirs, stamped p4) are a different list, so the register has NOT recorded the claimant in place of the grantee here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 141 SOUTHERN DISTRICT'; every transcript leaf stamped '141 SD'; PDF filename cubanc_lcf_sd141.pdf. (Board docket was No. 445, stamped pp.1-2; 141 is the court number the register carries. Expediente no. 330, stamped p8.) DISCREPANCY worth flagging: the Bancroft typed slip on leaf 2 reads 'LAND CASE 256 SD  57 pgs.', naming a DIFFERENT case number than the binding, the stamps and the filename -- see notes."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Transcript index, stamped p3: 'San Francisco, April 4 1854. In the same Case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim' (opinion at transcript p28, order of 15 Aug 1854 at p31, both beyond the pages read). Hoffman 1862 also records confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six register fields verified against the expediente decree itself (stamped p12), not just the U.S. petition. Two things a re-reader needs. (1) LEAF-2 SLIP MISMATCH: the typed Bancroft slip reads 'LAND CASE 256 SD 57 pgs.' while the red label, all page stamps and the filename say 141 SD. I take 57 as this file's page count (nothing else states one) but the '256' is either a typist's error or a slip from another case; do not cite that leaf as authority for the docket. (2) The expediente contains a REVOCATION that no summary source carries: immediately below the grant, stamped p12, 'Monterrey Dic[iembr]e 20 de 1839. Agreguese este exped[ien]te al promovido por D[o]n Fran[cis]co Sepulveda por el cual hoi justificando tener en su favor el derecho de ocupacion en el mencionado terreno y por cuya causa se ha dispuesto que los interesados se despojen de la concesion antecedente. Alvarado.' i.e. five months after the grant Alvarado ordered the grantees dispossessed in favour of Francisco Sepulveda. The Board nevertheless confirmed in 1854 and the register's 1881 patent implies the confirmation held, but the register's flat 'Confirmed' hides a contested title. Image/stamped-page offset: stamped page n = image n+4."
+ },
+ {
+  "id": "rancho-bodega",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264422/files/cubanc_lcf_nd035.pdf",
+  "pdf_pages_stated": 92,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-8",
+   "images 58-92 = stamped pp.47-81 (read images 58-65, 66-77, 78-90)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 35 / NORTHERN DISTRICT / BODEGA GRANT / STEPHEN SMITH CLAIMANT'; transcript title stamped p1 'for the place named \"Bodega\"'; grant translation stamped p48: 'the tract of land known by the name of La Bodega'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn translation of the grant, stamped p49: 'Given in Monterey of Upper California on the 14th of September 1844. (Signed) Manuel Micheltorena, Manuel Jimeno, Secy of State.' Board opinion, stamped p50: 'a grant made by Manuel Micheltorena to the Claimant on the 14th of September 1844.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped p48: 'Citizen Manuel Micheltorena, Brigadier General of the Mexican Army, Adjutant General of the Staff of the same, Governor Commandant General and Inspector of the Department of Californias'; signed stamped p49."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped p48: 'Whereas Don Esteban Smith naturalized Mexican Citizen has petitioned for his own benefit and that of his Family, the tract of land known by the name of La Bodega ... I have deemed proper to grant him the aforesaid land.' Corroborated by David Spence deposition, stamped p8 ('upon the said Smith's application the paper now exhibited ... was issued to the said Smith as a title'). NOTE this is the unusual case where claimant and grantee are the SAME man, and the register is right; Esteban = Stephen Smith."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 35 NORTHERN DISTRICT'; every leaf stamped 'CASE 35 ND'; rear cover label '35 ND \"Bodega\"'; PDF filename cubanc_lcf_nd035.pdf. Board (Commission) docket no. was 23, District Court no. 35 (stamped p74: 'D.C. 35 : L.C. 23')."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of final confirmation, stamped pp.52-53, signed Hiland Hall and Harry I. Thornton, 'Given under our hands this 21 day of Feby 1853'. US appealed (AG notice stamped p55, 11 Sept 1854), then withdrew: AG to U.S. Atty, stamped p73, 2 Jan 1857, 'appeal will not be prosecuted by the United States'. District Court DECREE, stamped pp.78-79, 1 May 1857, Ogden Hoffman: 'the said decision of the said Board of Commissioners be and the same hereby is in all things affirmed ... the said claim be and the same is hereby confirmed to the extent of Eight square leagues, being the same land described in the Grant to Stephen Smith (now deceased).' Confirmation therefore final in the file; no patent copy present."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record, all six fields OK; Hoffman 1862 agrees. Chain: Micheltorena grant 14 Sept 1844 to Esteban (Stephen) Smith, approved by the Departmental Assembly 22 April 1846 (Board opinion, stamped p50). Smith died during the appeal; cause revived 10 Mar 1856 in the names of the widow and all seven heirs (stamped pp.62-63), then that order was RESCINDED 6 Apr 1857 (stamped pp.70-71) and the cause revived only in the names of Manuella T. Curtis, Stephen Smith, Manuella Smith and James Smith - which is exactly the register's patent_to list, so the register's patentee names are internally corroborated by the case file even though the patent itself is not in the file (Phase C checks GLO). Board opinion (stamped pp.50-52) is substantive: it overrules the ten-littoral-leagues / Russian-settlement objections. Image-to-stamped offsets differ by section: near the front stamped p = image - 6 (with blank versos interleaved); from image 58 on it is 1:1, stamped p = image - 11."
+ },
+ {
+  "id": "rancho-bolsa-chamisal",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266075/files/cubanc_lcf_sd036.pdf",
+  "pdf_pages_stated": 84,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-9",
+   "images 15-26 = stamped pp.10-18",
+   "images 40-51 = stamped pp.30-41",
+   "images 81-94 = stamped pp.66-79"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Spanish expediente cover, stamped p8: 'Expediente Promovido por Francisco Quijada en Solicitud del Paraje nombrado \"Bolsa del Chamisal\" 1837'; grant decree, stamped p17: 'el terreno conocido con el nombre de Bolsa del Chamisal'. (The Anglophone forms in the file drift: p1 red label 'BOLSA DEL CHEMISAL GRANT', transcript title stamped p1 'Bolsa del Chemisal', District Court decree stamped p69 'Bolsa de Chamisal'. The register's 'Bolsa De Chamisal' matches the Spanish original.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree (Spanish original, Doc. No. 3), stamped p18: 'Dado en la ex-mision de Santa Barbara a 11 de Mayo de 1837. Juan B. Alvarado. Victor Prudon Srio into.' Departmental Deputation approval, stamped p18: 'Sta Barbara Mayo 18 de 1837 ... Se concede al Ciudadano Francisco Quijada, el paraje nombrado Bolsa de Chamisal.' Board opinion, stamped p35: 'on the 11th day of May AD 1837 Governor Alvarado granted to one Francisco Quijada the tract of land called Bolsa del Chamisal.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p17: 'El ciudadano Juan Bautista Alvarado Gobernador del Estado y Presidente de la excelentisima Diputacion del mismo ... he venido en concederle el terreno mencionado declarandole la propriedad de el por estas letras presentes'; signed 'Juan B. Alvarado' stamped p18."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p17: 'Por cuanto el Ciudadano Francisco Quijada ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Bolsa del Chamisal'. Lewis T./F. Burton is the U.S.-era CLAIMANT only (p1 red label; petition stamped p4: Quijada 'sold & conveyed to the petitioner one half of the said tract of land' 20 March 1843, the remaining half bought from Quijada's heirs 1846-1852). Register correctly records the Mexican grantee, not the claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 36 SOUTHERN DISTRICT'; leaf 2 'LAND CASE 36 SD PAGES 84'; every leaf stamped '36 SD'; District Court caption stamped p69 'Case No 36 / Transcript No 312'; PDF filename cubanc_lcf_sd036.pdf. Board (Commission) docket no. was 312."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The Board REJECTED the claim: docket entry stamped p3, 'San Francisco Dec. 6 1853 ... Commissioner Thompson Campbell delivered the opinion of the Board rejecting the claim' (opinion stamped pp.35-43, the fatal defect being failure to prove the mesne conveyances from Quijada's heirs, stamped p40). REVERSED on appeal: District Court decree, stamped pp.69-70, 'It is ordered adjudged and decreed that said decision of said Board, Rejecting the claim of the Appellant, be and is hereby Reversed. And further, that the Claim of said Appellant be Confirmed to the lands ceded by the Grant ... Provided that if the Quantity of land within the boundaries set forth by said Petition and Map exceed Eleven square Leagues of land then this Confirmation is for Eleven square Leagues and no more', signed in open court 18 March 1858. Confirmation made FINAL by the United States: Attorney General to U.S. Attorney, stamped p67, 29 September 1856, 'In the case of the claim of Lewis F. Burton, rejected by the Commissioners, case no. three hundred and twelve (312), but confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Register 'Confirmed' is correct. Patent not in file, but the approved survey is: Surveyor General's certificate, stamped p71, 'the Rancho Bolsa del Chamisal confirmed to L. T. Burton has been surveyed by this office, and ... the survey and plat was approved by the U.S. Surveyor General on the 29 day of June 1861.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six fields OK; Hoffman 1862 agrees. TRAP CHECK: this is exactly the 'bare Confirmed hides a Commission rejection' pattern flagged in the method - the Board rejected on 6 Dec 1853 and the District Court reversed - but here the reversal IS in this single volume (no multi-volume note), so the outcome is settled, not guessed. Two internal snags a re-reader should not be misled by: (1) the District Judge's DRAFT opinion, stamped p79, misstates the grant as 'from Governor Alvarado to one Francisco Quintana bearing date 11 of March 1837' - both the surname and the month are wrong against the Spanish original at stamped pp.17-18 and against the Board's own recital at stamped p35; the draft is heavily struck through. (2) the AG's 1856 letter already speaks of a District Court confirmation while the decree in the file is dated 18 March 1858, so an earlier decree preceded this one; either way the direction of the outcome is unambiguous. The grant was contested at the Mexican end too: Canuto Guevara petitioned for the same paraje and the Santa Barbara ayuntamiento preferred Quijada because he had cattle and horses to stock it while 'Canuto is not known to have any property' (translation of expediente, stamped p14). Image-to-stamped offset: stamped p = image - 5 from image 9 onward; the file has 99 images for 84 stamped pages."
+ },
+ {
+  "id": "rancho-bolsa-chica",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267549/files/cubanc_lcf_sd205.pdf",
+  "pdf_pages_stated": 76,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-8",
+   "images 15-22 = stamped pp.9-16",
+   "images 28-30 = stamped pp.22-23",
+   "images 55-68 = stamped pp.47-60",
+   "images 79-85 = stamped pp.70-76"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 205 / SOUTHERN DISTRICT / LA BOLSA CHICA GRANT / JOAQUIN RUIZ CLAIMANT'; printed transcript title, stamped p1, 'for the place named \"La Bolsa Chica\"'; grant decree (Spanish original), stamped p8, 'el paraje conocido con el nombre de Bolza Chica'; sworn translation, stamped p13, 'the place known by the name of \"Bolsa Chica\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn translation of the grant, stamped p14: 'Given at Monterey the Thirty first day of July One Thousand Eight Hundred and forty one. Juan B. Alvarado, Manl Jimeno Secy.' Spanish original, stamped p9: 'Dado en Monterey a treinta y uno de Julio de mil ocho cientos cuarenta y uno.' Registered in the Prefectura of the Second District at Angeles 20 August 1841 (stamped pp.9, 15)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p8: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias'; translation stamped p13 and signature stamped p14. NOTE Micheltorena appears in the file but only as the later authority ordering possession without fresh approval: stamped p15, 'Monterey March 5th 1844. Give him the possession he needs without its being again necessary, when the Excellent Departmental Assembly shall approve the same, in consequence of the long occupation of his property by the Petitioner. Michelt(oren)a.' The GRANT is Alvarado's; the register is right."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant decree, stamped p8: 'Por cuanto el Ciudadano Joaquin Ruiz ha pretendido para su beneficio personal y el de su familia el paraje conocido con el nombre de Bolza Chica'; translation stamped p13, 'the Citizen Joaquin Ruiz has solicited for his own benefit and that of his family'. Right entity, but the register's 'J. Ruiz' is an initial-only abbreviation (copied from Hoffman's table, which prints the same 'J. Ruiz'); the case file gives the full name Joaquin Ruiz throughout, including the red label and the judicial-possession act of 24-25 April 1844 (stamped pp.10-11, 16). Ruiz is BOTH grantee and U.S.-era claimant here, so no claimant/grantee confusion."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 205 SOUTHERN DISTRICT'; leaf 2 'LAND CASE 205 SD pgs. 76'; every leaf stamped '205 SD'; District Court caption stamped p70 'Joaquin Ruis appellee ad The United States appellant, No 205, Bolsa Chica'; final leaf stamped p76 'Case 205 / Transcript 405'; PDF filename cubanc_lcf_sd205.pdf. Board (Commission) docket no. was 405."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: docket entry, stamped p3, 'San Francisco, Sept. 26 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim'; the decree itself, stamped pp.21-23, describes the two-square-league tract and is signed 'Alpheus Felch, R. Aug. Thompson, S. B. Farwell, Commissioners', filed 27 Sept 1854. Nothing in the file disturbs that confirmation: the United States appealed but the later District Court proceedings are entirely about the SURVEY, and both sides treat the confirmation as settled - claimant's petition for return of survey, stamped pp.47-48, 4 June 1863, complains only that 'said Survey does not conform to the grant and decree of final Confirmation'; District Court decree, stamped p70, 22 August 1864, Fletcher M. Haight, 'the said Exceptions of Claimant to the said approved plat of Survey of Bolsa Chica be and the same are hereby overruled and denied ... the said approved plat of the survey together with a certified copy of this decree be transmitted to the U.S. Surveyor General for California'. Register 'Confirmed' is correct. No patent copy in the file; last item is a Surveyor-General letter of 22 Dec 1873 chasing the judge's signature on the plat (stamped p74), consistent with the register's 1874 patent date, which Phase C must verify at GLO."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Joaquin Ruiz (register abbreviates to 'J. Ruiz'); grant decree stamped p8 / translation stamped p13: 'the Citizen Joaquin Ruiz has solicited for his own benefit and that of his family, the place known by the name of \"Bolsa Chica\"'"
+  },
+  "notes": "Five fields OK, grantee PART on abbreviation only; Hoffman 1862 agrees on every field (and prints the same 'J. Ruiz'). Grant 31 July 1841 by Alvarado, two sitios de ganado mayor; juridical possession given 24-25 April 1844 by Cristoval Aguilar under Micheltorena's order of 5 March 1844. An adverse claim is visible in the record and is worth flagging for the ranchos register: Abel Stearns testified before the Board (stamped pp.5-6) that 'A part of this land is covered by a title to Catalina Ruiz ... The whole of this land is included in her title while I have same. The claim is under an old grant to Manuel Nieto' - i.e. the Bolsa Chica overlapped Nieto's Los Alamitos/Los Coyotes. Stearns later bought Bolsa Chica from Ruiz (petition stamped p47, 'since the presentation of this claim to the United States Commissioners, he has become the owner of said land by virtue of competent mesne conveyance from said Ruiz') and settled the Coyotes/Alamitos boundary by the 1859 indenture at stamped pp.50-53, which is why the register's patent_to (Joaquin Ruiz, 1874) is worth checking in Phase C. Image-to-stamped offset: stamped p = image - 6 from image 9 onward; 85 images for 76 stamped pages."
+ },
+ {
+  "id": "rancho-bolsa-escorpinas",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266102/files/cubanc_lcf_sd067.pdf",
+  "pdf_pages_stated": 145,
+  "pages_read": [
+   "images 1-12 = stamped pp.1-7",
+   "images 13-24 = stamped pp.8-19",
+   "images 28-30 = stamped pp.23-25",
+   "images 31-40 = stamped pp.25-34",
+   "images 41-50 = stamped pp.33-42",
+   "images 51-62 = stamped pp.43-54",
+   "images 63-70 = stamped pp.55-62"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The file itself carries at least five forms and none is exactly the register's. Spanish original expediente cover, stamped p10: 'Expediente Promovido por el ciudadano Salvador Espinosa pidiendo posecion juridica al terreno de su propriedad llamado Bolsa de los Escarpines'; grant petition, stamped p11, 'la bolsa de los Escarpines'; p1 red label 'BOLSA DE LOS ESCARPINOS GRANT'; printed transcript title stamped p1 'Bolsa de los Escarpinos'; Board decree stamped p24 'Bolsa de Escarpines'; District Court papers stamped pp.54-62 'Bolsa de los Escarpinas' and (heading, stamped p54) 'Bolsa de las Escarpinas'. So the register's article 'Las' IS attested in the U.S.-era papers, but the noun in every Spanish-language leaf is 'Escarpines' (little slippers), never 'Escorpinas'. Right place, imprecise form."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado's concession is written in the margin of Espinosa's petition, Spanish original stamped p11: 'Monterey Octbre 7 de 1837 ... he venido p.r el presente acceder a su pretencion ... Alvarado'; sworn translation, stamped p16: 'Monterey Oct. 7 1837. Whereas the party to this petition has occupied quietly & peaceably for the space of fourteen years the land known by the name of La Bolsa de los Escarpines ... I have thought fit by these presents to accede to his petition.' Juridical possession followed 22 Nov 1837 (stamped pp.8, 14-15, 18-20). Board opinion, stamped p23, and the U.S. Attorney's own pleading, stamped p35, both date the act 7 October 1837."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The marginal decree is signed 'Alvarado' (stamped p11, translation stamped p17); the petition is addressed 'Sr. Gobernador' / 'To His Honor The Governor' (stamped pp.11, 16); District Court opinion, stamped p47: 'A residence on the land with the approbation of the ancient Governors of California as stated by Govr. Alvarado of fourteen years.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Right entity, initial-only form. Petition and decree, stamped p11: 'Salvador Espinosa vecino de la jurisdiccion de este puerto'; translation stamped p16: 'I, Salvador Espinoza, a subject of the jurisdiction of this port'; possession act stamped p14 'el interesado ... el Ciudadano Salvador Espinosa'; p1 red label 'SALVADOR ESPINOSA'. Espinosa is BOTH grantee and U.S.-era claimant, so there is no claimant/grantee substitution here; the register's 'S. Espinoza' is simply Hoffman's abbreviation carried over."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 67 SOUTHERN DISTRICT'; leaf 2 'LAND CASE 67 SD pgs. 145'; every leaf stamped '67 SD'; District Court wrapper stamped p25 'U.S. DISTRICT COURT, Southern District of California, No. 67 Docket'; captions stamped pp.28, 42, 52 'No 67 (Transcript No. 355)'; PDF filename cubanc_lcf_sd067.pdf. Board (Commission) docket no. was 355."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner Thompson Campbell, stamped p23, 'We are therefore of opinion that the claim in this case should be confirmed'; decree of confirmation stamped p24, signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson, filed 20 Dec 1853. The United States appealed (AG Caleb Cushing's notice, stamped p26, 30 Nov 1854; appeal notice filed 10 Jan 1855; U.S. Attorney Pacificus Ord's 13-ground petition for review, stamped pp.28-40, filed 13 Aug 1855, arguing among other things that the Alvarado paper 'is not a grant ... nothing more than an order'). District Court AFFIRMED: decree stamped pp.48-49, filed 24 Sept 1855, 'it is ordered, adjudged and decreed that the said decision be in all things affirmed ... that the claim of appellee to a certain tract of land known by the name of Bolsa de Escarpines is valid ... And it is further ordered adjudged and decreed that the claim of Appellee to said land be hereby Confirmed.' An appeal to the Supreme Court was granted on Ord's motion (stamped pp.52-53, Oct 1855) but ABANDONED, and the file says so expressly: heirs' petition, stamped p55, 'the United States, having declined to prosecute any appeal from the Decree of said District Court to the Supreme Court of the United States, the decree of said District Court has become, and is final.' Register 'Confirmed' is correct. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "'Bolsa de los Escarpines' is the form in every Spanish leaf (expediente cover stamped p10; petition stamped p11); the register's 'Bolsa De Las Escorpinas' follows Hoffman's printed table, not the case file",
+   "grantee": "Salvador Espinosa (register abbreviates to 'S. Espinoza'); grant decree stamped p11 / translation stamped p16"
+  },
+  "notes": "Year, governor, land_case, outcome OK; name and grantee PART on form only. Hoffman 1862 agrees on substance. SUBSTANTIVE POINT for the register: the 7 Oct 1837 Alvarado act is NOT a fresh concession but a CONFIRMATORY decree replacing lost papers - its own words (translation, stamped p16) are that Espinosa 'has occupied quietly & peaceably for the space of fourteen years the land ... with the knowledge of the ancient Governors of California, the documentary proofs of which he shows have been mislaid in the proper office.' That puts the original cession at roughly 1823, in Luis Antonio Arguello's governorship, and the neighbouring Natividad possession is dated to 1823 'by the Order of the then Governor of California Don Luis Antonio Arguello' at stamped p58. The Board understood it exactly this way (stamped p23: 'The party had not only obtained a title from the Spanish Government, but he had occupied without interruption for the space of fourteen years the same land'), and the U.S. Attorney's ground VII was that the 1837 paper 'is not a grant' at all (stamped p36). The register's era tag 'alvarado' and year 1837 are therefore right about the operative title but hide an earlier Arguello-era origin. Also of note: the Board found 'no proof that any approval was ever made by the departmental Assembly' (stamped p23) and confirmed anyway, on equitable grounds (District Court opinion, stamped p47, invoking 'the principles of Equity made by the Act of 3 March 1851'). Espinosa died before 1868; his heirs petitioned the District Court to correct a boundary mistake in the 1855 decree (stamped pp.54-62). Image-to-stamped offset: stamped p = image - 5 near the front, stamped p = image - 24 from image 31 on (the file has 159 images for 145 stamped pages)."
+ },
+ {
+  "id": "rancho-bolsa-nueva-moro-cojo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265842/files/cubanc_lcf_sd098.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 1-12 = stamped pp.1-8",
+   "images 17-30 = stamped pp.12-24",
+   "images 81-92 = stamped pp.73-82",
+   "images 93-102 = stamped pp.83-91",
+   "images 108-121 = stamped pp.97-110"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation, stamped p82: 'The land of which confirmation is hereby made is that known by the name of Bolsa Nueva y Moro Cojo, situated in Monterey County'; District Court decree, stamped p109, 'that known by the name of \"Bolsa nueva y Moro Cojo\" situate in the present County of Monterey'. Register drops only the conjunction 'y'. (Short forms elsewhere in the file: p1 red label 'BOLSA NUEVA GRANT'; transcript title, stamped p1, 'Bolsa Nueva'; Spanish expediente cover, stamped p13, 'Espediente Promovido por el C. Simeon Castro Pretendiendo ampliacion del Terreno Nombrado Bolsa Nueva 1836'.)"
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped p78: 'The property in question appears to have been granted to said deceased in three separate portions. The first called \"El Moro Cojo\" stated to contain about two square leagues of land was granted for the purpose of placing his cattle thereon to said deceased by Governor Arguello on the 14th of February 1825, under whose order he was put into possession on the 9th day of March following.' The claimants' petition, stamped p4, and the U.S. Attorney's own petition for review, stamped p90, both say the same: 'A portion of said tract was granted in the year 1825 to said Don Simeon Castro by Dn Luis Arguello then Governor of the Territory of Upper California and juridical possession thereof given.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "All four names in the register are attested, in the register's order. Board opinion, stamped p78: first grant 'by Governor Arguello on the 14th of February 1825'; 'The second grant bears date May 14th 1836 & is signed by Governor Mariano Chico. This grant covers a portion of the premises claimed a little more than one square league in extent and known by the name of \"Bolsa Nueva\"'; 'The third grant was made by Governor Alvarado on the 20th day of November 1837'; and stamped p79, 'On the 25th day of September 1844 Governor Michelterena made a grant in accordance with this petition, and caused it to be delivered together with the previous grants to the widow.' The Chico decree is in the file in Spanish, stamped p21: 'Monterey 14 de Mayo de 1836 ... se declaro al S. Simeon Castro dueño en propriedad del terreno conocido con el nombre de Bolsa Nueva en aumento del que ya posee llamado Bolsa del Moro Cojo ... El S. D. Mariano Chico Gefe Politico de este Departamento de la Alta California asi lo mando, decreto y firmo. Mar.o Chico.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Chico decree, stamped p21: 'se declaro al S. Simeon Castro dueño en propriedad del terreno conocido con el nombre de Bolsa Nueva'; Alvarado's order of 11 June 1840, stamped p22, 'librese testimonio de ella a la parte de D. Simeon Castro en confirmacion del terreno de Bolsa Nueva que obtuvo en 14 de Mayo de 1836 ... Alvarado'; Board opinion, stamped p78, 'granted ... to said deceased by Governor Arguello'. Maria Antonia Pico de Castro (widow) and the eight Castro children are the U.S.-era CLAIMANTS (p1 red label, petition stamped p4), and the register correctly holds the Mexican grantee Simeon Castro instead."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 98 SOUTHERN DISTRICT'; every leaf stamped '98 SD'; District Court wrapper, stamped p84 verso, '98 / U.S. DISTRICT COURT, Southern District of California ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 606'; captions stamped pp.89, 107, 109 'No 98 (Transcript No. 606)'; PDF filename cubanc_lcf_sd098.pdf. Board (Commission) docket no. was 606."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion stamped pp.78-81 ending 'A decree of Confirmation will be entered - Confirmed', filed 7 Feb 1854; decree stamped p82, 'it is adjudged by the Commission that the claim of the petitioners is valid and it is therefore decreed that the same be confirmed to said Maria Antonia Manuel Castro and the other heirs at law of Simeon Castro deceased ... Containing Eight Square leagues of land more or less', signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson. The United States appealed and fought hard (AG Cushing's notice, stamped pp.85/87, 17 Jan 1855; Pacificus Ord's petition for review, stamped pp.89-101, filed 24 Aug 1855, alleging in grounds VI-VIII that the Alvarado paper 'is not a grant in fee ... informal, vague, indefinite, and void ... fraudulent', that the Micheltorena decree 'was never approved by the Departmental Assembly of California, or the Supreme Executive of Mexico', and that two maps in the expediente copy 'did not form part of, and belong to the original Expediente No. 164, at the time they purport to have been made - And they are fraudulent'). All of it failed. District Court DECREE, stamped pp.109-110, December Term 1856, Isaac S. K. Ogier: 'It is ordered adjudged and decreed that the decision of said Board confirming unto said Maria Antonia Pico de Castro et al the lands described in said Transcript filed in this Cause be and the same is hereby affirmed and that the said title is a good and valid one ... to the extent of Eight square leagues and no more according to the original Grants and Maps.' Register 'Confirmed' is correct. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six fields OK - and this is the most complicated register entry in the chunk, a four-governor composite that the register gets right. Hoffman 1862 agrees, and Hoffman's own long governor string is simply the Board's three-grant chain. Chain as the Board found it (opinion, stamped pp.78-79): (1) El Moro Cojo, ~2 sq leagues, Arguello, 14 Feb 1825, possession 9 Mar 1825; (2) Bolsa Nueva, ~1 sq league, Mariano Chico, 14 May 1836, after Francisco Maria Soto renounced the tract Arguello had conceded HIM in Dec 1824 (Soto's renunciation, stamped p16, 'el terreno llamado La Bolsa Nueva concedido por el S.D. Luis Arguello en el año de 1824 lo renuncio y lo pone a disposicion del Gobierno'; Soto's own 1824 petition and Arguello's marginal decree of 20 Dec 1824 are at stamped p15); (3) the intervening land, Alvarado, 20 Nov 1837; then (4) Micheltorena's confirmatory grant of the whole eight leagues, September 1844, on the widow's petition. ONE INTERNAL CONFLICT a re-reader should know about: Simeon Castro's OWN petition of 27 April 1836, stamped p14, dates the Moro Cojo concession to 1829, not 1825 - 'el terreno llamado Bolsa del Mozo cojo que tiene concedido en el año de 1829 por el Sor Gobernador D. Luis Arguello' - which is anachronistic on its face (Arguello left the governorship in 1825) and is contradicted by the Board's finding, by the claimants' 1852 petition and by the U.S. Attorney's petition; the register's 1825 stands. The register's era tag 'echeandia' is odd given a 1825 Arguello grant, but there IS an Echeandia document in the file (stamped p77, 'Prov.y Lt.e S. Diego 13 de Junio de 1829, Jose Ma de Echeandia', a note about delivering title papers to Jose Joaquin de la Torre and 'el Cabo Simeon Castro'), which may be where that tag came from. The Micheltorena date wanders across the file - 25 Sept 1844 (Board opinion, stamped p79), 16 Sept 1844 (Board decree, stamped p82), 24 Sept 1844 (Ord's petition, stamped p90), 26 Sept 1844 (District Court decree, stamped p110) - and the underlying petition of Maria Antonia Pico is dated 14 Sept 1844 in one place and 11 Sept 1844 in another; none of this touches a graded field. Image-to-stamped offsets shift by section: stamped p = image - 4 near the front, image - 6 by image 30, image - 44 at image 81, image - 11 at image 108."
+ },
+ {
+  "id": "rancho-bolsa-pajaro",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268916/files/cubanc_lcf_sd289.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-9",
+   "images 18-30 = stamped pp.12-23",
+   "images 38-49 = stamped pp.30-40",
+   "images 73-79 = stamped pp.64-69"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 289 / SOUTHERN DISTRICT / BOLSA DEL PAJARO GRANT / SEBASTIAN RODRIGUEZ CLAIMANT'; printed transcript title, stamped p1, 'for the place named \"Bolsa del Pajaro\"'; Spanish expediente cover, stamped p15, '1837 / Espediente promovido por Sebastian Rodriguez en pretension del parage llamado \"Bolsa del Pajaro\"'; Alvarado's decree, stamped p16, 'el terreno conocido con el nombre de la bolsa del Pajaro'; Board decree of confirmation, stamped p32, 'known by the name of Bolsa del Pajaro and contains two square leagues'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado's marginal decree on Rodriguez's petition, Spanish original, stamped p16: 'Mont.y Sepbre 30 de 1837. Por cuanto a que el interesado en esta representacion ha poseido quieta y pacificamente por el termino de catorce años el terreno conocido con el nombre de la bolsa del Pajaro ... he venido por el presente en acceder a su pretencion', signed 'Alvarado' at stamped p17. Sworn translation, stamped p23: 'Monterey Sep. 30th 1837. Whereas the party interested in this petition has quietly and peaceably held possession of the land known by the name of Bolsa de Pajaro for the space of fourteen years with just title, with the knowledge of the former Governors of California, which documents he says were lost in the respective office.' Juridical possession followed 3 Nov 1837 (stamped pp.19-21) and the expediente was returned to Rodriguez as his title 6 Nov 1837 (stamped p22)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The 1837 decree is signed 'Alvarado' (stamped p17; translation stamped p23), and the Board recites it that way, stamped p30: 'That on the 27th day of September 1837 he presented his Petition to Governor Alvarado for a further grant setting forth the facts of the loss of the former deed and in pursuance thereof the said Governor Alvarado did on the 30th day of the same month issue Grant to the said Petitioner for the land.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Right entity, initial-only form. Petition to Alvarado, stamped p16: 'Sebastian Rodrig.z Alferez de premio de la Compañia de Caballeria del Puerto de Monterrey'; translation stamped p23, 'Sebastian Rodriguez Ensign ad honorem of the Company of Cavalry of the Port of Monterey'; possession act, stamped p21, 'mande al ciud.o Sebastian Rodriguez entrase en pacifica posesion del mencionado rancho'; p1 red label 'SEBASTIAN RODRIGUEZ'. Rodriguez is BOTH grantee and U.S.-era claimant, so no claimant/grantee substitution; the register's 'S. Rodriguez' is Hoffman's abbreviation carried over."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 289 SOUTHERN DISTRICT'; every leaf stamped '289 SD'; District Court wrapper '289 / U.S. DISTRICT COURT, Southern District of California ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 187, Filed Oct. 4th 1855' (image 43, between stamped pp.34 and 35); printed District Court caption, stamped p64, 'Sebastian Rodriguez, Appellee ads The United States, Appellant. Docket No. 289. Transcript No. 187'; PDF filename cubanc_lcf_sd289.pdf. Board (Commission) docket no. was 187."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner S. B. Farwell, stamped pp.30-31, 'The Claim seems to be such as would entitle it to a confirmation and a decree will be entered accordingly (Confirmed)', filed 27 March 1855; decree of confirmation, stamped pp.32-33, 'it is adjudged by the Commission that the claim of the said Petitioner is valid and it is therefore decreed that his application for a confirmation be allowed ... situated in the County of Santa Cruz and known by the name of Bolsa del Pajaro and contains two square leagues', signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell. The United States took an appeal (transcript filed in the District Court 4 Oct 1855; Pacificus Ord's petition for review, stamped pp.64-66, filed 5 Jan 1857, praying 'that this Honorable Court will review the said decision of said Commissioners, and reverse the same ... and decree the alleged title to be invalid'), but ABANDONED it: Attorney General to Pacificus Ord, stamped p68, 22 Nov 1856, 'In the case of the claim of Sebastian Rodriguez, confirmed to the claimant by the Commissioners, case no. one hundred and eighty-seven (187), appeal will not be prosecuted by the United States' (filed 21 Feb 1857). Register 'Confirmed' is correct. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Sebastian Rodriguez (register abbreviates to 'S. Rodriguez'); petition and Alvarado decree stamped p16, translation stamped p23"
+  },
+  "notes": "Five fields OK, grantee PART on abbreviation only; Hoffman 1862 agrees. SUBSTANTIVE POINT for the register, same pattern as Bolsa de las Escorpinas in this chunk: Alvarado's 30 Sept 1837 act is a CONFIRMATORY decree replacing lost papers, not an original concession. Rodriguez's own petition, stamped p16 and in translation at stamped p23, says the place was granted to him by 'el finado D. Luis Argüello' with possession given by the retired lieutenant Don Jose Estrada 'el año veinte y tres' (1823), and that his papers were lost 'el año veinte y siete cuando el Sor Echandia recojio los papeles de los sitios' - i.e. destroyed in Echeandia's 1827 recall of rancho titles. The alcalde's possession act of 3 Nov 1837, stamped p21, gives possession 'sin las formalidades acostumbradas, por tenerlas echas en el año de 1823.' The Board accepted this reading (stamped p30: 'The Petition in this case states that in the Year 1823 he obtained a grant to the place in question from Governor Luis Arguello and that said grant was lost'). So the register's 1837/Alvarado is right about the operative title but conceals an 1823 Arguello origin, and the register's era tag would be better read as Arguello-with-Alvarado-confirmation. Two harmless slips inside the file: the Board opinion's caption, stamped p30, places the rancho 'in the County of Santa Clara' while its own decree two pages later says Santa Cruz; and the claimant's petition is bound twice (rough hand at stamped pp.4-6, fair copy at stamped pp.36-37), the fair copy being much the easier read. Image-to-stamped offset: stamped p = image - 5 near the front, image - 7 by image 22, image - 8 from image 38 on; 79 images in the PDF."
+ },
+ {
+  "id": "rancho-buena-vista",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267529/files/cubanc_lcf_sd166.pdf",
+  "pdf_pages_stated": 99,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-9",
+   "images 15-24 = stamped pp.10-18",
+   "images 38-47 = stamped pp.32-38",
+   "images 97-110 = stamped pp.87-99"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 166 / SOUTHERN DISTRICT / BUENA VISTA GRANT / JESUS MACHADO CLAIMANT'; printed transcript title, stamped p1, 'for the place named \"Buena Vista\"'; Spanish expediente cover, stamped p8, '1845 / Expediente promovido por Felipe de la Mision de S.n Luis Rey en pretencion del terreno nombrado Buena Vista. 456'; grant decree, stamped p17, 'el terreno conocido con el nombre de Buenavista'; final District Court decree, stamped p96, 'situated in the County of San Diego known by the name of Buena Vista'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree (Doc. No. 1, Spanish original), stamped p18: 'Dado en la ciudad de los Angeles en papel comun por falta del sellado à ocho de Julio de mil ochocientos cuarenta y cinco. Pio Pico. Josè M.a Covarrubias, Sec.no.' Sworn translation, stamped p15: 'Given in the city of Los Angeles on this common paper for want of stamped, one in the 8th of July 1845.' Board opinion, stamped p32: 'By grant from the Mexican Government issued by Governor Pio Pico to one Felipe a Neophyte Indian of the Mission of San Luis Rey which bears date the 8th day of July AD 1845.' The expediente runs 14 April 1845 (petition) to 8 July 1845 (title), with Departmental Assembly approval 26 May 1846 (stamped pp.12, 16)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree, stamped p17: 'Pio Pico Gobernador interino del departamento de las Californias'; signed 'Pio Pico' with 'Josè M.a Covarrubias, Secretario', stamped p18. Santiago E. Arguello, who knew both men, swore to the signatures: deposition, stamped p6, 'a grant from Governor Pio Pico to Felippe an Indian of the mission of San Luis Rey bearing date the eighth day of July A.D. 1845 and I recognise the signatures of Pio Pico and Jose Maria Covarrubias appearing thereon to be their true and genuine signatures.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The grantee really is a single given name, and the register is right to record it that way. Felipe's own petition, stamped p9, is signed simply 'Felipe' and opens 'Felipe indigena de la mision de San Luis Rey'; translation stamped p14, 'I Felipe a native of the Mission of San Luis Rey ... being possessed of a small piece of Land called Buenavista belonging to the Mission of San Luis Rey since the year 1836 ... I believe to be entitled to it because being a native of this mission where I have labored so much'; grant decree, stamped p17, 'Por cuanto Felipe natural de la Mision de S.n Luis Rey ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Buenavista'; the mission administrator's informe, stamped p9, calls him 'el Indigena Felipe'. Jesus Machado is the U.S.-era CLAIMANT (p1 red label), a purchaser two conveyances removed, and the register correctly holds the Mexican grantee instead. NOTE the Board's opinion, stamped p32, is the ONE place a surname appears - it calls him 'the said Felipe Tubwa the original grantee' (hand unclear; could be read Tubna/Tubon) - but no Mexican document in the file gives him any surname."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 166 SOUTHERN DISTRICT'; leaf 2 'LAND CASE 166 SD pgs. 99'; every leaf stamped '166 SD'; District Court wrapper, stamped p35 verso, 'U.S. District Court, Southern District of California, No. 166 Docket, The United States vs Jesus Machado \"Buena Vista\", Transcript of the Record from the Board of U.S. Land Commissioners in Case No. 618, Filed December 19th 1854'; PDF filename cubanc_lcf_sd166.pdf. Board (Commission) docket no. was 618."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner Thompson Campbell, stamped p32, 'The evidence documentary and oral filed in this cause establish beyond all question the right of the Petitioner to a confirmation of the land claimed ... we are therefore of opinion that the same should be confirmed'; decree stamped p33, signed Felch, Campbell and Thompson, filed 16 May 1854, 'the Claim of the said Petitioner is valid and it is therefore decreed that the same be confirmed ... containing in all one half of a Square League.' The United States appealed; the District Court AFFIRMED at Los Angeles on 1 Feb 1856 before Judge Ogier ('the opinion of the Court was delivered confirming the claim of the Appellee herein', minute recited at stamped p93); the U.S. then took an appeal to the Supreme Court (order 7 March 1856, stamped p99) and ABANDONED it (Attorney General Cushing to P. Ord, stamped p88, 4 October 1856, 'In the case of the claim of Jesus Machado, confirmed to the claimant by the Commissioners, case no. six hundred and eighteen (618), and also confirmed on appeal by the District Court, appeal will not be prosecuted by the United States', filed 24 Feb 1857). Register 'Confirmed' is correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six fields OK; Hoffman 1862 agrees, including his bare 'Felipe' for the grantee. TWO THINGS WORTH CARRYING INTO THE REGISTER. (1) This is a grant to a mission INDIAN in his own name - Felipe, a Luiseno neophyte of San Luis Rey, who petitioned on his own behalf and signed with his single name; the mission administrator Jose Joaquin Ortega supported him because 'he has rendered in his youth and part of his old age all his services to the same [mission] without this administration knowing that at any time he has given occasion to blame' (translation, stamped p14). Half a square league only. He sold out within five years (to William B. Dunn, then jointly to Jesus Machado, deeds recited in the petition at stamped p4 and the Board opinion at stamped p32), which is the ordinary post-1848 fate of the few Indian grants and is exactly the kind of case the register should not lose behind the claimant's name. (2) The register's very late patent date (1897) is explained inside the file: although the District Court confirmed on 1 Feb 1856, 'owing to misprision or neglect no decree was ever signed by any Judge of the said last mentioned Court' (stamped pp.95-96), so no decree existed to patent on. The defect was cured only 23 years later by a NUNC PRO TUNC decree of Ogden Hoffman, 14 April 1879 (stamped pp.90-97), 'Ordered, adjudged and decreed that the said decision be and the same is hereby in all things affirmed as of the date of the First day of February 1856 ... and that the said claim be and the same is hereby confirmed to the extent of One half of a square league of land a little more or less', entered after the Southern District and its court were abolished by the Act of 27 July 1866 and the cause transferred. Image-to-stamped offset: stamped p = image - 5 near the front, image - 11 from image 38 on; 110 images for 99 stamped pages."
+ },
+ {
+  "id": "rancho-butano",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256603/files/cubanc_lcf_nd271.pdf",
+  "pdf_pages_stated": 211,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-9",
+   "images 21-30 = stamped pp.16-24",
+   "images 36-45 = stamped pp.30-37",
+   "images 46-55 = stamped pp.38-45"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE NO. 271 / NORTHERN DISTRICT / BUTANO GRANT / MANUEL RODRIGUEZ CLAIMANT'; printed transcript title, stamped p1, 'for the place named \"Butano\"'; Spanish expediente cover, stamped p16, '1837 / Espediente Promovido por D.a Ramona Sanchez en Pretencion del paraje conocido con el nombre del \"Butano\". N° 385'; Board decree, stamped p35, 'It is known by the name of Butano'; District Court decree, stamped p44A, same words."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Alvarado's concession, Spanish original, stamped p20: 'Juan B. Alvarado Gefe Sup.or politico int.o de la Alta California. Por cuanto Ramona Sanchez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre del Butano ... he venido en concederle el mencionado paraje con estencion de un sitio de ganado mayor entendiendose dicha concecion provicional y sujetandose à la Aprovacion ó desaprobacion de la Exma Diputacion. Es dado en Monterey del departamento de las Californias à diez y nueve de Feb.o de mil ocho cientos treinta y ocho. Juan B. Alvarado.' Board opinion, stamped p31: 'an informal grant of the land was made by Governor Alvarado on the 19th of February 1838.' NOTE the exact DAY is disputed inside the file (the claimant's petition, stamped p4, says 14 Feb 1838; the Board itself writes 'Sept 19th 1838' once, stamped p33) but the YEAR 1838 is uncontested and the Spanish decree settles the date as 19 February 1838."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The register's formula 'Alvarado (ratified by Micheltorena)' is not an interpretation, it is the file's own word. Alvarado's provisional concession, stamped p20 (quoted above). Micheltorena's marginal order, stamped p18: 'Monterey Nov.e 13 de 1844. Revalidase. Michelt.a'. The formal title, stamped p21: 'El C.no Manuel Michelt.a General de Brigada del Ejercito Mejicano ... Por Cuanto D.a Ramona Sanchez ha pretendido para su beneficio personal y el de su familia la REVALIDACION del titulo provicional que se le dio desde el año de 1838 del terreno que se le concedio nombrado el Butano ... he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras', dated stamped p22 'Dado en Monterey à catorce de Nov.e de mil ocho cientos cuarenta y cuatro. Manuel Michelt.a, Manuel Jimeno Sr.io.' Board opinion, stamped p31: 'which grant was subsequently ratified and confirmed and a title in due form of law issued to her by Gov. Micheltorena on the 13th of November 1844.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Right woman, wrong spelling of her given name. Every SPANISH leaf and the sworn translation give RAMONA: expediente cover, stamped p16, 'D.a Ramona Sanchez'; her petition, stamped p17, signed 'Ramona Sanchez'; her son's 1844 petition, stamped p18, 'mi Madre D.a Ramona Sanchez'; Micheltorena's title, stamped p21, 'D.a Ramona Sanchez'; translation of the expediente, stamped p23, 'I, Ramona Sanchez widow of the deceased Bernancio [Venancio] Galindo ... That being burthened with a family and some stock for the safe keeping of which I have no place ... I humbly pray Your Honor to make use of your powers in favor of an unprotected woman.' The form 'Romana' appears ONLY in the U.S.-era English papers (petition stamped p4, Board opinion stamped p31, Board decree stamped p35, District Court decree stamped p44A) and in Hoffman, which is evidently where the register got it. Manuel Rodriguez, who bought the rancho from her on 22 March 1852, is the U.S.-era CLAIMANT (p1 red label), and the register correctly holds the Mexican grantee instead."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 271 NORTHERN DISTRICT'; leaf 2 'LAND CASE 271 ND PAGES 211'; every leaf stamped '271 ND'; District Court wrapper (image 45) 'U.S. DISTRICT COURT, Northern District of California, No. 271, THE UNITED STATES vs Manuel Rodriguez, TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS In Case No. 627, Filed August 11 1855'; decree caption, stamped p44, 'D.C. No 271 / L.C. No. 627'; PDF filename cubanc_lcf_nd271.pdf. Board (Commission) docket no. was 627, which is exactly the commission_no Hoffman gives."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner R. A. Thompson, stamped pp.31-34, ending 'The boundaries of the land are well defined and the quantity shown to be less than that called for by the grant. A Decree of Confirmation will be entered'; decree stamped p35, signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell, filed 6 Feb 1855. The United States prosecuted the appeal (Attorney General Cushing's notice, stamped p38, 10 Oct 1855, 'the appeal in the district court of the United States for the Northern district of California will be prosecuted by the United States'; notice of appeal filed 22 Nov 1855; petition for review filed 1 April 1856, stamped p42) and LOST. District Court decree, stamped pp.44-44A, San Francisco, 19 November 1856, Ogden Hoffman: 'it is by the Court here ordered, adjudged and decreed that the said decision be and the same is in all things affirmed, and it is likewise ordered adjudged and decreed that the claim of the appellee is a good and valid claim and that the same be and is hereby confirmed. The land of which confirmation is hereby made is situated in the County of Santa Cruz being the same which was granted to Romana Sanchez in 1844 and held and occupied by her until she sold to the present claimant in 1852. It is known by the name of \"Butano\" ... containing one square league'; U.S. District Attorney Wm Blanding endorsed it 'The above decree is correct' (stamped p44B). Register 'Confirmed' is correct. No patent copy in the pages read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Ramona Sanchez, widow of Venancio Galindo (register has 'Romana Sanchez'); expediente cover stamped p16, her signed petition stamped p17, Micheltorena's title stamped p21, and the sworn translation stamped p23 all read 'Ramona'"
+  },
+  "notes": "Five fields OK, grantee PART on the given-name spelling; Hoffman 1862 carries no year/governor/grantee for this rancho at all, so the register's data here is BETTER than Hoffman and is fully borne out by the case file. Two points worth keeping. (1) The register's parenthetical 'ratified by Micheltorena' is unusually exact: the 1844 instrument is literally headed a 'revalidacion' of the 1838 provisional title (stamped p21), and Micheltorena's one-word marginal order is 'Revalidase' (stamped p18). The revalidation was applied for not by Ramona herself but by her eldest son Jose Antonio Galindo, 'having attained majority and been emancipated', in her name (petition, Monterey 8 Nov 1844, stamped p18, translation stamped p24). (2) The original title papers were LOST IN THE MAIL during the claim: John H. Watson, the claimant's first attorney, deposed that he posted the original grant to Clark, Taylor & Beckh at San Francisco and it never arrived (stamped pp.8-9, and Gustavus W. Beckh's corroboration recited at stamped p32), so the Board confirmed on secondary evidence, expressly saying the proof 'is not so full and satisfactory as could be desired' and 'exceedingly loose and unsatisfactory' but sufficient given the archive expediente (stamped pp.32-33). Note also that the same expediente cover, stamped p16, carries a SECOND heading, 'Espediente Promovido por Ramona Sanchez en pretencion del paraje llamado Bolsa del Butano' - a related but distinct paraje that a re-reader should not conflate with this claim. Image-to-stamped offset: stamped p = image - 5 near the front, image - 6 by image 21, image - 5 again from image 36; the file has 227 images for 211 stamped pages, and stamped 44 is followed by 44A and 44B."
+ },
+ {
+  "id": "rancho-cabeza-santa-rosa",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265484/files/cubanc_lcf_nd124.pdf",
+  "pdf_pages_stated": 97,
+  "pages_read": [
+   "images 1-14 = stamped pp.1-9",
+   "images 15-24 = stamped pp.10-19",
+   "images 54-63 = stamped pp.46-54",
+   "images 94-107 = stamped pp.84-97"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "Spanish expediente cover, stamped p12: 'Espediente promovido por D.a M.a Ygnacia Lopez en solicitud del parage conocido con el Nombre de \"Cabeza de Santa Rosa\". 255'; grant, stamped p18, 'el parage conocido con el Nombre de Cabeza de Sta Rosa'; p1 red label 'PART OF CABEZA DE SANTA ROSA GRANT'. NOTE the qualifier: this docket covers only PART of the rancho (transcript title, stamped p1, reads 'for the place named Part of \"Cabeza de Santa Rosa\"', the word 'Part of' inserted by hand), namely the portion north of the Arroyo de Santa Rosa. The rancho NAME is right; the register should not be read as saying ND 124 covers the whole grant."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant (Exhibit A, Spanish original), stamped p19: 'Dado en Monterey à treinta de Sep.tbre de mil ocho cientos cuarenta y uno. Manuel Jimeno. Josè D. Fernandez Srio in 1o.' The concession decree in the expediente carries the same date, translation stamped p17: 'Monterey Sept. 30, 1841. Having seen the petition with which this Espediente begins, the report of the Commanding Genl and everything else presented and proper to be seen, in conformity to the Laws and regulations upon the subject I declare Dna. Maria Ygnacia Lopez owner in property of the place known by the name of \"Cabeza de Santa Rosa\".' Registered in the Prefectura of the 1st District 5 Oct 1841 (stamped p19)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The grant is Jimeno's, made as acting governor, and the file says so in its own words: grant, stamped p18, 'Manuel Jimeno Casarin 1er vocal propietario de la Ex.ma Junta Departament.l en ejercicio del Gobierno del mismo'; translation of the concession, stamped p17, 'Don Manuel Jimeno Casarin first vocal presiding over the Departmental Junta Exercising the Office of Governor, thus Ordered decreed & signed as I certify. Jimeno.' Jimeno's power to grant while Alvarado held the commission was THE contested question in the case and the Board upheld it after a long review of the law of 23 June 1813, the decree of 6 May 1822, the act of 1837 art. 20 and the Bases Organicas of 1843 (opinion, stamped pp.45-51): 'It is only in the event of the absence of the Governor from the Capitol that Jimeno was authorized to make grants of the public domain ... I am therefore of opinion that prima facie proof of authority in Jimeno to exercise the powers which he assumed when he made the grant in question has been established and the grant is valid and in conformity with Law' (stamped pp.48-49). Mariano G. Vallejo swore to Jimeno's and Jose D. Fernandez's signatures (deposition, stamped p10)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped p18: 'Por cuanto D.a Maria Ignacia Lopez ha pretendido para su beneficio personal y el de su familia el parage conocido con el Nombre de Cabeza de Sta Rosa'; translation, stamped p17, 'I declare Dna. Maria Ygnacia Lopez owner in property of the place known by the name of \"Cabeza de Santa Rosa\"' - the register's spelling matches the sworn translation exactly. Her own 1838 petition, stamped p13 (translation stamped p16), is signed for her by her son: 'Sonoma 19th Juny 1838. At the request of my Mother, Joaqn Carrillo.' Julio Carrillo is the U.S.-era CLAIMANT (p1 red label), one of her ten children, to whom the other heirs conveyed the north portion after partition; the register correctly holds the Mexican grantee instead. Claimant's abstract, stamped p95: 'The grantee was the widow of Joaquin Carrillo (Salvador Vallejo p.2). She died in 1850 or 1851 leaving ten children.'"
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE NO. 124 NORTHERN DISTRICT'; leaf 2 'Land Case 124 ND, 97 pages'; every leaf stamped '124 ND'; printed District Court decree caption, stamped p84, 'IN LAND CASES. District Court No. 124'; caption stamped p86 'District Court No 124 / Land Commr No 643 / Part of \"Cabeza de Santa Rosa\"'; PDF filename cubanc_lcf_nd124.pdf. Board (Commission) docket no. was 643, exactly Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED: opinion of Commissioner Thompson Campbell, stamped pp.45-51, 'For these reasons we are of opinion that the claimant is entitled to a confirmation of that part of the Rancho called \"Cabeza de Santa Rosa\" described in his petition to this Commission, and a decree of confirmation will accordingly be entered'; decree, stamped p52, 'it is adjudged by the Commission that the claim of the said petitioner is valid and it is therefore decreed that the same be confirmed ... That portion of the above described premises of which confirmation is hereby made to the said petitioner is all that portion of the above place Cabeza de Santa Rosa which lies on the North side of the Arroyo de Santa Rosa in the County of Sonoma', signed Felch, Campbell and Thompson, filed 4 April 1854. The United States appealed (claimant's abstract, stamped p95: 'The Board Confirmed the Claim ... and the United States appealed. The Claimant asks that the decree of the Board be affirmed'), and the appeal failed: by 1860 the case had reached the SURVEY stage, which only a FINAL confirmation reaches. Order on return of monition, stamped p84, District Court, Ogden Hoffman, 24 October 1860, 'proclamation was made that all parties having, or claiming to have, an interest in the survey and location of the land FINALLY CONFIRMED in the above entitled cause, appear and intervene'; and the decree confirming survey, stamped pp.88-89, filed 3 January 1861, 'It is thereupon adjudged, ordered, and decreed, that the approved survey heretofore made by the United States Surveyor General for California, of the lands confirmed to the claimant, in the above entitled cause ... be and the same is in all things hereby confirmed and ratified. Ogden Hoffman, Dist Judge.' Register 'Confirmed' is correct; the 1861 survey decree also explains the register's 1866 patent date. No patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "All six fields OK; Hoffman 1862 agrees (his 'Maria Ygnaeia Lopez' is an OCR/typesetting artefact of Ygnacia). ONE STRUCTURAL POINT the register must not lose: the Cabeza de Santa Rosa grant was carved up among SIX separate land cases, and this docket is only one of them. Claimant's abstract, stamped p95, in Crittenden's hand: 'This Claim and Nos 125, 126, 127, 128 & 235, are all under the same grant, and there is no controversy between the several claimants. Their claims cover the whole grant', with the further note 'By stipulation on file the deposition of Alvarado taken in 124 is considered as taken in each of these cases.' So ND 124 = Julio Carrillo's share north of the Arroyo de Santa Rosa (register's 4,500.42 acres, roughly one of the two granted leagues), and ND 125-128 and ND 235 hold the rest. Chain as the abstract states it (stamped pp.93-95): Maria Ygnacia Lopez petitioned Comandante General M. G. Vallejo 19 Jan 1838 and he let her settle pending adjudication (his marginal order, translation stamped p16, 'Sonoma Juny 24th 1838. The petitioner may settle on the land she asks with the understanding, that she shall solicit from the Political Govt the title of adjudication of property'); second petition to the Governor 1 June 1840; Jimeno's concession and title 30 Sept 1841 for two sitios de ganado mayor; juridical possession by Salvador Vallejo January 1842. Salvador Vallejo testified he gave the possession himself as civil magistrate of Sonoma and that 'the Monuments are there' still (stamped pp.6-7); Mariano G. Vallejo testified she 'had an excellent dwelling house upon it, and dwelt there cultivating the ground and raising stock upon it PRIOR to the grant' (stamped p10). Image-to-stamped offset: stamped p = image - 5 near the front, image - 8 from image 54 on; 107 images for 97 stamped pages."
+ }
+]

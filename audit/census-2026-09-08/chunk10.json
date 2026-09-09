@@ -1,0 +1,258 @@
+[
+ {
+  "id": "rancho-mesa-ojo-agua",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264248/files/cubanc_lcf_nd401.pdf",
+  "pdf_pages_stated": 44,
+  "pages_read": [
+   "img1-14 (stamped 1-9)",
+   "img15-30 (stamped 10-21)",
+   "img38-53 (stamped 29-44)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Case file never uses 'Mesa'. PDF img1 red label: 'OJO de AUGA de FIGUEROA GRANT / JUANO BRIONES de MIRANDA et al CLAIMANT'; stamped p1 transcript title page: 'for the place named Ojo de Agua de Figueroa'; stamped p44 Board transmittal: 'the place known by the name of \"Ojo de Agua de Figueroa\"'. Same grant (100 varas square = ~1.77 acres, matching the register's patent_acres)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, sworn translation Exhibit B, stamped p15: 'San Francisco Nov 16, 1833. There is granted to this party the lot which he asks for in accordance with the law being 100 varas square. (Signed) Sanchez.' Spanish original stamped p14: 'S. Franco 16 de 9bre de 1833. Se le concede a esta parte el solar que pretende, arreglando a la ley que son 100 varas cuadradas. Sanchez.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Marginal grant decree signed 'Sanchez' (stamped pp14-15); Board opinion stamped p16: 'a marginal decree thereon granting the land & signed \"Sanchez\". Jose Sanchez is proved to have been at the date of this instrument, Commandant of the Presidio of San Francisco'. Name matches the register; note the office was presidio commandant, not governor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition to the Senor Commandant of Arms, stamped p15 (translation): 'Apolinario Miranda Corporal of Squadron of the Company of San Francisco... I pray you to grant me the lot called \"Ojo de Agua de Figueroa\"', dated Presidio of San Francisco September 16, 1833; the decree granted to that petitioner. Claimants are his widow Juana Briones de Miranda and children (stamped p4), i.e. the register correctly carries the GRANTEE, not the claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label 'CASE NO. 401 NORTHERN DISTRICT'; every leaf stamped '401 ND'; filename cubanc_lcf_nd401.pdf. (Board docket no. was 310; the register's ND 401 is the District Court number, which is the correct land_case key.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED first: decree stamped p18, filed Oct 23 1855, 'the claim of the said petitioners is not valid... their application for a confirmation thereof be denied'. Reversed on appeal: District Court decree, Hon. Ogden Hoffman, Nov 26 1858, stamped pp41-42: 'the said decision be and the same hereby is reversed... the claim of the appellants is a good and valid claim, and that the said claim be and the same hereby is confirmed to the extent and quantity of one hundred varas square'. U.S. Supreme Court affirmed that decree (mandate, Dec Term 1860, stamped p37: 'the decree of the said District Court in this cause be and the same is hereby affirmed'), mandate filed Sept 9 1864 (stamped p39). A later appeal was docketed and dismissed 15 March, Dec Term 1863 (stamped p31), and the District Court gave claimants leave to proceed under its decree as final (stamped p33, July 28 1864). Confirmation is therefore final in the file; patent (1877) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case file's own name is 'Ojo de Agua de Figueroa' (red label img1; stamped pp1, 44); the register's 'Mesa De Ojo De Agua' has no support in the file."
+  },
+  "notes": "Board rejection (1855) reversed by District Court (1858) and affirmed by USSC (1860): a bare 'Confirmed' in the register is correct here, but only because of the appellate history. Grantee Apolinario Miranda died 1848; the U.S.-era claimants were his widow Juana Briones de Miranda et al. Grant was made by a PRESIDIO COMMANDANT (Jose Sanchez), not a governor - which is exactly why the Board rejected it (stamped p16: 'We know of no authority existing in the Commandant to dispose of the National domain'). Single volume, 53 PDF images / 44 stamped pages."
+ },
+ {
+  "id": "rancho-milpitas-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266081/files/cubanc_lcf_sd044.pdf",
+  "pdf_pages_stated": 98,
+  "pages_read": [
+   "img1-14 (stamped 1-9)",
+   "img15-30 (stamped 10-23)",
+   "img31-44 (stamped 24-37)",
+   "img47-62 (stamped 40-55)",
+   "img63-75 (stamped 56-68)",
+   "img91-106 (stamped 83-98)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 44 SOUTHERN DISTRICT / LAS MILPITAS GRANT / YGNACIO PASTOR CLAIMANT'; stamped p1 transcript title 'for the place named \"Las Milpitas\"'. Register drops only the article."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant decree, sworn translation 'C', stamped p9: 'Mission Of San Antonio May 5th 1838... I have by these presents segregated him from said Neophyzy conceding to him in property the Place called \"Las Milpitas\", as he solicits... Thus I Juan B Alvarado Constitutional Governor of the Department of Californias Ordered it & Signed.' Spanish original stamped pp6-7 ('Mision de S.n Ant.o Mayo 5. de 1838'). Surveyor General's 1852 letter, stamped p10, likewise: 'a grant from Governor Juan B. Alvarado to the Petitioner dated May 5th 1838'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree signature, stamped p7 (Spanish) and p9 (translation): 'Juan B Alvarado Constitutional Governor of the Department of Californias'. Alvarado himself testified in the case 20 July 1860 and identified his own signature on the marginal decree and concession (stamped pp36-40)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition, translation stamped p8: 'I Ygnacio Pastor Neophyte of the Mission of San Antonio... wish my Emancipation with the favor that some Animals may be given me & a Small Rancho'; decree concedes the place to him, stamped p9. Board opinion stamped p11: 'The Claimant in this case is an Indian one of the Neophytes of the Mission of San Antonio.' Grantee and claimant are the same person here."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 44 SOUTHERN DISTRICT'; leaves stamped '44 SD'; District Court wrapper stamped p13-verso 'U.S. DISTRICT COURT, Southern District of California. No. 44'; filename cubanc_lcf_sd044.pdf. (Board docket no. 305.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Three-stage history, all in this volume: (1) Board CONFIRMED 6 Dec 1853, decree stamped p12, 'the said Claim of the Petitioner is Valid and it is therefore hereby decreed that the same be confirmed'; (2) District Court (Judge Isaac S. K. Ogier, S.D. Cal.) REVERSED and rejected 29 Dec 1856, stamped p14: 'the decision of the said Commissioners be and the same hereby is in all things reversed and that the claim of the Appellee be and the same is hereby declared invalid and rejected'; (3) on a bill of review allowed 1859-60 (stamped pp24-29), the same court VACATED its rejection and re-confirmed, decree filed 31 Aug 1860, stamped pp61-62: 'the decree of this Court heretofore made and entered rejecting the claim of said Appellee be and the same is hereby vacated and set aside, and the Court finds that the claim of said Appellee is good and valid and hereby affirms the decree of said Board of Land Commissioners'; opinion at stamped pp57-60 ends 'a decree of confirmation will therefore be entered. Isaac S. K. Ogier, U.S. Dist Judge'. The U.S. appeal was docketed and dismissed by the Supreme Court, Dec Term 1862 (stamped p66), and remanded; mandate filed 29 June 1863 (stamped p67). Confirmation therefore final in the file; patent (1875) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "A bare 'Confirmed' hides a reversal: the District Court rejected this claim outright in 1856 and only restored it on a bill of review in 1860. Register grantee (Ignacio Pastor, an emancipated San Antonio neophyte) is correct against the decree; by the time of the 1860 decree Juan M. Luco had been substituted as appellee through the Pico/Yoell chain of title (deeds at stamped pp42-55), so the register did NOT record the later assignee. Single volume, 106 PDF images / 98 stamped pages; papers are NOT in chronological order (the U.S. 1855 petition for review sits at stamped pp78-88, after the 1860 decree)."
+ },
+ {
+  "id": "rancho-miramontes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/256601/files/cubanc_lcf_nd269.pdf",
+  "pdf_pages_stated": 139,
+  "pages_read": [
+   "img1-12 (cover + stamped 1-7)",
+   "img17-30 (stamped 12-24)",
+   "img136-151 (stamped 124-139)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "The file nowhere calls the place 'Miramontes'. PDF img1 red label: 'CASE NO. 269 NORTHERN DISTRICT / LAND IN SANTA CLARA COUNTY GRANT / CANDELARIO MIRAMONTES CLAIMANT'; transcript title stamped p1 'for the place named Land in Santa Clara County'; Board transmittal 10 Aug 1855, stamped p139: 'for the place known by the name of \"Land in Santa Clara County\"'. The grant itself (stamped pp22-24) names no rancho, describing only 'un sitio de ganado mayor entre los Arroyos de los Pilarcitos y la Purisima, la Sierra y el mar'. Register's 'Miramontes' is a surname-derived usage, right entity but not the file's designation."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Governor's concession decree, Spanish original stamped p22: 'Monterey 2 de Enero de 1841. Vista la peticion con que da principio este espediente... se declara al C. Candelario Miramontes dueno en propiedad de un sitio de ganado mayor entre los Arroyos de los pilarcitos y la purisima, la Sierra y el mar...'; titulo stamped pp23-24 closes 'Dado en Monterey a dos de Enero de mil ochocientos cuarenta y uno.' Expediente wrapper stamped p20: 'Ano de 1841... No 217'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree stamped p22: 'El C. S. D. Juan B. Alvarado Gobernador Constitucional del departamento de las Californias asi lo mando, y firmo. Alvarado.' Titulo opens stamped p23: 'Juan Bautista Alvarado Gobernador Constitucional del Departamento de las Californias.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p23: 'Por cuanto D.n Candelario Miramontes a pretendido para su beneficio personal y el de su familia un sitio de ganado mayor... he venido en concederle el parage mencionado declarandole la propiedad de el por las presentes letras.' Register's 'C. Miramontes' = Candelario Miramontes, the original grantee (his heirs, Vicente Miramontes et al., were substituted as claimants in Dec 1853, stamped p3, and are the parties named in the 1859 decree, stamped pp126-127)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 269 NORTHERN DISTRICT'; flyleaf img2 'LAND CASE 269 ND 139 pgs.'; every leaf stamped '269 ND'; filename cubanc_lcf_nd269.pdf. (Board docket no. 354.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED 6 Feb 1855 (docket entry stamped p3: 'Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim'). On the U.S. appeal the District Court (N.D. Cal.) confirmed, decree recited verbatim in the Supreme Court mandate, stamped pp126-127: 'this Court is of opinion that the title of claimants is valid and should be confirmed to one Square league of land, within and according to the original grant thereof, to Candelario Miramontes... confirmed to the extent of one Square league of land, to be bounded on the North by the Arroyo de los Pilarcitos, on the South by the Canada Verde, on the west by the sea.' The U.S. Supreme Court AFFIRMED that decree, Dec Term 1863 (stamped p128: 'the decree of the said District Court in this cause be and the same is hereby affirmed. 15 Feb'); mandate filed and leave to proceed granted 6 Jan 1865 before Judge Ogden Hoffman, stamped p124: 'said claimants have leave to proceed under the decree of this Court heretofore entered November 23. 1859 as under final decree.' Confirmation final in the file; patent (1882) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Case file's own designation is 'Land in Santa Clara County' (red label img1; transcript title stamped p1; Board transmittal stamped p139); Hoffman 1862 calls it 'Arroyo de los Pilarcitos'. Neither the file nor Hoffman uses 'Miramontes' as the place name."
+  },
+  "notes": "Register's year/governor/grantee all verified against the Spanish concession and titulo themselves (stamped pp22-24), not testimony. Note the file's own title is geographically wrong: the petition (stamped p4) places the land in the County of San Francisco, bounded N by the Arroyo de los Pilarcitos and S by the Arroyo de la Purisima, i.e. the San Mateo coast, not Santa Clara County. Confirmed acreage was cut to ONE square league; the claimants had asked for about a league and a half (petition stamped p4) and had contested the form of the 1857 decree (stamped pp130-137). Single volume, 151 PDF images / 139 stamped pages."
+ },
+ {
+  "id": "rancho-monserate",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267565/files/cubanc_lcf_sd224.pdf",
+  "pdf_pages_stated": 36,
+  "pages_read": [
+   "img1-14 (cover, flyleaf, stamped 1-9)",
+   "img25-40 (stamped 18-32)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "Register spells it 'Monserate'; the file consistently doubles the r. PDF img1 red label: 'CASE NO. 224 SOUTHERN DISTRICT / MONSERRATE GRANT / YSIDRO MARIA ALVARADO CLAIMANT'; transcript title stamped p1 'for the place named \"Monserrate\"'; Board certificate stamped p18 'for the place known by the name of \"Monserrate\"'. The grant title itself, stamped p8, has 'el parage conocido con el nombre de Moncerrate en la demarcacion de San Luis Rey'. Orthographic variant only; same grant beyond doubt."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant titulo, Spanish original, stamped p8, closes: 'Dado en la Ciudad de los Angeles en papel comun por falta de sellado, a cuatro de Mayo de mil ochocientos cuarenta y seis. Pio Pico. Jose Mathias Moreno, Srio Ynt.o' (4 May 1846). The petition that opened the expediente is dated Angeles, Mayo 17 de 1845 (stamped p9), so the 1845 date in the claimant's own Board petition (stamped p4) refers to the solicitud, not the grant."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo opens, stamped p8: 'Pio Pico Gobernador Constitucional del Departamento de Californias... usando de las facultades con que me hallo autorizado por el supremo Gobierno a nombre de la Nacion Mejicana he venido por decreto de este dia, en concederle el espresado terreno', signed 'Pio Pico'. Witness Manuel Castro identified Pio Pico's signature as genuine (stamped p6)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p8: 'Por cuanto el ciudadano Ysidro Maria Alvarado ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de Moncerrate'; solicitud stamped p9 signed 'Ysidro Maria Alvarado'. Register's 'Y. M. Alvarado' = Ysidro Maria Alvarado, who was also the U.S.-era claimant (red label img1), so grantee and claimant coincide."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 224 SOUTHERN DISTRICT'; flyleaf img2 'LAND CASE 224 SD pgs. 36'; District Court wrapper stamped p18-verso 'U.S. DISTRICT COURT, Southern District of California. No. 224'; filename cubanc_lcf_sd224.pdf. (Board docket no. 625.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED 14 Nov 1854 (docket entry stamped p3: 'Commissioner Alpheus Felch delivered the opinion of the Board rejecting the claim'; recited again in the claimant's petition for review, stamped p31: 'said Board on the 14th day of November A.D. 1854 decided said claim to be invalid'). REVERSED on appeal: District Court decree, Judge Isaac S. K. Ogier, filed 17 Feb 1857, stamped pp25-26: 'the decision of said Board of Commissioners be and the same is hereby reversed, and that the claim of the appellant is good and valid and the same is hereby confirmed to him as follows, three leagues of land (only 3 sitios ganado mayor) in the County of San Diego, State of California... on the north as far as the place called \"El Portrero\", on the east to the road of \"Pala\", on the south to the \"Sierra de Pamura\" and on the west to the \"Rancho of San Juan\", as shown in the sketch attached to the Expediente'. The appeal to the U.S. Supreme Court was DISMISSED on motion of Attorney General Bates and claimant's counsel, Dec Term 1863, 19 Feb (stamped p23); mandate filed and final order entered, stamped p19: 'leave be and is hereby given to said Claimant to proceed under the decree of Confirmation entered in this cause, as under final Decree.' Confirmation final in the file; patent (1872) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "File spells it 'Monserrate' (red label img1; transcript title stamped p1; Board certificate stamped p18) / 'Moncerrate' in the Spanish titulo (stamped p8); register's 'Monserate' drops an r."
+  },
+  "notes": "A bare 'Confirmed' again hides a Commission REJECTION (14 Nov 1854) reversed by the District Court in 1857. All three substantive fields verified against the Spanish titulo itself (stamped p8), not testimony. Note the grant was for three sitios de ganado mayor / three leagues; the register's patent_acres of 13,322.90 is roughly three leagues, consistent. Single volume, 45 PDF images / 36 stamped pages; images 15-24 (stamped 10-17, remainder of the expediente and the Board's rejection opinion) not read, but the rejection and its reversal are documented at stamped pp3, 25-26, 27, 31."
+ },
+ {
+  "id": "rancho-monte-cabestros",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268924/files/cubanc_lcf_sd298.pdf",
+  "pdf_pages_stated": 60,
+  "pages_read": [
+   "img1-14 (cover, flyleaf, stamped 1-9)",
+   "img15-30 (stamped 10-25)",
+   "img57-72 (stamped 47-60)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The register's name is the one the witnesses use. Soberanes deposition, stamped p6: 'Do you know a piece of land in Monterey County called \"Monte de los Cabestros\"... I know the place. It is situated on Monterey River about four leagues from the town of Monterey. It was granted to Esteban Espinosa in 1839 or 1840.' Spence, stamped p8: 'the land known by the name of Monte de los Cabestras in Monterey County'. Manuel Castro, stamped p15: 'I am well acquainted with said Rancho, Monte de los Cabestros. It is a tract of a quarter of a league on the Monterey river.' NOTE the case caption is different: PDF img1 red label 'CASE NO. 298 SOUTHERN DISTRICT / LAND ON MONTEREY RIVER GRANT / HENRY COCKS CLAIMANT', and the Board certificate stamped p48 says 'for the place known by the name of \"Land on Monterey River\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant titulo, Spanish original stamped pp19-21, closes: 'Dado en la Sala de la prefectura en el pueblo de S.n Juan de Castro a treinta de julio de mil ocho cientos cuarenta' (30 July 1840). Sworn translation, stamped pp24-26, agrees. Board petition, stamped p4, likewise recites the grant as of 'the 30th day of July, 1840'."
+   },
+   "governor": {
+    "grade": "ERR",
+    "evidence": "The grant was NOT made by Governor Alvarado. Titulo, Spanish original stamped p19: 'Jose M.a Villavicencio Prefecto interino del primer Distrito del Departamento de las Californias. Por cuanto Esteban Espinosa mexicano por nacimiento ha pretendido para su beneficio personal y el de su familia un terreno de la estencion de un cuarto de legua... usando de las facultades que me son conferidas por la Ley Reglamentaria de 20 de Marzo de 1837 he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'; signed at stamped p21 'Jose M.a Villa[vicencio] / Franco. C. Arce Srio Int.o'. Sworn translation, stamped pp24-25: 'Jose Maria Villavicencio, Prefect for the time being of the first District of the Department of California... in exercise of the powers conferred upon me by the laws of 20th of March, 1837, I have granted to him the said Esteban Espinosa the above mentioned tract of land.' Alvarado appears only afterwards, ordering judicial possession: stamped p21, 'Alisal Nov.re 1.o de 1842. De conformidad con lo concedido por el prefecto del primer Distrito dese posecion de un cuarto de Legua de terreno al Ciudadano Estevan Espinoza... Juan B. Alvarado / Man.l Jimeno Srio.' The claimant's own Board petition states the distinction plainly, stamped p4: 'a grant made to Esteben Espinosa... by Jose M. Vall[avicencio] Prefect of the Town of San Juan, on the 30th day of July, 1840 and approved by Juan B. Alvarado, Governor of the department of California on the 1st day of Nov 1842.' Hoffman 1862 repeats the register's 'Juan B. Alvarado', so Hoffman and the register agree AGAINST the case file; the file governs."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p19: 'Por cuanto Esteban Espinosa mexicano por nacimiento ha pretendido para su beneficio personal y el de su familia un terreno de la estencion de un cuarto de leguas colindante por el Este con D.n Vicente Cantua, por el Oeste con el C.no Trinidad Espinosa y por el Norte con Eusevio Boronda'; possession diligencias stamped pp18-19 name 'D.n Esteban Espinosa'. The register correctly records the GRANTEE and not the U.S.-era claimant, who was Henry Cocks (red label img1), holder through Espinosa's 1845 sale to Francisco Garcia and Garcia's conveyance to Cocks in trust (petition, stamped p4)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 298 SOUTHERN DISTRICT'; flyleaf img2 'LAND CASE 298 SD 60 pgs.'; every leaf stamped '298 SD'; District Court wrapper stamped p48-verso 'U.S. DISTRICT COURT, Southern District of California. No. 298'; filename cubanc_lcf_sd298.pdf. (Board docket no. 572.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED, decree of 20 March 1855: docket entry stamped p3, 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim'; recited in the U.S. petition for review, stamped p51, 'on or about the 20th day of March A.D. 1855, the said Commissioners confirmed, by final decision, the said claim of said petitioner.' The United States appealed (Attorney General Cushing's notice, 10 Oct 1855, stamped p49; appeal notice filed 20 Nov 1855, stamped p50; petition for review filed 5 Jan 1857, stamped pp51-53) and then ABANDONED the appeal: Cushing to U.S. Attorney Ord, 28 Aug 1857, stamped p59, 'In the case of the claim of Henry Cocks, confirmed to the claimant by the Commissioners, Case no. five hundred and seventy-two (572), appeal will not be prosecuted by the United States.' District Court order, Monterey June Term 1857, Hon. I. S. K. Ogier, stamped p57: 'it is ordered by the Court that the appeal in said cause be dismissed; & that the Claimant have leave to proceed upon the decree of the Commissioners heretofore rendered, as a final decree' (filed 8 June 1857, stamped p58). Confirmation final in the file; patent (1870) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "governor": "Granting officer was JOSE MARIA VILLAVICENCIO, Prefect ad interim of the First District, by titulo dated at San Juan de Castro, 30 July 1840 (stamped pp19-21; translation pp24-26). Governor Juan B. Alvarado's only act in the expediente is the order for juridical possession, 'Alisal Nov.re 1.o de 1842' (stamped p21). Register (and Hoffman) name the approving governor, not the grantor."
+  },
+  "notes": "This is a PREFECT grant, not a gubernatorial one, which is the single substantive error found here. Everything else checks out. The claimant Henry Cocks held only in trust for the wife and family of Francisco Garcia (petition, stamped p4); the register correctly carries the original grantee Esteban Espinosa rather than the claimant. Grant was of one quarter of a league; juridical possession given by Jose Joaquin Buelna, auxiliary judge of the Pueblo del Refugio, 8 June 1843 (stamped pp18-19, 23-24), measuring 350 + 950 varas. Single volume, 72 PDF images / 60 stamped pages; images 31-56 (stamped 26-46, the rest of the exhibits and the Board opinion) not read, but the Board decree and its date are established from stamped pp3, 47, 51, 55."
+ },
+ {
+  "id": "rancho-muniz",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265456/files/cubanc_lcf_nd095.pdf",
+  "pdf_pages_stated": 36,
+  "pages_read": [
+   "img1-14 (cover, flyleaf, stamped 1-9)",
+   "img15-28 (stamped 10-21)",
+   "img29-44 (stamped 22-36)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img1 red label: 'CASE NO. 95 NORTHERN DISTRICT / MUNIZ GRANT / MANUEL TORRES CLAIMANT'; transcript title stamped p1 'for the place named \"Muniz\"'; expediente wrapper stamped p10 'Ano de 1845. Espediente Promovido por Don Manuel Torres en pretencion del terreno nombrado Muniz'; Board transmittal stamped p36 'for the place known by the name of \"Muniz\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, Spanish, stamped p12: 'Angeles Diciembre 4 de 1845. Vista la peticion con que da principio este espediente, el informe del Alcalde 1.o de Sonoma... declaro a D.n Manuel Torres dueno del terreno conocido con el nombre de Muniz en estension de cuatro sitios de ganado mayor poco mas o menos.' Titulo, stamped p13, closes 'Dado en la Ciudad de los Angeles en papel comun por falta del sellado, a cuatro de Diciembre de mil ochocientos cuarenta y cinco.' English translation agrees, stamped pp16-17: 'Given in the City of Los Angeles on Common paper... on the 4th of December 1845.' (The petition to Micheltorena that opened the expediente is dated Monterey, 8 October 1844, stamped pp11, 15; the GRANT is 1845.)"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Decree stamped p12 closes 'Pio Pico, Gobernador interino del Departamento de las Californias, asi lo mando, decreto y firmo, de que doy fe. Pio Pico. Jose M.a Covarrubias, Srio.' Titulo opens stamped p13: 'Pio Pico, Vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias.' Translation stamped p16: 'I Pio Pico Governor ad interim of both Californias did order decree and sign it.' Witness Ygnacio Pacheco, stamped p7: 'I know that the Signature attached to said Original grant, was that of Pio Pico and that it was genuine, having often seen him write.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p13: 'Por cuanto D.n Manuel Torres ha pretendido para su beneficio personal y el de su familia, el terreno conocido con el nombre de Muniz, colindante con el rancho de D. Estevan Smith, con el mar, con la Sierra y el establecimiento de Ros.' Solicitud stamped p11 signed 'Man.l Torres', describing himself as 'Manuel Torres, natural de la Republica Peruana y haccendado en este Departamento en la jurisdiccion de Sonoma'. Grantee and U.S.-era claimant are the same man."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "Red label img1 'CASE NO. 95 NORTHERN DISTRICT'; flyleaf img2 'LAND CASE ND 95 36 pages'; every leaf stamped '95 ND'; District Court wrapper stamped p22-verso 'U.S. DISTRICT COURT, Northern District of California. No. 95'; filename cubanc_lcf_nd095.pdf. (Board docket no. 43.)"
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board CONFIRMED, decree stamped p20, filed 27 Dec 1853: 'it is adjudged that the claim of the said petitioner is valid, and it is therefore decreed that the same be confirmed. The Lands of which Confirmation are hereby made are known by the name of Muniz and are the same now occupied by Manuel Torres and bounded and described as follows, to wit, On the South by the Russian River, On the West by the Sea, on the North by the Russian Settlement as it was understood at the time the grant was made and on the East by the Sierra, Containing in all four Square leagues' (signed Alpheus Felch, Thompson Campbell, R. Aug. Thompson, Commissioners; opinion stamped pp18-21). The United States noticed an appeal (Attorney General Cushing, 30 Nov 1854, stamped p23; notice filed 8 Jan 1855, stamped p24; petition for review filed 27 June 1855, stamped p27) and then ABANDONED it: Cushing to U.S. Attorney Blanding, 2 Jan 1857, stamped p31, 'appeal will not be prosecuted by the United States'; stipulation of 7 May 1857, stamped p32; and the order of the District Court, Hon. Ogden Hoffman, 7 May 1857, stamped p29: 'On motion of the U.S. Attorney it is ordered adjudged and decreed that claimant have leave to proceed under the decree of this Court heretofore rendered in his favor, as under Final Decree.' Confirmation final in the file; patent (1860) not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Clean record: every register field matches the case file. The ORIGINAL grant paper was lost in the 1846 disturbances (W. A. Richardson, stamped p9: 'said Original Grant was put into the possession of Jose Berreyesa first Magistrate of Sonoma about the first of the year 1846... the said grant with many other documents in his possession were lost at that time'), so the case was proved on a certified tracing of the archived expediente certified by Surveyor General Samuel D. King, 7 Oct 1851 (stamped p14). Grant was four sitios de ganado mayor on the coast between the Russian River and the Ross settlement, Mendocino/Sonoma coast. Single volume, 44 PDF images / 36 stamped pages; whole file read."
+ }
+]

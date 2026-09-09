@@ -1,0 +1,42 @@
+[
+ {
+  "id": "rancho-puente",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265867/files/cubanc_lcf_sd127.pdf",
+  "pdf_pages_stated": 188,
+  "pages_read": [
+   "PDF 1-24 (= stamped 1-18)",
+   "PDF 25-34 (= stamped 19-27)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label: 'CASE No. 127 / SOUTHERN DISTRICT / LA PUENTE GRANT / JOHN ROLAND, ET AL CLAIMANT'; transcript title page (stamped p1) 'for the place named \"La Puente\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Pico titulo, stamped p22: 'Dado en la ciudad de los Angeles a veintidos de Julio de mil ochocientos cuarenta y cinco' (22 July 1845); Assembly approval stamped p25, 'Angeles Octubre 3 de 1845', citing 'titulo librado en 22 de Julio de este ano'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant decree opens, stamped p21: 'Pio Pico primer vocal de la Exma Asamblea y Gobernador interino del Departamento de las Californias ... he venido en concederles el terreno mencionado'; signed 'Pio Pico / Jose Ma. Covarrubias, Srio' (stamped p23)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Pico grant, stamped p21: 'Por cuanto los ciudadanos Juan Roland y Julian Workman han pretendido para su beneficio personal y el de sus familias el terreno conocido con el nombre de la Puente'; Assembly commission, stamped p24-25, approves 'la concesion ... en favor de los Senores Dn. Juan Roland y Dn. Julian Workman'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF p1 red label 'CASE No. 127 SOUTHERN DISTRICT'; stamp on every leaf reads '127 SD'; Bancroft filename cubanc_lcf_sd127.pdf. Board docket no. was 385 (stamped p1-2), matching Hoffman's commission_no 385."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Index of proceedings, stamped p3: 'San Francisco, Apl. 4, 1854 ... Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim'; a further order on motion of the U.S. Law Agent, 15 Aug 1854, is indexed at transcript p.42 (not read, beyond the 30-page cap). Hoffman 1862 also records confirmed."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "IMPORTANT context for re-readers: the expediente in this file contains TWO grants of La Puente. (1) An earlier ALVARADO grant to Juan Rowland ALONE: marginal concession Monterey 14 Jan 1842 signed 'Juan B. Alvarado' (stamped p11-12), formal titulo 'Dado en Monterey a nueve de Marzo de mil ochocientos cuarenta y dos' signed 'Juan B. Alvarado / Manl. Jimeno Srio' (stamped pp.16-21), approved by the Assembly 28 May 1845 (stamped p19). (2) The operative PICO grant of 22 July 1845 to Roland AND Workman (stamped pp.21-23), obtained because Rowland had petitioned in 1842 in his own name only and asked that the title be revalidated to include his partner Workman (petition of 10 July 1845, stamped pp.22-24). The register records the second, which is the grant the claim rested on and the one Hoffman lists. So year/governor/grantee are all correct, but anyone comparing against the 1842 Alvarado document would wrongly read an error. Stamped transcript pages run 6 behind PDF image numbers in the front of this file."
+ }
+]

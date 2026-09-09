@@ -1,0 +1,510 @@
+[
+ {
+  "id": "rancho-alisal-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268906/files/cubanc_lcf_sd279.pdf",
+  "pdf_pages_stated": 67,
+  "pages_read": [
+   "1-14",
+   "15-27"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 279 / SOUTHERN DISTRICT / EL ALISAL GRANT / BRUNO BERNAL CLAIMANT'; transcript title leaf (stamped 279 SD PAGE 1, img 4) 'for the place named \"El Alisal\"'. Register's parenthetical (Bernal) is the U.S.-era claimant, correctly distinguished from the grantee."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Sworn English translation of the grant, stamped 279 SD PAGE 20 (PDF img 27): 'Given in Monterey on the twenty sixth of June One thousand Eight hundred and thirty four (Signed) Jose Figueroa'. Spanish original at stamped PAGE 11 (img 17): 'Dado en Monterey a veinte y seis de Junio de mil ocho cientos treinta y cuatro.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped PAGE 19 (PDF img 26): 'Jose Figueroa General of Brigade of the Mexican Republic, Commanding General, Inspector and Superior Political Chief of the Territory of Upper California'; signed 'Jose Figueroa' at stamped PAGE 20 (img 27)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant translation, stamped PAGE 19 (PDF img 26): 'Whereas, the citizens Feliciano and Mariano Soberanes have, for their own personal benefit and that of their families, asked for the place known by the name of Alisal'. Spanish original stamped PAGE 10 (img 16): 'Por cuanto los Ciudadanos Feliciano y Mariano Soberanes han pretendido...'. Register's 'Feliciano Soberanes et al' names the first grantee and flags the others; the second grantee is his brother Mariano Soberanes."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 279 SOUTHERN DISTRICT'; every transcript leaf stamped '279 SD'; Bancroft filename cubanc_lcf_sd279.pdf. Commission docket no. 668 appears on the transcript title leaf (img 4) and matches hoffman_1862 commission_no 668."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Docket summary, stamped 279 SD PAGE 3 (PDF img 7): 'San Francisco January 23, 1855. In the same case Commissioner R. Aug. Thompson delivered the Opinion of the Board confirming the claim (Vide page 33 of this Transcript)'. Board confirmation verified; the Board's written opinion sits at stamped p33, beyond the 30 PDF images read."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Grant title dated 26 June 1834, but the grant recites an earlier concession: 'I have (granted them) in decree of the 18 of May of last year [1833], and modified at the request of the persons interested on the 19th of December of the same year' (stamped PAGE 19, img 26). Territorial Diputacion approved 16 July 1834 (stamped PAGE 12, img 18) and juridical possession was delivered at the Rancho del Alisal 18 December 1834 (stamped PAGE 14, img 20) - both consistent with the register's 1834 and with the petition's own recital (stamped PAGE 4, img 8). Grant size stated as 'One and a third Square leagues, a little less' (stamped PAGE 20, img 27). Depositions (Spence, Hartnell, Arce, F. Soberanes, stamped pp. 5-9) show the Soberanes brothers sold to Juan B. Alvarado c.1838-40 and the tract went to Bruno Bernal at sheriff's sale 16 Aug 1852 - i.e. Bernal is claimant only, not grantee; the register has this right. Outcome verified only to the Land Commission decree of 23 Jan 1855; District Court disposition lies beyond PDF img 27 (file is 67 images)."
+ },
+ {
+  "id": "rancho-angel-island",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265801/files/cubanc_lcf_nd208.pdf",
+  "pdf_pages_stated": 93,
+  "pages_read": [
+   "1-14",
+   "15-24",
+   "76-85",
+   "86-95",
+   "96-104",
+   "71-75"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 208 / NORTHERN DISTRICT / ANGEL ISLAND GRANT / ANTONIO MARIA OSIO CLAIMANT'; transcript title leaf stamped 208 ND PAGE 1 (img 6): 'for the place named \"Angel Island\"'. The grant itself calls it the island 'conocida con el Nombre de los Angeles' (stamped PAGE 62, img 72); Hoffman's table form 'Island of Los Angeles' is the Spanish name, the register's 'Angel Island' the Bancroft/court name."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, Spanish original stamped 208 ND PAGE 62 (PDF img 72): 'Dado en Monterey a once de junio de mil ocho cientos treinta y nueve.' Sworn translation stamped PAGE 63 (img 74): 'Given in Monterey this Eleventh day of June One Thousand Eight Hundred and thirty nine'. Confirmed by Commissioner Farwell's opinion, stamped PAGE 64 (img 76): 'a grant for the Island issued by Governor Juan B Alvarado bearing date the 11th day of June 1839'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, stamped PAGE 62 (img 72): 'Juan B. Alvarado Gobernador interino del Departamento de las Californias', signed 'Juan B. Alvarado / Man.l Jimeno Srio del Despacho'; translation stamped PAGE 63 (img 74): 'Juan B Alvarado Governor of the Department of California'. District Court opinion stamped PAGE 89 (img 99): 'The claim in this case is founded on a grant made by Gov. Alvarado on the 11th day of June 1839'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped PAGE 62 (img 72): 'En atencion a los meritos de D.n Antonio M.a Osio ... he venido en tal virtud en concederle la que esta dentro del puerto de San Francisco conocida con el Nombre de los Angeles'; translation stamped PAGE 63 (img 74): 'In Consideration of the services of Don Antonio M Osio ... In virtue of that order I have granted to him that in the Port of San Francisco known by the Name of Angeles'. Grantee and U.S.-era claimant are the same man here, so the claimant/grantee trap does not bite."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 208 NORTHERN DISTRICT'; every transcript leaf stamped '208 ND'; Bancroft filename cubanc_lcf_nd208.pdf; U.S. District Court wrapper (img 80) 'No. 208'; District Court order (img 97) captioned 'D.C. 208: L.C. 18'. Land Commission docket no. 18 matches hoffman_1862 commission_no 18."
+   },
+   "outcome": {
+    "grade": "UV",
+    "evidence": "The file records TWO confirmations and then an appeal that it does not resolve. Board decree stamped 208 ND PAGE 67 (img 79): 'it is adjudged and decreed by the board that the claim is valid and that the Grant herein be confirmed ... Filed in October 24, 1854'. U.S. Attorney General notice of appeal 13 June 1855 (stamped PAGE 70, img 82); District Court decree stamped PAGE 76-77 (img 88-89), filed 24 March 1856: 'it is by the Court Ordered, adjudged & decreed that the claim of the appellee is a good & valid claim, & that said claim be confirmed ... Ogden Hoffman Jr, U.S. Dist Judge'; District Court opinion stamped PAGE 91 (img 101): 'The Board have unanimously confirmed this claim - and we see no reason for reversing their decision. Their decree must therefore be affirmed.' Then, stamped PAGE 79 (img 97), order of 24 March 1857: 'an appeal in behalf of the United States from the final decision of this Court rendered at the December 1855 term be and the same is hereby granted; and that a certified transcript ... be sent to the Supreme Court of the United States without delay.' The file ends at stamped PAGE 93 with no Supreme Court mandate, so the register's 'Rejected' cannot be verified here and is contradicted by everything the file does contain up to 1857."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Register 'Rejected' vs Hoffman 1862 'confirmed': both are consistent with this file if the Supreme Court later reversed, because the file stops with the U.S. appeal to the Supreme Court granted 24 Mar 1857 and Hoffman's printed table records the stage he himself decided. Phase C must settle the final disposition from the Supreme Court report / GLO, not from this docket. Register leaves all patent fields blank, consistent with no patent ever issuing. Grant basis is the Mexican Minister of the Interior's order of 20 July 1838 (grant text) authorising concession of coastal islands to Mexican citizens; the Board opinion (stamped PAGE 66, img 78) prints a translation of that order dated 12 July 1838 as communicated by Alvarado 27 Feb 1841, and notes 'The grant does not Contain the usual Conditions of inhabitancy and Cultivation' (stamped PAGE 64, img 76). Bancroft stamped page numbers run 1-93 across the whole case file and are offset about 5 from the Land Commission transcript's own internal pagination (internal p69 = stamped p64), so cite the stamped number. Front pastedown carries an archivist's note 'Page 86 belongs in Case No 180 ND' (img 2)."
+ },
+ {
+  "id": "rancho-aptos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266130/files/cubanc_lcf_sd172.pdf",
+  "pdf_pages_stated": 78,
+  "pages_read": [
+   "1-12",
+   "13-22",
+   "23-26",
+   "64-73",
+   "74-83",
+   "84-88"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 172 / SOUTHERN DISTRICT / APTOS GRANT / RAFAEL CASTRO CLAIMANT'; transcript title leaf stamped 172 SD PAGE 1 (img 5): 'for the place named \"Aptos\"'. Expediente heading stamped PAGE 12 (img 21): 'Espediente Sobre el parage nombrado \"Aptos\", solicitado para su beneficio y cultivo por Rafael Castro'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 172 SD PAGE 20 (PDF img 25): 'Dado en Monterrey a 16 de Noviembre de 1833. = Jose Figueroa = Agustin V. Zamorano = Secretario.' The concession decree itself, stamped PAGE 18 (img 23), is dated Monterey 16 Nov 1833 (the date appears at the foot of stamped PAGE 17, img 22). District Court opinion, stamped PAGE 70 (img 79): 'The claim in this case is founded upon a grant from Governor Figueroa 16 Nov 1833 to the appellee and approved on the 14 May 1834.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 172 SD PAGE 18 (img 23): 'El Sor. Don Jose Figueroa Comandante General, Inspector y Gefe Superior politico del territorio de la alta California asi lo mando, decreto y firmo de que doy fee. Jose Figueroa. Agustin V. Zamorano. Secretario.' Title heading on the same leaf: 'Jose Figueroa, General de Brigada de los Ejercitos Mejicanos Comand.te General, Inspector y Gefe Superior Politico de la Alta California.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped PAGE 18 (img 23): 'se declara al Ciud.o Rafael Castro dueno en propiedad del parage conocido con el nombre de Aptos colindante con la Costa, rancho del Ciud.o Joaquin Castro, la sierra y el parage de Shoquel'; title, same leaf: 'Por cuanto el ciudadano Rafael Castro ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Aptos'. Territorial Deputation approval, stamped PAGE 20 (img 25): 'Se aprueba la concesion hecha al C.no Rafael Castro del parage nombrado Aptos concedido en 16 de Noviembre de 1833'. Grantee and claimant are the same man, so no claimant/grantee substitution here; the register's 'R. Castro' abbreviates the decree's 'Rafael Castro'."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 172 SOUTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 172 SD pgs. 78'; every transcript leaf stamped '172 SD'; Bancroft filename cubanc_lcf_sd172.pdf; District Court wrapper (img 68) 'No. 172 Docket ... In case No. 620'. Land Commission docket no. 620 (title leaf, img 5) matches hoffman_1862 commission_no 620."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmation is final in this file. Board opinion stamped 172 SD PAGE 57 (img 64): 'The proof in the case establishes the right of the claimant to a title to the land and decree of confirmation will be entered - Confirmed. Filed in Office May 16th 1854'; Board decree stamped PAGE 58-59 (img 65-66). U.S. appeal noticed 7 Apr 1855 (stamped PAGE 61, img 69). District Court opinion stamped PAGE 70 (img 79, with a typed transcript of the same on the facing leaf): 'The Appellee is therefore entitled to a confirmation of his grant. A decree will be entered affirming the decision of the Commissioners. FILED Oct 11th 1855'. Attorney General to U.S. Attorney Ord, 16 Sept 1856, stamped PAGE 74 (img 83): 'In the case of the claim of Rafael Castro, confirmed to the claimant by the Commissioners, Case no. six hundred and twenty (620), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Final order, stamped PAGE 78 (img 87), December Term 1856, Judge Isaac S. K. Ogier: 'the Order granting an appeal to the Supreme Court heretofore made in this cause be and the same is hereby vacated and that the Claimant have leave to proceed under the decree of this Court heretofore rendered in this cause as under a final decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "No patent copy in the case file, so the register's patent (Rafael Castro, 23 Apr 1860, GLO 216, 6,685.91 acres) is for Phase C. Confirmed quantity per the Board decree, stamped PAGE 59 (img 66): 'said two parcels of Land containing One and a half Square leagues of Land or thereabouts' - i.e. the 1833 league plus the sobrante conceded by acting governor Manuel Jimeno on 8 Nov 1840 (District Court opinion, stamped PAGE 70); the register's single 1833 date is the original grant and is correct as such. Bolcoff, the alcalde who gave juridical possession in 1834 and measured the augmentation in 1840, is himself a deposing witness (stamped PAGES 7-11). Transcript index at stamped PAGE 63 (img 72) locates the Spanish expediente at internal pp. 11-25, its translation at 27-38, the Spanish grant and testimonial of juridical possession at 39-50, and their translation at 51-60; Bancroft stamped page numbers run about one behind those pencilled internal numbers, so cite the stamp."
+ },
+ {
+  "id": "rancho-aromitas-agua-caliente",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265845/files/cubanc_lcf_sd102.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-10",
+   "11-16",
+   "55-64"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 102 / SOUTHERN DISTRICT / AROMITAS Y AGUA CALIENTE GRANT / JUAN MIGUEL ANZAR CLAIMANT'; transcript title leaf stamped 102 SD PAGE 1 (img 4): 'for the place named \"Aromitas y Agua Caliente\"'. Grant text, stamped PAGE 6 (img 10): 'el terreno conocido con el nombre de las \"Aromitas i Agua Caliente\"'. District Court decree, stamped PAGE 51 (img 57): 'the tract known by the name of \"Las Aromitas y Agua Caliente\" situated in the county of Monterey'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant, stamped 102 SD PAGE 8 (PDF img 12): 'Dado en Monterei a 12 de Octubre de 1835. Jose Castro. Srio F.co del Castillo Negrete', with the registry note of the same date: 'Queda tomada razon en el libro respectivo a fojas setenta y siete senalado con el numero setenta i cinco ... Monterei 12 de Octubre de 1835. Castillo.' District Court decree, stamped PAGE 51 (img 57): 'the grant to Juan Miguel Anzar made by Jose Castro acting Governor of California bearing date Oct. 12, 1835'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, stamped 102 SD PAGE 6 (PDF img 10): 'Jose Castro, Primer Vocal de la E. Diputacion Territorial i Jefe Politico interino del Territorio de la Alta California'; signed 'Jose Castro' at stamped PAGE 8 (img 12). The District Court styles him 'Jose Castro acting Governor of California' (stamped PAGE 51, img 57), which matches the register's 'Jose Castro' and its 'interim' era tag. Hoffman's 1862 table leaves governor blank; the case file supplies it."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant, stamped 102 SD PAGE 6 (PDF img 10): 'Por cuanto D. Juan Anzar, Mejicano p.r nacimiento, ha pretendido p.a su beneficio personal i el de su familia el terreno conocido con el nombre de las \"Aromitas i Agua Caliente\"'; operative words at stamped PAGE 7 (img 11): 'he venido en declarar la propiedad del terreno conocido con el nombre de las Aromitas i Agua Caliente a D. Juan Anzar'. The same man petitions for juridical possession as 'Juan Miguel Anzar Ciud. Mejicano' and signs 'Juan Mig.l Anzar', Monterrey 20 Oct 1835 (stamped PAGE 9, img 13), and the District Court decree calls the grant one 'to Juan Miguel Anzar' (stamped PAGE 51, img 57). Hoffman leaves grantee blank; the case file supplies it and the register matches."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 102 SOUTHERN DISTRICT'; every transcript leaf stamped '102 SD'; Bancroft filename cubanc_lcf_sd102.pdf; District Court captions 'Docket No. 102 ... Transcript No. 20' (stamped PAGES 50 and 54, img 56 and 60). Land Commission docket no. 20 (title leaf, img 4) matches hoffman_1862 commission_no 20."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmation is final in this file. Docket summary stamped 102 SD PAGE 3 (img 8): 'Monday Jan.y 10th 1853. In case No. 20, Juan Miguel Anzar, for the place named \"Los Aromitas y Aguas Calientes\", Commissioner Harry I. Thornton delivered the opinion of this Board, and the decree of final Confirmation' (opinion and decree at internal transcript pp. 29-30). District Court decree, December Term 1856, stamped PAGES 50-52 (img 56-58), filed 18 Dec 1856: 'it is by the said District Court, ordered, adjudged and decreed that the decision of said Commissioners be, and the same hereby is affirmed, and that the title of the said Frederick A. McDougall, Juan Francisco Anzar, Anatolio Anzar, and Policronio Anzar the above named Appellees, Claimants, is a good and valid one; and the land claimed in this case is hereby confirmed to them ... to the extent of two square leagues (or \"Sitios de Ganado Mayor\") and no more', signed Isaac S. K. Ogier. Attorney General to U.S. Attorney Ord, 27 Sept 1856, stamped PAGE 56 (img 62): 'appeal will not be prosecuted by the United States'. Stipulation, stamped PAGE 58 (img 64): 'the Order of Appeal to the Supreme Court be revoked, and that the said decree of the District Court be made final; and that the claimants have leave to proceed thereon as a decree of final confirmation.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The register's patent_to 'Frederick A. McDougall et al' is exactly the set of confirmees in the District Court decree (McDougall plus Juan Francisco, Anatolio and Policronio Anzar), i.e. Juan Miguel Anzar's successors, so grantee and patentee correctly differ here; the patent itself (17 Mar 1862, GLO 242) is not in the file and is for Phase C. Transcript title leaf (img 4) shows the claimant caption written as 'David S. Spence' with 'Juan Miguel Anzar et al' added above it - an amendment to the party name, not a different grantee. The grant title writes the grantee 'D. Juan Anzar' while every other paper in the file, including his own signature, gives 'Juan Miguel Anzar'. Grant quantity per the title, stamped PAGE 7 (img 11): 'cerca de dos sitios de ganado mayor'; the measurement of 27 Oct 1835 (stamped PAGES 11-12, img 15-16) found 'tres sitios poco mas o menos de ganado mayor', which is why the District Court capped confirmation at two leagues. Stamped Bancroft page numbers run about one ahead of the pencilled internal transcript numbers; cite the stamp. No pages-count slip was photographed at the front of this file, so pdf_pages_stated is left null (80 images)."
+ },
+ {
+  "id": "rancho-arroyo-nueces-bolbones",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264433/files/cubanc_lcf_nd046.pdf",
+  "pdf_pages_stated": 343,
+  "pages_read": [
+   "1-10",
+   "13-22",
+   "23-24",
+   "349-358"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 46 / NORTHERN DISTRICT / ARROYO de LAS NUECES y BOLBONES GRANT / JUANA SANCHEZ de PACHECO CLAIMANT'; transcript title leaf stamped CASE 46 ND PAGE 1 (img 5): 'for the place named \"Arroyo de los Nueces y Bolbones\"'. Expediente cover, stamped PAGE 8 (img 13): 'Espediente sobre el terreno comprendido entre el Arroyo de las Nueces y los Bolbones solicitado por D.a Juana Sanchez de Pacheco'. The grant decree itself writes the eastern boundary 'Sierra de los Bolgones' (stamped PAGE 15, img 23)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped CASE 46 ND PAGE 15 (PDF img 23): 'Monterey Julio 11 de 1834. Vista la peticion con que da principio este espediente ... se declaro a Dona Juana Sanchez de Pacheco duena en propriedad del terreno comprendido entre el Arroyo de las Nueces y Sierra de los Bolgones'. Territorial Deputation approval, stamped PAGE 16 (img 24): 'Se aprueba la concesion hecha a D.a Juana Sanchez de Pacheco, del parage comprendido entre el Arroyo de las Nueces y los Bolbones. Concedido en 11 de Julio de 1834 ... Monterey Julio 22 de 1834. Jose Figueroa.' The formal title of 31 July 1834 is quoted back in the claimants' District Court brief, stamped PAGE 339 (img 353): 'in conformity with the resolution of the most Excellent Territorial Deputation of the 22d Inst. approving the grant of said land included between the Arroyo de las Nueces and the Sierra de los Golgones made on the 11th of this month to the said Dna Juana Sanchez de Pacheco, in the name of the Mexican Nation, I have granted to her the aforesaid land'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped CASE 46 ND PAGE 15 (PDF img 23): 'El Sor. D.n Jose Figueroa general de Brigada, Commandante General, Inspector y Gefe Superior politico del Territorio de la Alta California. Asi lo mando, decreto y firmo de que doy fee. Jose Figueroa. Agustin V. Zamorano, Srio.' The same signature closes the earlier reference decree of 2 June 1834 (stamped PAGE 10, img 15) and the Deputation return of 22 July 1834 (stamped PAGE 16, img 24)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Petition, stamped CASE 46 ND PAGE 9 (PDF img 14): 'Juana Sanchez, viuda del finado Miguel Pacheco, vecina y residente en el Pueblo de S.n Jose de Guadalupe ... ocurre a la recta justicia de V.S. a fin de que ... se digne agraciarla con la concesion del terreno ... Pueblo de San Jose de Guadalupe 15 de Mayo de 1834. Juana Sanchez de Pacheco'; concession decree, stamped PAGE 15 (img 23): 'se declaro a Dona Juana Sanchez de Pacheco duena en propriedad del terreno'. Register's 'J. S. de Pacheco' is the initialled form of that name (Hoffman prints the same abbreviation); the grantee is the widow herself, not a later claimant."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 46 NORTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 46 ND pgs. 343'; every leaf stamped 'CASE 46 ND'; Bancroft filename cubanc_lcf_nd046.pdf; District Court wrapper at the end of the file (img 358) 'No 46 U.S. Dist. Court, The United States vs Rosa Pacheco & others'. Land Commission docket no. 168 (title leaf, img 5, and docket entries at stamped PAGES 2-3) matches hoffman_1862 commission_no 168."
+   },
+   "outcome": {
+    "grade": "PART",
+    "evidence": "Board confirmation verified, final decree not reached in the pages read. Docket summary, stamped CASE 46 ND PAGE 3 (PDF img 8): 'San Francisco Apl. 11th 1853. In Case No. 168 Juana Sanchez de Pacheco for the place named \"Arroyo de los Nueces y Bolbones\", Commissioner Hiland Hall delivered the Opinion and the Decree of final Confirmation' (opinion and decree at internal transcript p. 32). The claimants' own District Court brief, stamped PAGE 342 (img 356): 'It should be remarked that this claim was confirmed to the extent of Two leagues by the first Board of land Commissioners. Had the confirmation been made by the Board as last constituted upon the principles laid down, it would have been for all the land within the boundaries. A. P. Crittenden Atty.' The last leaf of the file, stamped PAGE 343, is the wrapper of that brief - so the file as digitised ENDS with argument, and no District Court decree appears in the images read (1-24 and 349-358 of 358)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The live dispute at the end of this file is EXTENT, not validity: whether the grant is by metes and bounds (Arroyo de las Nueces on the west, Sierra de los Bolgones/Golgones on the east) or capped at the 'two leagues more or less' named in the July 1834 title. The Board confirmed two leagues; Crittenden's brief for Rosa Pacheco and others argues for the whole tract within the boundaries, and the register's patent acreage of 17,782.48 (roughly four leagues) indicates the larger reading eventually prevailed - but that decree is not in the ~34 images read of a 343-page file, so outcome is PART, not OK. A re-reader hunting the District Court decree should sweep the middle of the file (images roughly 150-330); do not trust the Board decree as final here. Party name in the District Court is 'Rosa Pacheco and others', consistent with the register's patent_to 'the heirs of Juana Sanchez de Pacheco' (the grantee was already a widow in 1834 and died before patent). Bancroft stamped page numbers run 1-343 and are about 5 behind the PDF image number at the front of the file; cite the stamp."
+ },
+ {
+  "id": "rancho-arroyo-rodeo",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268933/files/cubanc_lcf_sd307.pdf",
+  "pdf_pages_stated": 85,
+  "pages_read": [
+   "1-12",
+   "15-26",
+   "68-79",
+   "80-95"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 307 / SOUTHERN DISTRICT / ARROYO DEL RODEO GRANT / JUAN HARNESS CLAIMANT'; transcript title leaf stamped 307 SD PAGE 1 (img 5): 'for the place named \"Arroyo del Rodeo\"'. Grant title, stamped PAGE 14 (img 18): 'el Terreno conocido con el nombre del Arroyo del Rodeo colindante con la Villa de Branciforte, y el Rancho de Shoquel'. The petition adds the aliases 'alias San Vicente alias los Coyotes' (stamped PAGE 4, img 9)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 307 SD PAGE 15 (PDF img 19): 'Dado en Monterrey a dos de Agosto de mil ochocientos treinta y cuatro. Jose Figueroa. Agustin V. Zamorano. Srio.', registered 6 Aug 1834 (stamped PAGE 16, img 20: 'En Monterrey a Seis de Agosto de mil ochocientos treinta y cuatro. Zamorano'). The title itself recites the concession decree 'de veinte y ocho del mismo mes' (28 July 1834) and Deputation approval 'del dia veinte y nueve de julio ultimo' (stamped PAGE 14, img 18). Juridical possession delivered at the Rancho del Arroyo del Rodeo 18 Dec 1834 (stamped PAGES 17-20, img 21-24)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 307 SD PAGE 14 (PDF img 18): 'Jose Figueroa General de Brigada del Ejercito de la Republica Mejicana, Comandante General, Inspector y Gefe Superior Politico del Territorio de la Alta California', signed 'Jose Figueroa' with 'Agustin V. Zamorano Srio' at stamped PAGE 15 (img 19)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 307 SD PAGE 14 (PDF img 18): 'Por cuanto el ciudadano Francisco Rodriguez Mejicano por nacimiento ha pretendido para su beneficio personal y el de su familia el Terreno conocido con el nombre del Arroyo del Rodeo ... aprobando la concesion del citado Terreno del Arroyo del Rodeo hecha en decreto de veinte y ocho del mismo mes al referido ciudadano Francisco Rodriguez: a nombre de la Nacion Mejicana he venido en conferirle el Terreno mencionado declarandole la propiedad de el por las presentes letras'. This is the claimant/grantee trap and the register avoids it: Juan Hames and Juan Daubenbiss are purchasers under Rodriguez's deed of 12 May 1845 (petition, stamped PAGE 4, img 9; index entry 'Deed from Francisco Rodriguez to Juan Harnes and Juan Daubenbein', stamped PAGE 83, img 93), and the register correctly puts them in patent_to, not grantee."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 307 SOUTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 307 SD 85 pgs.'; every leaf stamped '307 SD'; Bancroft filename cubanc_lcf_sd307.pdf; District Court wrapper (img 68) 'No. 307 U.S. DISTRICT COURT, Southern District of California ... TRANSCRIPT OF THE RECORD FROM THE BOARD OF U.S. LAND COMMISSIONERS, In Case No. 592, Filed Oct 4th 1855'. Land Commission docket no. 592 matches hoffman_1862 commission_no 592."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmation is final in this file. Docket summary, stamped 307 SD PAGE 3 (PDF img 8): 'San Francisco, March 27' 1855. In the same case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim.' District Court decree, stamped PAGE 79 (PDF img 89), filed 7 March 1856: 'It is ordered adjudged and decreed that the decision of the Commissioners be and the same is hereby affirmed. And it is further adjudged and decreed that the claim of the Appellees above mentioned is good and valid and the same is hereby Confirmed to the extent of One league in longitude by 1/4 of a league in latitude, and no more within the boundaries called for in the grant and map to which the grant refers, to wit: one league in length by one quarter of a league in width and bounded on the South by the Sea; on the West by the Arroyo del Rodeo and on the East by the Arroyo Shoquel ... Isaac S. K. Ogier, U.S. Dist Judge.' Attorney General to U.S. Attorney Ord, 4 Oct 1856, stamped PAGE 81 (img 91): 'In the case of the claim of Juan Hames et al. confirmed to the Claimants by the Commissioners, case no. five hundred and ninety two (592), and also confirmed on appeal by the District Court, appeal will not be prosecuted by the United States.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "No patent copy in the file; the register's patent (Juan Hames and Juan Daubenbiss, 3 May 1882, GLO 214, 1,473.04 acres) is for Phase C, and the acreage is consistent with the District Court's cap of one league by a quarter league between the two creeks. The U.S. appealed twice and abandoned both times: notice of appeal to the District Court 20 Nov 1855 (Attorney General Cushing, stamped PAGE 60, img 69), appeal to the Supreme Court granted on Ord's motion 7 Mar 1856 (stamped PAGE 77, img 87), then the Attorney General's 4 Oct 1856 letter dropping it. Claimant name is spelled Harnes / Harness / Hames across the file (red label 'JUAN HARNESS', decree 'Juan Hames', index 'Juan Harnes'); the register's 'Juan Hames' follows the decree. One conflict worth a re-reader's eye: the transcript index at stamped PAGE 84 (img 94) describes the Commission's opinion as 'Opinion of Commissioners Confirming One half League in Santa Cruz Co.', while the District Court decree confirms one league by a quarter league - the Commission opinion itself sits at internal transcript p57 (not read). Bancroft stamped pages run 1-85 and are about 5 behind the PDF image number at the front, drifting to about 12 behind at the back because of the fold-out court wrappers; cite the stamp."
+ },
+ {
+  "id": "rancho-arroyo-seco",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266077/files/cubanc_lcf_sd040.pdf",
+  "pdf_pages_stated": 63,
+  "pages_read": [
+   "1-12",
+   "13-22",
+   "23-26",
+   "45-58",
+   "59-71"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 40 / SOUTHERN DISTRICT / ARROYA SECO GRANT / JOAQUIN DE LA TORRE CLAIMANT'; transcript title leaf stamped 40 SD PAGE 1 (img 5): 'for the place named \"Arroyo Seco\"'. Grant title, stamped PAGE 17 (img 23): 'el terreno conocido con el nombre de Arroyo Seco'. District Court decree, stamped PAGE 62 (img 70): 'the lands situated in the County of Monterey Cal. called \"Arroyo Seco\"'. Register's parenthetical (Torre) distinguishes this from the other Arroyo Seco claims and is correct."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 40 SD PAGE 18 (PDF img 24): 'Dado en Monterrey a treinta de D.bre de mil ocho cientos cuarenta. Juan B. Alvarado. Man.l Jimeno Srio.' The concession decree in the expediente, stamped PAGE 11 (img 16), is headed 'Monterey 30 de D.bre de 1840'. District Court decree, stamped PAGE 62 (img 70): 'the title of the said Joaquin de la Torre Appellant dated the 30th of December A.D. 1840 ... is a good and valid one'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title heading, stamped 40 SD PAGE 17 (PDF img 23): 'Juan B. Alvarado, Gobernador (interino) del Departamento de las Californias'; signed at stamped PAGE 18 (img 24) 'Juan B. Alvarado / Man.l Jimeno Srio', with Jimeno's registry note 'Queda tomada razon de este despacho en el libro de asientos sobre adjudicaciones de terrenos a foja 8'. Jose Abrego, deposing 28 Dec 1852 (stamped PAGE 6, img 11), authenticates 'an original grant from Juan B. Alvarado to Joaquin de la Torre, of the land named \"Arroyo Seco,\" dated Monterey 30th December, 1840'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 40 SD PAGE 17 (PDF img 23): 'Por cuanto el C. Joaquin de la Torre, ha pretendido para su beneficio personal, el terreno conocido con el nombre de Arroyo Seco ... he venido en concederle el terreno mencionado, declarandole la propiedad de el por las presentes letras'. Concession decree, stamped PAGE 11 (img 16): 'declaro a D. Joaquin de la Torre dueno del terreno nombrado el Arroyo Seco'. Grantee and claimant are the same man; the register's 'J. de la Torre' is the initialled form."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 40 SOUTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 40 SD PAGES 63'; every leaf stamped '40 SD'; Bancroft filename cubanc_lcf_sd040.pdf; District Court captions 'No. 40 (No. 186 of Transcript)' (stamped PAGE 50, img 58). Land Commission docket no. 186 (title leaf, img 5) matches hoffman_1862 commission_no 186."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "The register's 'Confirmed' is right, but only because the District Court REVERSED a Board rejection - the Board's decision was the opposite. Docket summary, stamped 40 SD PAGE 3 (PDF img 8): 'San Francisco Nov 22d 1853. In the same case Commissioner Alpheus Felch delivered the Opinion of the Board rejecting the claim (vide page 27 of this Transcript).' Claimant's notice of appeal, stamped PAGE 39 (img 47): 'an appeal will be prosecuted by the claimant from the decision made by the United States Board of Land Commissioners, by which the claim upon their docket designated as No. 186, to a tract of land (containing four square leagues) called \"Arroyo Seco\" granted by the proper Mexican Authorities on the 30th of December 1840 to Joaquin de la Torre, was rejected.' District Court decree, December Term 1855 entered nunc pro tunc, stamped PAGES 61-62 (img 69-70), filed 19 Feb 1857: 'It is ordered adjudged and decreed that the Decree founded on the said decision be reversed and that the title of the said Joaquin de la Torre Appellant dated the 30th of December A.D. 1840, as shown in this Cause is a good and valid one, and that the same is hereby confirmed to the lands situated in the County of Monterey Cal. called \"Arroyo Seco\" containing four square leagues of land and no more, as described in the said Grant and the Map referred to therein ... Isaac S. K. Ogier, U.S. Dist Judge.' Attorney General to Ord, 25 Sept 1856, stamped PAGE 53 (img 61): 'appeal in the Supreme Court will not be prosecuted by the United States'; Ogier's order of 9 Jan 1857, stamped PAGE 55 (img 63), vacates the Supreme Court appeal 'and the Claimant have leave to proceed under the decree of this Court heretofore rendered in his favor as a final decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Watch the Hoffman row here: hoffman_1862 records 'confirmed' and patented, which is true of the final result but hides that the Land Commission REJECTED this claim on 22 Nov 1853 and the confirmation is the District Court's reversal of 5 Mar 1856 (entered nunc pro tunc on Hancock's motion, stamped PAGE 59, img 67, because the decree had never been drawn up). The Attorney General's form letter at stamped PAGE 53 even misdescribes the claim as 'confirmed to the claimant by the Commissioners', which it was not. No patent copy in the file, so the register's patent (Joaquin de la Torre, 30 June 1859, GLO 297, 16,523 acres, i.e. about four leagues) is for Phase C and matches the decree's four-league cap. One transcription trap for a re-reader: the sworn English translation of the concession decree, stamped PAGE 15 (img 20), renders it 'Monterey, November 30th 1840' where the Spanish original at stamped PAGE 11 (img 16) reads '30 de D.bre de 1840' - December, as the grant title and every later paper confirm. Also note the endorsement on the grant, stamped PAGE 18 (img 24): 'Cedo el derecho de mi propiedad ha mi ermano Esteban de la Torre. Joaq.n de la Torre' - Esteban took juridical possession on 4 Dec 1843 (stamped PAGES 19-20, img 25-26) - yet the U.S. claim and the patent both run in Joaquin's name."
+ },
+ {
+  "id": "rancho-asuncion",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266103/files/cubanc_lcf_sd076.pdf",
+  "pdf_pages_stated": 132,
+  "pages_read": [
+   "1-12",
+   "13-20",
+   "132-145"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 76 / SOUTHERN DISTRICT / LA ASUNCION GRANT / PEDRO ESTRADA CLAIMANT'; transcript title leaf stamped 76 SD PAGE 1 (img 5): 'for the place named \"La Asuncion\"'. Expediente heading, stamped PAGE 7 (img 13): 'Espediente promovido por D. Pedro Estrada en peticion del terreno de la Asuncion'. District Court caption, stamped PAGE 125 (img 138): 'The United States vs. Pedro Estrada, No 76, Rancho \"Asuncion\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 76 SD PAGE 8 (PDF img 14): 'Angeles Junio 18 de 1845. Se concede a D. Pedro Estrada la propiedad del terreno de Asuncion que solicita, sujetandose a lo que disponga la Exma Asamblea ... y al efecto librese el titulo correspondiente. Pico. Juan Bandini Srio.' Title, stamped PAGE 10 (img 16): 'Dado en la Ciudad de los Angeles, Capital del Departamento de las Californias a 19 de junio de 1845.' Departmental Assembly approval 14 July 1845 (stamped PAGE 12, img 18). District Court opinion, stamped PAGE 132 (img 145): 'This claim is founded upon a grant from Governor Pico to the present claimant dated the 19th June 1845 and approval by the departmental Junta.'"
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Title heading, stamped 76 SD PAGE 9 (PDF img 15): 'Pio Pico 1er vocal de la Exma. Asamblea y Gobernador Interino del Departamento de las Californias'; the concession decree of 18 June 1845 is signed 'Pico' with 'Juan Bandini Srio' (stamped PAGES 8-9, img 14-15). District Court opinion, stamped PAGE 132 (img 145): 'a grant from Governor Pico'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped 76 SD PAGE 9 (PDF img 15): 'Por cuanto D.n Pedro Estrada, ha pretendido para su beneficio personal y el de sus sucesores el terreno conocido con el nombre de la Asuncion, colindante con tierras del Paso del Robles, al rancho de D.n Trifon Garcia ... he venido en concederle el mencionado terreno, declarandole la propiedad de el por las presentes letras'. The Assembly's land committee report, stamped PAGE 11 (img 17), likewise approves 'la concesion hecha por el Supremo Gob.no del Departamento en favor del Ciud. Mejicano por nacimiento Pedro Estrada, del parage conocido con el nombre de la Asuncion'. Grantee, U.S. claimant and (per the register) patentee are all the same man, so the claimant/grantee trap does not arise."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 76 SOUTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 76 SD page 132'; every leaf stamped '76 SD'; Bancroft filename cubanc_lcf_sd076.pdf; District Court captions 'D.C. No 76' (stamped PAGE 122, img 135) and 'Case no. 76 on the Docket of this Court' (stamped PAGE 125, img 138). Land Commission docket no. 588 (title leaf, img 5) matches hoffman_1862 commission_no 588."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed, and the file carries the case past confirmation into an approved survey. Docket summary, stamped 76 SD PAGE 3 (PDF img 8): 'San Francisco January 24 1854. In the same Case Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim (Vide page 21 of this Transcript).' District Court opinion on the United States' appeal, stamped PAGE 132 (img 145): 'The genuineness of the grant is fully proven and it is also in evidence that it was occupied by the claimant at the time of the grant and has been so occupied ever since ... The claimant is therefore entitled to a confirmation of his claim and a decree will be entered accordingly.' That decree is presupposed by the survey record: order of 2 June 1862, stamped PAGE 119 (img 132), 'the Survey of the land Claimed in this Case, made under final decree and approved by the U.S. Surveyor General for California'; and the order of 9 June 1863, stamped PAGE 126 (img 139), Judge Fletcher M. Haight: 'the previous order of this Court for a return of said survey be & the same is hereby vacated & set aside; that the exceptions to said survey heretofore filed by said U.S. Dist Attorney be dismissed'."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The grant is a two-stage document and both stages fall in 1845: concession decree 18 June 1845, formal title 19 June 1845, Assembly approval 14 July 1845. The petition at stamped PAGE 4 (img 9) says '14th day of June A.D. 1845', a slip for the 19th; the register follows the year, which is right either way. Origin of the tract matters historically: it is ex-mission land of San Miguel, and Estrada's first application ran through Micheltorena's government in 1843 (petition of 26 Aug 1843, stamped PAGES 7 and 13, img 13 and 19) before Pico granted it in 1845. No patent copy in the file, so the register's patent (Pedro Estrada, 22 Mar 1866, GLO 318, 39,224.81 acres) is for Phase C, but the file does contain the Surveyor General's certificates of publication of the approved survey (5 April 1861, stamped PAGES 128 and 130, img 141 and 143) and the dismissal of the government's exceptions in 1863, which is the step immediately preceding patent. The District Court opinion sits on the LAST leaf of the file (stamped PAGE 132) rather than with the earlier court papers, so a reader who stops before the end will miss it."
+ },
+ {
+  "id": "rancho-azusa-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266083/files/cubanc_lcf_sd046.pdf",
+  "pdf_pages_stated": 75,
+  "pages_read": [
+   "1-12",
+   "13-20",
+   "60-72",
+   "73-85"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 46 / SOUTHERN DISTRICT / AZUSA GRANT / ANDRES DUARTE CLAIMANT'; transcript title leaf stamped 46 SD PAGE 1 (img 5): 'for the place named \"Azusa\"'. Expediente cover, stamped PAGE 7 (img 13): 'Espediente Promovido p.r el C.no Andres Duarte en Solicitud del parage llamado \"Asusa\" Ano de 1841'. The register's parenthetical (Duarte) is needed and correct: the file shows a SECOND Azusa immediately adjoining, 'the Rancho called Azuza now owned by Dalton', which at the time of possession 'belonged to Don Luis Arenas' (Ocampo deposition, stamped PAGES 52-53, img 62-63)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 46 SD PAGES 10-11 (PDF img 17-18): 'Monterey 10 de Mayo de 1841. Vista la peticion con que da principio este espediente, los informes del Sor Prefecto del segundo Distrito, el del R.P. Mtro. de San Gabriel, y el del Juez de la Ciudad de los Angeles ... se declaro al C.no Andres Duarte dueno en propiedad del terreno conocido con el nombre de Asusa'. District Court opinion, stamped PAGE 65 (img 75): 'The evidence in the case shews that the Grant was made to claimant of the lands claimed on the 10th of May 1841.' Juridical possession followed in June 1841 (Stearns deposition, stamped PAGE 6, img 11; Ocampo, stamped PAGE 55, img 65)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 46 SD PAGE 11 (PDF img 18): 'El Sor D.n Juan B. Alvarado Gob.te Constitucional del Departamento de las Californias asi lo mando decreto y firmo de que doy fee.' Abel Stearns, deposing 4 Nov 1852 (stamped PAGE 6, img 11), swears he is 'acquainted with the handwriting & signatures of Juan B Alvarado, Manuel Jimeno, Narcisso Botello, Ignacio Palomares, Ignacio Coronel & Francisco Ocampo' and that the grant to Duarte 'dated 10th day May 1841' bears genuine signatures."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 46 SD PAGE 10 (PDF img 17): 'se declaro al C.no Andres Duarte dueno en propiedad del terreno conocido con el nombre de Asusa, colindante al S. con el camino de las Papas, al N. con la Sierra, al E. con el rancho de D.n Luis Arenas y O. con el rancho de Santa Anita, sujeto a pagar el canon que se le imponga si resultare pertenecer el terreno a las quedas del Pueblo de San Gabriel'. Grantee, U.S. claimant and (per the register) patentee are the same man; the grant is signed for him by Felipe Carrillo because Duarte could not write ('A ruego de Andres Duarte p.r no saber escribir', stamped PAGE 9, img 16)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 46 SOUTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 46 SD PAGES 75'; every leaf stamped '46 SD'; Bancroft filename cubanc_lcf_sd046.pdf; District Court captions 'No. 46 (Transcript No. 374)' (stamped PAGE 63, img 73) and 'Docket No 46' (stamped PAGE 70, img 80). Land Commission docket no. 374 (title leaf, img 5) matches hoffman_1862 commission_no 374. Note the same docket number 46 belongs to a different rancho in the NORTHERN district (Arroyo de las Nueces y Bolbones, ND 46), so the district letter is load-bearing here."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at both levels and made final. Docket summary, stamped 46 SD PAGE 3 (PDF img 8): 'San Francisco Nov 4th 1853. In case No. 374 Andres Duarte for the place named \"Azusa\" Commissioner Alpheus Felch delivered the Opinion of the Board confirming the Claim (Vide page 28 of this Transcript).' District Court opinion, stamped PAGES 65-67 (img 75-77), filed 19 Sept 1855: 'The Grant is in the usual form and has all the requisites required by the Mexican law and the custom of the country ... it seems perfect in all respects except that there seems to have been no approval of the Departmental assembly. I have already decided that where a grant was valid in all other respects, that the claimant has such equitable right as to entitle him to a confirmation of his claim ... An objection is taken that the description of the land is uncertain. The Tract has on two sides natural boundaries, on the north the Sierra, on the east the River Azusa ... It certainly would be difficult I think to find more clearly defined lines. That the title be confirmed.' Attorney General to Ord, 16 Sept 1856, stamped PAGE 72 (img 82): 'In the case of the claim of Andres Duarte, confirmed to the claimant by the Commissioners, Case no. three hundred and seventy four (374), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Order of Judge Ogier, December Term 1856, stamped PAGE 70 (img 80), filed 23 Feb 1857: 'the order granting an appeal to the Supreme Court heretofore made in this Cause be and the same is hereby vacated, And that the Claimant have leave to proceed under the decree of this Court heretofore rendered in this Cause as under a final decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "The grant's one defect is worth recording for the register: it never received Departmental Assembly approval, and Judge Ogier confirmed anyway on the equitable-right ground he had already laid down 'in the Beatta case, heard at San Francisco in Mr Hall' (marginal note, stamped PAGE 65, img 75). That, plus the boundary uncertainty the District Attorney pressed, is the likely reason the patent did not issue until 1878 (register: Andres Duarte, 6 June 1878, GLO 455, 6,595.62 acres); no patent copy is in the file, so that is Phase C work. Grant quantity per the petition was 'a little more than one league in length and about one half in width' (translation, stamped PAGE 12, img 19), the claimant's U.S. petition says 'One and a half Square leagues a little more or less' (stamped PAGE 4, img 9), and the District Court decree as recorded in this file fixes no quantity, only the boundaries. Bancroft stamped pages run 1-75 and sit about 5 behind the PDF image number at the front and 10 behind at the back; a separate faint pencil foliation (053, 054, ...) also runs through the court papers, so cite the stamped '46 SD PAGE n'."
+ },
+ {
+  "id": "rancho-ballona",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264493/files/cubanc_lcf_sd123.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "98-111"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 123 / SOUTHERN DISTRICT / BALLONA GRANT / AGUSTIN MACHADO, ET AL CLAIMANT'; transcript title leaf stamped 123 SD PAGE 1 (img 5): 'for the place named \"Ballona\"'. Concession decree, stamped PAGE 12 (img 19): 'el terreno conocido con el Nombre de Ballona'. The 1839 petition gives the older name: 'el parage nombrado paso de las Carretas pero conocido mas generalmente por la Ballona' (stamped PAGE 10, img 17; translation stamped PAGE 16, img 23: 'the place called the \"Pass of the Waggons\" (Paso de las Carretas) but more generally known by the name of the Ballona')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 123 SD PAGE 12 (PDF img 19): 'Monterrey Noviembre 27 de 1839. Vista la peticion con que da principio este espediente ... les concedo a los C.nos Agustin e Ignacio Machado, Felipe e Tomas Talamantes, el terreno conocido con el Nombre de Ballona'. Title, stamped PAGE 14 (img 21): 'Dado en Monterey a veinte y siete de Noviembre de mil ocho-cientos treinta y nueve. Juan Bta Alvarado. Manuel Jimeno Secretario', with the registry note 'De tomese razon en el libro respectivo af.o 13'. Abel Stearns, deposing 11 Nov 1852 (stamped PAGE 6, img 10), authenticates 'a grant to Agustin & Ignacio Machado, Felipe & Tomas Talamantes dated 27th Nov 1839, to which is attached a testimonial of Judicial Possession given in December 1839'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree closing, stamped 123 SD PAGE 13 (PDF img 20): 'El Sor D.n Juan B. Alvarado Gobernador Constitucional del departamento de las Californias asi lo mando, decreto y firmo de que doy fee. Alvarado. Man.l Jimeno Srio.' Title heading on the same leaf: 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias'; signed 'Juan Bta Alvarado' at stamped PAGE 14 (img 21). The transcript index calls it 'Decree of title by Alvarado' and 'Copy of the Original title by Alvarado' (stamped PAGES 93-94, img 107-108)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 123 SD PAGE 12 (PDF img 19): 'les concedo a los C.nos Agustin e Ignacio Machado, Felipe e Tomas Talamantes, el terreno conocido con el Nombre de Ballona colindante al O. con el Rancho del C.no Policarpio y Migueras, al N con el del C.no Alaniz, al P. con el del C.no A. Ignacio Abila, y al S con el del Sor Jose Sepulveda'; title, stamped PAGE 13 (img 20): 'Por cuanto los ciudadanos Agustin e Ignacio Machado Felipe y Tomas Talamantes, han pretendido para sus beneficios personales y el de sus familias el parage conocido con el nombre de Ballona'. Four joint grantees; the register's 'Agustin Machado et al' is the first-named plus et al, exactly as the Bancroft red label and the U.S. summons run ('Agustin Machado, Ygnacio Machado, Felipe Talamantes and Thomas Talamantes', stamped PAGE 91, img 105). Grantees and U.S. claimants are the same four men."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 123 SOUTHERN DISTRICT'; leaf 2 pencil slip 'Land Case 123 SD'; every leaf stamped '123 SD'; Bancroft filename cubanc_lcf_sd123.pdf; District Court caption 'No. 123, Trans.t No. 369, \"Ballona\"' (stamped PAGE 87, img 101). Land Commission docket no. 369 (title leaf, img 5) matches hoffman_1862 commission_no 369."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at both levels and made final. Docket summary, stamped 123 SD PAGE 3 (PDF img 8): 'San Francisco February 14' 1854. In the same case Commissioner Thompson Campbell delivered the Opinion of the Board confirming the claim (Vide page 61 of this Transcript).' The U.S. appealed (summons of 10 Nov 1855, stamped PAGE 91, img 105: 'praying said court to review the decision of the U.S. Land Commissioners of the 14th day of Febry A.D. 1854 confirming your claim to Land called \"La Ballona\"'), on four objections - vagueness of grant, of map, of the act of juridical possession, and want of approbation (stamped PAGE 97, img 111). District Court decree, stamped PAGES 83-84 (img 97-98), filed 16 Jan 1856, describes the tract by the metes and bounds of the petition and closes 'reference for a more particular description being had to the Grant, Map and juridical possession of file in this Case. Isaac S. K. Ogier, U.S. Dist. Judge.' Attorney General to Ord, 18 Sept 1856, stamped PAGE 85 (img 99): 'In the case of the claim of Agustin Machado et al., confirmed to the claimants by the Commissioners, Case no. three hundred and sixty-nine (369), and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States.' Final order of Judge Ogier, December Term 1856, stamped PAGE 89 (img 103), filed 28 Jan 1857: 'It is ordered adjudged and decreed by the Court, That the order granting the Appeal to the Supreme Court be revoked, and that the decree of confirmation heretofore made by the Court in the said Cause to wit on the 19th day of December A.D. 1855 be and the same is now hereby made final.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Date-of-decree trap for a re-reader: the decree leaf is endorsed 'Filed Jany 16th 1856' (stamped PAGE 84, img 98) and both the 1857 stipulation and the final order were first written '17th day of January 1856' / '19th day of January A.D. 1856' and then corrected in the same hand to '19th day of December A.D. 1855' (stamped PAGES 87 and 89, img 101 and 103). December 1855 is the corrected reading and is the date the decree of confirmation was made final. Register's patent (Agustin Machado et al, 8 Dec 1873, GLO 434, 13,919.90 acres) is not in the file and is Phase C work; note Stearns thought the rancho only 'two to three square leagues' (stamped PAGE 8, img 13) and the claimants' petition said 'one league of grasing land more or less' (stamped PAGE 4, img 8), while the patent acreage is closer to three leagues. The grantees signed nothing: the 1839 petition ends 'No sabemos firmar' (stamped PAGE 10, img 17). Bancroft stamped pages run 1-97 and are about 4 behind the PDF image number at the front and 14 behind at the back; the transcript's own internal pagination (1-63) is a THIRD numbering, used by the index at stamped PAGES 93-95 (img 107-109), so cite the stamped '123 SD PAGE n'."
+ },
+ {
+  "id": "rancho-barranca-colorada",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264207/files/cubanc_lcf_nd371.pdf",
+  "pdf_pages_stated": 74,
+  "pages_read": [
+   "1-12",
+   "15-24",
+   "25-32",
+   "71-83",
+   "84-87"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 371 / NORTHERN DISTRICT / BARRANCA COLORADO GRANT / Wm. B. IDE CLAIMANT'; transcript title leaf stamped 371 ND PAGE 1 (img 5): 'for the place named Barranca Colorada'. Expediente cover, stamped PAGE 17 (img 23): 'Espediente promovido por D. Josias Belden en pretencion del Rancho de la Barranca colorado'. Grant title, stamped PAGE 20 (img 26): 'el terreno conocido con el nombre de Rancho de la Barranca Colorado'. Corrected Board decree, stamped PAGE 72 (img 86): 'is called \"Barranca Colorada Rancho\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Marginal decree ordering the title, stamped 371 ND PAGE 19 (PDF img 25): 'Monterey D.bre 24 de 1844. Espidase el tit.o Micheltor.a'. Title itself, stamped PAGE 21 (img 27): 'Dado en Monterey a los veinte y cuatro dia del mes de Diciembre del ano de mil ochocientos cuarenta y cuatro.' Departmental Assembly land committee, same leaf: 'Se aprueba la concesion hecha por el Superior Gobierno Departament.o en fabor del Ciud.o Mejicano por naturalizacion Josias Belden en titulo librado con f.ha 24 de Diciembre del ano p.p.do'. Belden's petition is dated Monterey 5 Nov 1844 (stamped PAGE 18, img 24)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title heading, stamped 371 ND PAGE 20 (PDF img 26): 'El C. Manuel Micheltorena General de Brigada del Ejercito Mejicano Ayudante General de la plana Mayor del mismo Gobernador Comand.te Gen.l e Inspector del Departam.to de Californias'; his own marginal decrees run through the expediente ('Monterey D.bre 20 de 1844. Inf.e el Juzgado ... Michel.na', stamped PAGE 18, img 24; 'Monterey D.bre 24 de 1844. Espidase el tit.o Micheltor.a', stamped PAGE 19, img 25). J. J. Warner, deposing 1 Sept 1853 (stamped PAGE 14, img 19), swears the signatures of 'Micheltorena, Manuel Jimeno, Pio Pico, Jose Ma. Covarrubias' on the expediente are all genuine."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped 371 ND PAGE 20 (PDF img 26): 'Por cuanto Josias Belden Mejicano por naturalizacion ha pretendido para su beneficio personal el terreno conocido con el nombre de Rancho de la Barranca Colorado ... en el nombre de la Nacion Mejicana he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'. This is the claimant/grantee trap in its clearest form and the register handles it correctly: William B. Ide is only the U.S.-era claimant, having bought the northern half from Belden 12 Apr 1849 and a share of the southern half 24 May 1849 (petition, stamped PAGES 4-5, img 9-10), and Belden himself deposed for Ide on 2 June 1853 saying 'I did not personally live on the land but I made an arrangement with William B Ide to occupy it as my agent for me' (stamped PAGE 13, img 18)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 371 NORTHERN DISTRICT'; leaf 2 typed slip 'LAND CASE 371 ND PAGES 74'; every leaf stamped '371 ND'; Bancroft filename cubanc_lcf_nd371.pdf; District Court captions 'Case No 371 Transcript 185' (stamped PAGE 58, img 71). Land Commission docket no. 185 (title leaf, img 5; Board transmittal, stamped PAGE 74, img 87) matches hoffman_1862 commission_no 185."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed by the Land Commission and never disturbed. Docket summary, stamped 371 ND PAGE 3 (PDF img 8): 'San Francisco July 24' 1855. In the same case Commissioner S. B. Farwell delivered the opinion of the Board confirming the claim.' Attorney General to U.S. Attorney Blanding, 22 Nov 1856, stamped PAGE 60 (img 73): 'In the case of the claim of Wm B. Ide, confirmed to the claimant by the Commissioners, case no. one hundred and eighty-five (185), appeal will not be prosecuted by the United States.' Order of Judge Ogden Hoffman, 13 Jan 1857, stamped PAGE 58 (img 71): 'it is Ordered, Adjudged and decreed that the appeal pending in this Court be dismissed and that the claimant have leave to proceed under the decree of the Land Commission heretofore rendered in his favor, as under Final Decree.' The confirmation was then amended for a clerical error, on the claimants' petition of 8 Mar 1860, by Circuit Judge M. Hall McAllister, stamped PAGES 71-72 (img 85-86): 'it is hereby ordered and decreed that the said decree of the said Board of Commissioners be and the same is hereby amended and corrected so as to read as follows: \"William B. Ide vs The United States, No 185. On hearing the proof and allegations it is adjudged by the Commission that the claim of the petitioners is valid and it is therefore decreed that their application for a confirmation thereof be allowed for the benefit of the Heirs of William B. Ide, and to James M Ide and William C Cooper. The land of which Confirmation is hereby given is situate in the County of Colusi, and is called \"Barranca Colorada Rancho\" ... its measurement to commence on the West side of the Sacramento River at the Northeast corner of the Rancho de los Flores, and running up said river to the \"Barranca Colorada\" with a sufficient width to include four square Leagues\" ... entered nunc pro tunc as of date the Thirteenth day of January 1857.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "This file explains the register's patent date and is worth citing in the register itself. The General Land Office REFUSED the patent on 17 Dec 1859 (Commissioner S. A. Smith to the Surveyor General, stamped PAGES 66-67, img 79-80): 'The decree of the Commissioners which became final, requires that the measurement of the tract confirmed shall \"commence on the West side of the Sacramento River, at the mouth of the Arroyo de los Saucos, and running up said river to the Barranca Colorada\". The petition grant and deseno in this case all represent the \"Rancho de los Flores\" as the South boundary of the claim, and the survey is made accordingly, nowhere touching the \"Arroyo de los Saucos\" ... The survey then, though without doubt correctly located, is not in accordance with the decree, and we must therefore decline to issue a Patent until the case is relieved of this objection by reforming the decree.' The reformed decree of 8 Mar 1860 cured it, and the register's patent (3 July 1860, GLO 3, 17,707.49 acres, i.e. four leagues) follows two months later. Two cautions for the register: (1) the corrected decree confirms 'for the benefit of the Heirs of William B. Ide, and to James M Ide and William C Cooper', not to Ide personally - he died in October 1852, after filing (amended petition, stamped PAGE 16, img 22) - so the register's patent_to 'William B. Ide' is the name the GLO used but not the set of confirmees; (2) the corrected English translation of the grant, stamped PAGE 26 (img 32), appears to read 'Given in Monterey the 25th of December 1844', while the Spanish title, Micheltorena's marginal decree, and the Assembly's report all say 24 December - treat the Spanish as controlling. The tract is carved out of land Micheltorena had earlier granted provisionally to William Chard, who kept half and voluntarily left this half to Belden (Jimeno's report, stamped PAGE 18, img 24); Sutter certified the land vacant from New Helvetia, 10 Oct 1844 (stamped PAGE 19, img 25)."
+ },
+ {
+  "id": "rancho-baulines",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265785/files/cubanc_lcf_nd189.pdf",
+  "pdf_pages_stated": null,
+  "pages_read": [
+   "1-12",
+   "13-24",
+   "25-36",
+   "37-43",
+   "52-63",
+   "64-75",
+   "270-282"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label: 'CASE No. 189 / NORTHERN DISTRICT / LOS BAULENES GRANT / GREGORIO BRIONES CLAIMANT'; transcript title leaf stamped 189 ND PAGE 1 (img 6): 'for the place named Los Baulenes'. Concession decree, stamped PAGE 32 (img 40): 'el terreno de las Baulines'. District Court decree, stamped PAGE 56 (img 65): 'The lands of which Confirmation is hereby made is known by the name of Baulines situated in the County of Marin'. Register's 'Las Baulines' matches the decree's own form."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant instrument dated 11 Feb 1846. Board opinion, stamped 189 ND PAGE 44 (PDF img 52): 'A grant is given in evidence made to the present claimant by Governor Pio Pico and dated February 11th 1846, the genuiness of which is proved by the testimony of William A Richardson. No approval by the Assembly is shown.' W. A. Richardson, deposing 1 Feb 1853, stamped PAGE 8 (img 16): 'Look on the original Document now shown you purporting to be an original grant from Pio Pico to Gregorio Briones of the Rancho de Baulinas dated February 11th 1846 ... I have examined the Document now shown me and have no doubt of its genuineness.' Claimant's petition, stamped PAGE 6 (img 13): 'That on the eleventh day of February 1846 the said Pio Pico Governor as aforesaid issued to your petitioner the grant of said land.' SEE NOTES: the underlying concession decree in the archival expediente is dated 27 Nov 1845, so this grant straddles two years."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board opinion, stamped 189 ND PAGE 44 (PDF img 52): 'a grant ... made to the present claimant by Governor Pio Pico'. Richardson authenticates the original grant as bearing the genuine signatures of Pico and his secretary Covarrubias, stamped PAGE 8 (img 16): 'I am acquainted with the hand writing of Pio Pico and of Jose Maria Covarrubias having often seen them write. The signatures upon said document purporting to be the signatures of those gentlemen are the genuine signatures.' The concession decree of 27 Nov 1845 in the traced expediente was issued at 'Angeles' (stamped PAGE 32, img 40), Pico's seat of government, and Pablo Briones swears he carried the diseno from Monterey 'to the Governor (Pio Pico) who was in Los Angeles' in February 1846 (stamped PAGES 18-19, img 26-27, and Richardson at stamped PAGE 22, img 30)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped 189 ND PAGE 32 (PDF img 40): 'Angeles Noviembre 27 de 1845. Vista la espeticion con que da principio este espediente, las informes que en este constan ... de conformidad con la ley de 18 de Agosto de 1824 y reglamento de 21 de Noviembre de 1828, declaro al Ciudadano Gregorio Briones dueno del terreno de las Baulines que tiene de estension dos sitios de ganado mayor poco mas o menos.' The expediente cover reads 'Espediente promovido por el Ciud.o Gregorio Briones en pretencion del terreno que espresa' (stamped PAGE 26, img 34). Grantee and U.S. claimant are the same man; the register's 'G. Briones' is the initialled form."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF img 1 red label 'CASE No. 189 NORTHERN DISTRICT'; leaf 2 pencil slip 'Land Case 189 ND'; every leaf stamped '189 ND'; Bancroft filename cubanc_lcf_nd189.pdf; District Court captions 'D.C. 189: L.C. 541' (stamped PAGE 59, img 68) and 'No 189: Tr 541' (stamped PAGE 53, img 62). Land Commission docket no. 541 (title leaf, img 6; Fisher's certificate stamped PAGE 48, img 56) matches hoffman_1862 commission_no 541."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Confirmed at both levels and made final. Board opinion by Commissioner Alpheus Felch, stamped 189 ND PAGE 46 (PDF img 54): 'The occupancy of the premises by said Briones and the family as their residence and his continued cultivation thereof and keeping stock on the place from a period sometime anterior to his grant to the present time is abundantly proved. He is entitled to a confirmation. Confirmed. Filed in office Aug. 15. 1854'; Board decree, same leaf and stamped PAGE 47 (img 55), signed Alpheus Felch, R. Aug. Thompson, S. B. Farwell. U.S. appealed (Attorney General Cushing 7 Mar 1855, stamped PAGE 49, img 58; petition for review by U.S. Attorney Blanding 16 Jan 1857, stamped PAGE 53, img 62: 'That the said claim is invalid. Wherefore appellants pray that the said decision of the Board be reversed'). District Court decree, stamped PAGES 55-57 (img 64-66), 19 January 1857: 'the United States District Attorney for said district having stated that he made no objection to the Confirmation of said title, it is therefore, ordered, adjudged and decreed, that the title of the claimant to the lands in this Case claimed is valid, and that the same be confirmed. It is further ordered, adjudged and decreed that the judgment of the Commissioners be in all things affirmed ... Containing two square leagues of land, more or less ... Ogden Hoffman, U.S. Dist Judge.' Attorney General, 10 Feb 1857, stamped PAGE 62 (img 71): 'In the case of the claim of Gregorio Briones, confirmed to the claimant by the Commissioners, Case no. five hundred and forty one (541), appeal will not be prosecuted by the United States.' Order of Judge Hoffman, 2 April 1857, stamped PAGE 59 (img 68): 'it is Ordered Adjudged and decreed that claimant have leave to proceed under the decree of this Court heretofore rendered in his favor, as under Final Decree.'"
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "TWO-YEAR GRANT, worth a register footnote: the concession decree is 'Angeles Noviembre 27 de 1845' (stamped PAGE 32, img 40) but the formal title Pico issued to Briones is dated 11 February 1846, and it is the 1846 title that the Land Commission adjudicated and that Richardson authenticated. The register's 1846 and Hoffman's 1846 both follow the title; a reader wanting the concession date needs 1845. The claimant's own U.S. petition (stamped PAGE 6, img 13) misdates the decree '29th of November 1845' - the archival copy says the 27th. The claim has a long prehistory in the file: Briones occupied from about 1837 under a provisional permit from the military commandant of the northern frontier (petition of 19 Oct 1841 to Salvador Vallejo, stamped PAGES 29-30, img 37-38), petitioned the Prefect of the 1st District on 30 July 1842 (stamped PAGE 27, img 35, translation stamped PAGES 34-35, img 42-43), was bounced between jurisdictions by Hinckley and Leese in March 1844, and only got a title after renewing the application to Pico on 16 June 1845 (stamped PAGE 31, img 39). Salvador Vallejo ordered the 1841 judicial measurement, which W. A. Richardson made with Antonio Ortega (Richardson, stamped PAGE 21, img 29; Ortega, stamped PAGES 14-17, img 22-25). No Departmental Assembly approval was ever obtained and Felch confirmed anyway. No patent copy in the file, so the register's patent (Gregorio Briones, 9 Jan 1866, GLO 35, 8,911.34 acres) is Phase C; the delay is explained by a survey contest - O. L. Shafter, Jas. McM. Shafter, T. W. Park and Solomon Heydenfeldt, successors of Bethuel Phelps in the adjoining Tomales y Baulines confirmation, intervened claiming the Surveyor General's survey of Briones's rancho 'is erroneous and in conflict with the right of your petitioners' (stamped PAGE 66, img 75), and the back third of this 282-image file is their exhibits (deeds and leases from Gregorio and Pablo Briones, 1857-1859, stamped PAGES 257-269, img 270-282). Bancroft stamped pages run to at least 269 and sit about 5 behind the PDF image number at the front, drifting to about 13 behind at the back; cite the stamp."
+ }
+]

@@ -1,14 +1,14 @@
 {
  "note": "CONSOLIDATED proposed corrections from the blind-100 audit + the Phase B census - NOT applied; data/ranchos-register.* stays byte-identical to Zenodo v1.0 until Aodhan cuts v1.1. Census is still in progress; re-run scripts/build_corrections.py to refresh.",
- "census_records_graded": 194,
- "count": 158,
- "new_beyond_v11_staged": 128,
+ "census_records_graded": 313,
+ "count": 171,
+ "new_beyond_v11_staged": 141,
  "by_field": {
-  "grantee": 87,
+  "grantee": 97,
   "year": 40,
-  "governor": 24,
+  "governor": 25,
+  "name": 4,
   "land_case": 3,
-  "name": 2,
   "outcome": 2
  },
  "entries_missing_correction_text": [
@@ -112,6 +112,16 @@
    "correction": "Nicolas Gutierrez granted El Molino (1836); Figueroa granted only the exchanged-away Ojotska tract (Dec 1833). Per petition transcript p4 and Vallejo deposition transcript p7; Hoffman corroborates 'Feb. 24th 1836, by Nicolas Gutierrez'.",
    "evidence": "The El Molino (Molinos) tract was granted by NICOLAS GUTIERREZ, not Figueroa. Petition (transcript p4): 'Nicolas Gutierez Governor of California by virtue of authority in him vested Issued to the petitioner a title for the aforesaid tract of Levanta hyeme.' Vallejo (transcript p7, who as Cooper's agent handled the exchange and got the El Molino title): 'granted... in 1836 by Governor Gutierez... The arrangement was made with Governor Figueroa before his death, but was completed by Governor Gutierez.' Figueroa granted only the exchanged-away Ojotska tract (decree transcript p25, título p27, Dec 1833).",
    "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-monte-cabestros",
+   "field": "governor",
+   "register_value": "Alvarado",
+   "correction": "Granting officer was JOSE MARIA VILLAVICENCIO, Prefect ad interim of the First District, by titulo dated at San Juan de Castro, 30 July 1840 (stamped pp19-21; translation pp24-26). Governor Juan B. Alvarado's only act in the expediente is the order for juridical possession, 'Alisal Nov.re 1.o de 1842' (stamped p21). Register (and Hoffman) name the approving governor, not the grantor.",
+   "evidence": "The grant was NOT made by Governor Alvarado. Titulo, Spanish original stamped p19: 'Jose M.a Villavicencio Prefecto interino del primer Distrito del Departamento de las Californias. Por cuanto Esteban Espinosa mexicano por nacimiento ha pretendido para su beneficio personal y el de su familia un terreno de la estencion de un cuarto de legua... usando de las facultades que me son conferidas por la Ley Reglamentaria de 20 de Marzo de 1837 he venido en concederle el terreno mencionado declarandole la propiedad de el por las presentes letras'; signed at stamped p21 'Jose M.a Villa[vicencio] / Franco. C. Arce Srio Int.o'. Sworn translation, stamped pp24-25: 'Jose Maria Villavicencio, Prefect for the time being of the first District of the Department of California... in exercise of the powers conferred upon me by the laws of 20th of March, 1837, I have granted to him the said Esteban Espinosa the above mentioned tract of land.' Alvarado appears only afterwards, ordering judicial possession: stamped p21, 'Alisal Nov.re 1.o de 1842. De conformidad con lo concedido por el prefecto del primer Distrito dese posecion de un cuarto de Legua de terreno al Ciudadano Estevan Espinoza... Juan B. Alvarado / Man.l Jimeno Srio.' The claimant's own Board petition states the distinction plainly, stamped p4: 'a grant made to Esteben Espinosa... by Jose M. Vall[avicencio] Prefect of the Town of San Juan, on the 30th day of July, 1840 and approved by Juan B. Alvarado, Governor of the department of California on the 1st day of Nov 1842.' Hoffman 1862 repeats the register's 'Juan B. Alvarado', so Hoffman and the register agree AGAINST the case file; the file governs.",
+   "audit_source": "chunk10.json",
    "in_v11_staged": false,
    "in_errata": false
   },
@@ -396,6 +406,16 @@
    "in_errata": true
   },
   {
+   "id": "rancho-coyotes",
+   "field": "grantee",
+   "register_value": "Manuel Nieto",
+   "correction": "Juan Jose Nieto (Board opinion stamped p119: 'the grant made to him ... by Governor Jose Figueroa bearing the date of May 22nd 1834'; decree stamped p122: 'the same premises granted to Don Juan Jose Nieto'). Manuel Nieto, the register's value, was the original Fages-era concessionaire of the undivided Nieto tract and died in 1804 (petition stamped p5; Alanis deposition stamped p12).",
+   "evidence": "The 1834 Figueroa grant of Los Coyotes ran to JUAN JOSE NIETO, not to Manuel Nieto. Board opinion stamped p119: 'The portion called \"Los Coyotes\" ... was assigned to Juan Jose Nieto and the grant made to him of the same by Governor Jose Figueroa bearing the date of May 22nd 1834'. Board decree of confirmation stamped p122: 'being the same premises granted to Don Juan Jose Nieto, reference for more particular description thereof to be had to the said grant'. Stearns, stamped p10: 'an original grant from Governor Figueroa to Juan Jose Nieto ... dated 22d of May 1834, to which is attached a certificate of sale said Nieto to Juan B. Leandry'. Manuel Nieto was the eighteenth-century concessionaire of the whole undivided Nieto tract under Governor Pedro Fages and HE DIED IN 1804: claim petition stamped p5, 'all of which said tract was owned and possessed by one Manuel Nieto who died seized thereof about the 1804-5 ... derived his title to said tract of land from Don Pedro Fages Governor ... believed and averred to have been made some time between years 1784 & 1792-3'; Nicolas Alanis, stamped p12, 'I knew Manuel Nieto from my boyhood. He died in 1804 ... At the death of Nieto he left four children'. Manuel Nieto could not be the grantee of an 1834 instrument. Register's grantee field is wrong as paired with its own 1834/Figueroa values.",
+   "audit_source": "chunk06.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
    "id": "rancho-cruces",
    "field": "grantee",
    "register_value": "Vicente Cordero",
@@ -442,6 +462,26 @@
    "correction": "Jose Trinidad Espinosa, per Alvarado decree of 30 Sept 1837 (stamped p20-21) and District Court decree (stamped p51). Register recorded the U.S.-era claimant (his daughter Fermina Espinosa de Perez, misspelled 'Fermin') - the claimant-for-grantee error class",
    "evidence": "Grantee was JOSE TRINIDAD ESPINOSA: expediente petition and decree (stamped p16/p20-21), Board opinion stamped p34 ('granted... to Jose Trinidad Espinosa the father of the petitioner about the year 1824', regranted 1837), District Court decree stamped p51 ('to Jose Trinidad Espinosa'). 'Fermina Espinosa de Perez' was the CLAIMANT, the grantee's daughter (Hartnell deposition stamped p7: 'She is the grantee's daughter'); register also garbles her given name to masculine 'Fermin'",
    "audit_source": "chunk14.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-guadalupe-llanitos-correos",
+   "field": "grantee",
+   "register_value": "Mariano Malarin",
+   "correction": "Juan Malarin, not Mariano. Verbatim from the grant, stamped p.9: 'Dn. Juan Malarin segundo teniente honorario de la Armada Nacional'; Deputation approval stamped p.11: 'el ciudadano Juan Malarin'; District Court opinion stamped p.184: 'two Grants from Governor Figueroa to Juan Malarin the deceased father of the present claimants.' Mariano Malarin was the executor of Juan's estate and the U.S. claimant.",
+   "evidence": "The register records the U.S.-era CLAIMANT, not the Mexican grantee. The grantee was JUAN Malarin; Mariano Malarin was his son, the executor of his estate, and the man who filed the U.S. claim in 1852. Grant, stamped p.9: 'Por cuanto Dn. Juan Malarin segundo teniente honorario de la Armada Nacional ha pretendido pa. su beneficio personal y el de su familia el terreno conocido con el nombre de Llanito de los Correos en ampliacion del parage de Guadalupe qe. se le concedio por decreto de diez y ocho de Noviembre de mil ochocientos treinta y tres.' Deputation approval, stamped p.11: 'Se aprueba la concesion echa al ciudadano Juan Malarin.' Exhibit C heading, stamped p.8: 'la ampliacion qe. se le concedio al C. Juan Malarin.' District Court opinion, stamped p.184, captioned 'The United States, appellants vs The Heirs of Juan Malarin, appellees': 'The claim in this case is founded upon two Grants from Governor Figueroa to Juan Malarin the deceased father of the present claimants ... The Original Grantee is dead and the affidavit of his executor one of the claimants in this case is to the effect that he took charge of his father's papers immediately upon his death.' Claimant's own petition, stamped p.4: 'Mariano Malarin Executor of the Estate of the late D. Juan Malarin of Monterey ... That said grant to the late D. Juan Malarin.' Red label on PDF p1 spells the relationship out: 'MARIANO MALARIN, EXECUTOR OF ESTATE OF JUAN MALARIN, CLAIMANT.'",
+   "audit_source": "chunk07.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-guajome",
+   "field": "grantee",
+   "register_value": "Andrés, Solmé and Catarina",
+   "correction": "Andres and Jose Manuel, neophyte Indians of Mission San Luis Rey. Verbatim from the grant, stamped p.10: 'los Indigenas de la Mision de Sn. Luis Rey Andres y Jose Manuel.' Solme and Catarina are Jose Manuel's heirs, who joined Andres as U.S.-era claimants after Jose Manuel's death about 1850; they were never grantees.",
+   "evidence": "The register records the U.S.-era CLAIMANTS, not the Mexican grantees. The grant names exactly two grantees, both Indians: 'Por cuanto los Indigenas de la Mision de Sn. Luis Rey ANDRES Y JOSE MANUEL, han pretendido para su beneficio y el de sus familias las tierras y aguaje del parage de Guajome que hace tiempo ocupan y cultivan ... he venido en concederles las espresadas tierras y el manantial que contienen' (stamped p.10); translation stamped p.11: 'the natives of the Mission of San Luis Rey, Andres & Jose Manuel, have petitioned for their personal benefit and that of their families.' The act of judicial possession likewise runs to 'los Indios Andres y Jose Manuel de la Mision de San Luis Rey' (stamped p.13). Solme and Catarina entered only as HEIRS after Jose Manuel died: the petition, stamped p.4, states 'Said place was originally granted in fee jointly to the said Andres & Jose Manuel by Pio Pico ... The said Jose Manuel died about the year 1850, leaving no other heirs than his widow Catarina above named and his mother Solme aforesaid.' Commission opinion, stamped p.18: 'the year 1850 one of the same Grantees, Jose Manuel died, leaving as his only heirs his wife Catarina, and his mother Solme ... the said petitioners have placed on file the original grant made to Andres and Jose Manuel.' District Court opinion, stamped pp.52, 54: 'a grant from Governor Pico, to Andres one of the present claimants, jointly with one Jose Manuel, both Neophyte Indians of the Mission of San Luis Rey ... The petition alledges the death of one of the original Grantees Jose Manuel.'",
+   "audit_source": "chunk07.json",
    "in_v11_staged": false,
    "in_errata": false
   },
@@ -516,6 +556,26 @@
    "in_errata": false
   },
   {
+   "id": "rancho-laguna",
+   "field": "grantee",
+   "register_value": "Bishop S. Alemany",
+   "correction": "Not Alemany. His petition (stamped PAGE 7) names the Mexican-era bishop as 'the late Rt. Rev. Francisco Garcia Diego, the late Catholic Bishop of the Diocess of California'. The actual grantee of whatever grant this register row means is NOT established here - no decree was read - so Phase C must resolve it from the correct case file.",
+   "evidence": "'Bishop S. Alemany' is the U.S.-era CLAIMANT, not a Mexican grantee, and he could not have received an 1844 grant. His own petition, stamped PAGE 7, describes him as 'Joseph Sadoc Alemany, Roman Catholic Bishop of the Diocess of Monterey, in the State of California, a corporation Sole' and expressly as 'the lawful successor of the late Rt. Rev. Francisco Garcia Diego, the late Catholic Bishop of the Diocess of California, as the same existed under the former Government of this State'. The Mexican-era bishop was therefore Francisco Garcia Diego, not Alemany. This is the audit's dominant error class: the land-case claimant sitting in the grantee field",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-laguna-2",
+   "field": "grantee",
+   "register_value": "Miguel Abila",
+   "correction": "'Octaviano Gutierrez'. Pico's grant, stamped PAGE 19: 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"La Laguna\"'. Micheltorena's provisional title of 12 March 1844 (stamped PAGES 12-13) names the same man. The register's 'Miguel Abila' is unsupported by the case file; grantee and patentee are the same person, so the register's own patent_to field ('Octaviano Gutierrez') is the correct value for the grantee field too.",
+   "evidence": "The grantee is OCTAVIANO GUTIERREZ, not Miguel Abila, and BOTH title instruments say so. Pico's definitive title, stamped PAGE 19 (and archive copy stamped PAGE 16): 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de \"La Laguna\", el diseno que acompano a su solicitud...' Micheltorena's earlier provisional title, stamped PAGE 12: 'Por cuanto D.n Octaviano Gutierrez ha pretendido para su beneficio personal y el de su familia se le concede principalmente el terreno conocido con el nombre de la Laguna', closing at stamped PAGE 13 'Dado en Monterey a Doce de Marzo de mil ochocientos cuarenta y cuatro. Manuel Micheltorena. Manuel Jimeno Secretario.' The expediente cover (stamped PAGE 10) and the claimant's own petition (stamped PAGE 5, 'granted to the petitioner') agree. The name 'Miguel Abila' does not occur anywhere in the pages read",
+   "audit_source": "chunk08.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
    "id": "rancho-laguna-merced",
    "field": "grantee",
    "register_value": "Josefa de Haro",
@@ -576,6 +636,26 @@
    "in_errata": false
   },
   {
+   "id": "rancho-nicasio",
+   "field": "grantee",
+   "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "correction": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')",
+   "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees.",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-nicasio-1",
+   "field": "grantee",
+   "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "correction": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')",
+   "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees.",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
    "id": "rancho-nicasio-2",
    "field": "grantee",
    "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
@@ -584,6 +664,26 @@
    "audit_source": "blind-100",
    "in_v11_staged": true,
    "in_errata": true
+  },
+  {
+   "id": "rancho-niscasio",
+   "field": "grantee",
+   "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "correction": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')",
+   "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees.",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-niscasio-1",
+   "field": "grantee",
+   "register_value": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "correction": "Pablo de la Guerra (ten sitios de ganado mayor) and Juan B. R. Cooper (six sitios de ganado mayor), per the grant decree of 1 Aug 1844, stamped p.27-28 (Spanish) / p.30-31 (sworn translation 'B')",
+   "evidence": "stamped p.30-31, sworn translation of title marked 'B': 'Citizen Manuel Micheltorena General of Brigade of the Mexican Army ... Whereas Don Pablo de la Guerra and Don Juan Cooper have for their own personal benefit petitioned for the greater part of the land known by the name of \"Nicasio\" ... I have granted to the aforesaid Don Pablo de la Guerra ten Sitios de ganado Mayor (ten square leagues) ... and in consideration of the transfer made by Don Juan Cooper of Four Thousand dollars due to him from the National Treasury I grant him six sitios de ganada Mayor (six square leagues) ... Given in Monterey on the 1st of August 1844. (signed) Manuel Micheltorena'; Spanish original at stamped p.27-28 -- the register's 'Henry W. Hallack, James Black, and Benjamin R. Buckelew' are the U.S.-era claimants (stamped p.5 petition and p.8 supplemental petition), not the Mexican grantees.",
+   "audit_source": "chunk11.json",
+   "in_v11_staged": false,
+   "in_errata": false
   },
   {
    "id": "rancho-not-determined",
@@ -654,6 +754,16 @@
    "audit_source": "blind-100",
    "in_v11_staged": true,
    "in_errata": true
+  },
+  {
+   "id": "rancho-positas",
+   "field": "grantee",
+   "register_value": "Salvio Pacheco",
+   "correction": "Jose Noriega and Robert Livermore, per Alvarado's decree of 10 April 1839, stamped p6 (Spanish) and p12 (sworn translation): 'Whereas Don Jose Noriega & Don Robert Livermor have petitioned ... I have thought proper to grant them said place'",
+   "evidence": "The grant decree names two men and neither is Pacheco. Spanish stamped p6: 'Por cuanto D. Jose Noriega y D. Roberto Livermor han pretendido para sus beneficios personales y el de sus familias, el parage conocido con el nombre de las Pocitas ... he venido en concederles el parage mencionado declarandoles la propriedad de el'. Sworn translation stamped p12: 'Whereas Don Jose Noriega & Don Robert Livermor have petitioned ... I have thought proper to grant them said place declaring the same to be their property by this letter patent'. Junta Departamental approval 22 May 1840 and the confirming despacho of 10 June 1840 again name only 'D. Jose Noriega y D. Roberto Livermot' (stamped p9 / p14). Register 'Salvio Pacheco' is wrong.",
+   "audit_source": "chunk13.json",
+   "in_v11_staged": false,
+   "in_errata": false
   },
   {
    "id": "rancho-posolmi",
@@ -1162,6 +1272,26 @@
    "correction": "Jimeno Rancho (Rancho de Jimeno) per p1 red label, transcript title p5, Board transmittal p147 and District Court caption p145; 'Cachil Dehe Rancheria' appears nowhere in the file",
    "evidence": "The file never uses 'Cachil Dehe'. PDF p1 red label: 'CASE No. 23 / NORTHERN DISTRICT / JIMENO RANCHO GRANT / THOMAS O. LARKIN ET AL CLAIMANT'. Transcript title page (PDF p5): 'for the place named \"Jimeno Rancho\"'. Board secretary's transmittal, San Francisco April 13, 1854 (PDF p147, stamped case p142): 'for the place known by the name of \"Jimeno Rancho\"'. District Court caption (PDF p145, case p140): 'Thomas O. Larkin and John S. Missroon, Appellees & Claimants for \"Rancho de Jimeno\"'.",
    "audit_source": "chunk02.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-cienega-o-paso-tijera",
+   "field": "name",
+   "register_value": "Cienega O Paso De La Tijera",
+   "correction": "Agua / Aguaje del Centinela (case label img1 and transcript title stamped p1: 'Agua del Centinela'; grant stamped p10: 'Laguna del Centinela'; Jimeno's clarifying note stamped p11: 'el parage nombrado Aguaje del Centinela'). The register has 'Cienega O Paso De La Tijera', which belongs to SD 376, not SD 125.",
+   "evidence": "SD 125 IS NOT THE CIENEGA GRANT. img1 red label: 'CASE NO. 125 / SOUTHERN DISTRICT / AGUA DEL CENTINELA GRANT / BRUNO ABILA CLAIMANT'; transcript title stamped p1 'for the place named \"Agua del Centinela\"'; docket stamped p2 'The Petition of Bruno Abila for the Place named \"Agua del Centinela\" ... docketed with No. 381'. The grant itself, stamped p10, describes 'el terreno nombrado Laguna del Centinela, desde el ojo de agua hasta el maiz', with Jimeno's note stamped p11: 'La concesion se entiende que es el parage nombrado Aguaje del Centinela colindante con el llano conocido por el Plan, por el Oriente con D. Antonio Ygnacio Avila y D.n Vicente Sanchez, por el Norte con el mismo Senor Sanchez, y por el Poniente con los Senores Machados.' Hoffman's table agrees, printing 'Aguage del Centinela' for court no. 125. Cienega o Paso de la Tijera is the SEPARATE claim, SD 376 (the register's own next row).",
+   "audit_source": "chunk05.json",
+   "in_v11_staged": false,
+   "in_errata": false
+  },
+  {
+   "id": "rancho-laguna",
+   "field": "name",
+   "register_value": "Laguna",
+   "correction": "SD 388 is 'Lands and property of the Catholic Church' (red label img1; transcript title stamped PAGE 1), Board docket 609, Joseph S. Alemany claimant. The Bancroft catalogue record the register itself cites (digicoll 269007) titles the same docket 'Canada de los Pinos (also called College Rancho, San Isidro, Aguichum, and Rancho de Collegio Episcopal), Santa Barbara County'. Neither is 'Laguna'.",
+   "evidence": "The bound volume stamped '388 SD' is NOT a rancho named Laguna. img1 red label reads verbatim: 'CASE NO. / 388 / SOUTHERN DISTRICT / LANDS AND PROPERTY OF THE CATHOLIC CHURCH GRANT / JOSEPH S. ALEMANY / CLAIMANT'. Transcript title page (stamped PAGE 1): 'TRANSCRIPT OF THE PROCEEDINGS IN CASE NO. 609. Joseph S. Alemany, CLAIMANT vs. THE UNITED STATES, DEFENDANT, FOR THE PLACE NAMED Lands and property of the Catholic Church'. The journal entry at stamped PAGE 2 repeats: 'The Petition of Joseph S. Alemany ... Lands & property of the Catholic Church was presented, and ordered to be filed and docketed with No. 609'. The word 'Laguna' appears nowhere in the pages read",
+   "audit_source": "chunk08.json",
    "in_v11_staged": false,
    "in_errata": false
   },

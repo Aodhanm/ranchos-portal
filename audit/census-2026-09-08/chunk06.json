@@ -1,0 +1,515 @@
+[
+ {
+  "id": "rancho-coches-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/267546/files/cubanc_lcf_sd202.pdf",
+  "pdf_pages_stated": 60,
+  "pages_read": [
+   "img 1-14 (stamped p1-9)",
+   "img 15-24 (stamped p10-17)",
+   "img 61-70 (stamped p51-60)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'CASE No. 202 / SOUTHERN DISTRICT / LOS COCHES GRANT / MARIA JOSEFA SOBERANES CLAIMANT'; transcript p1 heading 'for the place named \"Los Coches\"'; espediente heading stamped p8 'del parage conocido con el nombre de los \"Coches\"'. Register reads 'Las Coches'; every form in the file is 'Los Coches' (the grant decree itself, stamped p11, says 'las Coches')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped p11 (Spanish): 'Dado en Monterey a quince de junio de mil ocho cientos cuarenta y uno' signed 'Juan Bautista Alvarado / Manuel Jimeno Srio'; sworn translation stamped p15: 'Given in Monterey on the 15th of June 1841'. The concession decree preceding it is dated 'Monterrey 14 de Junio de 1841' (stamped p10)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped p11: 'Juan B. Alvarado Gobernador Constitucional del departamento de las Californias ... he venido en concederle el terreno mencionado'; translation stamped p14 'Juan B Alvarado constitutional Governor of the Department of both Californias'."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title, stamped p11: 'Por cuanto Da. Maria Josefa Soberanes ha pretendido para su beneficio personal y el de su familia el parage conocido con el Nombre de las Coches'. The father Feliciano Soberanes petitioned 24 May 1841 only 'a nombre de mi hija Ma. Josefa' (stamped p9); the grant runs to the daughter."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 202 SOUTHERN DISTRICT'; every transcript leaf stamped '202 SD'; PDF filename cubanc_lcf_sd202.pdf; Commission docket no. 599 (transcript p2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board REJECTED the claim 26 Sept 1854 (transcript p3: 'Commissioner R. Aug. Thompson delivered the opinion of the Board rejecting the claim'), but the U.S. District Court, Southern District, Special Term Sept. 1855, stamped p55: 'the decision of the said Commission be and the same is hereby reversed and annulled ... the claim of the appellant the said Maria Josefa Soberanes is a good and valid claim ... hereby confirmed to the extent of two square leagues'. U.S. Attorney General's office 4 Oct 1856 (stamped p59): 'confirmed by the District Court, appeal will not be prosecuted by the United States.' Confirmation is therefore final in the file; patent itself not in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Los Coches (not 'Las Coches') per red label p1 and transcript p1"
+  },
+  "notes": "Trap check: an appeal was taken to the U.S. Supreme Court on the government's motion (order stamped p57, 24 Sept 1855) but the AG dismissed it (stamped p59), so 'Confirmed' stands. Note the register's patent_date 'Feb. 10, 1917' is not testable from this file. Single-volume case, no multi-volume warning."
+ },
+ {
+  "id": "rancho-corral-piedra",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266082/files/cubanc_lcf_sd045.pdf",
+  "pdf_pages_stated": 89,
+  "pages_read": [
+   "img 1-12 (stamped p1-7)",
+   "img 17-28 (stamped p10-20)",
+   "img 28-35 (stamped p20-26)",
+   "img 91-102 (stamped p78-89)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label: 'CASE No. 45 / SOUTHERN DISTRICT / CORRAL DE PIEDRA GRANT / JOSE MARIA VILLAVICENCIO CLAIMANT'; transcript p1 'for the place named \"Corral de Piedra\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Titulo/despacho, stamped p23-25: 'Juan B. Alvarado Gobernador Constitucional ... he venido en concederle el terreno mencionado ... Dado en Monterrey a catorce de Mayo de mil ochocientos cuarenta y uno' (14 May 1841). The preceding concession decree in the espediente is 'Monterey Febro 27 de 1841' (stamped p16-17; translation p20-21). Both 1841."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Titulo stamped p23 'Juan B. Alvarado Gobernador Constitucional del Departamento de las Californias', signed p25 'Juan B. Alvarado'; concession decree p17 '= Alvarado = Manuel Jimeno - Srio'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Titulo stamped p23: 'Por cuanto el Ciudadano Jose Maria Villavicencio ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Corral de Piedra'; concession decree translation stamped p20-21 'I declare Don Jose Maria Villavo. owner in fee of the land known by the name of Corral de Piedra'. Right man, but the register spells the surname 'Villavicencia'; the file (and the red label) spell it Villavicencio throughout."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 45 SOUTHERN DISTRICT'; leaves stamped '45 SD'; PDF filename cubanc_lcf_sd045.pdf; Commission docket no. 190 (transcript p1-2)."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed 1 Nov 1853 (transcript p3: 'Commissioner Alpheus Felch delivered the Opinion of the Board confirming the claim'); U.S. District Court, Southern District, Dec. Term 1855, stamped p82: 'the said decision of the said Board be, and the same hereby is, in all things affirmed; and it is further adjudged and decreed that the claim of the above named Appellee is good and valid, and that the same be confirmed to him'; AG's office 25 Sept 1856 (stamped p86): 'confirmed to the claimant by the Commissioners ... and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted'. Survey approved 25 March 1861 and certificate of survey filed 9 Aug 1866 (stamped p88-89); no patent copy in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Maria Villavicencio (not 'Villavicencia') per the grant title stamped p23"
+  },
+  "notes": "Hoffman's note of a Pico extension is corroborated: the claimant's petition (transcript p4) states Pio Pico extended the title 28 May 1846 to cover all land in the map and juridical possession, and the District Court opinion (stamped p79) recites the same. The register's single 'Alvarado / 1841' is correct for the original grant. Francisco Z. Branch intervened as purchaser of part (transcript p7, deeds pp10-13); the court held intervention improper at that stage and confirmed to Villavicencio (stamped p78)."
+ },
+ {
+  "id": "rancho-corral-quati",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266086/files/cubanc_lcf_sd049.pdf",
+  "pdf_pages_stated": 70,
+  "pages_read": [
+   "img 1-14 (stamped p1-8)",
+   "img 15-22 (stamped p9-16)",
+   "img 70-78 (stamped p62-70)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label: 'CASE No. 49 / SOUTHERN DISTRICT / CORRAL DE CUATE GRANT / MARIA ANTONIA DE LA GUERRA Y LATAILLADE CLAIMANT'; transcript title leaf (stamped p1) 'for the place named \"Corral de Cuate\"'; espediente cover stamped p6 'Espediente promovido por Dn. Agustin Davila en pretencion del terreno nombrado Corral del Cuate'; grant title stamped p11 'el terreno conocido con el nombre del Corral del Cuate'; District Court decree stamped p69 'a tract of land known by the name of \"Corral del Cuate\"'. Register spelling 'Corral De Quati' occurs nowhere in the file; same place, variant orthography (Hoffman prints 'Corral de Cuati')."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title (titulo), closing clause stamped p13: 'Dado en la Ciudad de los Angeles a catorce de Noviembre de mil ochocientos cuarenta y cinco'; the preceding concession decree stamped p8 is headed 'Angeles Noviembre 14 de 1845'. Register 1845 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant title, opening line stamped p11: 'Pio Pico, vocal decano de la Asamblea Departamental y Gobernador provisional de las Californias por ministerio Constitucional'; signed 'Pio Pico' at the foot of the concession decree stamped p9, and again 'Pio Pico / Pres.te' on the Departmental Assembly minute of 8 May 1846 stamped p13."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant title stamped p11: 'Por Cuanto Dn. Agustin Davila ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre del Corral del Cuate ... he venido por decreto en este dia en concederle el espresado terreno'; concession decree stamped p8 'declaro a Dn. Agustin Davila dueno en propiedad de tres sitios de ganado mayor'. Note the register correctly keeps the Mexican grantee (Davila) and does NOT substitute the U.S.-era claimant Maria Antonia de la Guerra y Lataillade, who bought the tract from Davila 24 Aug 1847 (petition, stamped p4)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 49 SOUTHERN DISTRICT'; every transcript leaf stamped '49 SD'; PDF filename cubanc_lcf_sd049.pdf; district court caption stamped p63 'Docket No 49'. Board of Commissioners docket no. was 189 (stamped p2), matching Hoffman's commission_no 189."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board of Land Commissioners confirmed: docket entry stamped p3, 'San Francisco Nov. 22d 1853. In the same case Commissioner Alpheus Felch delivered the opinion of the Board confirming the claim'. District Court decree stamped pp69-70: 'It is ordered adjudged and decreed that said decision be in all things affirmed and it is further ordered adjudged & decreed that the claim of the said appellant is a valid one, and the same is hereby confirmed in and to a tract of land known by the name of \"Corral del Cuate\" ... three square leagues of land'. Attorney General's letter stamped p65 (11 Sept 1856): 'confirmed to the claimant by the Commissioners ... and also confirmed on appeal by the District Court, appeal in the Supreme Court will not be prosecuted by the United States'; stipulation vacating the Supreme Court appeal and making the decree final filed 5 Feb 1857 (stamped pp67-68). Confirmation is therefore final in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Corral de Cuate (grant title, stamped p11: 'el terreno conocido con el nombre del Corral del Cuate'); register 'Corral De Quati' is a later orthographic variant not used in the case file"
+  },
+  "notes": "Single-volume file, 78 PDF images / 70 stamped transcript pages. Image-to-stamp offset is +6 through the read range (img 6 = stamped p1; img 78 = stamped p70), no duplicate exposures observed. Hoffman agrees with the file on year, governor and grantee. The 14 Nov 1845 title was approved by the Departmental Assembly 9 June 1846 with conditions 2 and 3 suppressed (stamped pp13-14) - the register's single date 1845 is the grant date and is correct."
+ },
+ {
+  "id": "rancho-corral-tierra",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265527/files/cubanc_lcf_nd167.pdf",
+  "pdf_pages_stated": 186,
+  "pages_read": [
+   "img 1-10 (stamped p1-5)",
+   "img 15-24 (stamped p9-18)",
+   "img 34-53 (stamped p27-44)",
+   "img 186-195 (stamped p177-186)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 167 / NORTHERN DISTRICT / CORRAL DE TIERRA GRANT / TIBURCIO VASQUES CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Corral de Tierra\"'; espediente cover stamped p9 'Espediente promovido por el Cno. Tiburcio Vasquez en pretencion del parage conocido con el nombre de Corral de tierra en la costa de San Francisco. 1839'. Register's parenthetical '(Vasquez)' is a disambiguator against the two other Corral de Tierra claims and is not a source variance."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p12: 'Monterey 5 de 8bre de 1839. = Vista la peticion con que da principio este Expediente ... se declara a Dn. Jose Tiburcio Vasquez dueno en propiedad del terreno conocido con el nombre de Corral de tierra en la costa de San Francisco'. Title (titulo) closing clause stamped p14: 'Dado en Monterrey a cinco de Octubre de mil ochocientos treinta y nueve'; sworn translation stamped p27 'Given in Monterey on the fifth of October 1839'. Departmental Assembly approval followed 22 May 1840 (stamped p13), but the grant year is 1839."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p12: 'El Sr. Dn. Manuel Jimeno Casarin primer Vocal propietario de la Exma. Junta Departamental de las Californias en ejercicio del Gobierno del mismo asi lo mando, decreto y firmo de que doy fee. Manl. Jimeno'. Title heading stamped p13: 'Manuel Jimeno Casarin Primer Vocal de la Exma. Junta del Departamento de las Californias en ejercicio del Gobierno del mismo'. Board opinion stamped p28 restates it: 'a grant made to himself (by the name of Jose Tiburcio Vasquez) by Manuel Jimeno Governor ad interim on the 5th day of October 1839'. Register 'Jimeno' is correct; Alvarado appears in the file only as the officer who referred the petition on 12 Mar 1839 (stamped p16) and who ordered the certified copy issued in 1840 (stamped p13)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p13: 'Por cuanto el ciudadano Tiburcio Vasquez ha pretendido para su beneficio personal y el de su familia el parage conocido con el nombre de corral de tierra en la costa de San francisco'; concession decree stamped p12 names him 'Dn. Jose Tiburcio Vasquez'. Register 'T. Vasquez' is the Mexican grantee, and here grantee and U.S.-era claimant are the same man (red label 'TIBURCIO VASQUES CLAIMANT')."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 167 NORTHERN DISTRICT'; every transcript leaf stamped '167 ND'; PDF filename cubanc_lcf_nd167.pdf; District Court caption stamped p44 'D.C. 167 / L.C. 594'. Board of Commissioners docket was 594, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree of confirmation stamped p30 (filed 15 Aug 1854): 'it is adjudged by the Commission that the claim of the said Petitioner is valid and it is therefore decreed that the same be confirmed'; opinion ends 'Confirmed' (stamped p29). The United States appealed (Attorney General notice 7 Mar 1855, stamped pp32/34; petition on appeal stamped p36). District Court decree, stamped p44, stated term 23 February 1857, before Circuit Judge McAllister and District Judge Ogden Hoffman: 'it is by the Court hereby ordered, adjudged and decreed, the Attorney of the United States consenting thereto, that the said decision be, and the same is, in all things affirmed; that the claim of the Appellee is a good and valid claim, and that the said claim be, and the same is, hereby confirmed.' Later leaves are survey litigation only (Opinion confirming Survey filed 3 July 1861, stamped p177; order vacating the survey return for want of jurisdiction, stamped pp178-179)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single-volume file, 195 PDF images / 186 stamped transcript pages. Image-to-stamp offset drifts (img 10 = stamped p5, img 15 = stamped p9, img 34 = stamped p27, img 195 = stamped p186) because of blank versos, so evidence is cited by stamped page throughout. All four graded substantive fields agree with Hoffman. The 1857 District Court decree confirms; the register's 'Confirmed' is right and the 1873 patent is a Phase C check. Nothing in the file shows the U.S.-era claimant being substituted for the grantee - claimant and grantee are the same person here."
+ },
+ {
+  "id": "rancho-corral-tierra-1",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268981/files/cubanc_lcf_sd359.pdf",
+  "pdf_pages_stated": 80,
+  "pages_read": [
+   "img 1-12 (stamped p1-7)",
+   "img 15-30 (stamped p10-24)",
+   "img 46-65 (stamped p39-56)",
+   "img 82-91 (stamped p71-80)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label 'CASE No. 359 / SOUTHERN DISTRICT / CORRAL DE TIERRA GRANT / H. D. MCCOBB CLAIMANT'; transcript title leaf stamped p1 and Board decree stamped p39 both read 'Corral de Tierra'; espediente cover stamped p18 'Espediente promovido en solicitud del terreno llamado Corral de Tierra por Dn. Francisco Figueroa. 1836'; District Court final decree endorsement stamped p80 'Corral de Tierra'. The register's 'Corral De La Tierra' inserts a definite article that appears nowhere in the case file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree (Spanish), stamped p20: 'Monterrey. Abril 10. de 1836. Vista la peticion con que da principio este Expediente ... en decreto de este dia he venido en declarar duena en propiedad a la menor Da. Guadalupe Figueroa del terreno q. indica el diseno'. Sworn translation stamped p24: 'Monterey, April 10th 1836. Having examined the petition with which this Expediente commences ... I have in decree of this day, declared the minor Dona Guadalupe Figueroa owner in fee of the land shown on the sketch'. Territorial Deputation approved 12 July 1836 and the confirming testimonio issued 14 July 1836 (stamped pp21-22)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Attestation to the 10 April 1836 decree, stamped p20: 'El Sr. Dn. Nicolas Gutierrez Tente. Coronel Comandte. Gral. i Inspector i Gefe Politico Interino de la Alta California asi lo mando decreto i firmo de que doy fe. Nicolas Gutierrez. Fco. del Castillo Negrete Srio.' The earlier referral decree of 26 Feb 1836 (stamped p19) is signed by the same officer. Note the July 1836 testimonio of confirmation was issued under Mariano Chico as Gefe Politico (stamped p22), but the grant itself is Gutierrez's."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "The operative decree, stamped p20, declares 'la menor Da. Guadalupe Figueroa' owner in fee; translation stamped p24 'the minor Dona Guadalupe Figueroa owner in fee of the land shown on the sketch'. The petition was made by her father Francisco Figueroa on her behalf, the tract having been willed to her by her uncle Gen. Jose Figueroa (petition translation stamped p23: 'in his testament gave it to his niece Guadalupe, for her own benefit, a daughter of Petitioner'). Register correctly records the Mexican grantee and not the U.S.-era claimant Henry D. McCobb, who bought in through Jose de Arnaz in 1851 (claim petition stamped p4)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 359 SOUTHERN DISTRICT'; every transcript leaf stamped '359 SD'; PDF filename cubanc_lcf_sd359.pdf; District Court caption stamped p44 'Docket No. 359 / Transcript No. 170'. Board of Commissioners docket was 170, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree stamped p39 (filed 3 July 1855): 'it is adjudged by the Commission that the Claim is valid and it is therefore decreed that his application for a confirmation thereof be allowed ... called \"Corral de Tierra\" and contains one square league'. The United States appealed (AG notice 31 Dec 1855, stamped p42; U.S. petition for review stamped pp44-46) and then appealed again to the Supreme Court. Supreme Court decree No. 387, December Term 1864, entered 10 March 1865, stamped p74: 'it is now ordered, adjudged and decreed by this Court that the decree of the said District Court in this cause be and the same is hereby affirmed on the payment of costs in this Court by the appellee, but that on entering the decree herein the quantity of land to be surveyed within the exterior limits of the grant ... be restricted to one square league of land and no more'. District Court final decree, stamped pp78-79, 9 December 1865, so orders. Confirmation is final in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Corral de Tierra (red label p1 'CORRAL DE TIERRA GRANT'; Board decree stamped p39 'called \"Corral de Tierra\"'); the register's 'Corral De La Tierra' is not the case-file form"
+  },
+  "notes": "Single-volume file, 91 PDF images / 80 stamped transcript pages; image-to-stamp offset drifts from +4 to +11 across the file, so all evidence is cited by stamped page. Hoffman agrees on year, governor and grantee. One real ambiguity worth flagging: the Departmental committee report of 5 July 1836 and Governor Chico's testimonio of 14 July 1836 both describe the concession as made 'al Ciud.o Fran.co Figueroa' (stamped pp21-22), and McCobb's own District Court answer says Gutierrez 'made an order granting to said Francisco Figueroa for his said daughter Guadalupe' (stamped p50). The governor's decree itself, however, names the minor Guadalupe Figueroa as owner in fee, so the register's grantee is right on the grant document. The Supreme Court cut the confirmed quantity to one square league; the register carries no acreage field for this record beyond patent_acres, which Phase C checks."
+ },
+ {
+  "id": "rancho-corral-tierra-2",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264436/files/cubanc_lcf_nd049.pdf",
+  "pdf_pages_stated": 61,
+  "pages_read": [
+   "img 1-12 (stamped p1-6)",
+   "img 21-30 (stamped p15-24)",
+   "img 44-52 (stamped p37-44)",
+   "img 60-69 (stamped p52-61)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 49 / NORTHERN DISTRICT / EL CORRAL de TIERRA GRANT / JOSEFA HARO de GUERERO, et al CLAIMANT'; the concession decree's own words, translation stamped p21: 'I declare Don Francisco Guerrero owner in fee of the land known by the name of \"Corral de Tierra\" on the Coast of San Francisco'. The transcript title leaf and Board certificate use the longer 'El Corral de Tierra' (stamped pp1, 40); both forms are in the file, so the register's 'Corral De Tierra' is an attested form. The parenthetical '(Palomares)' is a register disambiguator against the two other Corral de Tierra claims."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Title (titulo), closing clause stamped p15: 'Dado en Monterey a diez y seis de Otre. de mil ochocientos treinta y nueve. Manuel Jimeno / Jose Z. Fernandez, Srio.'; translation of the concession decree stamped p21 'Monterey 16. of Oct. 1839'. Board opinion stamped p38 restates: 'a grant was made to Francisco Guerrero ... by Manuel Jimeno, Governor ad interim, of the Department of the Californias October 16. 1839 of one square league of the land now claimed'. Register 1839 confirmed. A SECOND grant of an added 3/4 league issued 1 May 1844 under Micheltorena (stamped pp17, 24: 'Monterrey Mayo 1o. de 1844. Espidase el titulo. Michelt[oren]a.'), exactly as Hoffman's note says; the register records only the original 1839 grant, which is the primary grant."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Attestation to the 16 Oct 1839 decree, translation stamped p22: 'Senor Don Manuel Jimeno, Casarin, senior proprietory member of the Most Excellent Departmental Junta of the Californias, acting as Governor of the same, thus ordered, decreed and signed - to which I certify. (signed) Manuel Jimeno'; the Spanish title stamped p15 is signed 'Manuel Jimeno'. The Departmental Junta committee report of 20 May 1840, stamped p23: 'The grant made by His Excellency the Governor ad interim Don Manuel Jimeno of the land \"Corral de Tierra\", to citizen Francisco Guerrero is approved.' Register 'Jimeno' correct; Alvarado appears only as the officer who referred the petition in Jan and Apr 1839 (stamped pp20-22)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree, translation stamped p21: 'I declare Don Francisco Guerrero owner in fee of the land known by the name of \"Corral de Tierra\"'. The petitioner signs himself 'Francisco G. Palomares' and is styled in the espediente translation stamped p19 'Francisco Guerrero Palomares; a Mexican by birth and resident of the Ex-mission of San Francisco'. Register 'F. G. Palomares' is the same man; Board opinion stamped p38 calls him 'Guerrero, the grantee ... built a house on the land in 1839 and occupied it until his death in 1851'. Correctly the Mexican grantee, not the U.S.-era claimants (his widow Josefa Haro de Guerrero and children)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 49 NORTHERN DISTRICT'; interleaf 'LAND CASE 49 ND pgs. 61'; every transcript leaf stamped 'CASE 49 ND'; PDF filename cubanc_lcf_nd049.pdf; District Court caption stamped p53 'Case No 49 / Transcript 164'. Board docket 164, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion stamped p38 ends 'these objections we hold ... to be insufficient to invalidate the claim, and we accordingly confirm it'; decree stamped p39, 18 April 1853 (filed 22 Apr 1853), confirms one square league under the 1839 grant and three quarters of a league under the 1844 grant. The United States appealed (AG notice 11 Sept 1854, stamped p41; petition for review stamped p43). District Court opinion, stamped pp57-59: 'We see no reason to doubt the entire validity of this claim and we think it should be confirmed. A decree affirming the decision of the Board must therefore be entered.' Final order, stamped p53, stated term 24 December 1856 before Ogden Hoffman, District Judge: the Attorney General having given notice that no appeal to the Supreme Court will be prosecuted and a stipulation having been entered that no further appeal shall be taken, 'it is ordered, adjudged and decreed, That the claimants have leave to proceed under the decree of this Court heretofore rendered in their favor as on Final Decree.' Survey approved by the Surveyor General 4 Feb 1860 (certificate stamped p55)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single-volume file, 69 PDF images / 61 stamped transcript pages; image-to-stamp offset drifts from +4 to +8, so evidence is cited by stamped page. Every graded field agrees with Hoffman, including his note that Micheltorena added an extension on 1 May 1844. The register's era tag 'unattributed' is unnecessary here: the case file settles the granting officer as Manuel Jimeno Casarin acting as governor ad interim, and that is the register's own governor value. The claimant died in 1851 and the case was carried by his heirs; the District Court file carries a clerk's note (stamped p60) 'Claimant dead - no order reviving suit in name of heirs'."
+ },
+ {
+  "id": "rancho-corralitos",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/266133/files/cubanc_lcf_sd175.pdf",
+  "pdf_pages_stated": 119,
+  "pages_read": [
+   "img 1-12 (stamped p1-7)",
+   "img 21-30 (stamped p16-25)",
+   "img 88-105 (stamped p78-94)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 175 / SOUTHERN DISTRICT / CORRALITOS GRANT / JOSE AMESTI CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Corralitos\"'; the grant decree itself, stamped p22: 'declaro a Dn. Jose Amesti dueno en propiedad del paraje nombrado los Corralitos'; District Court caption stamped p88 'Rancho \"Corralitos\"' and stamped p90 'Los Corralitos'. Register 'Los Corralitos' matches the decree's own form."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p22: 'Monterrey 27 de Marzo de 1844. Vista la peticion con que da principio este espediente, los informes que preceden ... declaro a Dn. Jose Amesti dueno en propiedad del paraje nombrado los Corralitos, en estension de cuatro sitios de ganado mayor'. Title (titulo) closing clause stamped p24: 'Dado en Monterrey a primero de Abril de mil ochocientos cuarenta y cuatro. Manuel Micheltorena = Manuel Jimeno Secretario.' Register 1844 confirmed. The tract had been held since 1823 under an Arguello concession and enlarged by an Alvarado grant of 2 Jan 1841 (deposition of Jose Abrego, stamped pp6-7), but the grant of the four-league rancho as such is Micheltorena's of 1844."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Title heading, stamped p23: 'El Ciudadano Manuel Micheltorena General de Brigada de los Ejercitos Mejicanos, Ayudante General de la Plana mayor del mismo, Gobernador Comandante General del Departamento de las Californias'; signed 'Manuel Micheltorena = Manuel Jimeno Secretario' at stamped p24, and 'Monterrey Mzo. 27 de 1844. Conforme. Michellt[oren]a' at stamped p22. Jimeno appears only as Secretary of State making the favourable report of 24 March 1844 (stamped p22)."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p23: 'Por cuanto Dn. Jose Amesti ha pretendido para su beneficio personal y el de su familia, la confirmacion del terreno nombrado los Corralitos que tiene ocupado con sus bienes desde el ano de 823 por concesion que obtuvo del Gobierno ... he venido a nombre de la Nacion Mejicana, declararle la propiedad de cuatro sitios de ganado mayor'. Grantee and U.S.-era claimant are the same man (red label 'JOSE AMESTI CLAIMANT'); he died 12 Aug 1855 and his executors were substituted (District Court order stamped pp82-84)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 175 SOUTHERN DISTRICT'; interleaf 'LAND CASE 175 SD pgs. 119'; every transcript leaf stamped '175 SD'; PDF filename cubanc_lcf_sd175.pdf; District Court caption stamped p88 'Docket no. 175 / Transcript No. 174'. Board docket 174, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board confirmed: docket entry stamped p3, 'San Francisco May 2d 1854. In the same case Commissioner R. Aug. Thompson delivered the opinion of the Board confirming the claim (vide page 79 of this Transcript)'. The United States appealed (AG notices 10 Feb 1855, stamped pp78 and 80). District Court order, stamped p88, December Term 1856, Isaac S. K. Ogier, U.S. District Judge: on the Attorney General's notice of intention not to prosecute the appeal further and a stipulation of dismissal, 'Ordered and decreed by the Court that the said appeal be, the same is hereby dismissed, and that the said Executors have leave to proceed under said decree of said Commissioners, as under a final decree.' The stipulation itself is stamped p86. Later leaves are survey litigation (U.S. motion 15 Mar 1860 to return the survey, stamped pp90-92; intervention of Charles Morse and the Hernandez heirs, stamped p94)."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single-volume file, 130 PDF images / 119 stamped transcript pages; image-to-stamp offset runs +5 early and +11 in the district-court section, so evidence is cited by stamped page. All graded fields agree with Hoffman. The confirmation became final by dismissal of the appeal rather than by a merits decree of the District Court, which is why the file has no District Court decree of confirmation; the operative decree is the Board's of 2 May 1854, made final 1856. Hoffman marks this rancho patented in 1862 and the register gives 28 Feb 1861; no patent copy is in the pages read, so patent fields are left for Phase C. Grant chain worth recording: Arguello permission 18 Apr 1823 and juridical possession 22 May 1823, an Alvarado addition of 2 Jan 1841, then Micheltorena's four-league grant of 1844 (claim petition stamped pp4-5; Abrego deposition stamped pp6-7)."
+ },
+ {
+  "id": "rancho-corte-madera",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/264423/files/cubanc_lcf_nd036.pdf",
+  "pdf_pages_stated": 71,
+  "pages_read": [
+   "img 1-12 (stamped p1-7)",
+   "img 21-30 (stamped p16-23)",
+   "img 74-84 (stamped p61-71)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label 'CASE No. 36 / NORTHERN DISTRICT / CANADA del CORTE de MADERA GRANT / MAXIMO MARTINEZ CLAIMANT'; transcript title leaf stamped p1 'for the place named Canada del Corte de Madera'; Board docket entry stamped p2 'for the Place named Canada del Corte de Madera'; grant translation stamped p21 'owner of the location designated \"Canada del Corte de Madera\"'; Board transmittal letter stamped p70 'for the place known by the name of Canada del Corte Madera'. Register 'El Corte De Madera' drops 'Canada del' and prefixes 'El'; the shortened form 'Corte de Madera' does appear once in the Board docket entry of 28 Feb 1853 (stamped p3), but 'El Corte de Madera' occurs nowhere in the file."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Micheltorena's title (titulo), Spanish, closing clause stamped p17: 'Dado en Monterrey a primero de Mayo de mil ochocientos cuarenta y cuatro. Manl. Michelltorena, Manl. Jimeno srio.' The underlying decree, translation stamped p21: 'Monterey April the 27th 1844 ... I hereby declare the Citizen Maximo Martinez owner of the location designated \"Canada del Corte de Madera\" ... of an area of three \"sitios de ganado mayor\"', with Micheltorena's marginal 'Approved, and let the patent be issued. Monterey April 27th 1844.' Register 1844 confirmed. IMPORTANT ANTECEDENT: the original one-league grant of 'la Canada del Corte de Madera' was made 10 June 1833 to Maximo Martinez AND Domingo Peralta jointly, approved by the Territorial Deputation 17 May 1834 under Jose Figueroa (translation stamped p22), Peralta ceding his half to Martinez 19 May 1834; the 1844 act is an augmentation of two more leagues that also re-granted the whole three as one title."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Title heading, stamped p16: 'El Ciudadano Manl. Michelltorena, Gral. de Brigada del ejercito Mexicano, ayudante Gral. de la plana Mayor del mismo, Gobernador Gral. e Inspector del Depart.o de California'; translation stamped p23 'The Citizen Manuel Micheltorena, General of Brigade of the Mexican Army, Adjutant General of the Staff, Commandant General and Inspector of the Department of California'. Signed 'Manl. Michelltorena, Manl. Jimeno srio' (stamped p17). Jimeno appears as Secretary of State reporting 27 April 1844 (stamped p21). The 1833 antecedent grant was Figueroa's."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p16: 'Por cuanto el Ciud.no Maximo Martinez, ha pretendido para su beneficio personal y el de su familia el aumento de dos sitios de Ganado mayor a continuacion del que se le tiene concedido desde 10 de Junio de 1833 ... he venido en concederle el aumento referido'; decree translation stamped p21 'I hereby declare the Citizen Maximo Martinez owner of the location designated \"Canada del Corte de Madera\"'. Grantee and U.S.-era claimant are the same man (red label 'MAXIMO MARTINEZ CLAIMANT'). Domingo Peralta, co-grantee under the 1833 grant, petitioned the Board to contest Martinez's right on 14 Aug 1852 (docket stamped pp2-3, petition at stamped p30) but the claim was confirmed to Martinez."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 36 NORTHERN DISTRICT'; interleaf 'LAND CASE 36 ND Pgs. 71'; every transcript leaf stamped 'CASE 36 ND'; PDF filename cubanc_lcf_nd036.pdf; District Court caption stamped p64 'D.C. 36 : L.C. 36'. Board docket 36, matching Hoffman's commission_no 36."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board docket entry stamped p3: 'San Francisco Feby 28, 1853. In Case No. 36, Maximo Martinez ... Commissioner Hiland Hall delivered the Opinion and the Decree of Final Confirmation of this Board' (opinion and decree recorded at stamped p66 of the Board's own paging). The United States petitioned for review (stamped p61, filed 27 June 1855). Attorney General's letter of 7 Feb 1857, stamped p63: 'In the case of the claim of Maximo Martinez, confirmed to the claimant by the Commissioners, Case no. thirty-six (36), appeal will not be prosecuted by the United States.' Stipulation of 2 April 1857 stamped p64, and District Court order stamped p66, stated term 2 April 1857, Ogden Hoffman, District Judge: 'On motion of the District Attorney it is Ordered Adjudged and decreed that claimant have leave to proceed under the decree of this Court heretofore rendered in his favor as under Final Decree.' Confirmation final in the file."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Canada del Corte de Madera (red label p1 'CANADA del CORTE de MADERA GRANT'; grant translation stamped p21 'the location designated \"Canada del Corte de Madera\"'); register 'El Corte De Madera' is not a case-file form"
+  },
+  "notes": "Single-volume file, 84 PDF images / 71 stamped transcript pages; image-to-stamp offset runs about +5 early and +13 in the district-court section, so evidence is cited by stamped page. A DUPLICATE SCAN EXPOSURE is present: PDF images 21 and 22 are the same leaf, both stamped PAGE 16 (the foot of the Figueroa attestation plus the head of Micheltorena's title), which is why the register's image indexes drift here; cite stamped pages, not image numbers. All four graded substantive fields agree with Hoffman. A clerk's memorandum at the end of the file (stamped p71) notes the archival weakness the Board worked around: 'No Expediente of 1st grant. No Departmental Assembly approval of 2nd grant nor juridical possession under it, but it was given under 1st grant which was also approved by Dep. Ass.' Patent per register 19 June 1858; no patent copy in the pages read, left for Phase C."
+ },
+ {
+  "id": "rancho-corte-madera-presidio",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265542/files/cubanc_lcf_nd183.pdf",
+  "pdf_pages_stated": 107,
+  "pages_read": [
+   "img 1-10 (stamped p1-6)",
+   "img 15-24 (stamped p11-19)",
+   "img 100-118 (stamped p89-107)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "PART",
+    "evidence": "p1 red label 'CASE No. 183 / NORTHERN DISTRICT / CORTE DE MADERA DEL PRESIDIO GRANT / HEIRS OF JUAN REID CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Corte de Madera del Presidio\"'; the grant decree itself, stamped p16: 'se declara a D. Juan Read ... dueno en propiedad del terreno conocido con el nombre del Corte de Madera del Presidio hasta la punta del Tiburon'. Register 'Corte Madera Del Presidio' drops the 'de' that every instance in the file carries."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p16: 'Monterey Octubre 2 de 1834. Vista la peticion con que da principio este Expediente ... se declara a D. Juan Read naturalizado en los Estados Unidos Mejicanos dueno en propiedad del terreno conocido con el nombre del Corte de Madera del Presidio'. Title (titulo) closing clause stamped p17: 'Dado en Monterrey a 2 de Octubre de 1834. Jose Figueroa. Agustin V. Zamorano Secretario.' Register 1834 confirmed. Departmental Deputation approval came later, 29 Aug 1839 (stamped p18)."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Attestation to the 2 Oct 1834 decree, stamped p16: 'El Sr. D. Jose Figueroa General de brigada Comandante General Inspector y Gefe Sup.r Politico del territorio de la Alta California asi lo mando decreto y firmo de que doy fe. Jose Figueroa. Agustin V. Zamorano. Srio.' Title heading, stamped p16: 'Jose Figueroa General de Brigada de la Republica Mejicana, Comandante Gl. y Ynspector y Gefe Sup.r Politico del territorio de la Alta California'."
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Grant decree and title, stamped pp16-17, name the grantee 'D. Juan Read'; his own petitions are signed 'Juan Read' (stamped pp11 and 13, Sausalito 27 June 1834 and Pueblo de S. Rafael 4 Sept 1834). Register writes 'Juan Reed'. Right man, and 'Reed' is used in some District Court endorsements (stamped p101), but the grant document spells it Read, the red label spells it 'REID' (stamped label p1 and DC order stamped p98), and the register's own patent_to field already reads 'the heirs of John Read'. Note the register correctly keeps the Mexican grantee: the U.S.-era claimants were his widow Hilaria Sanchez de Read and children Juan, Hilaria, Inez and Ricardo (petition stamped p4)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 183 NORTHERN DISTRICT'; every transcript leaf stamped '183 ND'; PDF filename cubanc_lcf_nd183.pdf; endorsement stamped p101 'No 183 ND / 497 Bd.'. The transcript title page is headed 'IN CASE No. 497', the Board of Commissioners docket, matching Hoffman's commission_no 497 and court_no 183."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board docket entry stamped p3: 'In the same case Commissioner Alpheus Felch delivered the Opinion of the Board, Confirming the claim (Vide page 59 of this Transcript)', submitted 7 June 1854, order of 13 June 1854; the U.S. Law Agent's appeal order followed 15 Aug 1854 (stamped p3). The District Court entered a final decree of confirmation, repeatedly referred to in the later record: claimants' exceptions to the survey, stamped p89, allege the survey does not conform to 'the final decree of confirmation of this Court in this cause', and Hilaria Sanchez de Read's affidavit of 25 Aug 1865, stamped p93, states 'said Decree restricted the claim to one league'. Post-confirmation the fight was over the survey only: Hoffman overruled the claimants' exceptions and approved the survey 27-28 Sept 1865 (order stamped pp98-100), then on 16 Oct 1865 vacated that order as entered under misapprehension and dismissed all survey proceedings (stamped pp105-106). The claim was confirmed and never rejected; register 'Confirmed' is right."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "name": "Corte de Madera del Presidio (grant decree stamped p16: 'el terreno conocido con el nombre del Corte de Madera del Presidio hasta la punta del Tiburon')",
+   "grantee": "Juan Read (grant decree stamped p16 and title stamped p17; his signature 'Juan Read' at stamped pp11 and 13)"
+  },
+  "notes": "Single-volume file, 135 PDF images / 107 stamped transcript pages; image-to-stamp offset runs about +4 early and +11 at the end, so evidence is cited by stamped page. Year and governor agree with Hoffman; Hoffman spells the grantee 'Juan Reid', the file's grant spells it 'Juan Read', the register 'Juan Reed' - three forms, one man. TWO FEATURES A RE-READER SHOULD KNOW. (1) A defect in the Mexican title: the Territorial Deputation's committee approval of 28 Aug 1835, stamped p18, approves 'la concecion echa al ciudadano Juan Read del parage nombrado Sausalito concedido en 2 de Octubre de 1834' - naming Sausalito, the tract Read had first asked for and failed to get, not Corte de Madera del Presidio; the Deputation itself approved that report 29 Aug 1839. (2) The confirmed quantity was cut to one square league by the District Court's final decree, which the heirs said in 1865 departed from Hoffman's own published opinion and from the juridical possession; their motion to reform the decree was denied for want of power after term (Hoffman's opinion stamped pp102-103), so the one-league confirmation stood. Register patent (Feb. 25, 1885) is a Phase C check; no patent copy in the pages read."
+ },
+ {
+  "id": "rancho-cotate",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/265516/files/cubanc_lcf_nd156.pdf",
+  "pdf_pages_stated": 80,
+  "pages_read": [
+   "img 1-10 (stamped p1-4)",
+   "img 11-28 (stamped p5-22)",
+   "img 62-80 (stamped p46-63)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 156 / NORTHERN DISTRICT / COTATE GRANT / THOMAS S. PAGE CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Cotate\"'; espediente cover stamped p13 'Espediente promovido por Dn. Juan Castaneda en pretencion del terreno llamado \"Cotate\"'; grant title stamped p15 'el terreno conocido con el nombre de Cotate'; District Court decree stamped p63 'The Land of which confirmation is hereby made is known by the name of Cotate and is situated in Sonoma County'. Register 'Cotate' matches exactly (Hoffman's 'Cotatc' is an OCR corruption of the same word)."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant title (titulo), closing clause stamped p16: 'Dado en Monterrey a siete de Julio de mil ochocientos cuarenta y cuatro. Manuel Micheltorena. Manuel Jimeno. Srio.'; the governor's order stamped p15 reads 'Monterrey. Julio 6 de 1844. = Espidase el titulo. Michelt[oren]a.' Register 1844 confirmed. Note the claim petition (stamped p5) misstates the date as '17th of July 1844'; the title itself says the seventh. The tract had been held under a provisional concession since 1839 (title, stamped p15: 'que se le concedio provicionalmente desde el ano de mil ochocientos treinta y nueve'), and Departmental Assembly approval followed 12 June 1846."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Title heading, stamped p15: 'El ciudadano Manuel Micheltorena General de Brigada de Ejercito Mexicano Ayudante Gral. de la plana Mayor del mismo, Comandante General e Inspector del Departamento de las Californias ... usando de las facultades que me son conferidas a nombre de la nacion Mejicana, he venido en concederle el terreno mencionado'; signed 'Manuel Micheltorena' stamped p16; his own order 'Espidase el titulo. Michelt[oren]a' stamped p15. Jimeno signs only as Secretary. Board opinion stamped p46 and the DC decree stamped p63 both rest on this grant."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Title, stamped p15: 'Por cuanto Dn. Juan Castaneda, ciudadano Mejicano ha pretendido para su beneficio personal y el de su familia el terreno conocido con el nombre de Cotate'; his petition of 6 July 1844 is signed 'J. de Castaneda' (stamped p14), and the espediente cover names 'Dn. Juan Castaneda' (stamped p13). Register correctly holds the Mexican grantee and not the U.S.-era claimant Thomas S. Page, who took by mesne conveyances (Castaneda to Thomas O. Larkin 25 Sept 1846, Larkin and wife to Joseph S. Ruckel 4 Sept 1849, Ruckel to Page 7 Nov 1849 - claim petition stamped p5)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 156 NORTHERN DISTRICT'; interleaf 'LAND CASE 156, N.D.'; every transcript leaf stamped '156 ND'; PDF filename cubanc_lcf_nd156.pdf; District Court caption stamped p59 'D.C. 156; L.C. 350'. Board docket 350, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board decree stamped p46, filed 22 Aug 1854, signed Alpheus Felch, R. Aug. Thompson and S. B. Farwell, confirms the claim to four square leagues bounded by the ranchos of Petaluma, Guillicos, Santa Rosa, Mackintosh and Wojet, 'excepting and reserving from the premises above described and from this confirmation one mile square thereof ... sold to Jasper O'Farrell of the date of the 15th December 1847'. The United States appealed (AG notice 7 Mar 1855, stamped pp48 and 50; petition for review stamped p52). District Court decree, stamped p63: 'the Court is of Opinion, that there is no error in the Decision of the said Board and that the same should be and is hereby affirmed. And this Court doth adjudge, order and decree that the Title of the said Claimant to the Land described in said Transcript is valid and the same is hereby confirmed.' AG letter of 4 Feb 1857 (stamped p58) states no further appeal; stipulation filed 21 Mar 1857 (stamped p59) and final-decree order of the same day before Ogden Hoffman (stamped p61). Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single-volume file, 88 PDF images / 80 stamped transcript pages; image-to-stamp offset runs about +4 early and +17 in the district-court section, so evidence is cited by stamped page. All graded fields agree with Hoffman. Two details a re-reader should know: (1) the confirmed area excludes one mile square conveyed to Jasper O'Farrell in Dec 1847, so the patent acreage will not equal four leagues; (2) the original Mexican title was stolen - Jose de los Santos Berreyesa, alcalde of Sonoma, deposed (stamped p11) that in 1846 'Captain Fremont of the American army' broke open his trunk and carried away the papers including this title, so the claim was proved from the Surveyor General's archive copy of the expediente (certified 7 June 1852, stamped p17). Patent per register 28 Feb 1858; Hoffman's table already marks it patented; no patent copy in the pages read, left for Phase C."
+ },
+ {
+  "id": "rancho-coyotes",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268992/files/cubanc_lcf_sd372.pdf",
+  "pdf_pages_stated": 207,
+  "pages_read": [
+   "img 1-10 (stamped p1-6)",
+   "img 11-20 (stamped p7-16)",
+   "img 23-30 (stamped p19-26)",
+   "img 125-133 (stamped p119-126)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 372 / SOUTHERN DISTRICT / LOS COYOTES GRANT / ANDRES PICO, ET AL CLAIMANT'; transcript title leaf stamped p1 'for the place named \"Los Coyotes\"'; Board decree of confirmation stamped p121 'The land of which confirmation is hereby made is that known by the name of Los Coyotes, situated in Los Angeles County'; secretary's certificate stamped p123 'for the place known by the name of \"Los Coyotes\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Board opinion by Commissioner Fields, stamped p119: 'The portion called \"Los Coyotes\" which is the land in question in this case was assigned to Juan Jose Nieto and the grant made to him of the same by Governor Jose Figueroa bearing the date of May 22nd 1834, is given in evidence. Judicial possession was given under the grant with a designation of the boundaries on the fifteenth day of March 1835.' Abel Stearns, who had the original in hand, deposed at stamped p10: 'A paper is now shown me purporting to be an original grant from Governor Figueroa to Juan Jose Nieto, hereto annexed and marked H.H. No 2. dated 22d of May 1834'. Register 1834 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Board opinion stamped p119: 'the grant made to him of the same by Governor Jose Figueroa bearing the date of May 22nd 1834'; Stearns's deposition stamped p10 identifies the paper as 'an original grant from Governor Figueroa'. The claim petition, stamped p6, states that in 1834 'on petition from the said Juan Jose Nieto, Don Jose Figueroa decreed a partition of said tract of land and issued separate titles to each of the four heirs'. Register 'Figueroa' confirmed."
+   },
+   "grantee": {
+    "grade": "ERR",
+    "evidence": "The 1834 Figueroa grant of Los Coyotes ran to JUAN JOSE NIETO, not to Manuel Nieto. Board opinion stamped p119: 'The portion called \"Los Coyotes\" ... was assigned to Juan Jose Nieto and the grant made to him of the same by Governor Jose Figueroa bearing the date of May 22nd 1834'. Board decree of confirmation stamped p122: 'being the same premises granted to Don Juan Jose Nieto, reference for more particular description thereof to be had to the said grant'. Stearns, stamped p10: 'an original grant from Governor Figueroa to Juan Jose Nieto ... dated 22d of May 1834, to which is attached a certificate of sale said Nieto to Juan B. Leandry'. Manuel Nieto was the eighteenth-century concessionaire of the whole undivided Nieto tract under Governor Pedro Fages and HE DIED IN 1804: claim petition stamped p5, 'all of which said tract was owned and possessed by one Manuel Nieto who died seized thereof about the 1804-5 ... derived his title to said tract of land from Don Pedro Fages Governor ... believed and averred to have been made some time between years 1784 & 1792-3'; Nicolas Alanis, stamped p12, 'I knew Manuel Nieto from my boyhood. He died in 1804 ... At the death of Nieto he left four children'. Manuel Nieto could not be the grantee of an 1834 instrument. Register's grantee field is wrong as paired with its own 1834/Figueroa values."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 372 SOUTHERN DISTRICT'; interleaf 'LAND CASE 372 SD pgs. 207'; every transcript leaf stamped '372 SD'; PDF filename cubanc_lcf_sd372.pdf; District Court caption stamped p126 'Docket No. 372 / Transcript 400'; wrapper 'U.S. DISTRICT COURT, Southern District of California. No. 372'. Board docket 400, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion stamped p120 ends 'A decree of Confirmation will be entered. Confirmed', filed 20 Sept 1855; Decree of Confirmation stamped pp121-122, filed 25 Sept 1855, signed Alpheus Felch, R. Aug. Thompson and S. B. Farwell: 'it is adjudged by the Commission that the claim of the said Petitioners is valid and it is therefore decreed that the same be confirmed ... containing ten square leagues of land'. The United States appealed (AG notice 11 Feb 1856, stamped p124; notice of appeal filed 3 June 1856, stamped p125). District Court order, stamped p126, before Judge Isaac S. K. Ogier: the Attorney General having given notice that the Supreme Court appeal will not be prosecuted and a stipulation having been entered, 'It is Ordered, adjudged and decreed that the order granting an appeal to the Supreme Court heretofore made in this Cause, be and the same is hereby vacated, and that the claimant have leave to proceed under [the decree of this Court heretofore rendered in this Cause, made final]'. Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Juan Jose Nieto (Board opinion stamped p119: 'the grant made to him ... by Governor Jose Figueroa bearing the date of May 22nd 1834'; decree stamped p122: 'the same premises granted to Don Juan Jose Nieto'). Manuel Nieto, the register's value, was the original Fages-era concessionaire of the undivided Nieto tract and died in 1804 (petition stamped p5; Alanis deposition stamped p12)."
+  },
+  "notes": "Single-volume file, 214 PDF images / 207 stamped transcript pages; image-to-stamp offset runs about +4 early and +7 in the Board decision section, so evidence is cited by stamped page. This is the chunk's one substantive ERR. The register has almost certainly collapsed two generations: Manuel Nieto's c.1784 Fages concession of the whole 300,000-acre Nieto tract, and the 1834 Figueroa partition that carved it into Santa Gertrudes, Los Coyotes, Los Alamitos, Las Bolsas and Los Cerritos and issued a separate title to each heir. If the register's intent is the ORIGINAL concessionaire, then its year (1834) and governor (Figueroa) are the wrong pair for that man; if its intent is the 1834 grant, the grantee must be Juan Jose Nieto. Hoffman's 1862 table leaves both governor and grantee blank for this claim, so it offers no cross-check. Chain thereafter: Juan Jose Nieto sold to Juan Bautista Leandry 25 Jan 1840 (opinion stamped p119); Leandry died intestate and childless Dec 1843; half went to his widow Francisca Uribe (later O'Campo) as community property, half to his mother Ana Maria Testa, whose attorney Antonio Jose Cot sold it to Andres Pico 4 Mar 1850 (opinion stamped p120). Confirmed area ten square leagues; register patent 9 Mar 1875 is a Phase C check."
+ },
+ {
+  "id": "rancho-cuyama",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268987/files/cubanc_lcf_sd365.pdf",
+  "pdf_pages_stated": 58,
+  "pages_read": [
+   "img 1-12 (stamped p1-7)",
+   "img 17-26 (stamped p12-20)",
+   "img 46-55 (stamped p39-47)",
+   "img 57-66 (stamped p49-58)"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "The espediente's own heading, stamped p12: 'Ano de 1843. Espedte. Promovido pr. El Vecino de Sta. Barbara Ciud.o Jose Ma. Rojo en Solicitud del Parage de Cuyama. No. 523'; its sworn translation stamped p19 'Espediente commenced by citizen Jose Maria Rojo resident of Santa Barbara asking for the place of Cuyama'. Board decree stamped p41: 'is known by the name of Cuyama containing five square leagues'. District Court decree stamped p54: 'The land of which confirmation is hereby made is known by the name of \"Cuyama\"'. Register 'Cuyama' matches the grant papers; the Bancroft red label and the clerk's transcript headings use the variant 'Cayama'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Concession decree, stamped p15: 'Angeles Abril 24 de 1843. Vista la peticion con que da principio Este Espediente, los informes del Sor prefecto de Este segundo Distrito y el del Sor Juez de paz de Sta. Barbara ... declaro dueno de en propiedad del parage llamado Cuyama al Ciudadano Jose Ma. Rojo en estencion de cinco sitios de ganado mayor'. The Departmental committee of vacant lands, 12 June 1846, stamped p17: 'Se Aprueva la concesion hecha al Ciudadano Jose Ma. Rojo del parage conocido Cuyama en el tular en estencion de cinco sitios de ganado mayor segun titulo librado con fha 24 de Abril de 1843'. District Court decree stamped p54: 'is the same granted on the 24th day of April A.D. 1843 by Manuel Micheltorena to Jose Maria Rojo'. Register 1843 confirmed."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "The 24 April 1843 decree is attested stamped p16: 'El E.S. Gobernador, Comandte. General e Inspector del Departamento de las Californias asi lo mando decreto y firmo de que doy fee. Michelt[oren]a'; his earlier order stamped p15 'Angls. Marzo 1o. de 1843. Espidase el titulo previas las formalidades de costumbre. Michelt[oren]a'. Board opinion stamped p40: 'a grant made to Jose Maria Rojo by Governor Micheltorena on the 24th of April 1843'; District Court decree stamped p54 names 'Manuel Micheltorena' as grantor."
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Concession decree stamped p15 declares 'dueno de en propiedad del parage llamado Cuyama al Ciudadano Jose Ma. Rojo'; petition signed 'Jose Ma. Rojo', Santa Barbara 15 Aug 1842 (stamped pp13-14, translation stamped p20). District Court decree stamped p54: 'granted on the 24th day of April A.D. 1843 by Manuel Micheltorena to Jose Maria Rojo'. Register correctly holds the Mexican grantee, not the U.S.-era claimant Maria Antonia de la Guerra y Lataillade, who bought from Rojo's widow Maria Alta Garcia by deed of 6 July 1846 (Board opinion stamped p40; agreement of purchase, Santa Barbara 4 July 1846, stamped p39)."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "p1 red label 'CASE No. 365 SOUTHERN DISTRICT'; interleaf 'LAND CASE 365 SD pgs. 58'; every transcript leaf stamped '365 SD'; PDF filename cubanc_lcf_sd365.pdf; wrapper 'U.S. DISTRICT COURT, Southern District of California. No. 365 ... Transcript of the Record from the Board of U.S. Land Commissioners, in Case No. 67'; District Court caption stamped p45 'Docket No. 365 / Transcript No. 67'. Board docket 67, matching Hoffman's commission_no."
+   },
+   "outcome": {
+    "grade": "OK",
+    "evidence": "Board opinion stamped p40 ends 'We are in our Opinion establish the validity of the Claim and a decree of Confirmation will be entered'; Decree of Confirmation stamped p41, signed R. Aug. Thompson and S. B. Farwell, confirms five square leagues (decided 17 July 1855 per the docket stamped p3 and the U.S. petition stamped p45). The United States appealed (AG notice 11 Feb 1856 stamped p43; notice of appeal filed 3 June 1856 stamped p44; U.S. petition for review by Pacificus Ord stamped pp45-47, praying the claim be decreed invalid). District Court decree, stamped pp53-55, December Term 1856, Isaac S. K. Ogier, U.S. District Judge: 'Ordered, Adjudged and Decreed, That the decision of said Board of Land Commissioners declaring valid and confirming the claim of the appellee, Maria Antonia de la Guerra y Lataillade ... be and the same hereby is affirmed; and that the title of the said appellee ... to the said land is a good and valid title', restricted to 'five square leagues and no more'. Filed 20 Jan 1857 (endorsement stamped p56). Attorney General's letter of 12 Feb 1857, stamped p57: 'appeal will not be prosecuted by the United States'. Register 'Confirmed' correct."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {},
+  "notes": "Single-volume file, 66 PDF images / 58 stamped transcript pages; image-to-stamp offset runs +5 early and +8 at the end, so evidence is cited by stamped page. Hoffman's 1862 table leaves year, governor and grantee blank for this claim, so it offers no cross-check, but the case file settles all three exactly as the register has them and the District Court decree of Dec Term 1856 states them in one sentence (stamped p54). The register's parenthetical '(Maria Antonia De La Guerra Y Lataillade)' is the U.S.-era claimant used as a disambiguator, correctly kept out of the grantee field. Two points for a re-reader: the confirmation is capped at five square leagues and no more (stamped pp54-55), and the grant was made on the express condition of Departmental Assembly approval, which the committee of vacant lands gave only on 12 June 1846 on Ignacio del Valle's application as executor of the deceased Rojo (stamped pp16-17). Register patent 20 July 1877 left for Phase C."
+ }
+]

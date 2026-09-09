@@ -1,0 +1,86 @@
+[
+ {
+  "id": "mission-san-buenaventura",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268942/files/cubanc_lcf_sd318.pdf",
+  "pdf_pages_stated": 138,
+  "pages_read": [
+   "images 1-14 = stamped 318 SD pages 1-9"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red case label: 'CASE NO. 318 / SOUTHERN DISTRICT / MISSION OF SAN BUENAVENTURA GRANT / MANUEL ANTONIA RODRIGUEZ DE POLI, CLAIMANT'; transcript title (stamped p1) 'for the place named Mission of San Buenaventura'. Register's 'Ex Mission San Buenaventura' is the same entity in the register's usual Ex-Mission form."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Deed of grant, Spanish original, stamped p9: '...en este papel comun por absoluta falta de sellado, ocho de Junio de mil ochocientos cuarenta y seis' = 8 June 1846. Petition (stamped p4) agrees: 'a sale made to Jose Arnaz by Pio Pico ... dated the 8th of June 1846'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Deed of grant heading, stamped p8: 'Pio Pico Gobernador Constitucional del Departamento de Californias'; signed 'Pio Pico' with 'Jose Matias Moreno Sro' (stamped p9). Pico's own sworn deposition, stamped p6: 'A paper now shown me purporting to be a grant from the government of Mexico made by myself as governor of the Californias to Jose Arnaz dated the 8th of June 1846 was executed by me in my official capacity.'"
+   },
+   "grantee": {
+    "grade": "PART",
+    "evidence": "Deed of grant, stamped p8: 'he venido en hacer venta real y efectiva enagenacion perpetua para siempre jamas al espresado Don Jose Arnaz de la Mision de San Buenaventura'. The surname in the decree is ARNAZ, not 'Arnas'; entity otherwise correct and correctly distinguished from the U.S.-era claimant Rodriguez de Poli."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label 'CASE NO. 318 SOUTHERN DISTRICT'; every transcript leaf stamped '318 SD'; PDF filename cubanc_lcf_sd318.pdf. Commission docket no. was 479 (stamped p1-p2), matching hoffman_1862 commission_no 479."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register field is blank. File shows the Board confirmed: stamped p3, 'San Francisco May 15 1855. In the same case Commissioner S. B. Farwell delivered the Opinion of the Board confirming the claim' (opinion at transcript p29, order at p31). Any later District Court action sits beyond the 30 images read of a 138-page transcript."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "grantee": "Jose Arnaz (decree stamped p8: 'al espresado Don Jose Arnaz'); register spells it 'Arnas'",
+   "outcome": "blank in register; Land Commission confirmed 15 May 1855 per stamped p3"
+  },
+  "notes": "Leaf 2 states 'LAND CASE 318 SD pgs. 138' but the PDF holds 151 images (blank versos and covers). Grant is a wartime SALE of the mission by Pico to Arnaz for $12,000 under the Mexican Minister of War's order of 10 March 1846, not an ordinary concession; claimant Manuel Antonio Rodriguez de Poli bought from Arnaz 29 Aug 1850 (stamped p4). Hoffman agrees with the register on year/governor/grantee. Patent fields left to Phase C: no patent copy in the pages read."
+ },
+ {
+  "id": "mission-san-diego",
+  "pdf_url_used": "https://digicoll.lib.berkeley.edu/record/268969/files/cubanc_lcf_sd347.pdf",
+  "pdf_pages_stated": 201,
+  "pages_read": [
+   "images 1-14 = stamped 347 SD pp.1-9",
+   "images 19-30 = stamped 347 SD pp.14-23"
+  ],
+  "verdicts": {
+   "name": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red case label: 'CASE NO. 347 / SOUTHERN DISTRICT / MISSION OF SAN DIEGO GRANT / SANTIAGO ARGUELLO CLAIMANT'; transcript title (stamped p1) 'for the place named \"Mission of San Diego\"'."
+   },
+   "year": {
+    "grade": "OK",
+    "evidence": "Grant deed, Spanish original, stamped p18: 'en la Ciudad de los Angeles a ocho de Junio de mil ochocientos cuarenta y seis'; sworn translation 'B', stamped p21: 'In the City of Los Angeles the 8th day of June one thousand eight hundred and forty six'."
+   },
+   "governor": {
+    "grade": "OK",
+    "evidence": "Grant heading, stamped p17: 'Pio Pico Gobernador Constitucional del Departamento de Californias', signed 'Pio Pico' with 'Jose Matias Moreno Sro. Ynto.' (stamped p18). Board opinion, stamped p22: 'This claim is founded on a grant made by Governor Pio Pico to the Claimant on the 8th of June 1846.'"
+   },
+   "grantee": {
+    "grade": "OK",
+    "evidence": "Grant deed, stamped p17: 'he venido en hacer venta real y enagenacion perpetua para siempre jamas, a D.n Santiago Arguello'; translation stamped p19: 'I have made real sale and perpetual alienation of it forever to Don Santiago Arguello'. Here claimant and original grantee are the same man, so no claimant/grantee confusion."
+   },
+   "land_case": {
+    "grade": "OK",
+    "evidence": "PDF image 1 red label 'CASE NO. 347 SOUTHERN DISTRICT'; every leaf stamped '347 SD'; filename cubanc_lcf_sd347.pdf. Commission docket no. 175 (stamped pp.1-2), matching hoffman_1862 commission_no 175."
+   },
+   "outcome": {
+    "grade": "NA",
+    "evidence": "Register field blank. File shows Board confirmation: opinion of Commissioner R. Aug. Thompson filed 26 June 1855 (stamped p22) and decree stamped pp.22-23, 'it is adjudged by the Board that the Claim of the petitioner is valid; and it is therefore decreed that the same be confirmed', signed R. Aug. Thompson and S. B. Farwell, filed 26 June 1855. Later District Court/appellate action, if any, lies beyond the 30 images read of a 201-page transcript."
+   },
+   "patent_to": null,
+   "patent_date": null,
+   "glo_patent_no": null
+  },
+  "corrections": {
+   "outcome": "blank in register; Land Commission decreed confirmation 26 June 1855 per stamped pp.22-23"
+  },
+  "notes": "Leaf 2: 'LAND CASE 347 SD pgs. 201'; PDF holds 210 images. Grant is Pico's 8 June 1846 sale of the mission to Arguello for services rendered, church and priest's dwelling excepted (conditions 1-4, stamped pp.17-20). Hoffman left year/governor/grantee blank for this row, so no cross-check conflict. No patent copy in the pages read; patent fields left for Phase C."
+ }
+]
