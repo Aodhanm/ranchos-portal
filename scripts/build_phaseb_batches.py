@@ -30,7 +30,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 SUBSTANTIVE = {"year", "governor", "grantee", "outcome"}
-CHUNK = 12
+DEFAULT_CHUNK = 12
 
 # One record from the original batches, captured before they were pruned.
 # The rebuild must reproduce it byte-for-byte or the reconstruction is wrong.
@@ -101,6 +101,10 @@ def main():
     ap.add_argument("--all", action="store_true",
                     help="emit all 572 records, not just the ungraded ones")
     ap.add_argument("--validate", action="store_true", help="self-check and exit")
+    ap.add_argument("--size", type=int, default=DEFAULT_CHUNK,
+                    help="records per chunk (default 12). Smaller chunks complete "
+                         "and report before a session limit can kill the agent, so "
+                         "its findings survive; verdicts survive either way.")
     a = ap.parse_args()
 
     recs = build_all()
@@ -124,10 +128,10 @@ def main():
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     n = 0
-    for i in range(0, len(recs), CHUNK):
+    for i in range(0, len(recs), a.size):
         n += 1
         (out / f"chunk{n:02d}.json").write_text(
-            json.dumps(recs[i:i + CHUNK], indent=1, ensure_ascii=False), encoding="utf-8")
+            json.dumps(recs[i:i + a.size], indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"wrote {n} chunk file(s) to {out}")
     return 0
 
