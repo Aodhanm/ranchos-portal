@@ -113,6 +113,55 @@ Determined in the United States District Court for the Northern District of
 California, June Term, 1853 to June Term, 1858, Inclusive*, Volume I (San
 Francisco: Numa Hubert, 1862). Only volume I was ever issued.
 
+## VERIFIED IN AODHAN'S OWN HOLDINGS, 2026-09-09
+
+Hittell was checked directly against the vault copy
+(`07 Files/Raw/papers/hittell-history-of-california-v3_djvu.txt`) rather than
+taken on report. The passage sits between the running heads "LAND COMMISSION.
+693" and "696 STATE GROWTH", confirming the citation as **III:695**. Verbatim:
+
+> "The number of land claims presented to it, as has been already stated, was
+> eight hundred and thirteen, asking for nineteen thousand one hundred and
+> forty-eight square miles or upwards of twelve and a quarter million acres; and
+> of the claims presented five hundred and fourteen were confirmed, two hundred
+> and eighty rejected, and nineteen discontinued."
+
+514 + 280 + 19 = 813 exactly. (The figures are spelled out in words, which is why
+a numeric search of the file finds nothing; worth knowing before anyone concludes
+the passage is absent.)
+
+**Hittell then gives the appellate correction himself, on the same page**, and
+this is the part that settles the whole question:
+
+> "Almost all were appealed to the United States district courts, in which about
+> twenty of those which had been confirmed were rejected, and about a hundred of
+> those which had been rejected were confirmed. In four hundred and thirty-four
+> of the cases of confirmation, the appeals taken by the United States were
+> afterwards, about 1857, withdrawn or dismissed by consent and the judgments of
+> the land commission accepted as final decrees, upon which patents were
+> eventually issued."
+
+Apply his own arithmetic to his own first-decision figures:
+
+| | confirmed | rejected | other |
+|---|---|---|---|
+| Hittell, Commission first decision (III:695) | 514 | 280 | 19 |
+| Hittell's own appellate correction (−20/+100) | **~594** | **~200** | 19 |
+| Morrow 1923 p.14, final result | 604 | 190 | 19 |
+| our parse, final disposition | 607 | 167 | 39 |
+| **the site's published figure** | **545** | **239** | **~29** |
+
+Three independent estimates of the final result cluster at 594, 604 and 607
+confirmed. The published 545 sits below all three, and its 239 rejected sits
+above all three. It is not a variant reading of either basis.
+
+Hittell also supplies the MECHANISM, which is exactly what our last-disposition
+parser measures: appeals moved roughly a hundred claims from rejected to
+confirmed and about twenty the other way. A rule that reads only whether the word
+"rejected" appears cannot see that movement, which is why the screening parser
+in `hoffman_crosscheck.py` produced 162 and why it should not be trusted for
+counts.
+
 ## Recommendation for the JOHD submission
 
 Preferred: replace the parenthetical with the reproducible figures and name the
