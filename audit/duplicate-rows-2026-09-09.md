@@ -1,4 +1,4 @@
-# Three more exact duplicate rows, and a docket-collision class the register does not model
+# Four more exact duplicate rows, and a docket-collision class the register does not model
 
 Date: 2026-09-09. Found by a name-column sweep run entirely against local data,
 while digicoll is behind a bot challenge and no case files can be read.
@@ -7,7 +7,7 @@ while digicoll is behind a bot challenge and no case files can be read.
 
 `u-100` "Topanga Malibu" was found in the 09-01 audit to be a duplicate row
 counted in `DATA.counts.total`, and suppressing it is what turned 673 into 672.
-It is not the only one. **Three further pairs are byte-identical across every
+It is not the only one. **Four further pairs are byte-identical across every
 exported field except `id`:**
 
 | docket | rows | status |
@@ -15,12 +15,17 @@ exported field except `id`:**
 | ND 308 | `rancho-canada-hambre-bolsas` / `-1` | identical, neither suppressed |
 | ND 319 | `rancho-new-helvetia` / `-1` | identical, neither suppressed |
 | SD 337 | `rancho-unnamed-3` / `rancho-unnamed-4` | identical, neither suppressed |
+| ND 392 | `rancho-nicasio-1` / `rancho-nicasio-2` | identical, neither suppressed (both read "Nicasio (Helleck)") |
 
 The app carries exactly **one** `suppress_register` flag in `DATA` (u-100), so
-these three are live on the register page, in the CSV, in the JSON, and in the
+these four are live on the register page, in the CSV, in the JSON, and in the
 Zenodo v1.0 deposit. If they are duplicates in the same sense u-100 was, the
-published total is **669, not 672**, and the same off-by-one logic that produced
-the 673 error is still producing a three-count error.
+published total is **668, not 672**, and the same logic that produced the 673
+error is still producing a four-count error.
+
+My own first pass at this said three. The fourth, ND 392, was found only when
+the check was written as a script comparing every pair on a collided docket
+rather than a hand-listed set of suspects, which is the argument for the script.
 
 They are NOT being fixed here. `data/ranchos-register.*` stays byte-identical to
 the deposit until v1.1, and whether New Helvetia's second row is a duplicate or a
@@ -32,7 +37,7 @@ data file. It needs the case file, which is currently unreachable.
 28 of 672 rows share a docket with at least one other row. They are not all the
 same kind of thing, and the register has no field that distinguishes them:
 
-1. **Exact duplicates** (the three above). Almost certainly rows to suppress.
+1. **Exact duplicates** (the four above). Almost certainly rows to suppress.
 2. **Pueblo double entry** (SD 242, SD 382, SD 386, SD 390). Each pueblo appears
    once as `pueblo-*` and once as `u-*`, same patentee and same acreage, but with
    different years: Santa Barbara 1834 against 1782, San Diego 1834 against 1769.
@@ -65,8 +70,10 @@ the three exact duplicates stop being invisible.
 
 ## Recommended for v1.1
 
-1. Resolve the three exact duplicates against their case files when access
+1. Resolve the four exact duplicates against their case files when access
    returns, then suppress them the way u-100 was, and restate the total.
+   Note that ND 392 Nicasio has FIVE rows of which only two are byte-identical,
+   so it needs the case file to say which of the remaining three are real shares.
 2. Add the docket-relationship column.
 3. Decide the pueblo double-entry question once, as policy, rather than per row.
 
