@@ -81,6 +81,38 @@ that "the Land Commission's first decision is NOT final", and the audit's own
 grading rule says District Court and Supreme Court decrees supersede it. The
 239 does not honour that warning.
 
+## CORROBORATED 2026-09-09: the final-disposition reading matches the literature
+
+Independent source work found the figures our two readings should match, and they do:
+
+| basis | published source | our parse |
+|---|---|---|
+| Commission first decision | Hittell, *History of California* III:695 (1898): 514 / 280 / 19 | 505 / 282 |
+| **final disposition** | **Morrow (1923) p.14: 604 confirmed, 190 rejected, 19 withdrawn** | **607 / 167 / 39** |
+
+Morrow states the distinction explicitly: "the final result, before the
+commission and on appeal to the District Court and Supreme Court, was the
+confirmation of 604 cases, the rejection of 190, and 19 were withdrawn."
+Our final-disposition confirmed count is within 3 of his. Robinson (1948,
+pp. 105-106) reproduces Morrow and labels it "finally confirmed / finally
+rejected".
+
+The published 545 / 239 matches neither basis and no located source gives it.
+
+⚠ **Do not cite Gates for 604.** The strings 604, 607, 545 and 239 appear nowhere
+in his 1971 article; he cites Hittell's 514/280/19 in a footnote. Attributing 604
+to Gates is a mis-citation common online. His 1958 *Huntington Library Quarterly*
+essay remains unchecked and is the one place he might give a full breakdown.
+
+⚠ **Bibliographic correction.** The publisher is **Numa Hubert**, not Sumner
+Whitney. The title page reads "NUMA HUBERT, PUBLISHER" and the preface is signed
+"N. HUBERT". Sumner Whitney is a cataloguing error that has propagated into
+HathiTrust and into the Newberry's own IA metadata for the very copy whose title
+page says otherwise. Full citation: Ogden Hoffman, *Reports of Land Cases
+Determined in the United States District Court for the Northern District of
+California, June Term, 1853 to June Term, 1858, Inclusive*, Volume I (San
+Francisco: Numa Hubert, 1862). Only volume I was ever issued.
+
 ## Recommendation for the JOHD submission
 
 Preferred: replace the parenthetical with the reproducible figures and name the

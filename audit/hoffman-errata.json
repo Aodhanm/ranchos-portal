@@ -1,0 +1,316 @@
+{
+ "note": "Hoffman's own printed errata, appendix pp. [145]-146 of the 1862 printing (IA GR_1919 leaves n606-n607). NOT applied to any dataset; recorded so the cross-check can be re-derived with them.",
+ "count": 74,
+ "by_kind": {
+  "governor_or_official": 28,
+  "year": 23,
+  "other": 22,
+  "spelling": 10,
+  "acreage": 3,
+  "collapses_into_another_claim": 2
+ },
+ "errata": {
+  "2": "After granted, insert “ in 1820 or 1821 by P. V. de Sola, confirmed by Jos4 Castro , Nov. 26th, 1835, and by the Territorial Deputation.”",
+  "3": "After Archibald, insert “ A.”",
+  "4": "No. 768. After Berreyesa, insert “ Justice of the Peace.”",
+  "5": "No. 62. After 1835, insert “ by Jose Castro who had become Political Chief.”",
+  "9": "Insert “ appeal ” before dismissed.",
+  "29": "After Mariano Castro, insert “Alcalde.”",
+  "31": "Instead of 1846, insert “1836.”",
+  "41": "After for, insert “Suey in San Luis Obispo County.”",
+  "42": "After for, insert “ Arroyo de la Laguna in Santa Clara County.”",
+  "46": "Included in",
+  "67": "For Marin Antonio, read “ Maria Antonia.”",
+  "76": "Instead of 1844, insert “ 1834.”",
+  "83": "Instead of Santa Clara, insert “ Alameda.”",
+  "84": "After Herrera, insert “ one and.”",
+  "87": "After league, insert “ and augmentation of three leagues.”",
+  "103": "After for, insert “ Albion Rancho.”",
+  "104": "Insert 1838 instead of “1835.”",
+  "125": "Read Manuel Micheltorena for Juan B. Alvarado, and Juan B. Alvarado for Manuel Micheltorena.",
+  "153": "After 1822, insert “ by P. V. de Sola and June 10th, 1823.”",
+  "161": "After Marquinas, insert “ Viceroy of New Mexico.”",
+  "166": "Containing 1,515,197 acres.",
+  "173": "No. 778. Instead of 1848, insert “ 1845.”",
+  "182": "No. 806. After Carrillo, insert \"Justice of the Peace.” In Index to Claimants, page 126, last line, for Borgas, read “ Bargas.” Pago 128, second and third line from bottom, substitute “ y Carillo ” for \" y Lataillade, and _ - -",
+  "191": "After 1835, insert by Jose Castro.”",
+  "212": "Instead of October 13th, 1835, insert “ December 21st, 1844.”",
+  "229": "After 1836, insert “ by N. Gutierrez.”",
+  "237": "After Vallejo, insert “Military Commandant of the frontiers of the North.",
+  "280": "Strike out granted in 1833, and insert after pueblo of San Francisco “ constituted under an Act of the Territorial Deputation of Nov. 3d, 1834.”",
+  "281": "After Iturbide, insert “ under a decree of the thirty-first of February, 1822, passed by the Provisional Congress of Mexico in consideration of services rendered by Augus¬ tine Iturbide in the revolution.\"",
+  "283": "After 1843, insert “ by Manuel Micheltorena and April 20th, 1846.”",
+  "286": "No. 294. Instead of 1845, insert « 1841.”",
+  "287": "Same title as",
+  "297": "After Jos6 Castro, insert “ as Prefect.” L 146 ERRATA IN APPENDIX.",
+  "310": "After Sanchez, insert “ Commander of the Presidio of San Francisco.”",
+  "323": "For Carnero, read “ Carneros.”",
+  "360": "For Aguila, read “Aguilar.”",
+  "361": "No. 470. Instead of J. Figueroa, insert “ J. J. Arrillaga.”",
+  "372": "After Noriega, insert “ Military Commandant.”",
+  "398": "After 1822, insert “ by P. Y. de Sola.”",
+  "409": "After Noriega, insert “Military Commandant.”",
+  "422": "After Los Angeles, insert “ founded under Governor Felipe de Neve in 1881. Pos¬ session given by Pedro Fajes, Sept. 4th, 1786, declared capital of California by Act of May 23d, 1835.”",
+  "430": "Instead of 1847, insert “ 1837.”",
+  "433": "Containing 22,193.50 acres.",
+  "434": "Containing 13,316.10 acres.",
+  "445": "For Yoca, read “ Boca.”",
+  "456": "For Sansal, read “ Sausal.”",
+  "463": "This claim is part of Jurupa",
+  "478": "Instead of 1831, insert “1834.” Instead of Juan P. Alvarado, insert “Jose Figueroa.”",
+  "487": "After Carrillo, insert “ Alcalde of Los Angeles.”",
+  "502": "For Puenta, read “Puente.”",
+  "524": "For Manuel Miclicltorena, read “ Juan B. Alvarado,” and for Juan B. Alvarado, read “ Manuel Micheltorcna.”",
+  "554": "After Josd Castro, insert “ as Prefect.”",
+  "557": "After 1834, insert “ by Jose Figueroa,” and instead of Josfi Figueroa, insert “ Pio Pico.”",
+  "592": "For Hames, read “ Harncs.”",
+  "603": "After Sanchez, insert “Justice of the Peace.”",
+  "607": "After Jose Castro, insert “ as Prefect.”",
+  "617": "After Jos6 Castro, insert \" as Prefect.”",
+  "619": "After Castro, insert “ Prefect of the Second District.”",
+  "621": "For Arguisola, read “Anguisola.”",
+  "631": "After 1820, insert “ by P. V. de Sola.”",
+  "634": "After 1836, insert “by N. Gutierrez.”",
+  "635": "For Borgas, read “ Bargas,” and after Estrada, read “Prefect of the First District.”",
+  "641": "After Jose Castro, insert “ as Commandant General.”",
+  "650": "Insert 1835 in the place of “ 1845.”",
+  "653": "After by, insert “ the viceroyalty of Spain and in 1835 by.”",
+  "679": "After Estrada, insert “ Prefect of the First District.”",
+  "687": "After Castro, insert “ as Lieutenant Colonel.”",
+  "696": "After Rodriguez, insert “ Alcalde.”",
+  "746": "See errata to",
+  "765": "Same title as in",
+  "770": "Same title as in",
+  "786": "After Vallejo, insert “ Military Commandant of the Northern Frontier.”",
+  "795": "After Castro, insert “ Prefect.”",
+  "798": "This claim is part of Bosquejo,"
+ },
+ "flagged_rows_touched_by_an_erratum": [
+  {
+   "id": "rancho-posolmi",
+   "commission_no": 125,
+   "erratum": "Read Manuel Micheltorena for Juan B. Alvarado, and Juan B. Alvarado for Manuel Micheltorena.",
+   "kinds": [
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "grantee: register 'Robert Walkinshaw' vs hoffman 'Lope Inigo'"
+   ]
+  },
+  {
+   "id": "rancho-canada-carpenteria",
+   "commission_no": 650,
+   "erratum": "Insert 1835 in the place of “ 1845.”",
+   "kinds": [
+    "year"
+   ],
+   "our_flags": [
+    "year: register 1835 vs hoffman 1845"
+   ]
+  },
+  {
+   "id": "rancho-tract-near-san-juan-bautista",
+   "commission_no": 297,
+   "erratum": "After Jos6 Castro, insert “ as Prefect.” L 146 ERRATA IN APPENDIX.",
+   "kinds": [
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "governor: register 'Alvarado' vs hoffman 'Jos6 Castro'"
+   ]
+  },
+  {
+   "id": "rancho-san-antonio-rodeo-aguas",
+   "commission_no": 478,
+   "erratum": "Instead of 1831, insert “1834.” Instead of Juan P. Alvarado, insert “Jose Figueroa.”",
+   "kinds": [
+    "year",
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "year: register 1838 vs hoffman 1831"
+   ]
+  },
+  {
+   "id": "rancho-canada-segunda",
+   "commission_no": 554,
+   "erratum": "After Josd Castro, insert “ as Prefect.”",
+   "kinds": [
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "governor: register 'Alvarado' vs hoffman 'Jos<5 Castro'"
+   ]
+  },
+  {
+   "id": "rancho-brea",
+   "commission_no": 487,
+   "erratum": "After Carrillo, insert “ Alcalde of Los Angeles.”",
+   "kinds": [
+    "other"
+   ],
+   "our_flags": [
+    "governor: register 'Echeandía' vs hoffman 'Jos<$ Antonio Carrillo'",
+    "outcome: register 'Confirmed' vs hoffman-1862 'rejected'"
+   ]
+  },
+  {
+   "id": "rancho-canada-herrera",
+   "commission_no": 84,
+   "erratum": "After Herrera, insert “ one and.”",
+   "kinds": [
+    "other"
+   ],
+   "our_flags": [
+    "governor: register 'Alvarado' vs hoffman 'Manuel Jimeuo'"
+   ]
+  },
+  {
+   "id": "rancho-arroya-laguna",
+   "commission_no": 42,
+   "erratum": "After for, insert “ Arroyo de la Laguna in Santa Clara County.”",
+   "kinds": [
+    "other"
+   ],
+   "our_flags": [
+    "year: register 1839 vs hoffman 1840"
+   ]
+  },
+  {
+   "id": "rancho-san-lorenzo",
+   "commission_no": 524,
+   "erratum": "For Manuel Miclicltorena, read “ Juan B. Alvarado,” and for Juan B. Alvarado, read “ Manuel Micheltorcna.”",
+   "kinds": [
+    "governor_or_official",
+    "spelling"
+   ],
+   "our_flags": [
+    "year: register 1841 vs hoffman 1842"
+   ]
+  },
+  {
+   "id": "rancho-calleguas",
+   "commission_no": 430,
+   "erratum": "Instead of 1847, insert “ 1837.”",
+   "kinds": [
+    "year"
+   ],
+   "our_flags": [
+    "year: register 1837 vs hoffman 1847"
+   ]
+  },
+  {
+   "id": "rancho-huerhuero",
+   "commission_no": 87,
+   "erratum": "After league, insert “ and augmentation of three leagues.”",
+   "kinds": [
+    "other"
+   ],
+   "our_flags": [
+    "grantee: register 'Francis Branch' vs hoffman 'Mariano Bonilla'"
+   ]
+  },
+  {
+   "id": "rancho-rincon-puente-monte",
+   "commission_no": 502,
+   "erratum": "For Puenta, read “Puente.”",
+   "kinds": [
+    "spelling"
+   ],
+   "our_flags": [
+    "governor: register 'the interim government' vs hoffman 'Gutierrez'"
+   ]
+  },
+  {
+   "id": "rancho-canada-pala",
+   "commission_no": 617,
+   "erratum": "After Jos6 Castro, insert \" as Prefect.”",
+   "kinds": [
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "governor: register 'Alvarado' vs hoffman 'Jose Castro'"
+   ]
+  },
+  {
+   "id": "rancho-monte-diablo",
+   "commission_no": 76,
+   "erratum": "Instead of 1844, insert “ 1834.”",
+   "kinds": [
+    "year"
+   ],
+   "our_flags": [
+    "year: register 1836 vs hoffman 1844"
+   ]
+  },
+  {
+   "id": "rancho-saucelito",
+   "commission_no": 104,
+   "erratum": "Insert 1838 instead of “1835.”",
+   "kinds": [
+    "year"
+   ],
+   "our_flags": [
+    "year: register 1838 vs hoffman 1835",
+    "grantee: register 'William (Guillermo) A. Richardson' vs hoffman 'Jose Antonio Galindo'"
+   ]
+  },
+  {
+   "id": "rancho-guadalasca",
+   "commission_no": 31,
+   "erratum": "Instead of 1846, insert “1836.”",
+   "kinds": [
+    "year"
+   ],
+   "our_flags": [
+    "year: register 1836 vs hoffman 1846"
+   ]
+  },
+  {
+   "id": "rancho-animas",
+   "commission_no": 161,
+   "erratum": "After Marquinas, insert “ Viceroy of New Mexico.”",
+   "kinds": [
+    "other"
+   ],
+   "our_flags": [
+    "year: register 1803 vs hoffman 1802"
+   ]
+  },
+  {
+   "id": "rancho-san-pedro-1",
+   "commission_no": 398,
+   "erratum": "After 1822, insert “ by P. Y. de Sola.”",
+   "kinds": [
+    "year",
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "year: register 1784 vs hoffman 1822"
+   ]
+  },
+  {
+   "id": "rancho-pulgas",
+   "commission_no": 2,
+   "erratum": "After granted, insert “ in 1820 or 1821 by P. V. de Sola, confirmed by Jos4 Castro , Nov. 26th, 1835, and by the Territorial Deputation.”",
+   "kinds": [
+    "year",
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "year: register 1820 vs hoffman 1835"
+   ]
+  },
+  {
+   "id": "pueblo-pueblo-sonoma",
+   "commission_no": 237,
+   "erratum": "After Vallejo, insert “Military Commandant of the frontiers of the North.",
+   "kinds": [
+    "governor_or_official"
+   ],
+   "our_flags": [
+    "governor: register 'Figueroa' vs hoffman 'M. G. Vallejo'"
+   ]
+  }
+ ]
+}
