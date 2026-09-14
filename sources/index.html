@@ -146,9 +146,58 @@
 <p><strong>A single grant record:</strong></p>
 <blockquote>"Rancho [Name]" (U.S. land case [ND/SD nnn]). In Aodhan Coyne, <em>Ranchos of Spanish and Mexican California: A Research Portal</em>, ranchos.archivesofcalifornia.com. Accessed [date].</blockquote>
 <p>When you rely on a datum the portal itself sourced, cite through to the original: Hoffman (1862) for a case outcome or party, the Bancroft land-case file (with its digicoll record) for archival detail, the ECAI/UCSD dataset for a boundary, and the Bancroft Land Case Maps (with credit) for a diseño image. The portal is the finding aid; the authorities above are the record.</p>
+
+<h3 id="LAYER-PROVENANCE">12. What each layer rests on</h3>
+<p>The portal is four datasets, not one, and they do not rest on the same evidence. Counts
+below were measured from the portal's own files at build time, so they follow the data.</p>
+<ul class="plain src">
+<li><b>The register, 672 claims.</b> The spine. 660 carry a land-case number,
+550 a General Land Office patent number, 654 a link to the Bancroft case scan,
+and 14 a Supreme Court citation. Built from Hoffman (1862) for adjudication, Bowman's
+<i>Index</i> for the concordance of grant to docket to file, and the Bancroft finding aid for
+the case scans.</li>
+<li><b>The mapped boundaries, 535 of those claims (530 polygons).</b> Boundary
+geometry is not ours: 527 features cite the ECAI/UCSD <i>Spanish and Mexican Land
+Grants of California</i> dataset, and each carries its land-case file alongside. The remaining
+137 register entries have no surviving boundary and are listed unmapped rather than
+invented. A handful of features (presidios, Branciforte, a rejected claim fitted to its survey)
+are traced from named sources and say so in the feature itself.</li>
+<li><b>The dise&#241;os, 1,870 sheets across 38 county groups.</b> Manuscript grant maps
+filed as evidence in the federal land cases, held by The Bancroft Library. Images are served
+from the companion maps site; the catalogue of them is ours.</li>
+<li><b>Dynasties and brands.</b> Derived layers. Families are grouped from register surnames;
+brands are matched to grants <b>by corroboration, never by name alone</b>, because name matching
+hung one mission brand on all eight ranchos sharing its name. An unmatched brand stays
+unmatched.</li>
+</ul>
+<p>So a boundary on this map is third-party geometry, a case outcome is Hoffman, and a
+dise&#241;o is a Bancroft manuscript. Three different kinds of claim, three different
+authorities, and a reader tracing one should go to the right one.</p>
+
+<h3>13. Companion projects</h3>
+<p>This portal is one of four related projects built on the same archive. Each is separately
+citable, and each is a source the others draw on.</p>
+<ul class="plain src">
+<li><a href="https://archivesofcalifornia.com"><b>Archives of California: A Documentary
+Calendar of the Savage Transcripts</b></a>. The item-level catalogue of BANC MSS C-A 1 to 63,
+the transcripts of the provincial archive burned in 1906. The manuscript layer under
+everything else. DOI 10.5281/zenodo.21912644.</li>
+<li><a href="https://maps.archivesofcalifornia.com"><b>California History Maps</b></a>. Fourteen
+maps of Spanish, Mexican and conquest-era California, including a rancho map built on a
+different boundary dataset from this one, which is why the two disagree. Its
+<a href="https://maps.archivesofcalifornia.com/maps/sources.html">Sources and Method</a> page
+lists what all of them rest on.</li>
+<li><a href="https://ships.archivesofcalifornia.com"><b>California Ship Registry</b></a>. Every
+recorded vessel visit to the California coast, 2,072 visits carrying 2,900 citations, drawn
+from the documentary calendar, Bancroft's narrative and marine lists, and Ogden's otter-trade
+appendix. The maritime counterpart to this portal's landward record.</li>
+<li><a href="https://maps.archivesofcalifornia.com/gallery/disenos.html"><b>The dise&#241;o
+gallery</b></a>. The manuscript grant maps themselves, reproduced.</li>
+</ul>
+
 <hr>
 <p><em>Provenance of this page: every figure and quoted source line was read directly from the portal's own data files (<code>ranchos-experimental.json</code>, <code>hoffman-claims.json</code>, <code>ranchos-index.json</code>, <code>disenos-data.json</code>, and the register build) on 2026-08-26. Where this document quotes a source note, the quotation is verbatim from those files.</em></p>
 </main>
-<footer><p>By <a href="https://aodhancoyne.com/" rel="author">Aodhan Coyne</a>.<br>Coyne, Aodhan. <i>Ranchos of California: A Register of the Land Grants of Alta California</i>. Version 1.0.0, 2026. <a href="https://doi.org/10.5281/zenodo.22185500">doi:10.5281/zenodo.22185500</a>.</p><p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the cited record before relying on it. Generated 2026-09-11.</p><p><a href="/">Return to the interactive portal</a> &middot; <a href="/errata/">Errata</a> &middot; Corrections and questions: <a href="mailto:aodhancoyne@gmail.com">aodhancoyne@gmail.com</a></p></footer>
+<footer><p>Coyne, Aodhan. <i>Ranchos of California: A Register of the Land Grants of Alta California</i>. Version 1.0.0, 2026. <a href="https://doi.org/10.5281/zenodo.22185500">doi:10.5281/zenodo.22185500</a>.</p><p>Catalog data CC BY 4.0. Boundaries and land-case data from the ECAI/UCSD Spanish and Mexican Land Grants dataset; dise&ntilde;os from the Bancroft Library. Always verify a grant against the cited record before relying on it. Generated 2026-09-14.</p><p><a href="/">Return to the interactive portal</a> &middot; <a href="/errata/">Errata</a> &middot; Corrections and questions: <a href="mailto:aodhancoyne@gmail.com">aodhancoyne@gmail.com</a></p></footer>
 </body>
 </html>
