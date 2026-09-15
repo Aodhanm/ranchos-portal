@@ -79,7 +79,7 @@ def page(title, desc, canon, body, ld=None):
         f'<meta property="og:title" content="{esc(title)}">\n'
         f'<meta property="og:description" content="{esc(desc)}">\n'
         f'<meta property="og:url" content="{canon}">\n'
-        '<link rel="icon" href="/assets/favicon.svg?v=2" type="image/svg+xml">\n'
+        '<link rel="icon" href="/assets/favicon.svg?v=3" type="image/svg+xml">\n'
         '<link rel="stylesheet" href="/assets/css/pages.css">\n'
         + ldtag +
         '</head>\n<body>\n'
