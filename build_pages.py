@@ -286,13 +286,19 @@ def main():
         # Rendering "Granted <year> by Governor <all of them>" asserts they all
         # granted it in that one year, which is false. Split it.
         _compound_gov = gov and (';' in gov or ' and ' in gov)
+        # A claim rejected as a forgery never was a grant. Its year and its
+        # governor are the forger's assertions, so the record must report them
+        # as claimed, never state them as fact.
+        ground = (r.get('rejection_ground') or '').strip()
+        _lab = 'Claimed' if ground else 'Granted'
         if year and not gov:
-            facts.append(('Granted', esc(year)))
+            facts.append((_lab, esc(year)))
         elif year and _compound_gov:
-            facts.append(('Granted', esc(year)))
+            facts.append((_lab, esc(year)))
             facts.append(('Granting authorities', esc(gov)))
         elif year:
-            facts.append(('Granted', esc(year) + f' by Governor {esc(gov)}'))
+            facts.append((_lab, esc(year) + (f' under a grant purportedly by Governor {esc(gov)}'
+                                             if ground else f' by Governor {esc(gov)}')))
         if grantee:
             facts.append(('Grantee', esc(grantee)))
         size = []
@@ -310,7 +316,10 @@ def main():
             facts.append(('U.S. land case', esc(r['land_case']) + ', Board of Land Commissioners, 1852'))
         if r.get('outcome'):
             cls = 'no' if re.search(r'reject', r['outcome'], re.I) else 'ok'
-            facts.append(('Adjudication', f'<span class="{cls}">{esc(r["outcome"])}</span>'))
+            # "Rejected" alone cannot tell a manufactured document from a real
+            # grant voided for want of authority. Name the ground when we know it.
+            oc_txt = esc(r['outcome']) + (f' ({esc(ground)})' if ground else '')
+            facts.append(('Adjudication', f'<span class="{cls}">{oc_txt}</span>'))
         pt = r.get('patent')
         if pt:
             bits = []
@@ -426,10 +435,17 @@ def main():
             pcell = f"{top}<br><span class=\"kicker\" style=\"display:inline\">{sub}</span>"
         else:
             pcell = ''
+        # Most of these records have no detail page, so the register row is the
+        # only place a forged claim can be marked as one.
+        rg = (r.get('rejection_ground') or '').strip()
+        gov_cell = esc(r.get('governor'))
+        if rg and gov_cell:
+            gov_cell += ' <span class="kicker" style="display:inline">(purported)</span>'
+        oc_cell = esc(oc) + (f' <span class="kicker" style="display:inline">({esc(rg)})</span>' if rg else '')
         rows.append(f'<tr id="{esc(r["id"])}"><td>{cell}</td><td>{esc(r.get("year"))}</td>'
-                    f'<td>{esc(r.get("governor"))}</td><td>{esc(r.get("grantee"))}</td>'
+                    f'<td>{gov_cell}</td><td>{esc(r.get("grantee"))}</td>'
                     f'<td>{esc(r.get("county"))}</td><td>{lc_cell}</td>'
-                    f'<td class="{ocls}">{esc(oc)}</td><td>{pcell}</td></tr>')
+                    f'<td class="{ocls}">{oc_cell}</td><td>{pcell}</td></tr>')
     c = D['counts']
     npat = sum(1 for r in recs if not r.get('suppress_register') and (r.get('patent') or {}).get('date'))
     rdesc = (f'The full register of {c["total"]} Spanish and Mexican land grants and claims of Alta '
