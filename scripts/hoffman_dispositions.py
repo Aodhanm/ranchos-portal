@@ -83,7 +83,17 @@ def final_disposition(text):
     return last
 
 
+# The Supreme Court reversing a confirmation "with directions to dismiss the
+# petition" is a FINAL REJECTION, not an unresolved remand: the lower court is
+# being told to throw the claim out. Eight entries read this way, including
+# ND 208 Angel Island, where a census agent graded the outcome UV because the
+# case file stops at the granted appeal and predicted exactly this resolution.
+DIRECTED_DISMISSAL = re.compile(r"direction[s]?\s+to\s+dismiss", re.I)
+
+
 def classify(entry):
+    if DIRECTED_DISMISSAL.search(trim_to_own_entry(entry["raw"])):
+        return "rejected"
     d = final_disposition(entry["raw"])
     if d == "confirmed":
         return "confirmed"

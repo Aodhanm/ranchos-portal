@@ -1,0 +1,239 @@
+{
+ "note": "Supreme Court citations Hoffman's table supplies for register rows whose scotus_cite is blank. STAGED, not applied; data/ranchos-register.* stays byte-identical to the Zenodo v1.0 deposit until v1.1.",
+ "source": "Hoffman 1862, Appendix, Table of Land Claims, pp. 1-109 (IA GR_1919).",
+ "count": 29,
+ "records": [
+  {
+   "id": "rancho-angel-island",
+   "name": "Angel Island",
+   "land_case": "ND 208",
+   "hoffman_scotus_cite": "23 Howard 273",
+   "register_scotus_cite": "",
+   "evidence": "on October 24th, 1854, by the District Court September 10th, 1855, and decree reversed by the U. S. Supreme Court and cause remanded, with directions to dismiss the petition, 23 Howard, 273."
+  },
+  {
+   "id": "rancho-san-vicente",
+   "name": "San Vicente (Berreyesa)",
+   "land_case": "ND 363",
+   "hoffman_scotus_cite": "23 Howard 499",
+   "register_scotus_cite": "",
+   "evidence": "r 30th, 1852, confirmed by the Commission July 3d, 1855, by the District Court March 13th, 1857, and decree affirmed by the U. S. Supreme Court in 23 Howard, 499 ; containing 4,438.36 acres."
+  },
+  {
+   "id": "rancho-san-miguel-2",
+   "name": "San Miguel",
+   "land_case": "ND 326",
+   "hoffman_scotus_cite": "22 Howard 315",
+   "register_scotus_cite": "",
+   "evidence": "852, rejected by the Commission April 24th, 1855, confirmed by the District Court June 2d, 1857, and decree confirmed by the U. S. Supreme Court for one league and a half, in 22 Howard, 315."
+  },
+  {
+   "id": "rancho-santa-rita-1",
+   "name": "Santa Rita",
+   "land_case": "ND 155",
+   "hoffman_scotus_cite": "23 Howard 495",
+   "register_scotus_cite": "",
+   "evidence": "rejected by the Commission April 25th, 1854, confirmed by the District Court August 13tli, 1855, and decree affirmed by the U. S. Supreme Court in 23 Howard, 495 ; containing 8,885.67 acres."
+  },
+  {
+   "id": "rancho-cosumnes",
+   "name": "Cosumnes",
+   "land_case": "ND 362",
+   "hoffman_scotus_cite": "22 Howard 286",
+   "register_scotus_cite": "",
+   "evidence": "2, confirmed for six leagues on the Cosumnes river by the Commission August 7th, 1855, by the District Court May 14th, 1857, and decree affirmed by the U. S. Supremo Court in 22 Howard, 286."
+  },
+  {
+   "id": "rancho-arroyo-nueces-bolbones",
+   "name": "Arroyo De Las Nueces Y Bolbones",
+   "land_case": "ND 046",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "on of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261, and decree of the District Court affirmed by the U. S. Supreme Court in 22 Howard, 225; containing 17,734.52 acres."
+  },
+  {
+   "id": "rancho-cajon",
+   "name": "El Cajon",
+   "land_case": "SD 114",
+   "hoffman_scotus_cite": "19 Howard 363",
+   "register_scotus_cite": "",
+   "evidence": "iled June 10th, 1852, confirmed by the Commission March 14tli, 1854, by the District Court September 28th, 1855, and by the U. S. Supreme Court in 19 Howard, 363; containing 48,794.03 acres."
+  },
+  {
+   "id": "rancho-pulgas",
+   "name": "Pulgas",
+   "land_case": "ND 054",
+   "hoffman_scotus_cite": "18 Howard 539",
+   "register_scotus_cite": "",
+   "evidence": "y 21st, 1852, confirmed by the Commission October 2d, 1853, by the District Court January 26th, 1855, and by the U. S. Supreme Cou^t in 18 Howard, 539 ; containing 35,240.47 acres. Patented."
+  },
+  {
+   "id": "rancho-valle-san-jose-1",
+   "name": "Valle De San Jose",
+   "land_case": "ND 102",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "the Commission January 31st, 1854, by the District Court January 14th, 1856, and decision of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261 ; containing 51,572.26 acres."
+  },
+  {
+   "id": "rancho-san-joaquin-2",
+   "name": "San Joaquin",
+   "land_case": "SD 178",
+   "hoffman_scotus_cite": "18 Howard 553",
+   "register_scotus_cite": "",
+   "evidence": "m filed February 20th, 1 852, confirmed by the Commission December 18th, 1852, by the District Court September 21st, 1855, and judgment affirmed by the U. S. Supreme Court in 18 Howard, 553."
+  },
+  {
+   "id": "rancho-mariposas",
+   "name": "Las Mariposas",
+   "land_case": "ND 001",
+   "hoffman_scotus_cite": "17 Howard 542",
+   "register_scotus_cite": "",
+   "evidence": " 21st, 1852, confirmed by the Commisssion December 27th, 1852, by the District Court June 27th, 1854, and by the IT. S. Supreme Court in 17 Howard, 542; containing 44,386.83 acres. Patented."
+  },
+  {
+   "id": "rancho-san-buenaventura",
+   "name": "San Buenaventura",
+   "land_case": "ND 004",
+   "hoffman_scotus_cite": "18 Howard 1",
+   "register_scotus_cite": "",
+   "evidence": "y 9th, 1852, confirmed by the Commission December 18th, 1852, by the District Court October 31st, 1853, and by the U. S. Supreme Court in 18 Howard, 1 ; containing 26,632.09 acres. Patented."
+  },
+  {
+   "id": "rancho-putos",
+   "name": "Los Putos",
+   "land_case": "ND 074",
+   "hoffman_scotus_cite": "18 Howard 556",
+   "register_scotus_cite": "",
+   "evidence": "y the Commission November 15th, 1853, confirmed by the District Court July 5th, 1855, and decree affirmed by the U. S. Supreme Court in 18 Howard, 556 ; containing 44,383.78 acres. Patented."
+  },
+  {
+   "id": "rancho-santa-cruz-island",
+   "name": "Santa Cruz Island",
+   "land_case": "SD 340",
+   "hoffman_scotus_cite": "23 Howard 464",
+   "register_scotus_cite": "",
+   "evidence": "stillero; claim filed April 13th, 1852, confirmed by the Commission July 3d, 1855, by the District Court January 14th, 1857, and decree affirmed by the U. S. Supreme Court in 23 Howard, 464."
+  },
+  {
+   "id": "u-9",
+   "name": "Aguas Nieves",
+   "land_case": "ND 33",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "led April 27th, l(g)2, confirmed by the Commission February 14th, 1853, by the District Court July 5th, 1855, decision of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261."
+  },
+  {
+   "id": "u-28",
+   "name": "Bolsa de Tomales",
+   "land_case": "ND 121",
+   "hoffman_scotus_cite": "22 Howard 87",
+   "register_scotus_cite": "",
+   "evidence": "ril 11th, 1854, by the District Court December 1st, 1854, decree reversed by the U. S. Supreme Cotirt and cause remanded in 22 Howard, 87. Confirmed by the District Court February 7th, 1861."
+  },
+  {
+   "id": "u-40",
+   "name": "Las Calaveras",
+   "land_case": "ND 399",
+   "hoffman_scotus_cite": "23 Howard 321",
+   "register_scotus_cite": "",
+   "evidence": "53, rejected by the Commission October 16th, 1855, confirmed by the District Court January 9th, 1858, decree reversed by the U. S. Supreme Court and petition to be dismissed, 23 Howard, 321."
+  },
+  {
+   "id": "u-52",
+   "name": "Cazadores",
+   "land_case": "N.D. 376",
+   "hoffman_scotus_cite": "23 Howard 476",
+   "register_scotus_cite": "",
+   "evidence": " Commission July 17th, 1855, by the District Court September 22d, 1856, decree reversed by the U. S. Supreme Court and cause remanded, with direction to dismiss the petition, 23 Howard, 476."
+  },
+  {
+   "id": "u-79",
+   "name": "Panoche Grande",
+   "land_case": "ND 278",
+   "hoffman_scotus_cite": "23 Howard 326",
+   "register_scotus_cite": "",
+   "evidence": "sed. Ip 23 Howard, 326, the order of the Supreme Court docketing and dismissing cause was vacated and the mandate recalled. Case reopened in District Court March 21st, 1861, and is at issue."
+  },
+  {
+   "id": "u-91",
+   "name": "Jimeno Rancho",
+   "land_case": "N.D. 23",
+   "hoffman_scotus_cite": "18 Howard 557",
+   "register_scotus_cite": "",
+   "evidence": "iled March 24th, 1852, 19 confirmed by the Commission January 10th, 1853, by the District Court July 5th, 1855, and by the U. S. Supreme Court in 18 Howard, 557 ; containing 48,854.26 acres."
+  },
+  {
+   "id": "u-95",
+   "name": "Punta de Lobos",
+   "land_case": "N.D. 394",
+   "hoffman_scotus_cite": "24 Howard 125",
+   "register_scotus_cite": "",
+   "evidence": "ed January 17th, 1853, rejected by the Commission August 14th, 1855, by the District Court December 5th, 1857, and judgment affirmed by the U. S. Supreme Court with costs, 24 Howard, 125. 71"
+  },
+  {
+   "id": "u-98",
+   "name": "Lup Yomi",
+   "land_case": "N.D. 8",
+   "hoffman_scotus_cite": "22 Howard 392",
+   "register_scotus_cite": "",
+   "evidence": "ted by the Commission December 13th, 1853, confirmed by the District Court June 27th, 1855, decree reversed by the U. S. Supreme Court and case remanded for further evidence, 22 Howard, 392."
+  },
+  {
+   "id": "u-108",
+   "name": "Nemshas",
+   "land_case": "ND 302",
+   "hoffman_scotus_cite": "24 Howard 151",
+   "register_scotus_cite": "",
+   "evidence": "firmed by the Commission January 23d, 1855, by the District Court October 16th, 1856, judgment of District Court reversed by the U. S. Supreme Court and petition dismissed in 24 Howard, 151."
+  },
+  {
+   "id": "u-117",
+   "name": "Potrero",
+   "land_case": "N.D. 209",
+   "hoffman_scotus_cite": "22 Howard 443",
+   "register_scotus_cite": "",
+   "evidence": "s; claim filed December 21st, 1852, rejected by the Commission November 21st, 1854, by the District Court August 24th, 1857, and decree affirmed by the U. S. Supreme Court in 22 Howard, 443."
+  },
+  {
+   "id": "u-121",
+   "name": "Island of Sacramento",
+   "land_case": "N.D. 270",
+   "hoffman_scotus_cite": "23 Howard 312",
+   "register_scotus_cite": "",
+   "evidence": "ommission February 8th, 1855, confirmed by the District Court November 15th, 1856, decree reversed by the U. S. Supreme Court, cause remanded and petition to be dismissed, in 23 Howard, 312."
+  },
+  {
+   "id": "u-126",
+   "name": "Socayac",
+   "land_case": "N.D. 348",
+   "hoffman_scotus_cite": "23 Howard 476",
+   "register_scotus_cite": "",
+   "evidence": "confirmed by the Commision July 10th, 1855, by the District Court March 16th, 1857, and decree reversed by the U. S. Supreme Court, with direction to dismiss the petition, in 23 Howard, 476."
+  },
+  {
+   "id": "u-133",
+   "name": "unnamed tract (9 square leagues)",
+   "land_case": "N.D. 96",
+   "hoffman_scotus_cite": "22 Howard 274",
+   "register_scotus_cite": "",
+   "evidence": " by the Commission January 17th, 1854, confirmed by the District Court, decree reversed, petition dismissed by the U. S. Supreme Court, and cause remanded for that purpose in 22 Howard, 274."
+  },
+  {
+   "id": "u-136",
+   "name": "Willy",
+   "land_case": "ND 268",
+   "hoffman_scotus_cite": "21 Howard 408",
+   "register_scotus_cite": "",
+   "evidence": "hael C. Nye; claim filed May 10th, 1852, confirmed by the Commission February 8th, 1855, by the District Court February 16th, 1857, and rejected by the U. S. Supreme Court in 21 Howard, 408."
+  },
+  {
+   "id": "u-138",
+   "name": "Yulupa",
+   "land_case": "N.D. 140",
+   "hoffman_scotus_cite": "22 Howard 416",
+   "register_scotus_cite": "",
+   "evidence": " by the Commission May 10th, 1854, confirmed by the District Court January 21st, 1857, decree reversed by the XT. S. Supreme Court and cause remanded for further evidence, in 22 Howard, 416."
+  }
+ ]
+}

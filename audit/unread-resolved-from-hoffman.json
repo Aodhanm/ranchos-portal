@@ -3,13 +3,13 @@
  "source": "Ogden Hoffman, Reports of Land Cases ... Northern District of California (San Francisco: Numa Hubert, 1862), Appendix, 'Table of Land Claims', pp. 1-109. IA item GR_1919.",
  "unread_rows": 115,
  "by_hoffman_outcome": {
+  "rejected": 51,
   "confirmed": 50,
-  "rejected": 47,
-  "other": 15,
+  "other": 11,
   "no entry": 3
  },
  "vs_register": {
-  "agrees": 96,
+  "agrees": 100,
   "DISAGREES": 1
  },
  "records": [
@@ -605,7 +605,7 @@
    "commission_docket": 626,
    "district_court_no": 194,
    "register_outcome": "Rejected",
-   "hoffman_outcome": "other",
+   "hoffman_outcome": "Rejected",
    "hoffman_patented_by_1862": false,
    "disposition_chain": [
     "Commission September 26th, 1854",
@@ -834,7 +834,7 @@
    "commission_docket": 303,
    "district_court_no": 376,
    "register_outcome": "Rejected",
-   "hoffman_outcome": "other",
+   "hoffman_outcome": "Rejected",
    "hoffman_patented_by_1862": false,
    "disposition_chain": [
     "Commission July 17th, 1855",
@@ -945,7 +945,7 @@
    "commission_docket": 658,
    "district_court_no": 286,
    "register_outcome": "Rejected",
-   "hoffman_outcome": "other",
+   "hoffman_outcome": "Rejected",
    "hoffman_patented_by_1862": false,
    "disposition_chain": [],
    "evidence_tier": "hoffman-table",
@@ -1642,7 +1642,7 @@
    "commission_docket": 235,
    "district_court_no": 348,
    "register_outcome": "Rejected",
-   "hoffman_outcome": "other",
+   "hoffman_outcome": "Rejected",
    "hoffman_patented_by_1862": false,
    "disposition_chain": [
     "District Court March 16th, 1857"
