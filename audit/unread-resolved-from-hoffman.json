@@ -1,0 +1,1776 @@
+{
+ "note": "Provisional outcomes for register rows with NO case-file reading, derived from Hoffman 1862 Appendix. Evidence tier 'hoffman-table' is WEAKER than the 'case-file' tier used for the 557 read records and must not be presented as equivalent. Changes no register data.",
+ "source": "Ogden Hoffman, Reports of Land Cases ... Northern District of California (San Francisco: Numa Hubert, 1862), Appendix, 'Table of Land Claims', pp. 1-109. IA item GR_1919.",
+ "unread_rows": 115,
+ "by_hoffman_outcome": {
+  "confirmed": 50,
+  "rejected": 47,
+  "other": 15,
+  "no entry": 3
+ },
+ "vs_register": {
+  "agrees": 96,
+  "DISAGREES": 1
+ },
+ "records": [
+  {
+   "id": "rancho-tres-ojos-agua",
+   "name": "Tres Ojos De Agua",
+   "land_case": "SD 285",
+   "commission_docket": 591,
+   "district_court_no": 285,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 20th, 1855",
+    "District Court January 18th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "591, 285, S. D., 357. Nicolas Dodero, claimant for Tres Ojos de Agua, 1,300 varas square, in Santa Cruz county, granted March 18th, 1844, by Manuel Michel torena to N. Dodero; claim filed February 15th, 1853, confirmed by the Commission February 20th, 1855, by the District Court January 18th, 1856, and appeal dismissed February 24th, 1857 ; containing 176 acres. 81"
+  },
+  {
+   "id": "rancho-unnamed-1",
+   "name": "500 varas by 250, near San Gabriel",
+   "land_case": "SD 134",
+   "commission_docket": 417,
+   "district_court_no": 134,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 28th, 1854",
+    "District Court March 3d, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "417,134, S. D. Lugardo Aguilar and Pascuala Garcia, liis wife, claimants for 500 varas by 250, near San Gabriel, in Los Angeles county, granted May 15th, 1843, by Manuel Micheltorena to Manuel Dolivcra; claim filed October 26th, 1852, confirmed by the Commission February 28th, 1854, by the District Court March 3d, 1856, and appeal dismissed February 24th, 1857."
+  },
+  {
+   "id": "rancho-tres-ojos-agua-1",
+   "land_case": "SD 397",
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": null,
+   "evidence_tier": "none",
+   "note": "no Hoffman entry found for this docket"
+  },
+  {
+   "id": "rancho-unnamed-3",
+   "name": "Potreros de San Juan Capistrano",
+   "land_case": "SD 337",
+   "commission_docket": 394,
+   "district_court_no": 337,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission June 26th, 1855",
+    "District Court February 21st, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "394, 337, S. D., 438. Juan Foster, claimant for Potreros de San Juan Capistrano, 55 in Los Angeles and San Bernardino counties, granted April 5tli, 1845, by Pio Pico to J. Foster; claim filed October 16th, 1852, confirmed by the Commission June 26th, 1855, by the District Court February 21st, 1857, and appeal dismissed June 4th, 1857 ; containing 1,167.74 acres."
+  },
+  {
+   "id": "rancho-tucho",
+   "name": "El Tucho",
+   "land_case": "SD 296",
+   "commission_docket": 790,
+   "district_court_no": 296,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 20th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "790, 296, S. D. Widow and children of Simeon Castro, claimants for Tucho, 800 varas square, in Monterey county, granted June 12th, 1841, by Juan B. Alvarado to Simeon Castro ; claim filed March 3d, 1853, confirmed by the Commission March 20th, 1855, and appeal dismissed February 1st, 1858."
+  },
+  {
+   "id": "rancho-unnamed-5",
+   "name": "Potrero de Felipe Lugo",
+   "land_case": "SD 033",
+   "commission_docket": 432,
+   "district_court_no": 33,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 18th, 1853",
+    "District Court September 19th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "432, 33, S. D., 444. Jorge Morillo et al., claimants for Potrero de Felipe Lugo,^ described by boundaries, in Los Angeles (^flhty, granted April 18tli, 1845, by Pio Pico to Teodoro Romero et al. ;^roi!n filed November 1st, 1852, confirmed by the Commission October 18th, 1853, by the District Court September 19th, 1855, and appeal dismissed February 23d, 1857 ; containing 2,042.81 acres."
+  },
+  {
+   "id": "rancho-zaca",
+   "name": "La Zaca",
+   "land_case": "SD 241",
+   "commission_docket": 265,
+   "district_court_no": 241,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 14th, 1854",
+    "District Court January 25th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "265, 241, S. D. Maria Antonia de la Guerra y Lataillade, claimant for La Zaca. in Santa Barbara county, granted, 1838, by Juan B. Alvarado to Antonio; claim filed June 10th, 1852, confirmed by the Commission November 14th, 1854, by the District Court January 25th, 1856, and appeal dismissed February 5tli, 1857 ; containing 4,480 acres."
+  },
+  {
+   "id": "rancho-tract-between-san-jacinto-san-gorgonio",
+   "name": "Between San Jacinto And San Gorgonio",
+   "land_case": "SD 269",
+   "commission_docket": 443,
+   "district_court_no": 269,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 2d, 1855",
+    "District Court February 29th, 1860"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "443, 269, S. D., 521. Louis Roubidcau, claimant for San Jacinto and San Gregorio, granted March 22d, 1843, by Manuel Micheltorena to Santiago Johnson; claim filed November 1st, 1852, rejected by the Commission January 2d, 1855, and confirmed by the District Court February 29th, 1860."
+  },
+  {
+   "id": "rancho-virgenes",
+   "name": "Las Virgenes",
+   "land_case": "SD 265",
+   "commission_docket": 344,
+   "district_court_no": 265,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 7th, 1854",
+    "District Court February 23d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "344, 265, S. D., 1 , 91 . Maria Antonio Mechado, claimant for Los Virgenes, 2 square leagues, in Los Angeles county, granted April 6th, 1837, by Juan B. Alva48 rado to Jos6 Maria Dominguez; cjaim filed September 15th, 1852, confirmed by the Commission November 7th, 1854, by the District Court February 23d, 1857, and appeal dismissed March 4th, 1858."
+  },
+  {
+   "id": "rancho-vergeles",
+   "name": "Los Vergeles",
+   "land_case": "SD 111",
+   "commission_docket": 169,
+   "district_court_no": 111,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 21st, 1854",
+    "District Court February 24th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "169, 111, S. D. James Stokes, claimant for Rancho de las Yergeles, formerly called Rancho de la Canada de Enmedio and Cauada de Cebada, 2 square leagues, in Monterey county, granted August 28th, 1835, by Josd Figueroa, and September 4tli, 1835, by Jose Castro, to Josd Joaquin Gomez; claim filed April 7th, 1852, rejected by the Commission February 21st, 1854, confirmed by the District Court September* 28th, 1855, and "
+  },
+  {
+   "id": "rancho-vallecitos-san-marcos",
+   "name": "Los Vallecitos De San Marcos",
+   "land_case": "SD 192",
+   "commission_docket": 451,
+   "district_court_no": 192,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 5th, 1854",
+    "District Court February 24th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "451, 192, S. D., 205. Lorenzo Soto, claimant for Los Vallecitos, 2 square leagues, in San Diego county, granted April 22d, 1840, by Juan B. Alvarado to Jos6 Maria Alvarado; claim filed November 4th, 1852, rejected by the Commission September 5th, 1854, confirmed by the District Court February llth, 1856, and appeal dismissed February 24th, 1857."
+  },
+  {
+   "id": "rancho-valle-paro-santa-maria",
+   "name": "Valle De Paro Or Santa Maria",
+   "land_case": "SD 195",
+   "commission_docket": 332,
+   "district_court_no": 195,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 19th, 1854",
+    "District Court February 8th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "332, 195, S. D., 325. Jos6 Joaquin Ortega et al., claimants for Valle de Pamo, 4 square leagues, in San Diego county, granted November 25th, 1843, by Manuel Micheltorena to J. J. Ortega and Eduardo Stokes ; claim filed September 10th, 1852, rejected by the Commission September 19th, 1854, and confirmed by the District Court February 8th, 1858."
+  },
+  {
+   "id": "rancho-tzabaco",
+   "name": "Tzabaco",
+   "land_case": "ND 374",
+   "commission_docket": 298,
+   "district_court_no": 374,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": true,
+   "disposition_chain": [
+    "Commission June 26th, 1855",
+    "District Court March 9th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "298, 374, N. D., 312. J. Jesus Pcfia et al., heirs of J. G. Pena, claimants for Tzabaco, 4 square leagues, in Sonoma county, granted October 14th, 1843, by Manuel Micheltorena to Jos6 German Pena ; claim filed August 5th, 1852, confirmed by the Commission June 26th, 1855, by the District Court March 9th, 1857, and appeal dismissed April 2d, 1857 ; containing 15,439.32 acres. Patented."
+  },
+  {
+   "id": "rancho-uvas",
+   "name": "Las Uvas",
+   "land_case": "ND 174",
+   "commission_docket": 7,
+   "district_court_no": 174,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 19th, 1854",
+    "District Court January 14th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "7, 174, N. D., 286. Bernard Murphy, claimant for Las Uvas, 3 square leagues, in Santa Clara county, granted June 14th, 1842, by Juan B. Alvarado to Lorenzo Pineda ; claim filed January 22d, 1852, confirmed by the Commission September 19th, 1854, and by the District Court January 14th, 1856 ; containing 11,079.93 acres."
+  },
+  {
+   "id": "rancho-tularcitos-1",
+   "name": "Los Tularcitos (Gomez)",
+   "land_case": "SD 003",
+   "commission_docket": 195,
+   "district_court_no": 3,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 22d, 1852",
+    "District Court September 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "195, 3, S. D., 95. Josefa Antonia Gomez de Walters et al., widow and heirs of Rafael Gomez, claimants for Los Tularcitos, 6 square leagues, in Monterey 28 county, granted December 18th, 1834, by Jos<5 Figueroa to Rafael Gomez; claim filed April 20th, 1852, confirmed by the Commission December 22d, 1852, by the District Court September 24th, 1855, and appeal dismissed February 5th, 1857 ; containing 26,581.34 acres."
+  },
+  {
+   "id": "rancho-yerba-buena",
+   "name": "Yerba Buena",
+   "land_case": "ND 213",
+   "commission_docket": 93,
+   "district_court_no": 213,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": true,
+   "disposition_chain": [
+    "Commission October 17th, 1854",
+    "District Court January 21st, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "93, 213, N. D., 92. Antonio Chaboya, claimant for Yerba Buena or Socayre, in Santa Clara county, granted November 5th, 1833, by Joso Figueroa to A. 14 Chaboya ; claim filed March 8th, 1 852, confirmed by the Commission October 17th, 1854, by the District Court January 21st, 1858, and appeal dismissed October 8th, 1858; containing 24,342.64 acres. Patented."
+  },
+  {
+   "id": "rancho-ulpinos",
+   "name": "Los Ulpinos",
+   "land_case": "ND 086",
+   "commission_docket": 319,
+   "district_court_no": 86,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 2d, 1855",
+    "District Court October 29th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "319, 86, N. D., 387. John Bidwell, claimant for Los Ulpinos, 4 square leagues, in Solano county, granted November 20tli, 1844, by Manuel Miclieltorena to J. Bidwell ; claim filed September 3d, 1852, confirmed by the Commission January 2d, 1855, by the District Court October 29th, 1855, and appeal dismissed March 21st, 1857 ; containing 17,726.44 acres."
+  },
+  {
+   "id": "rancho-valle-san-jose-1",
+   "name": "Valle De San Jose",
+   "land_case": "ND 102",
+   "commission_docket": 231,
+   "district_court_no": 102,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 31st, 1854",
+    "District Court January 14th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "231, 102, N. D., 126. Antonio Sunol et al., claimants for El Valle de San Josd, described by boundaries, in Alameda county, granted April 10th, 1839, by Juan B. Alvarado to Antonio Maria Pico et al. ; claim filed May 18th, 1852, confirmed by the Commission January 31st, 1854, by the District Court January 14th, 1856, and decision of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261 ; containing 51,5"
+  },
+  {
+   "id": "rancho-yerba-buena-island",
+   "name": "Yerba Buena Island (Goat Island)",
+   "land_case": "ND 299",
+   "commission_docket": 11,
+   "district_court_no": 299,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission May 22d, 1855",
+    "District Court March 17th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "11, 299, N. D. Joel S. Polack, claimant for Island of Ycrha Buena, in Bay of San Francisco, granted November 8th, 1838, by Juan B. Alvarado to Juan JosiS Castro ; claim filed January 27th, 1852, confirmed by the Commission May 22d, 1855, and rejected by the District Court March 17th, 1858."
+  },
+  {
+   "id": "u-1",
+   "name": "preemption claim, 50 by 180 feet, Mission Dolores",
+   "land_case": "N.D. 219",
+   "commission_docket": 100,
+   "district_court_no": 219,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 21st, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "100, 219, N. D. Francisco Rufino, claimant for preemption claim, 50 by 180 feet, Mission Dolores, in San Francisco county; claim filed March 13th, 1852, rejected by the Commission November 21st, 1854, and for failure of prosecution appeal dismissed April 21st, 1856."
+  },
+  {
+   "id": "u-2",
+   "name": "200 square yards (Mission Dolores)",
+   "land_case": "ND 391",
+   "commission_docket": 29,
+   "district_court_no": 391,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [],
+   "evidence_tier": "hoffman-table",
+   "evidence": "29, 391, N. D. Thomas Dorland, claimant for 200 square yards, in San Francisco county, (Mission Dolores) granted by Mariano Castro to Toribio Fanfaran ; claim filed February 9th, 1852, rejected by the Commission September 25th. 1855, and for failure of prosecution appeal dismissed March 30th, 1857."
+  },
+  {
+   "id": "u-3",
+   "name": "Llano del Abrevadero",
+   "land_case": "N.D. 203",
+   "commission_docket": 149,
+   "district_court_no": 203,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 19th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "149, 203, N. D. Antonia Higuera et al., claimants for Llano del Abrevadero, described by boundaries, in Santa Clara county, granted January 1st, 1822, by P. V. de Sola to Jose Higuera; claim filed April 1st, 1852, rejected by the Commission December 19th, 1854, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-4",
+   "name": "addition to Santa Ana del Chino",
+   "land_case": "SD 335",
+   "commission_docket": 434,
+   "district_court_no": 335,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission May 8th, 1855",
+    "District Court January 13th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "434, 335, S. D., 522. Isaac Williams, claimant for addition to Santa Ana del Chino, 3 square leagues, in San Bernardino county, granted April 1st, 1843, by Manuel Miclieltorena to I. William^ claim filed November 1st, 1852, confirmed by the Commission May 8th, 1855, by the District Court January 13th, 1857, and appeal dismissed March 4th, 1858."
+  },
+  {
+   "id": "u-5",
+   "name": "addition to San Miguelito",
+   "land_case": "SD 38",
+   "commission_docket": 216,
+   "district_court_no": 38,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 6th, 1853",
+    "District Court January 25th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "216, 38, S. D., 503. Miguel Abila, claimant for addition to San Miguelito, (see No. 215) 500 varas, in San Luis Obispo county, granted March 17th, 1846, by Pio Pico to Miguel Abila ; claim filed May 6th, 1852, confirmed by the Commission December 6th, 1853, by the District Court January 25th, 1856, and appeal dismissed February 25th, 1857."
+  },
+  {
+   "id": "u-7",
+   "name": "Ojo de Agua",
+   "land_case": "ND 307",
+   "commission_docket": 784,
+   "district_court_no": 307,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 24th, 1855",
+    "District Court March 11th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "784, 307, N. D. Josd Y. Limantour, claimant for Ojo de Agua, 400 varas square, near the Mission of San Francisco Solano, granted December 20th, 1844, by Manuel Michcltorena to Jos6 Y. Limantour; claim filed March 2d, 1853, rejected by the Commission April 24th, 1855, and by the District Court March 11th, 1857."
+  },
+  {
+   "id": "u-10",
+   "name": "El Alamo Pintado",
+   "land_case": "SD 212",
+   "commission_docket": 309,
+   "district_court_no": 212,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 26th, 1854",
+    "District Court June 3d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "309, 212, S. D. Maria Antonia de la Guerra y Lataillade, claimant for El Alamo Pintado, 1 square league, in Santa Barbara county, granted August 16th, 1843, by Manuel Micheltorena to Marcelino ; claim filed August 30th, 1852, rejected by the Commission September 26th, 1854, and by the District Court June 3d, 1857."
+  },
+  {
+   "id": "u-12",
+   "name": "quicksilver mine New Almaden, formerly called Santa Clara",
+   "land_case": "ND 420",
+   "commission_docket": 366,
+   "district_court_no": 420,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [],
+   "evidence_tier": "hoffman-table",
+   "evidence": "366, 420, N. D. Andres Castillero, claimant for the quicksilver mine New Alma 51 den, formerly called Santa Clara, discovered by him in 1845, in Santa Clara county, with two leagues of land granted to him by the President of Mexico, May 23d, 1846. Possession of the mine was given by the Alcalde, Antonio Maria Pico, December 13th, 1845, with 3,000 varas of land in all directions from the mouth of the mine. Claim filed"
+  },
+  {
+   "id": "u-13",
+   "name": "Santa Ana y Santa Anita",
+   "land_case": "S.D. 315",
+   "commission_docket": 275,
+   "district_court_no": 315,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 6th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "275, 315, S. D. Joscfa Morales del Castillo Negrete, claimant for Santa Ana y Santa Anita, 6 square leagues, in San Joaquin county, granted April 15th, 1836, by Nicolas Gutierrez to Luis del Castillo Negrete; claim filed June 24th, 1852, rejected by the Commission March 6th, 1855, and for failure of prosecution appeal dismissed December 17th, 1856."
+  },
+  {
+   "id": "u-16",
+   "name": "Rio de las Animas",
+   "land_case": "SD 176",
+   "commission_docket": 575,
+   "district_court_no": 176,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission August 1st, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "575, 176, S. D. John F. Jones et al., claimants for Rio de las Animas, 6 square leagues, in Los Angeles county, granted May 12th, 1846, by Pio Pico to Leonardo Cota and Julian Chaves ; claim filed February 1 1th, 1853, rejected by the Commission August 1st, 1854, and appeal dismissed for failure of prosecution October 24th, 1855."
+  },
+  {
+   "id": "u-17",
+   "name": "Arastradero",
+   "land_case": "ND 264",
+   "commission_docket": 696,
+   "district_court_no": 264,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 23d, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "696, 264, N. D. William Blackburn, claimant for Arastradero, 1 square league, in Santa Cruz county, granted November 17th, 1844, by Manuel Rodriguez to Alberto F. Morris ; claim filed March 2d, 1853, rejected by the Commission January 23d, 1855, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-18",
+   "name": "Arias Rancho",
+   "land_case": "SD 379",
+   "commission_docket": 753,
+   "district_court_no": 379,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 27th, 1855",
+    "District Court June 17th, 1859"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "753, 379, S. D. Adolph Canil et al., claimants for Arias Rancho, 1 square league, in Monterey county, granted December 10th, 1839, by Jos4 Castro to Francisco Arias; claim filed March 2d, 1853, rejected by the Commission February 27th, 1855, and by the District Court June 17th, 1859."
+  },
+  {
+   "id": "u-19",
+   "name": "lands previously assigned to the pueblo",
+   "land_case": "SD 382",
+   "commission_docket": 714,
+   "district_court_no": 382,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 22d, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "714, 382, S. D. City of Monterey, claimant for lands previously assigned to the pueblo, dedication approved by the Territorial Deputation July 24th, 1830 ; claim filed March 2d, 1853, confirmed by the Commission January 22d, 1856, and appeal dismissed February 1st, 1858."
+  },
+  {
+   "id": "u-20",
+   "name": "Rincon de la Ballena",
+   "land_case": "ND 229",
+   "commission_docket": 192,
+   "district_court_no": 229,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 14th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "192, 229, N. D., 202. Sebastian Rodriguez, claimant for Rincon de la Ballena, 1 square league, in Santa Cruz county, granted April 15th, 1839, by Juan B. Alvarado to Jos<5 Cornelio Bernal ; claim filed April 20th, 1852, and rejected by the Commission November 14th, 1854."
+  },
+  {
+   "id": "u-22",
+   "name": "Tomales and Baulinas",
+   "land_case": "N.D. 68",
+   "commission_docket": 114,
+   "district_court_no": 68,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 22d, 1853"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "114, 68, N. I)., 124. Rafael Garcia, claimant for Tomales and Baulinas, 2 square leagues, in Marin county, granted March 19th, 1836, by Nicolas Gutierrez to Rafael Garcia; claim filed March 23d, 1852, confirmed by the Commission November 22d, 1853, and appeal dismissed October 19th, 1858; containing 8,863.25 acres."
+  },
+  {
+   "id": "u-24",
+   "name": "El Primer Canon or Rio de los Berendos",
+   "land_case": "N.D. 12",
+   "commission_docket": 122,
+   "district_court_no": 12,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 18th, 1852",
+    "District Court July 23d, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "122, 12, N. D., 414. Francisco Dye, claimant for El Primer Canon or Rio de los Berendos, 6 square leagues, in Tehama county, granted May 22d, 1844, by Manuel Miclieltorena to F. Dye; claim filed March 23d, 1852, confirmed by the Commission December 18th, 1852, by the District Court July 23d, 1855, and appeal dismissed February 10th, 1857 ; containing 26,637.11"
+  },
+  {
+   "id": "u-25",
+   "name": "San Justo el Viejo and San Bernabe",
+   "land_case": "S.D. 375",
+   "commission_docket": 99,
+   "district_court_no": 375,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission August 28th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "99, 375, S. D. Ellen E. White and John Carney, claimants for San Justo el Yiejo and San Bemab<3, 6 square leagues, in Monterey county, granted February 18th, 1836, by Nicolas Gutierrez to Rafael Gonzalez; claim filed March 12th, 1852, rejected by the Commission August 28th, 1855, and for failure of prosecution appeal dismissed December 22d, 1856."
+  },
+  {
+   "id": "u-28",
+   "name": "Bolsa de Tomales",
+   "land_case": "ND 121",
+   "commission_docket": 205,
+   "district_court_no": 121,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 11th, 1854",
+    "District Court December 1st, 1854",
+    "District Court February 7th, 1861"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "205, 121, N. D., 571. James D. Galbraith, claimant for Bolsa de Tomales, 5 square leagues, in Marin county, granted June 12th, 1845, by Pio Pico to Juan N. Padilla; claim filed April 29th, 1852, confirmed by Commission April 11th, 1854, by the District Court December 1st, 1854, decree reversed by the U. S. Supreme Cotirt and cause remanded in 22 Howard, 87. Confirmed by the District Court February 7th, 1861."
+  },
+  {
+   "id": "u-30",
+   "name": "Rancho del Refugio or Pastoria de las Borregas",
+   "land_case": "N.D. 97",
+   "commission_docket": 257,
+   "district_court_no": 97,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 23th, 1854",
+    "District Court November 23d, 1859"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "257, 97, N. D. Mariano Castro, claimant for Rancho del Refugio or Pastoria de las Borregas, 2 square leagues, in Santa Clara county, granted June 15th, 1842, by Juan B. Alvarado to Francisco Estrada; claim filed May 31st, 1852, confirmed by the Commission January 23th, 1854, by the District Court November 23d, 1859, and by the U. S. Supreme Court."
+  },
+  {
+   "id": "u-31",
+   "name": "Briesgau",
+   "land_case": "ND 194",
+   "commission_docket": 626,
+   "district_court_no": 194,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 26th, 1854",
+    "District Court April 7th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "626, 194, N. D. William Bennitz, claimant for Briesgau, 5 square leagues, in Shasta county, granted July 26th, 1844, by Manuel Micheltorena to Wm. Bennitz ; claim filed February 24th, 1853, rejected by the Commission September 26th, 1854, confirmed by the District Court April 7th, 1856, decree reversed and cause remanded by the U. S. Supreme Court with direction to dismiss the petition, 23 Howard, 255."
+  },
+  {
+   "id": "u-33",
+   "land_case": "S.D. 204",
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": null,
+   "evidence_tier": "none",
+   "note": "no Hoffman entry found for this docket"
+  },
+  {
+   "id": "u-34",
+   "name": "Llano de Buenavista",
+   "land_case": "S.D. 151",
+   "commission_docket": 518,
+   "district_court_no": 151,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": true,
+   "disposition_chain": [
+    "Commission March 14th, 1854",
+    "District Court February 23d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "518, 151, S. D. David , Spence, claimant for Llano dc Buenavista, 2 square leagues, in Monterey county, granted in 1823, by Luis Antonio Arguello to Jose Mariano Estrada; claim filed January 18th, 1853, confirmed by the Commission March 14th, 1854, by the District Court January 7tli, 1856, and appeal dismissed February 23d, 1857 ; containing 8,446.23 acres. Patented."
+  },
+  {
+   "id": "u-36",
+   "name": "Cahuenga",
+   "land_case": "SD 225",
+   "commission_docket": 675,
+   "district_court_no": 225,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 24th, 1854",
+    "District Court September 13th, 1859"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "675, 225, S. D. Nicolas Morchon, claimant for Cahuenga, 4 square leagues, in Los Angeles county, granted July 29th, 1846, by Josd Castro to Luis Arenas ; claim filed March 1st, 1853, rejected by the Commission October 24th, 1854, and by the District Court September 13th, 1859."
+  },
+  {
+   "id": "u-37",
+   "name": "Cajon de Muscupiabe",
+   "land_case": "SD 378",
+   "commission_docket": 380,
+   "district_court_no": 378,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 8th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "380, 378, S. D. Juan Bandini, claimant for Cajon de Muscupiabc, described b\\ boundaries, in Los Angeles county, granted December 18th, 1839, by Juan B. Alvarado to J. Bandini; claim filed October 8th, 1852, rejected hy the Commission January 8th, 1856, and for failure of prosecution appeal dismissed December 22d, 1856."
+  },
+  {
+   "id": "u-38",
+   "name": "Cajon de los Negros",
+   "land_case": "SD 229",
+   "commission_docket": 413,
+   "district_court_no": 229,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 12th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "413, 229, S. D. William Workman, claimant for Cajon de los Negros, 3 square leagues, in Los Angeles county, granted June 15th, 1846, by Pio Pico to Ygnacio Coroncl ; claim filed October 23d, 1852, and rejected by the Commission December 12th, 1854."
+  },
+  {
+   "id": "u-39",
+   "name": "Cajuenga",
+   "land_case": "SD 321",
+   "commission_docket": 783,
+   "district_court_no": 321,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "783, 321, S. D. Josd Y. Limantour, claimant for Cajuenga, 6 square leagues, in Los Angeles county, granted February 7th, 1845, by Manuel Michcltorena to Jose Y. Limantour; claim filed March 2d, 1853, rejected by the Commission April 24th, 1855, and appeal dismissed for failure of prosecution December 17th, 1856."
+  },
+  {
+   "id": "u-40",
+   "name": "Las Calaveras",
+   "land_case": "ND 399",
+   "commission_docket": 602,
+   "district_court_no": 399,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 16th, 1855",
+    "District Court January 9th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "602, 399, N. D. Francisco Pico, claimant for Las Calaveras, 8 square leagues, granted July 20th, 1846, by Pio Pico to F. Pico ; claim filed February 18th, 1853, rejected by the Commission October 16th, 1855, confirmed by the District Court January 9th, 1858, decree reversed by the U. S. Supreme Court and petition to be dismissed, 23 Howard, 321."
+  },
+  {
+   "id": "u-41",
+   "land_case": "ND/SD 425",
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": null,
+   "evidence_tier": "none",
+   "note": "no Hoffman entry found for this docket"
+  },
+  {
+   "id": "u-42",
+   "name": "Laguna de Santos Calle",
+   "land_case": "ND 411",
+   "commission_docket": 70,
+   "district_court_no": 411,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [],
+   "evidence_tier": "hoffman-table",
+   "evidence": "70, 411, N. D. Edmund L. Brown et al., claimants for Laguna de Santos Callc, 11 square leagues, in Yolo county, granted December 29th, 1845, by Pio Pico to Victor Prudon and Marcos Baca ; claim filed February 24th, 1852, rejected by the Commission January 15tli, 1856, and by the District Court September 18 th, 1860."
+  },
+  {
+   "id": "u-43",
+   "name": "Arroyo de los Calsoncillos",
+   "land_case": "SD 319",
+   "commission_docket": 785,
+   "district_court_no": 319,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "785, 319, S. D. Jose Maria Castafiares, claimant for Arroyo de los Calsoncillos, 11 square leagues, in Santa Clara county, granted December 28th, 1843, by Manuel Michcltorena to J. M. Castafiares; claim filed March 2d, 1853, rejected by the Commission April 24th, 1855, and appeal dismissed for failure of prosecution February 12th, 1857."
+  },
+  {
+   "id": "u-45",
+   "name": "San Juan Capistrano del Camote",
+   "land_case": "S.D. 260",
+   "commission_docket": 304,
+   "district_court_no": 260,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 26th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "304, 260, S. D., 577. Tomas Herrera and Geronimo Quintana, claimants for San Juan Capistrano del Camote, 10 sitios of 4,428 acres each, in San Luis Obispo county, granted July 11th, 1846, by Pio Pico, to T. Herrera and G. Quintana ; claim filed August 14th, 1852, rejected by the Commission December 26th, 1854, and dismissed for failure of prosecution August 8th, 1860."
+  },
+  {
+   "id": "u-46",
+   "name": "Camulos",
+   "land_case": "S.D. 239",
+   "commission_docket": 491,
+   "district_court_no": 239,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 7th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "491, 239, S. D., 314. Pedro C. Carrillo, claimant for Camulos, 4 square leagues, in Santa Barbara county, granted October 2d, 1843, by Manuel Miclieltorena to Pedro C. Carrillo ; claim filed December 13th, 1852, rejected by the Commission November 7th, 1854, and appeal dismissed for failure of prosecution August 10th, 1860."
+  },
+  {
+   "id": "u-47",
+   "name": "Mission of San Juan Capistrano",
+   "land_case": "SD 363",
+   "commission_docket": 410,
+   "district_court_no": 363,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission July 17th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "410, 363, S. D. Juan Foster, claimant for Mission of San Juan Capistrano, in Los Angeles county, granted December 6th, 1845, by Pio Pico to J. Foster; claim filed October 23d, 1852, confirmed by the Commission July 17th, 1855, and appeal dismissed February 1st, 1858."
+  },
+  {
+   "id": "u-48",
+   "name": "Mission of San Juan Capistrano",
+   "land_case": "SD 180",
+   "commission_docket": 808,
+   "district_court_no": 180,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission August 1st, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "808, 180, S. D. John Foster et al., claimants for Mission of San Juan Capistrano, in Los Angeles county, granted December 6th, 1845, by Pio Pico to J. Foster and J. McKinley ; claim filed March 3d, 1853, rejected by the Commission August 1st, 1854, and appeal dismissed by claimant February 8th, 1858."
+  },
+  {
+   "id": "u-49",
+   "name": "Carmel",
+   "land_case": "N.D. 166",
+   "commission_docket": 89,
+   "district_court_no": 166,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 21st, 1854",
+    "District Court September 29th, 1859"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "89, 166, N. D., 550. James G. Morehead, claimant for Carmel, 10 square leagues, granted May 4tli, 1846, by Pio Pico to William Knight ; claim filed March 2d, 1852, rejected by the Commission February 21st, 1854, confirmed by the District Court September 29th, 1859, and appeal dismissed October 26th, 1859."
+  },
+  {
+   "id": "u-52",
+   "name": "Cazadores",
+   "land_case": "N.D. 376",
+   "commission_docket": 303,
+   "district_court_no": 376,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission July 17th, 1855",
+    "District Court September 22d, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "303, 376, N. D. James Murphy, claimant for Cazadores, 4 square leagues, in Sacramento county, granted December 22d, 1844, by Manuel Mieheltorena to Ernesto Rufus; claim filed August 14tli, 1852, confirmed by the Commission July 17th, 1855, by the District Court September 22d, 1856, decree reversed by the U. S. Supreme Court and cause remanded, with direction to dismiss the petition, 23 Howard, 476."
+  },
+  {
+   "id": "u-53",
+   "name": "Cholam",
+   "land_case": "S.D. 71",
+   "commission_docket": 98,
+   "district_court_no": 71,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 17th, 1854",
+    "District Court March 4th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "98, 71, S. D., 342. Ellen E. White, claimant for Cholam, 6 square leagues, in San Luis Obispo county, granted February 7tli, 1844, by Manuel Micheltorena to Mauricio Gonzalez ; claim filed March 12th, 1852, rejected by the Commission January 17th, 1854, confirmed by the District Court March 4th, 1858, and appeal dismissed December 31st, 1860; containing 26,627.16"
+  },
+  {
+   "id": "u-56",
+   "name": "Cieneguita",
+   "land_case": "SD 20",
+   "commission_docket": 328,
+   "district_court_no": 20,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 12th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "328, 20, S. D., 475. Anastasio Carrillo, claimant for Cieneguita, 400 varas square, in Santa Barbara county, granted October 10th, 1845, by Pio Pico to A. Carrillo; claim filed September 7th, 1852, confirmed by the Commission Marcli 14th, 1853, and by the District Court January 12th, 1857."
+  },
+  {
+   "id": "u-57",
+   "name": "Santa Clara Mission lands",
+   "land_case": "ND 196",
+   "commission_docket": 687,
+   "district_court_no": 196,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 24th, 1855",
+    "District Court February 11th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "687, 196, N. D. Jos<5 de Arnas, claimant for 5 square leagues of Santa Clara 94 Mission lands, granted Augnst 1st, 1846, by Jos<* Castro to J. de Amas; claim filed March 2d, 1853, rejected by the Commission April 24th, 1855, and by the District Court February 11th, 1856."
+  },
+  {
+   "id": "u-58",
+   "name": "Orchard of Santa Clara",
+   "land_case": "ND 412",
+   "commission_docket": 742,
+   "district_court_no": 412,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 18th, 1855",
+    "District Court May 21st, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "742, 412, N. D. J. W. Redman et al., claimants for Orchard of Santa Clara, 10 acres, granted June 30th, 1846, by Pio Pico to Benito Dias, Juan Castaneda and Luis Arenas ; claim filed March 2d, 1853, rejected by the Commission December 18th, 1855, and by the District Court May 21st, 1858."
+  },
+  {
+   "id": "u-59",
+   "name": "Mission Santa Clara Orchard",
+   "land_case": "ND 402",
+   "commission_docket": 754,
+   "district_court_no": 402,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 18th, 1855",
+    "District Court May 21st, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "754, 402, N. D. Thomas O. Larkin, claimant for Mission Santa Clara Orchard, 15 acres, in Santa Clara county, granted June 30th, 1846, by Pio Pico to Juan Castaneda, Luis Arenas and Benito Dias ; claim filed March 2d, 1853, rejected by the Commission December 18th, 1855, and by the District Court May 21st, 1858. 102 755. James Stokes, claimant for La Natividad, 850 acres, in Monterey county, granted by Juan B. Alvarad"
+  },
+  {
+   "id": "u-60",
+   "name": "Rancho de Colus",
+   "land_case": "N.D. 28",
+   "commission_docket": 144,
+   "district_court_no": 28,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 25th, 1853",
+    "District Court July 5th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "144, 28, N. D., 473. Charles D. Semple, claimant for Rancho de Colus, 2 square leagues, in Colusi county, granted October 4th, 1845, by Pio Pico to John Bidwell; claim filed March 31st, 1852, rejected by the Commission October 25th, 1853, confirmed by the District Court July 5th, 1855, and by the U. S. Supreme Court ; containing 8,876.02 acres."
+  },
+  {
+   "id": "u-61",
+   "name": "Los Coluses",
+   "land_case": "ND 286",
+   "commission_docket": 658,
+   "district_court_no": 286,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [],
+   "evidence_tier": "hoffman-table",
+   "evidence": "658, 286, N. D. Nathaniel Bassett, claimant for Los Coluses, 4 square leagues, in Colusi county, granted in 1844, by Mannel Micheltorena to Juan Daubenbiss ; claim filed February 28th, 1853, confirmed by the Commission March 20tli, 1855, by the District Court April 17 th, 1856, decree reversed by the U. S. Supreme Court and cause remanded with direction to dismiss the petition, 21 Howard, 412."
+  },
+  {
+   "id": "u-62",
+   "name": "Corral de Padilla",
+   "land_case": "SD 160",
+   "commission_docket": 615,
+   "district_court_no": 160,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 14th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "615, 160, S. D. Maria Antonia Pico de Castro et al., claimants for Corral de Padilla, 2,000 varas square, granted March 7th, 1836, by Nicolas Gutierrez 85 to Baldomero; claim filed February 23d, 1853, rejected by the Commission March 14th, 1854, and appeal dismissed for failure of prosecution October 24th, 1855."
+  },
+  {
+   "id": "u-63",
+   "name": "Guadalupe Llanito de los Correos",
+   "land_case": "S.D. 109",
+   "commission_docket": 152,
+   "district_court_no": 109,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 21st, 1854",
+    "District Court February 5th, 1857",
+    "Commission September 26th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "152, 109, S. D., 21. Mariano Malarin, Executor of the Estate of Juan Malarin, 22 * claimant for Guadalupe Llanito dc los Correos, 2 square leagues, in Monterey county, granted May 22d, 1833, by Jos<5 Figueroa to Juan Malarin; claim filed April 2d, 1852, confirmed by the Commission February 21st, 1854, by the District Court January lltli, 1856, and appeal dismissed February 5th, 1857 ; containing 8,858.44 acres. 153, "
+  },
+  {
+   "id": "u-64",
+   "name": "one-half of Island Santa Cruz",
+   "land_case": "SD 334",
+   "commission_docket": 805,
+   "district_court_no": 334,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission June 5th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "805, 334, S. D. Jos<5 Antonio Aguirre, claimant for one-half of Island Santa Cruz, in Santa Barbara county, granted May 22d, 1839, by Juan B. Alvarado to Andres Castilleros, under an alleged sale from Castillero, (see No. 176^; claim filed March 3d, 1853, rejected by the Commission June 5th, 1855, and dismissed by claimant March 4th, 1858. 108"
+  },
+  {
+   "id": "u-66",
+   "name": "Canada de San Miguelito and Canada del Diablo",
+   "land_case": "S.D. 57",
+   "commission_docket": 242,
+   "district_court_no": 57,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 13th, 1853",
+    "District Court January 7th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "242, 57, S. D., 604. Juana Tico de Rodriguez et al., heirs of Ramon Rodriguez, claimants for Canada de San Miguelito and Canada del Diablo, 2 square leagues, in Santa Barbara county, granted March 21st, 1846, by Pio Pico to Ramon Rodriguez; claim filed May 26tli, 1852, rejected by the Commission December 13th, 1853, confirmed by the District Court January 7th, 1856, and appeal dismissed February 5tli, 1856; containin"
+  },
+  {
+   "id": "u-68",
+   "name": "37 50-vara lots, Mission Dolores",
+   "land_case": "ND 200",
+   "commission_docket": 171,
+   "district_court_no": 200,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 19th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "171, 200, N. D. John Frederick Scliultess, claimant for 37 50-vara lots, Mission Dolores, in San Francisco county, granted February 10th, 1846, by Pio Pico to Prudencio Santillan ; claim filed April 8th, 1852, rejected by the Commission December 19th, 1854, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-69",
+   "name": "47 50-vara lots, Mission Dolores",
+   "land_case": "ND 201",
+   "commission_docket": 172,
+   "district_court_no": 201,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission April 21st, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "172, 201, N. D. John Frederick Schultess et al., claimants for 47 50-vara lots, . Mission Dolores, in San Francisco county; claim filed April 8th, 1852, rejected by the Commission December 19tli, 1854, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-71",
+   "name": "Loma del Espiritu Santo",
+   "land_case": "SD 234",
+   "commission_docket": 539,
+   "district_court_no": 234,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 14th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "539, 234, S. D., 135. Maria del Espiritu Santo Carrillo, claimant for Loma del Espiritu Santo, described by boundaries, in Monterey county, granted April 15th, 1839, by Juan B. Alvarado to Maria del Espiritu Santo Carrillo; claim filed January 29tli, 1853, rejected by the Commission November 14th, 1854, and appeal dismissed for failure of prosecution February lltli, 1856."
+  },
+  {
+   "id": "u-72",
+   "name": "San Felipe",
+   "land_case": "SD 78",
+   "commission_docket": 64,
+   "district_court_no": 78,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": true,
+   "disposition_chain": [
+    "Commission October 11th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "64, 78, S. D. Francisco Perez Pacheco, claimant for San Felipe, 3 square leagues, in Monterey county, granted April 1st, 1836, by Nicolas Gutierrez to F. D. Pacheco; claim filed February 24th, 1852, confirmed by the Commission July 5tli, 1853, and by the District Court October 11th, 1855. Surveyed with No. 63 and patented."
+  },
+  {
+   "id": "u-73",
+   "name": "Nueva Flandria",
+   "land_case": "ND 272",
+   "commission_docket": 655,
+   "district_court_no": 272,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 27th, 1855",
+    "District Court October 5th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "655, 272, N. D. George Swat, claimant for Nueva Flandria, 3 square leagues, granted in 1844, by Manuel Mieheltorena to G. Swat; claim filed February 28th, 1853, rejected by the Commission March 27th, 1855, and by the District Court October 5th, 1857. 90"
+  },
+  {
+   "id": "u-75",
+   "name": "two 50-vara lots in San Francisco",
+   "land_case": "ND 284",
+   "commission_docket": 604,
+   "district_court_no": 284,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 27th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "604, 284, N. D. Stephen Smith, claimant for two 50-vara lots, in San Francisco, granted December 4th, 1845, by Pio Pico to S. Smith ; claim filed February 19th, 1853, and rejected by the Commission March 27th, 1855."
+  },
+  {
+   "id": "u-76",
+   "name": "Potrero de San Francisco",
+   "land_case": "N.D. 381",
+   "commission_docket": 101,
+   "district_court_no": 381,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [],
+   "evidence_tier": "hoffman-table",
+   "evidence": "101, 381, N. D., 360. Josefa de Haro et al., claimants for Potrero de San Francisco, one-half square league, in San Francisco county, granted April 30th, 15 1844, and May 1st, 1844, by Manuel Micheltorena to Ramon Francisco de Haro ; claim filed March 16th, 1852, and confirmed by the Commission November 6 th, 1855."
+  },
+  {
+   "id": "u-79",
+   "name": "Panoche Grande",
+   "land_case": "ND 278",
+   "commission_docket": 569,
+   "district_court_no": 278,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 6th, 1855",
+    "District Court June 5th, 1859",
+    "District Court March 21st, 1861"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "569, 278, N. D. ; 393, S. D., (sent to the Southern District March 9th, 1857). Vicente Gomez, claimant for Panoche Grande, 4 square leagues, in San Joaquiu county, granted in 1844, by Manuel Mielicltorena to V. Gomez; claim filed February 9th, 1853, rejected by the Commission March 6th, 1855, confirmed by the Southern District Court June 5th, 1859. In this case, motion was made to review the decree. Pending the motio"
+  },
+  {
+   "id": "u-80",
+   "name": "half of San Ramon or Las Juntas",
+   "land_case": "N.D. 322",
+   "commission_docket": 301,
+   "district_court_no": 322,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission May 15th, 1855",
+    "District Court March 2d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "301, 322, N. D., 50. Domingo Peralta, claimant for half of San Ramon or Las Juntas, described by boundaries, in Contra Costa county, granted in 1833, by Jos<5 Figueroa to Bartolo Pacheco and Mariano Castro ; claim filed August 14th, 1852, confirmed by the Commission May 15th, 1855, by the District Court March 2d, 1857, and appeal dismissed January 5th, 1858."
+  },
+  {
+   "id": "u-81",
+   "name": "one-half of Las Virgenes",
+   "land_case": "S.D. 256",
+   "commission_docket": 508,
+   "district_court_no": 256,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 7th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "508, 256, S. D., 54. Heirs of Domingo •Carrillo, claimant for one-half of Las Virgenes, 4 square leagues, in Los Angeles county, granted October 1st, 1834, by Jos<$ Figueroa to D. Carrillo et al. ; claim filed January 6th, 1853, 70 rejected by the Commission November 7th, 1854, and appeal dismissed for failure of prosecution May 7th, 1860."
+  },
+  {
+   "id": "u-83",
+   "name": "Huerhuero or Huerfano",
+   "land_case": "S.D. 196",
+   "commission_docket": 87,
+   "district_court_no": 196,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 12th, 1854",
+    "District Court December 31st, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "87, 196, S. D., 282, 506. Francis Branch, claimant for Huerhuero or Huerfano, 1 square league, in San Luis Obispo county, granted May 9th, 1842, by Juan B. Alvarado, and March 28th, 1846, by Pio Pico, to Mariano Bonilla ; claim filed March 2d, 1852, confirmed by the Commission September 12th, 1854, bv the District Court December 31st, 1855, and appeal dismissed February 24th, 1857 ; containing 15,684.95 acres."
+  },
+  {
+   "id": "u-84",
+   "name": "Las Huertas",
+   "land_case": "SD 207",
+   "commission_docket": 322,
+   "district_court_no": 207,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 26th, 1844",
+    "District Court June 3d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "322, 207, S. D. Maria Antonia de la Guerra y Lataillade, claimant for Las Huertas, 1,300 varas square, in Santa Barbara county, granted July 26th, 1844, by Manuel Micheltorena to Francisco, Luis and Rayiqundo ; claim filed September 4th, 1852, rejected by the Commission September 26th, 1844, and by the District Court June 3d, 1857."
+  },
+  {
+   "id": "u-86",
+   "name": "Mission of Santa Inez",
+   "land_case": "SD 369",
+   "commission_docket": 538,
+   "district_court_no": 369,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 11th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "538, 369, S. D. Jos<5 Maria Covarrubias et ah, claimants for Mission of Santa Inez, in Santa Barbara county, granted June 15th, 1846, by Pio Pico to J. M. Covarrubias et ah ; claim filed January 29th, 1853, and rejected by the Commission September 11th, 1855."
+  },
+  {
+   "id": "u-87",
+   "name": "San Isidro",
+   "land_case": "N.D. 216",
+   "commission_docket": 112,
+   "district_court_no": 216,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 19th, 1854",
+    "District Court June 3d, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "112, 216, N. D. ; 197, S. D., (transcript sent to N. D.) Quintin Ortega et al., claimants for San Isidro, 1 square league, in Santa Clara county, granted June 3d, 1833, by Jose Figueroa to Quintin Ortega et al. ; claim filed March 23d, 1852, confirmed by the Commission September 19th, 1854, and by the District Court June 3d, 1856 ; containing 4,438.70 acres."
+  },
+  {
+   "id": "u-88",
+   "name": "Sobrante of Jacinto Viejo y Nuevo",
+   "land_case": "S.D. 80",
+   "commission_docket": 116,
+   "district_court_no": 80,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 17th, 1854",
+    "District Court December 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "116, 80, S. D., 512. Jos6 Antonio Aguirre, in right of his wife, claimant for Sobrante of Jacinto Viejo y Nuevo, 5 square leagues, in San Diego county, granted May 9th, 1846, by Pio Pico to Maria del Rosario Estudillo de 17 Aguirre ; claim filed March 23d, 1852, rejected by the Commission January 17th, 1854, and confirmed by the District Court December 24th, 1855."
+  },
+  {
+   "id": "u-89",
+   "name": "San Jacinto",
+   "land_case": "S.D. 233",
+   "commission_docket": 115,
+   "district_court_no": 233,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 21st, 1854",
+    "District Court March 5th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "115, 233, S. D., 319. Jose Antonio Estudillo, claimant for San Jacinto, 4 square leagues, in San Diego county, granted December 21st, 1842, by Manuel Jimeno to J. A. Estudillo; claim filed March 23d, 1852, confirmed by the Commission November 21st, 1854, and by the District Court March 5th, 1858."
+  },
+  {
+   "id": "u-91",
+   "name": "Jimeno Rancho",
+   "land_case": "N.D. 23",
+   "commission_docket": 131,
+   "district_court_no": 23,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 10th, 1853",
+    "District Court July 5th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "131, 23, N. D., 413. Thomas O. Larkin et al., claimants for Jimeno Rancho, 11 square leagues, in Colusi and Yuba counties, granted November 4th, 1844, by Manuel Micheltorena to Manuel Jimeno ; claim filed March 24th, 1852, 19 confirmed by the Commission January 10th, 1853, by the District Court July 5th, 1855, and by the U. S. Supreme Court in 18 Howard, 557 ; containing 48,854.26 acres."
+  },
+  {
+   "id": "u-94",
+   "name": "Larkin's Rancho",
+   "land_case": "N.D. 115",
+   "commission_docket": 130,
+   "district_court_no": 115,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": true,
+   "disposition_chain": [
+    "Commission April 25th, 1854",
+    "District Court January 14th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "130, 115, N. D., 417. Francis Larkin et al., claimants for Larkin’s Rancho, 10 square leagues, in Colusi county, granted December 15th, 1844, by Manuel Micheltorena to F. Larkin et al. ; claim filed March 24tli, 1852, confirmed by the Commission April 25th, 1854, by the District Court January 14th, 1856, and appeal dismissed February lOtli, 1857 ; containing 44,364.22 acres. Patented."
+  },
+  {
+   "id": "u-95",
+   "name": "Punta de Lobos",
+   "land_case": "N.D. 394",
+   "commission_docket": 515,
+   "district_court_no": 394,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission August 14th, 1855",
+    "District Court December 5th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "515, 394, N. D. Joseph C. Palmer et al., claimants for Punta de Lobos, 2 square leagues, in San Francisco county, granted June 25tli, 1846, by Pio Pico to Benito Diaz; claim filed January 17th, 1853, rejected by the Commission August 14th, 1855, by the District Court December 5th, 1857, and judgment affirmed by the U. S. Supreme Court with costs, 24 Howard, 125. 71"
+  },
+  {
+   "id": "u-96",
+   "name": "Locoyollome",
+   "land_case": "ND 267",
+   "commission_docket": 804,
+   "district_court_no": 267,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 8th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "804, 267, N. D. John Conn, claimant for Locoyollome, 2 square leagues, in Napa county, granted in 1845, by Jos6 de los Santos Berreyesa, first Alcalde of the District of Sonoma, to John Rainsford; claim filed March 2d, 1853, rejected by the Commission February 8th, 1855, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-97",
+   "name": "San Luis Rey and Pala",
+   "land_case": "SD 339",
+   "commission_docket": 348,
+   "district_court_no": 339,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission June 12th, 1855",
+    "District Court April 1st, 1861"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "348, 339, S. D. William Cary Jones, claimant for San Luis Rey and Pala, 12 square leagues, in San Diego county, granted May 18th, 1846, by Pio Pico to Antonio Jos<3 Scott and Jos6 Antonio Pico ; claim filed September 20th, 1852, confirmed by the Commission June 12th, 1855, and by the District Court April 1st, 1861."
+  },
+  {
+   "id": "u-98",
+   "name": "Lup Yomi",
+   "land_case": "N.D. 8",
+   "commission_docket": 507,
+   "district_court_no": 8,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission December 13th, 1853",
+    "District Court June 27th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "507, 8, N. D. H. F. Teschemacher, claimant for Lup Yomi, 14 square leagues, in Napa county, granted September 5th, 1844, by Manuel Micheltorcna to Salvador Vallejo et al. ; claim filed January 5t'h, 1853, rejected by the Commission December 13th, 1853, confirmed by the District Court June 27th, 1855, decree reversed by the U. S. Supreme Court and case remanded for further evidence, 22 Howard, 392."
+  },
+  {
+   "id": "u-101",
+   "name": "portion of Mallacomes or Moristal (No. 58)",
+   "land_case": "ND 150",
+   "commission_docket": 59,
+   "district_court_no": 150,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission August 29th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "59, 150, N. D. Lovett P. Rockwell and Thomas P. Knight, claimants for portion of Mallacomes or Moristal, No. 58, 2 square leagues, in Sonoma county, granted October 14th, 1843, by Manuel Micheltorena to Jose de los Santos Berreyesa; claim filed February 20th, 1852, confirmed by the Commission August 29th, 1854, and appeal dismissed November 24th, 1856 ; containing 8,328.85 acres."
+  },
+  {
+   "id": "u-103",
+   "name": "Medano",
+   "land_case": "ND 291",
+   "commission_docket": 691,
+   "district_court_no": 291,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 27th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "691, 291, N. D., 185. James Enright et al., claimants for Medano, (see No. 616) 2 square leagues, in Contra Costa county, granted November 26th, 1839, by Juan B. Alvarado to Jos6 Antonio and Jos<S Maria Meza ; claim filed March 2d, 1853, rejected by the Commission March 27th, 1855, and appeal dismissed .for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-104",
+   "name": "Melyo",
+   "land_case": "SD 91",
+   "commission_docket": 436,
+   "district_court_no": 91,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 20th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "436, 91, S. D., 60. Santiago E. Arguello, claimant for Melyo, in San Diego county and Lower California, granted November 25th, 1833, by Jos<5 Figueroa to S. E. Arguello; claim filed November 1st, 1852, rejected by the Commission December 20tli, 1853, and by the District Court September 20th, 1855."
+  },
+  {
+   "id": "u-105",
+   "name": "San Miguelito de Trinidad",
+   "land_case": "ND 18",
+   "commission_docket": 27,
+   "district_court_no": 18,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 1st, 1853",
+    "District Court September 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "27, 18, N. D., 243. Jose Bafael Gonzalez and Mariana Gonzalez, claimants for San Miguelito de Trinidad, 5 square leagues, in Monterey county, granted July 24th, 1841, by Juan B. Alvarado to Jos6 Kafael Gonzalez ; claim filed February 9th, 1852, confirmed by the Commission March 1st, 1853, by the District Court September 24th, 1855, and appeal dismissed February 17th. 1857 ; containing 22,135.89 acres."
+  },
+  {
+   "id": "u-106",
+   "name": "Rincon de la Puenta del Monte",
+   "land_case": "S.D. 101",
+   "commission_docket": 502,
+   "district_court_no": 101,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 7th, 1854",
+    "District Court September 21st, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "502, 101, S. D. Teodoro Gonzales, claimant for Rincon de la Puenta del Monte, 7 square leagues, in Monterey county, granted September 20th, 1836, by Gutierrez to T. Gonzales ; claim filed December 28th, 1852, confirmed by the Commission February 7th, 1854, by the District Court September 21st, 1855, and appeal dismissed February 24th, 1857 ; containing 15,218.62"
+  },
+  {
+   "id": "u-107",
+   "name": "Moquelamo",
+   "land_case": "ND 184",
+   "commission_docket": 357,
+   "district_court_no": 184,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 26th, 1854",
+    "District Court April 24th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "357, 184, N. D. Andres Pico, claimant for Moquelamo, 11 square leagues, in Calaveras county, granted June 6th, 1846, by Pio Pico to A. Pico ; claim filed September 22d, 1852, rejected by the Commission September 26th, 1854, confirmed by the District Court April 24th, 1857, decree reversed by the U. S. Supreme Court and cause remanded for further evidence, in 22 Howard, 406."
+  },
+  {
+   "id": "u-108",
+   "name": "Nemshas",
+   "land_case": "ND 302",
+   "commission_docket": 196,
+   "district_court_no": 302,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 23d, 1855",
+    "District Court October 16th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "196, 302, N. D. Charles Chana, claimant for Nemshas, 4 square leagues, granted July 26tli, 1844, by Manuel Micheltorena to Teodoro Sieard; claim filed April 22st, 1852, confirmed by the Commission January 23d, 1855, by the District Court October 16th, 1856, judgment of District Court reversed by the U. S. Supreme Court and petition dismissed in 24 Howard, 151."
+  },
+  {
+   "id": "u-112",
+   "name": "Canada de los Osos",
+   "land_case": "ND 191",
+   "commission_docket": 703,
+   "district_court_no": 191,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 24th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "703, 191, N. D. ; 179 S. D. Modesta Castro, claimant for Canada de los Osos, 11 square leagues, in Monterey county, granted October 20tli, 1844, by Manuel Micheltorena to M. Castro; claim filed March 2d, 1853, rejected by the Commission August 29th, 1 854, and appeal dismissed for failure of prosecution October 24th, 1855."
+  },
+  {
+   "id": "u-113",
+   "name": "El Pajaro",
+   "land_case": "SD 291",
+   "commission_docket": 635,
+   "district_court_no": 291,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 27th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "635, 291, S. D. Jos6 Manuel Borgas, claimant for El Pajaro, six suertes, in Monterey county, granted March 18th, 1843, by Jos6 R. Estrada to J. M. Borgas ; claim filed February 25th, 1853, rejected by the Commission March 27th, 1855, and appeal dismissed December 18th, 1856."
+  },
+  {
+   "id": "u-114",
+   "name": "Canada de los Pinacates",
+   "land_case": "SD 270",
+   "commission_docket": 531,
+   "district_court_no": 270,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 23d, 1855",
+    "District Court January 23d, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "531, 270, S. D. Fcrmina Espinoza de Perez and Domingo Perez, claimants for Los Gatos or Santa Rita, 1 square league, in Monterey county, granted in 1820, and September 3d, 1837, by Juan B. Alvarado to Jos6 Trinidad Espinoza ; claim filed January 29th, 1853, confirmed by the Commission January 23d, 1855, by the District Court January 23d, 1857, and appeal dismissed March 4th, 1858 ; containing 4,424.46 acres."
+  },
+  {
+   "id": "u-115",
+   "name": "Point Pinos",
+   "land_case": "SD 380",
+   "commission_docket": 563,
+   "district_court_no": 380,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 11th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "563, 380, S. D. L. E. Pogue et al., claimants for Point Pinos, 2 square leagues, in Monterey county, granted May 24th, 1833, by Jos<5 Figueroa to Jos<5 Maria Armenta; claim filed February 9th, 1853, and rejected by the Commission September 11th, 1855."
+  },
+  {
+   "id": "u-117",
+   "name": "Potrero",
+   "land_case": "N.D. 209",
+   "commission_docket": 496,
+   "district_court_no": 209,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 21st, 1854",
+    "District Court August 24th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "496, 209, N. D. Josd Maria Fucntes, claimant for Potrero, 1 1 square leagues, in Santa Clara county, granted June 12th, 1843, by Manuel Mieheltorcna to J. M. Fuentes; claim filed December 21st, 1852, rejected by the Commission November 21st, 1854, by the District Court August 24th, 1857, and decree affirmed by the U. S. Supreme Court in 22 Howard, 443."
+  },
+  {
+   "id": "u-118",
+   "name": "Pueblo of Sonoma",
+   "land_case": "N.D. 423",
+   "commission_docket": 237,
+   "district_court_no": 423,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 22d, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "237, 423, N. D. Mayor and Common Council of Sonoma, claimants for Pueblo of Sonoma, 4 square leagues, granted June 24th, 1835, by M. G. Vallejo to Pueblo of Sonoma ; claim filed May 21st, 1852, and confirmed by the Commission January 22d, 1856."
+  },
+  {
+   "id": "u-119",
+   "name": "Quien Sabe",
+   "land_case": "SD 370",
+   "commission_docket": 55,
+   "district_court_no": 370,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission September 11th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "55, 370, S. D. Francisco Castillo Negrete, claimant for Quien Sabe, 6 square leagues, in San Joaquin county, granted April 16th, 1836, by Nicolas Gutierrez to F. C. Negrete; claim filed February 20th, 1852, and rejected by the Commission September 11th, 1855."
+  },
+  {
+   "id": "u-120",
+   "name": "Sansal Redondo",
+   "land_case": "S.D. 354",
+   "commission_docket": 456,
+   "district_court_no": 354,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission June 19th, 1855",
+    "District Court January 28th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "456, 354, S. D., 87, 337. Antonio Ygnacio Abila, claimant for Sansal Redondo, 5 square leagues, in Los Angeles county, granted May 20th, 1837, by Juan B. Alvarado to A. Y. Abila ; claim filed November 5th, 1852, confirmed by the Commission June 19th, 1855, by the District Court January 28th, 1857, and appeal dismissed March 4th, 1858."
+  },
+  {
+   "id": "u-121",
+   "name": "Island of Sacramento",
+   "land_case": "N.D. 270",
+   "commission_docket": 294,
+   "district_court_no": 270,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 8th, 1855",
+    "District Court November 15th, 1856"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "294, 270, N. D. James Noe, claimant for Island of Sacramento, 5 square leagues, granted March 15th, 1845, by Juan B. Alvarado to Roberto Elwell; claim filed July 24th, 1852, rejected by the Commission February 8th, 1855, confirmed by the District Court November 15th, 1856, decree reversed by the U. S. Supreme Court, cause remanded and petition to be dismissed, in 23 Howard, 312."
+  },
+  {
+   "id": "u-123",
+   "name": "Island of Sacramento",
+   "land_case": "ND 193",
+   "commission_docket": 711,
+   "district_court_no": 193,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 24th, 1854",
+    "District Court February 7th, 1858"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "711, 193, N. D. Victor Prudon, claimant for Island of Sacramento, 3£ by 1 league, in the Sacramento river, granted July 6th, 1844, by Manuel Micheltorena to Victor Prudon; claim filed March 2d, 1853, rejected by the Commission October 24th, 1854, and by the District Court February 7th, 1858."
+  },
+  {
+   "id": "u-125",
+   "name": "Sierra de los Verdugos",
+   "land_case": "SD 163",
+   "commission_docket": 438,
+   "district_court_no": 163,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 27th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "438, 163, S. D., 572. Antonio Coronel, claimant for Sierra de los Verdugos, described by boundaries, in Los Angeles county, granted June 15th, 1846, by Pio Pico to A. Coronel; claim filed November 1st, 1852, rejected by the Commission January 27th, 1854, and appeal dismissed for failure of prosecution October 24th, 1855."
+  },
+  {
+   "id": "u-126",
+   "name": "Socayac",
+   "land_case": "N.D. 348",
+   "commission_docket": 235,
+   "district_court_no": 348,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "District Court March 16th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "235, 348, N. D. Emanuel Pratt, claimant for Socayac, 3 square leagues, granted December 22d, 1844, by Manuel Micheltorena to John Chamberlain; claim filed May 21st, 1852, confirmed by the Commision July 10th, 1855, by the District Court March 16th, 1857, and decree reversed by the U. S. Supreme Court, with direction to dismiss the petition, in 23 Howard, 476."
+  },
+  {
+   "id": "u-127",
+   "name": "3 suertes",
+   "land_case": "SD 377",
+   "commission_docket": 758,
+   "district_court_no": 377,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission October 2d, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "758, 377, S. D. James Stokes, claimant for 3 suertes, in Monterey county, granted January 2d, 1843, by Jos<$ R. Estrada, Prefect of the First District, to Jos6 C. Boronda; claim filed March 2d, 1853, rejected by the Commission October 2d, 1855, and appeal dismissed for failure of prosecution December 22d, 1856."
+  },
+  {
+   "id": "u-128",
+   "name": "Town of Sutter",
+   "land_case": "ND 369",
+   "commission_docket": 759,
+   "district_court_no": 369,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission July 17th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "759, 369, N. D. John A. Sutter, claimant for Town of Sutter, in Sacramento county; claim filed March 2d, 1853, rejected by the Commission July 17th, 1855, and appeal dismissed for failure of prosecution February 23d, 1857."
+  },
+  {
+   "id": "u-130",
+   "name": "Tinicasia",
+   "land_case": "ND 210",
+   "commission_docket": 80,
+   "district_court_no": 210,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 21st, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "80, 210, N. D. Timothy Murphy, in behalf of the San Rafael tribe of Indians, claimant for Tinicasia, 1 square league, in Marin county, granted in 1841, by M. G. Vallejo to San Rafael tribe of Indians ; claim filed February 28th, 1852, rejected by the Commission November 21st, 1854, and for failure of prosecution appeal dismissed April 21st, 1856."
+  },
+  {
+   "id": "u-131",
+   "name": "unnamed tract (10 by 2 leagues)",
+   "land_case": "N.D. 408",
+   "commission_docket": 103,
+   "district_court_no": 408,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission November 6th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "103, 408, N. D. Guillermo Antonio Richardson, claimant for 10 by 2 leagues, in Mendocino county, granted October 30th, 1844, by Manuel Micheltorena to Jose Antonio Galindo; claim filed March 16th, 1852, and confirmed by the Commission November 6th, 1855."
+  },
+  {
+   "id": "u-133",
+   "name": "unnamed tract (9 square leagues)",
+   "land_case": "N.D. 96",
+   "commission_docket": 113,
+   "district_court_no": 96,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission January 17th, 1854"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "113, 96, N. D. Rafael Garcia, claimant for 9 square leagues, in Mendocino county, granted November 15th, 1844, by Manuel Michcltorena to Rafael Garcia; claim filed March 23d, 1852, rejected by the Commission January 17th, 1854, confirmed by the District Court, decree reversed, petition dismissed by the U. S. Supreme Court, and cause remanded for that purpose in 22 Howard, 274."
+  },
+  {
+   "id": "u-136",
+   "name": "Willy",
+   "land_case": "ND 268",
+   "commission_docket": 226,
+   "district_court_no": 268,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission February 8th, 1855",
+    "District Court February 16th, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "226, 268, N. D. Michael C. Nye, claimant for Willy, 4 square leagues, granted December 22d, 1844, by Manuel Micheltorena and J. A. Sutter to Michael C. Nye; claim filed May 10th, 1852, confirmed by the Commission February 8th, 1855, by the District Court February 16th, 1857, and rejected by the U. S. Supreme Court in 21 Howard, 408."
+  },
+  {
+   "id": "u-137",
+   "name": "Yucuy",
+   "land_case": "ND 279",
+   "commission_docket": 768,
+   "district_court_no": 279,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission March 27th, 1855"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "768, 279, N. D. Jos6 Jesus Berreycsa, claimant for Yucuy, 8 square leagues, near Clear Lake, granted May 29th, 1846, by Jos6 de los Santos Berreyesa to J. J. Berreyesa ; claim filed March 2d, 1853, rejected by the Commission March 27th, 1855, and appeal dismissed for failure of prosecution April 21st, 1856."
+  },
+  {
+   "id": "u-138",
+   "name": "Yulupa",
+   "land_case": "N.D. 140",
+   "commission_docket": 249,
+   "district_court_no": 140,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "hoffman_patented_by_1862": false,
+   "disposition_chain": [
+    "Commission May 10th, 1854",
+    "District Court January 21st, 1857"
+   ],
+   "evidence_tier": "hoffman-table",
+   "evidence": "249, 140, N. D. Mariano Guadalupe Vallejo, claimant for Yulupa, 3 square leagues, in Sonoma county, granted November 23d, 1844, by Manuel Micheltorena to Miguel Alvarado; claim filed May 31st, 1852, rejected by the Commission May 10th, 1854, confirmed by the District Court January 21st, 1857, decree reversed by the XT. S. Supreme Court and cause remanded for further evidence, in 22 Howard, 416."
+  }
+ ]
+}

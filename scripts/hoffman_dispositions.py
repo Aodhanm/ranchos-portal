@@ -31,10 +31,16 @@ from hoffman_crosscheck import parse_appendix
 # Ordered so the longest / most specific alternatives win at the same position.
 # The djvu OCR mangles "confirmed" often enough to matter (confinned, conflrmed,
 # couflrmed). Missing one silently demotes a confirmed claim to "unclear".
-CONFIRMED_OCR = r"con[fft][il1r]?[rn]?[mn][eo]d|affirmed"
+CONFIRMED_OCR = r"con[fft][il1r]?[rn]?[mn][eo]d"
 
 EVENT = re.compile(
-    r"(?P<appeal_dismissed>appeals?\s+(?:was\s+|were\s+)?dismissed)"
+    # "affirmed" is NOT a disposition. It upholds whatever precedes it, so an
+    # affirmed REJECTION is still a rejection. Counting it as a confirmation
+    # inflated the confirmed total and wrongly contradicted the register on
+    # ND 394 (Punta de Lobos) and ND 209 (Potrero), where the Supreme Court
+    # affirmed rejections. Skipped, exactly like "appeal dismissed".
+    r"(?P<affirms_prior>(?:judgment|decree|decrees)?\s*affirmed)"
+    r"|(?P<appeal_dismissed>appeals?\s+(?:was\s+|were\s+)?dismissed)"
     r"|(?P<confirmed>" + CONFIRMED_OCR + r")"
     r"|(?P<rejected>rejected)"
     r"|(?P<reversed>reversed)"
@@ -47,7 +53,17 @@ EVENT = re.compile(
 # marker, so an entry printed without one bleeds into its predecessor's chunk.
 # Last-match would then read the NEIGHBOUR's disposition. Cut at the next
 # claimant line: a number, comma, capitalised word, after sentence punctuation.
-NEXT_ENTRY = re.compile(r"(?<=[.;])\s*\d{1,3},\s+[A-Z][a-z]")
+# The boundary is the entry-opening signature itself: commission no, court no,
+# district. It must tolerate djvu noise, which splits and re-spaces the numerals
+# ("71, 10 N. D.", "25 1 73, 1 82, N. D."). An earlier version required
+# number-comma-Capital and so missed both, letting the NEXT claim's disposition
+# be read as this one's. That misread ND 201 and ND 411 as confirmed when both
+# were rejected.
+NEXT_ENTRY = re.compile(
+    # digits (which the OCR may split with spaces: "1 73" for 173), comma,
+    # digits, optional comma, then the district letter and D.
+    r"(?<=[.;])\s*[\d][\d ]{0,6},[\d ]{0,7},?\s*[NS8]\s*[\.,]?\s*[DI)]"
+    r"|(?<=[.;])\s*\d{1,3},\s+[A-Z][a-z]")
 
 
 def trim_to_own_entry(text):
@@ -61,8 +77,8 @@ def final_disposition(text):
     last = None
     for m in EVENT.finditer(text):
         kind = m.lastgroup
-        if kind == "appeal_dismissed":
-            continue          # finalizes whatever precedes it; not a disposition
+        if kind in ("appeal_dismissed", "affirms_prior"):
+            continue          # upholds whatever precedes it; not a disposition
         last = kind
     return last
 
