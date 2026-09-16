@@ -1,6 +1,6 @@
 {
  "title": "Errata",
- "policy": "Every correction made to a published record after it went live is listed here, with what the register said, what the source says, and the source that settled it. Corrections found by the blind accuracy audit are listed alongside those reported by readers. Nothing is corrected silently.",
+ "policy": "Every correction the accuracy audit or a reader has established is listed here, with what the register said, what the source says, and the source that settled it. IMPORTANT: these corrections are DISCLOSED here but are NOT yet applied to the downloadable dataset. data/ranchos-register.csv and .json remain byte-identical to the Zenodo v1.0 deposit so that the published DOI keeps resolving to exactly the data that was deposited; the corrections will be folded in when version 1.1 is cut. Until then, a row listed below still carries its erroneous value in the table and in the download, and this page is the authority on what that value should be. Nothing is corrected silently.",
  "updated": "2026-09-02",
  "entries": [
   {
