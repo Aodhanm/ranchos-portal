@@ -95,3 +95,49 @@ estimator of the register and stays the published number.
     census=[r for f in sorted(glob.glob('audit/census-*/chunk*.json')) for r in json.load(open(f))]
     print(sum(sub(r['id']) for r in census), 'flagged of', len(census), 'graded')
     PY
+
+---
+
+# Addendum, 2026-09-16: Hoffman's errata applied, conclusions unchanged
+
+`scripts/apply_hoffman_errata.py` applies Hoffman's own printed errata to the
+cross-check and re-derives the flags, writing
+`audit/hoffman-crosscheck-v2-errata-applied.json`. The 2026-09-01 file is left
+unchanged because published findings cite it by name.
+
+**Effect on the flagging.** 6 field corrections matched register rows (5 year,
+1 governor). Three flags are withdrawn because Hoffman's own erratum agrees with
+the register: canada-carpenteria (1845 to 1835), calleguas (1847 to 1837),
+guadalasca (1846 to 1836). Two are restated against the corrected value rather
+than withdrawn (san-antonio-rodeo-aguas, monte-diablo). Substantively flagged
+rows fall from 160 to 157, and the stratum weight from 23.8% to 23.4%.
+
+**Effect on the estimates: negligible.**
+
+| stratum | overall before | after | grantee before | after | n |
+|---|---|---|---|---|---|
+| census flagged | 13.4% | 13.7% | 45.9% | 46.9% | 133 → 130 |
+| blind-100 flagged | 14.2% | 14.2% | 40.7% | 40.7% | 27 |
+| census unflagged | 3.2% | 3.1% | 11.3% | 11.2% | 324 → 327 |
+| blind-100 unflagged | 1.7% | 1.7% | 7.2% | 7.2% | 73 |
+
+| stratified estimate | before | after | published |
+|---|---|---|---|
+| overall | 4.49% | 4.51% | 5.28% |
+| grantee | 16.44% | 16.52% | 16.67% |
+
+**Nothing in the 09-03 or 09-09 findings needs revising.** The flagged and
+unflagged strata still differ by roughly fourfold on the overall rate and
+sixfold on grantee; the census flagged cell still agrees with the random
+control; and the stratified grantee estimate, 16.52%, remains inside the
+published figure's interval and is now within 0.15 points of it.
+
+The three withdrawn flags moved from the flagged stratum to the unflagged one,
+which is why the flagged cell ticks up slightly: they were the three cases where
+Hoffman was wrong and the register was right, so removing them takes three clean
+records out of the flagged group.
+
+**Why this was worth doing anyway.** The point was never the decimal. It was that
+the cross-check was raising three accusations against the register that the
+source itself had already retracted, and a reader checking those three would have
+found the register correct and the audit wrong.
