@@ -1,0 +1,127 @@
+{
+ "note": "Screening cross-check of register patent data against the GLO's own 1881 per-claim table. Matched on patent DATE because the djvu OCR destroys the name column. A screening pass, not a verdict: anything published from this table must be read off the page images.",
+ "source": "Report of the Surveyor General of California, table H H, in the Annual Report of the Commissioner of the General Land Office FY1881, H.R. Exec. Doc. No. 1, 47th Cong., 1st Sess., Serial 2017, pp. 533-549.",
+ "glo_rows_parsed": 445,
+ "tally": {
+  "date matches but is shared by several claims": 159,
+  "register has no parseable patent date": 150,
+  "date agrees, acreage not comparable": 118,
+  "date not in the GLO 1881 table": 111,
+  "ambiguous: several register rows share this patent date": 69,
+  "date + acreage both agree": 54,
+  "date agrees, acreage differs (single-digit OCR misread)": 6,
+  "date agrees, acreage differs (unexplained)": 5
+ },
+ "acreage_disagreements": [
+  {
+   "id": "rancho-canada-guadalupe",
+   "name": "Canada De Guadalupe",
+   "patent_date": "Sept. 22, 1865",
+   "register_acres": 942.93,
+   "glo_acres": 560.0,
+   "difference": 382.93,
+   "likely_cause": "unexplained",
+   "glo_row": "William Pierce ..-...-. Patented September 22, 1865.4 | co, Mateu ............ 560. 00 "
+  },
+  {
+   "id": "rancho-cuca",
+   "name": "Cuca",
+   "patent_date": "July 22, 1878",
+   "register_acres": 2174.52,
+   "glo_acres": 2174.25,
+   "difference": 0.27,
+   "likely_cause": "unexplained",
+   "glo_row": "471 GUE, OF SO), POLLONOt. .0ccticcelew accep acta emysle ane M. J. de los Angeles...| Patented July 22, 1878......... San, Diego:s: 42.422 ee eee 2,174. 25 "
+  },
+  {
+   "id": "rancho-merced",
+   "name": "La Merced",
+   "patent_date": "Feb. 13, 1872",
+   "register_acres": 2363.75,
+   "glo_acres": 2863.25,
+   "difference": 499.5,
+   "likely_cause": "unexplained",
+   "glo_row": "PeopteMber bcd Gla Pier pat oo 255 yo hae one ones base eo F. P. F. temple et al ..| Patented February 13, 1872....| Los Angeles .......-..|--------+---+- 2, 863.25 "
+  },
+  {
+   "id": "rancho-corral-quati",
+   "name": "Corral De Quati",
+   "patent_date": "Aug. 7, 1876",
+   "register_acres": 13322.29,
+   "glo_acres": 18322.29,
+   "difference": 5000.0,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "Patented August 7, 1876....... Santa Barbara so. sls Vtg ete 18, 322. 29 "
+  },
+  {
+   "id": "rancho-san-bernabe",
+   "name": "San Bernabe",
+   "patent_date": "Mar. 27, 1873",
+   "register_acres": 13296.38,
+   "glo_acres": 13294.98,
+   "difference": 1.4,
+   "likely_cause": "unexplained",
+   "glo_row": "apo ||, PAN OLNar DOr. go enablers 6 Assos cha 6 nis Sons aisle Henry Cocks ......... Patented March 27, 1873..-----}..---- GL aE Bp = ise Grate ced eee Raters 13, 294. 98 "
+  },
+  {
+   "id": "rancho-laguna-san-antonio",
+   "name": "Laguna De San Antonio",
+   "patent_date": "Nov. 21, 1871",
+   "register_acres": 24903.42,
+   "glo_acres": 94903.42,
+   "difference": 70000.0,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "80 | Laguna de San Atitonio -,..e.+c0..0eseecseceeee. B, Bojorquez .....--+- Patented November 21, 1871 {| AbAUM o---vrstvttrr 16 Beee 94, 903. 42 "
+  },
+  {
+   "id": "rancho-san-bernardo-2",
+   "name": "San Bernardo (Soberanes)",
+   "patent_date": "Mar. 9, 1874",
+   "register_acres": 13345.65,
+   "glo_acres": 13345.02,
+   "difference": 0.63,
+   "likely_cause": "unexplained",
+   "glo_row": "306 |...--- OO seis ie ate Bulls Sis Te Age mile alte aivS s lolatele ees sie Mariano Soberanes ...| Patented March 9, 1874......-- Momtene y= 22. <2\". %!. 2] aterm 13, 345. 02 "
+  },
+  {
+   "id": "rancho-cerritos",
+   "name": "Los Cerritos",
+   "patent_date": "Dec. 7, 1867",
+   "register_acres": 27654.36,
+   "glo_acres": 27054.36,
+   "difference": 600.0,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "Patented December 7, 1867....| Los Angeles» acsissess eee 27, 054. 36 "
+  },
+  {
+   "id": "rancho-san-francisco",
+   "name": "San Francisco",
+   "patent_date": "Feb. 12, 1875",
+   "register_acres": 48611.88,
+   "glo_acres": 48811.88,
+   "difference": 200.0,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "Wp at eenNCiNCo BON ei vies sss etec cone Jacoba Feliz et al ..... Patented February 12, 1875.. § | 0S Angeles ---------- se OU 00 fg 48,811. 88 "
+  },
+  {
+   "id": "rancho-sanjon-santa-rita",
+   "name": "Sanjon De Santa Rita",
+   "patent_date": "Nov. 20, 1862",
+   "register_acres": 48823.8,
+   "glo_acres": 48823.84,
+   "difference": 0.04,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "673 198 | Sanjon de Santa Rita......-.-.---.-------+0-+---- F. Soberanes.-.---.--- Patented November 20, 1862. ; gear Fceane eens tte 48, aes hs ; 48, 823. 84 "
+  },
+  {
+   "id": "mission-soledad",
+   "name": "Ex Mission Soledad",
+   "patent_date": "May 18, 1874",
+   "register_acres": 8899.82,
+   "glo_acres": 8899.92,
+   "difference": 0.1,
+   "likely_cause": "single-digit OCR misread",
+   "glo_row": "2045) Missiomrex)iSOledad.! isd. Sei 722255 se eac cele. c8k F. Scberanes ......... Patented May 18, 1874 ........|..--.- COP esate cathe Ss |: eee as eae 8, 899. 92 "
+  }
+ ]
+}
