@@ -151,9 +151,29 @@ def main():
         r[f] = v
         tally["applied"] += 1
 
+    # The staged citations were taken as printed in Hoffman and only ever checked
+    # structurally. scripts/verify_scotus_cites.py has now read them against the
+    # official reports: two carry a WRONG PAGE NUMBER in the printed table, and
+    # both are fixed by the claimant Hoffman's own entry names (Bolsa de Tomales
+    # 22 How. 87 to 89, United States v. Galbraith; Nemshas 24 How. 151 to 131,
+    # United States v. Chana). Prefer the verified citation where one exists.
+    ver_path = REPO / "audit" / "scotus-verification.json"
+    verified = ({v["id"]: v for v in
+                 json.load(open(ver_path, encoding="utf-8"))["records"]}
+                if ver_path.exists() else {})
     for s in scotus:
         r = idx.get(s["id"])
-        if r is not None and not (r.get("scotus_cite") or "").strip():
+        if r is None or (r.get("scotus_cite") or "").strip():
+            continue
+        v = verified.get(s["id"], {})
+        pc = v.get("proposed_correction")
+        if pc:
+            r["scotus_cite"] = pc["cite"]
+            applied.append({"id": s["id"], "field": "scotus_cite",
+                            "from": "", "to": pc["cite"],
+                            "evidence": pc["why"][:220]})
+            tally["scotus citation added, page corrected against the reports"] += 1
+        else:
             r["scotus_cite"] = s["hoffman_scotus_cite"]
             tally["scotus citation added"] += 1
 

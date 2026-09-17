@@ -1072,6 +1072,20 @@
    "evidence": "Board opinion (stamped p154): 'San Jose de Guadalupe was regularly organised and established into a Pueblo under the Spanish Government having been founded by Felipe de Neve the Governor of California in 1777'; petition "
   },
   {
+   "id": "u-28",
+   "field": "scotus_cite",
+   "from": "",
+   "to": "22 How. 89",
+   "evidence": "Hoffman's own entry names the claimant Galbraith, and United States v. Galbraith is the only case in this volume with that party. The printed page number does not reach it."
+  },
+  {
+   "id": "u-108",
+   "field": "scotus_cite",
+   "from": "",
+   "to": "24 How. 131",
+   "evidence": "Hoffman's own entry names the claimant Chana, and United States v. Chana is the only case in this volume with that party. The printed page number does not reach it."
+  },
+  {
    "id": "rancho-brea",
    "field": "governor+grantor_office",
    "from": "Echeandía",
@@ -1378,9 +1392,10 @@
  ],
  "tally": {
   "applied": 171,
-  "scotus citation added": 29,
+  "scotus citation added": 27,
   "deferred: correction is prose, not a value": 16,
   "grantor office recorded": 14,
-  "dependent field change": 4
+  "dependent field change": 4,
+  "scotus citation added, page corrected against the reports": 2
  }
 }

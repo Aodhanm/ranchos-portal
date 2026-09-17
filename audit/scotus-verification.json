@@ -1,0 +1,631 @@
+{
+ "note": "The 29 staged Supreme Court citations, checked against the official reports for the first time. Source: Caselaw Access Project static bulk, https://static.case.law/us/<volume>/CasesMetadata.json. CONFIRMED means a case in that volume begins on that page and its official citation matches. It does NOT mean the case is the right land claim: the register names a rancho and the reports name the parties, so reports_case_name is given for a human to judge.",
+ "source": "https://static.case.law",
+ "rule": "Howard volumes 1 to 24 are U.S. Reports 42 to 65, so n Howard = (41 + n) U.S.",
+ "tally": {
+  "confirmed": 25,
+  "citation shared by more than one register row": 5,
+  "page and volume correct, but the case is styled under other parties than Hoffman's claimant": 2,
+  "PAGE NUMBER WRONG in Hoffman's table": 2
+ },
+ "records": [
+  {
+   "id": "rancho-angel-island",
+   "name": "Angel Island",
+   "land_case": "ND 208",
+   "hoffman_scotus_cite": "23 Howard 273",
+   "register_scotus_cite": "",
+   "evidence": "on October 24th, 1854, by the District Court September 10th, 1855, and decree reversed by the U. S. Supreme Court and cause remanded, with directions to dismiss the petition, 23 Howard, 273.",
+   "us_reports_cite": "64 U.S. 273",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Osio",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 273",
+   "reports_nominative_cite": "23 How. 273",
+   "hoffman_claimant": "Osio",
+   "cases_sharing_that_page": [
+    "United States v. Osio"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Antonio Maria Osio",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-san-vicente",
+   "name": "San Vicente (Berreyesa)",
+   "land_case": "ND 363",
+   "hoffman_scotus_cite": "23 Howard 499",
+   "register_scotus_cite": "",
+   "evidence": "r 30th, 1852, confirmed by the Commission July 3d, 1855, by the District Court March 13th, 1857, and decree affirmed by the U. S. Supreme Court in 23 Howard, 499 ; containing 4,438.36 acres.",
+   "us_reports_cite": "64 U.S. 499",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Widow & Heirs of Berreyesa",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 499",
+   "reports_nominative_cite": "23 How. 499",
+   "hoffman_claimant": "Berreycsa",
+   "cases_sharing_that_page": [
+    "United States v. Widow & Heirs of Berreyesa"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. the Widow and Heirs of Jose E. Berreyesa, deceased",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-san-miguel-2",
+   "name": "San Miguel",
+   "land_case": "ND 326",
+   "hoffman_scotus_cite": "22 Howard 315",
+   "register_scotus_cite": "",
+   "evidence": "852, rejected by the Commission April 24th, 1855, confirmed by the District Court June 2d, 1857, and decree confirmed by the U. S. Supreme Court for one league and a half, in 22 Howard, 315.",
+   "us_reports_cite": "63 U.S. 315",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Widow & Heirs of West",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 315",
+   "reports_nominative_cite": "22 How. 315",
+   "hoffman_claimant": "West",
+   "cases_sharing_that_page": [
+    "United States v. Widow & Heirs of West"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. the Widow and Heirs of Marcus West, deceased",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-santa-rita-1",
+   "name": "Santa Rita",
+   "land_case": "ND 155",
+   "hoffman_scotus_cite": "23 Howard 495",
+   "register_scotus_cite": "",
+   "evidence": "rejected by the Commission April 25th, 1854, confirmed by the District Court August 13tli, 1855, and decree affirmed by the U. S. Supreme Court in 23 Howard, 495 ; containing 8,885.67 acres.",
+   "us_reports_cite": "64 U.S. 495",
+   "verdict": "confirmed",
+   "reports_case_name": "Yontz v. United States",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 495",
+   "reports_nominative_cite": "23 How. 495",
+   "hoffman_claimant": "Pacheco",
+   "cases_sharing_that_page": [
+    "Yontz v. United States"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "John Yontz, Administrator of Jose Dolores Pacheco, deceased, Appellant, v. the United States",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-cosumnes",
+   "name": "Cosumnes",
+   "land_case": "ND 362",
+   "hoffman_scotus_cite": "22 Howard 286",
+   "register_scotus_cite": "",
+   "evidence": "2, confirmed for six leagues on the Cosumnes river by the Commission August 7th, 1855, by the District Court May 14th, 1857, and decree affirmed by the U. S. Supremo Court in 22 Howard, 286.",
+   "us_reports_cite": "63 U.S. 286",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Widow, Heirs, & Executors of Hartnell",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 286",
+   "reports_nominative_cite": "22 How. 286",
+   "hoffman_claimant": "Hartnell",
+   "cases_sharing_that_page": [
+    "United States v. Widow, Heirs, & Executors of Hartnell"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States v. the Widow, Heirs, and Executors, of William E. P. Hartnell, deceased",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-arroyo-nueces-bolbones",
+   "name": "Arroyo De Las Nueces Y Bolbones",
+   "land_case": "ND 046",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "on of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261, and decree of the District Court affirmed by the U. S. Supreme Court in 22 Howard, 225; containing 17,734.52 acres.",
+   "us_reports_cite": "61 U.S. 261",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. De Pacheco",
+   "reports_decision_date": "1857-12",
+   "reports_official_cite": "61 U.S. 261",
+   "reports_nominative_cite": "20 How. 261",
+   "hoffman_claimant": "Pacheco",
+   "cases_sharing_that_page": [
+    "United States v. De Pacheco"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "The United States, Appellant, v. Juana S. De Pacheco; The United States, Appellant, v. Samuel J. Hensley; The United States, Appellant, v. John Bidwell; The United States, Appellant, v. Antonio Sunot et al.",
+   "howard_conversion_ok": true,
+   "citation_shared_with": 2
+  },
+  {
+   "id": "rancho-cajon",
+   "name": "El Cajon",
+   "land_case": "SD 114",
+   "hoffman_scotus_cite": "19 Howard 363",
+   "register_scotus_cite": "",
+   "evidence": "iled June 10th, 1852, confirmed by the Commission March 14tli, 1854, by the District Court September 28th, 1855, and by the U. S. Supreme Court in 19 Howard, 363; containing 48,794.03 acres.",
+   "us_reports_cite": "60 U.S. 363",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Sutherland",
+   "reports_decision_date": "1856-12",
+   "reports_official_cite": "60 U.S. 363",
+   "reports_nominative_cite": "19 How. 363",
+   "hoffman_claimant": "Pedrorena",
+   "cases_sharing_that_page": [
+    "United States v. Sutherland"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Thomas W. Sutherland, Guardian of Victoria, Isabel, Miguel, and Helina, Minor Children of Miguel de Pedrorena, Deceased",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-pulgas",
+   "name": "Pulgas",
+   "land_case": "ND 054",
+   "hoffman_scotus_cite": "18 Howard 539",
+   "register_scotus_cite": "",
+   "evidence": "y 21st, 1852, confirmed by the Commission October 2d, 1853, by the District Court January 26th, 1855, and by the U. S. Supreme Cou^t in 18 Howard, 539 ; containing 35,240.47 acres. Patented.",
+   "us_reports_cite": "59 U.S. 539",
+   "verdict": "confirmed",
+   "reports_case_name": "de Arguello v. United States",
+   "reports_decision_date": "1855-12",
+   "reports_official_cite": "59 U.S. 539",
+   "reports_nominative_cite": "18 How. 539",
+   "hoffman_claimant": "Argucllo",
+   "cases_sharing_that_page": [
+    "Hudgins v. Kemp",
+    "de Arguello v. United States"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "Maria de la Solidad de Arguello et al. Claimants and Appellants, v. The United States; The United States, Appellants, v. Maria de la Solidad de Arguello et al.",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-valle-san-jose-1",
+   "name": "Valle De San Jose",
+   "land_case": "ND 102",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "the Commission January 31st, 1854, by the District Court January 14th, 1856, and decision of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261 ; containing 51,572.26 acres.",
+   "us_reports_cite": "61 U.S. 261",
+   "verdict": "page and volume correct, but the case is styled under other parties than Hoffman's claimant",
+   "reports_case_name": "United States v. De Pacheco",
+   "reports_decision_date": "1857-12",
+   "reports_official_cite": "61 U.S. 261",
+   "reports_nominative_cite": "20 How. 261",
+   "hoffman_claimant": "Sunol",
+   "cases_sharing_that_page": [
+    "United States v. De Pacheco"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "The United States, Appellant, v. Juana S. De Pacheco; The United States, Appellant, v. Samuel J. Hensley; The United States, Appellant, v. John Bidwell; The United States, Appellant, v. Antonio Sunot et al.",
+   "howard_conversion_ok": true,
+   "citation_shared_with": 2
+  },
+  {
+   "id": "rancho-san-joaquin-2",
+   "name": "San Joaquin",
+   "land_case": "SD 178",
+   "hoffman_scotus_cite": "18 Howard 553",
+   "register_scotus_cite": "",
+   "evidence": "m filed February 20th, 1 852, confirmed by the Commission December 18th, 1852, by the District Court September 21st, 1855, and judgment affirmed by the U. S. Supreme Court in 18 Howard, 553.",
+   "us_reports_cite": "59 U.S. 553",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Cervantes",
+   "reports_decision_date": "1855-12",
+   "reports_official_cite": "59 U.S. 553",
+   "reports_nominative_cite": "18 How. 553",
+   "hoffman_claimant": "Cervantez",
+   "cases_sharing_that_page": [
+    "United States v. Cervantes"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Cruz Cervantes",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-mariposas",
+   "name": "Las Mariposas",
+   "land_case": "ND 001",
+   "hoffman_scotus_cite": "17 Howard 542",
+   "register_scotus_cite": "",
+   "evidence": " 21st, 1852, confirmed by the Commisssion December 27th, 1852, by the District Court June 27th, 1854, and by the IT. S. Supreme Court in 17 Howard, 542; containing 44,386.83 acres. Patented.",
+   "us_reports_cite": "58 U.S. 542",
+   "verdict": "confirmed",
+   "reports_case_name": "Fremont v. United States",
+   "reports_decision_date": "1854-12",
+   "reports_official_cite": "58 U.S. 542",
+   "reports_nominative_cite": "17 How. 542",
+   "hoffman_claimant": "Fremont",
+   "cases_sharing_that_page": [
+    "Fremont v. United States"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "John Charles Fremont, Appellant, v. The United States",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-san-buenaventura",
+   "name": "San Buenaventura",
+   "land_case": "ND 004",
+   "hoffman_scotus_cite": "18 Howard 1",
+   "register_scotus_cite": "",
+   "evidence": "y 9th, 1852, confirmed by the Commission December 18th, 1852, by the District Court October 31st, 1853, and by the U. S. Supreme Court in 18 Howard, 1 ; containing 26,632.09 acres. Patented.",
+   "us_reports_cite": "59 U.S. 1",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Reading",
+   "reports_decision_date": "1855-12",
+   "reports_official_cite": "59 U.S. 1",
+   "reports_nominative_cite": "18 How. 1",
+   "hoffman_claimant": "Reading",
+   "cases_sharing_that_page": [
+    "United States v. Reading"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Pearson B. Reading",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-putos",
+   "name": "Los Putos",
+   "land_case": "ND 074",
+   "hoffman_scotus_cite": "18 Howard 556",
+   "register_scotus_cite": "",
+   "evidence": "y the Commission November 15th, 1853, confirmed by the District Court July 5th, 1855, and decree affirmed by the U. S. Supreme Court in 18 Howard, 556 ; containing 44,383.78 acres. Patented.",
+   "us_reports_cite": "59 U.S. 556",
+   "verdict": "page and volume correct, but the case is styled under other parties than Hoffman's claimant",
+   "reports_case_name": "United States v. Vaca",
+   "reports_decision_date": "1855-12",
+   "reports_official_cite": "59 U.S. 556",
+   "reports_nominative_cite": "18 How. 556",
+   "hoffman_claimant": "Chiles",
+   "cases_sharing_that_page": [
+    "United States v. Vaca"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Juan Manuel Vaca and Juan Felipe Pena",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "rancho-santa-cruz-island",
+   "name": "Santa Cruz Island",
+   "land_case": "SD 340",
+   "hoffman_scotus_cite": "23 Howard 464",
+   "register_scotus_cite": "",
+   "evidence": "stillero; claim filed April 13th, 1852, confirmed by the Commission July 3d, 1855, by the District Court January 14th, 1857, and decree affirmed by the U. S. Supreme Court in 23 Howard, 464.",
+   "us_reports_cite": "64 U.S. 464",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Castillero",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 464",
+   "reports_nominative_cite": "23 How. 464",
+   "hoffman_claimant": "Castillero",
+   "cases_sharing_that_page": [
+    "United States v. Castillero"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Andres Castillero",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-9",
+   "name": "Aguas Nieves",
+   "land_case": "ND 33",
+   "hoffman_scotus_cite": "20 Howard 261",
+   "register_scotus_cite": "",
+   "evidence": "led April 27th, l(g)2, confirmed by the Commission February 14th, 1853, by the District Court July 5th, 1855, decision of the U. S. Supreme Court as to the right of appeal in 20 Howard, 261.",
+   "us_reports_cite": "61 U.S. 261",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. De Pacheco",
+   "reports_decision_date": "1857-12",
+   "reports_official_cite": "61 U.S. 261",
+   "reports_nominative_cite": "20 How. 261",
+   "hoffman_claimant": "Hensley",
+   "cases_sharing_that_page": [
+    "United States v. De Pacheco"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "The United States, Appellant, v. Juana S. De Pacheco; The United States, Appellant, v. Samuel J. Hensley; The United States, Appellant, v. John Bidwell; The United States, Appellant, v. Antonio Sunot et al.",
+   "howard_conversion_ok": true,
+   "citation_shared_with": 2
+  },
+  {
+   "id": "u-28",
+   "name": "Bolsa de Tomales",
+   "land_case": "ND 121",
+   "hoffman_scotus_cite": "22 Howard 87",
+   "register_scotus_cite": "",
+   "evidence": "ril 11th, 1854, by the District Court December 1st, 1854, decree reversed by the U. S. Supreme Cotirt and cause remanded in 22 Howard, 87. Confirmed by the District Court February 7th, 1861.",
+   "us_reports_cite": "63 U.S. 87",
+   "verdict": "PAGE NUMBER WRONG in Hoffman's table",
+   "reports_case_name": "Hodge v. Williams",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 87",
+   "reports_nominative_cite": "22 How. 87",
+   "hoffman_claimant": "Galbraith",
+   "cases_sharing_that_page": [
+    "Hodge v. Williams"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "J. W. Hodge, John W. Hunter, Haywood Hunter, Thomas Coleman, and Young Coleman, Plaintiffs in Error, v. John A. Williams",
+   "howard_conversion_ok": true,
+   "proposed_correction": {
+    "cite": "22 How. 89",
+    "us_reports_cite": "63 U.S. 89",
+    "case_name": "United States v. Galbraith",
+    "why": "Hoffman's own entry names the claimant Galbraith, and United States v. Galbraith is the only case in this volume with that party. The printed page number does not reach it."
+   }
+  },
+  {
+   "id": "u-40",
+   "name": "Las Calaveras",
+   "land_case": "ND 399",
+   "hoffman_scotus_cite": "23 Howard 321",
+   "register_scotus_cite": "",
+   "evidence": "53, rejected by the Commission October 16th, 1855, confirmed by the District Court January 9th, 1858, decree reversed by the U. S. Supreme Court and petition to be dismissed, 23 Howard, 321.",
+   "us_reports_cite": "64 U.S. 321",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Pico",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 321",
+   "reports_nominative_cite": "23 How. 321",
+   "hoffman_claimant": "Pico",
+   "cases_sharing_that_page": [
+    "United States v. Pico"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Francisco Pico and others",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-52",
+   "name": "Cazadores",
+   "land_case": "N.D. 376",
+   "hoffman_scotus_cite": "23 Howard 476",
+   "register_scotus_cite": "",
+   "evidence": " Commission July 17th, 1855, by the District Court September 22d, 1856, decree reversed by the U. S. Supreme Court and cause remanded, with direction to dismiss the petition, 23 Howard, 476.",
+   "us_reports_cite": "64 U.S. 476",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Murphy",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 476",
+   "reports_nominative_cite": "23 How. 476",
+   "hoffman_claimant": "Murphy",
+   "cases_sharing_that_page": [
+    "United States v. Murphy"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "The United States, Appellants, v. James Murphy; The United States, Appellants, v. Emanuel Pratt",
+   "howard_conversion_ok": true,
+   "citation_shared_with": 1
+  },
+  {
+   "id": "u-79",
+   "name": "Panoche Grande",
+   "land_case": "ND 278",
+   "hoffman_scotus_cite": "23 Howard 326",
+   "register_scotus_cite": "",
+   "evidence": "sed. Ip 23 Howard, 326, the order of the Supreme Court docketing and dismissing cause was vacated and the mandate recalled. Case reopened in District Court March 21st, 1861, and is at issue.",
+   "us_reports_cite": "64 U.S. 326",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Gomez",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 326",
+   "reports_nominative_cite": "23 How. 326",
+   "hoffman_claimant": "Gomez",
+   "cases_sharing_that_page": [
+    "United States v. Gomez"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Vicente P. Gomez",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-91",
+   "name": "Jimeno Rancho",
+   "land_case": "N.D. 23",
+   "hoffman_scotus_cite": "18 Howard 557",
+   "register_scotus_cite": "",
+   "evidence": "iled March 24th, 1852, 19 confirmed by the Commission January 10th, 1853, by the District Court July 5th, 1855, and by the U. S. Supreme Court in 18 Howard, 557 ; containing 48,854.26 acres.",
+   "us_reports_cite": "59 U.S. 557",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Larkin",
+   "reports_decision_date": "1855-12",
+   "reports_official_cite": "59 U.S. 557",
+   "reports_nominative_cite": "18 How. 557",
+   "hoffman_claimant": "Larkin",
+   "cases_sharing_that_page": [
+    "United States v. Larkin"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Thomas O. Larkin and John S. Missroon",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-95",
+   "name": "Punta de Lobos",
+   "land_case": "N.D. 394",
+   "hoffman_scotus_cite": "24 Howard 125",
+   "register_scotus_cite": "",
+   "evidence": "ed January 17th, 1853, rejected by the Commission August 14th, 1855, by the District Court December 5th, 1857, and judgment affirmed by the U. S. Supreme Court with costs, 24 Howard, 125. 71",
+   "us_reports_cite": "65 U.S. 125",
+   "verdict": "confirmed",
+   "reports_case_name": "Palmer v. United States",
+   "reports_decision_date": "1860-12",
+   "reports_official_cite": "65 U.S. 125",
+   "reports_nominative_cite": "24 How. 125",
+   "hoffman_claimant": "Palmer",
+   "cases_sharing_that_page": [
+    "Palmer v. United States"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "Joseph C. Palmer, Charles W. Cook, Bethuel Phelps, and Dexter R. Wright, Appellants, v. the United States",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-98",
+   "name": "Lup Yomi",
+   "land_case": "N.D. 8",
+   "hoffman_scotus_cite": "22 Howard 392",
+   "register_scotus_cite": "",
+   "evidence": "ted by the Commission December 13th, 1853, confirmed by the District Court June 27th, 1855, decree reversed by the U. S. Supreme Court and case remanded for further evidence, 22 Howard, 392.",
+   "us_reports_cite": "63 U.S. 392",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Teschmaker",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 392",
+   "reports_nominative_cite": "22 How. 392",
+   "hoffman_claimant": "Teschemacher",
+   "cases_sharing_that_page": [
+    "United States v. Teschmaker"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Henry F. Teschmaker, Joseph P. Thompson, George H. Howard, and Julius K. Rose",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-108",
+   "name": "Nemshas",
+   "land_case": "ND 302",
+   "hoffman_scotus_cite": "24 Howard 151",
+   "register_scotus_cite": "",
+   "evidence": "firmed by the Commission January 23d, 1855, by the District Court October 16th, 1856, judgment of District Court reversed by the U. S. Supreme Court and petition dismissed in 24 Howard, 151.",
+   "us_reports_cite": "65 U.S. 151",
+   "verdict": "PAGE NUMBER WRONG in Hoffman's table",
+   "hoffman_claimant": "Chana",
+   "howard_conversion_ok": true,
+   "proposed_correction": {
+    "cite": "24 How. 131",
+    "us_reports_cite": "65 U.S. 131",
+    "case_name": "United States v. Chana",
+    "why": "Hoffman's own entry names the claimant Chana, and United States v. Chana is the only case in this volume with that party. The printed page number does not reach it."
+   }
+  },
+  {
+   "id": "u-117",
+   "name": "Potrero",
+   "land_case": "N.D. 209",
+   "hoffman_scotus_cite": "22 Howard 443",
+   "register_scotus_cite": "",
+   "evidence": "s; claim filed December 21st, 1852, rejected by the Commission November 21st, 1854, by the District Court August 24th, 1857, and decree affirmed by the U. S. Supreme Court in 22 Howard, 443.",
+   "us_reports_cite": "63 U.S. 443",
+   "verdict": "confirmed",
+   "reports_case_name": "Fuentes v. United States",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 443",
+   "reports_nominative_cite": "22 How. 443",
+   "hoffman_claimant": "Fucntes",
+   "cases_sharing_that_page": [
+    "Fuentes v. United States"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "Jose Maria Fuentes v. the United States",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-121",
+   "name": "Island of Sacramento",
+   "land_case": "N.D. 270",
+   "hoffman_scotus_cite": "23 Howard 312",
+   "register_scotus_cite": "",
+   "evidence": "ommission February 8th, 1855, confirmed by the District Court November 15th, 1856, decree reversed by the U. S. Supreme Court, cause remanded and petition to be dismissed, in 23 Howard, 312.",
+   "us_reports_cite": "64 U.S. 312",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Noe",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 312",
+   "reports_nominative_cite": "23 How. 312",
+   "hoffman_claimant": "Noe",
+   "cases_sharing_that_page": [
+    "United States v. Noe"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. James Noe",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-126",
+   "name": "Socayac",
+   "land_case": "N.D. 348",
+   "hoffman_scotus_cite": "23 Howard 476",
+   "register_scotus_cite": "",
+   "evidence": "confirmed by the Commision July 10th, 1855, by the District Court March 16th, 1857, and decree reversed by the U. S. Supreme Court, with direction to dismiss the petition, in 23 Howard, 476.",
+   "us_reports_cite": "64 U.S. 476",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Murphy",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "64 U.S. 476",
+   "reports_nominative_cite": "23 How. 476",
+   "hoffman_claimant": "Pratt",
+   "cases_sharing_that_page": [
+    "United States v. Murphy"
+   ],
+   "consolidated_report": true,
+   "reports_full_name": "The United States, Appellants, v. James Murphy; The United States, Appellants, v. Emanuel Pratt",
+   "howard_conversion_ok": true,
+   "citation_shared_with": 1
+  },
+  {
+   "id": "u-133",
+   "name": "unnamed tract (9 square leagues)",
+   "land_case": "N.D. 96",
+   "hoffman_scotus_cite": "22 Howard 274",
+   "register_scotus_cite": "",
+   "evidence": " by the Commission January 17th, 1854, confirmed by the District Court, decree reversed, petition dismissed by the U. S. Supreme Court, and cause remanded for that purpose in 22 Howard, 274.",
+   "us_reports_cite": "63 U.S. 274",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Garcia",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 274",
+   "reports_nominative_cite": "22 How. 274",
+   "hoffman_claimant": "Garcia",
+   "cases_sharing_that_page": [
+    "United States v. Garcia"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Rafael Garcia",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-136",
+   "name": "Willy",
+   "land_case": "ND 268",
+   "hoffman_scotus_cite": "21 Howard 408",
+   "register_scotus_cite": "",
+   "evidence": "hael C. Nye; claim filed May 10th, 1852, confirmed by the Commission February 8th, 1855, by the District Court February 16th, 1857, and rejected by the U. S. Supreme Court in 21 Howard, 408.",
+   "us_reports_cite": "62 U.S. 408",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Nye",
+   "reports_decision_date": "1858-12",
+   "reports_official_cite": "62 U.S. 408",
+   "reports_nominative_cite": "21 How. 408",
+   "hoffman_claimant": "Nye",
+   "cases_sharing_that_page": [
+    "United States v. Nye"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Michael C. Nye",
+   "howard_conversion_ok": true
+  },
+  {
+   "id": "u-138",
+   "name": "Yulupa",
+   "land_case": "N.D. 140",
+   "hoffman_scotus_cite": "22 Howard 416",
+   "register_scotus_cite": "",
+   "evidence": " by the Commission May 10th, 1854, confirmed by the District Court January 21st, 1857, decree reversed by the XT. S. Supreme Court and cause remanded for further evidence, in 22 Howard, 416.",
+   "us_reports_cite": "63 U.S. 416",
+   "verdict": "confirmed",
+   "reports_case_name": "United States v. Vallejo",
+   "reports_decision_date": "1859-12",
+   "reports_official_cite": "63 U.S. 416",
+   "reports_nominative_cite": "22 How. 416",
+   "hoffman_claimant": "Vallejo",
+   "cases_sharing_that_page": [
+    "United States v. Vallejo"
+   ],
+   "consolidated_report": false,
+   "reports_full_name": "The United States, Appellants, v. Mariano G. Vallejo",
+   "howard_conversion_ok": true
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "note": "Which of the 115 unread register records have a Bancroft land case file PDF in the Internet Archive. Built by scripts/wayback_case_files.py.",
- "archived": 97,
- "not_archived": 18,
+ "archived": 99,
+ "not_archived": 16,
  "total_warc_bytes": 12119415688,
  "archived_records": [
   {
@@ -1756,9 +1756,7 @@
     "sd397"
    ],
    "warc_bytes": 15590706
-  }
- ],
- "not_archived_records": [
+  },
   {
    "id": "u-105",
    "name": "San Miguelito de Trinidad",
@@ -1771,8 +1769,36 @@
    "commission_docket": 27,
    "evidence_tier": "hoffman-table",
    "scan_url": "",
-   "wayback_slug": "nd018"
+   "wayback_slug": "sd078",
+   "parts": [
+    "sd078"
+   ],
+   "warc_bytes": 64904719,
+   "transferred_docket": "SD 78",
+   "transfer_note": "⚠ SD 78 is catalogued as \"San Felipe, an augmentation\", claimant Francisco P. Pacheco, which does NOT match the register name \"San Miguelito de Trinidad\". FLAG, do not assume: read the case before grading."
   },
+  {
+   "id": "u-112",
+   "name": "Canada de los Osos",
+   "land_case": "ND 191",
+   "district": "ND",
+   "docket_no": 191,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 703,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "",
+   "wayback_slug": "sd179",
+   "parts": [
+    "sd179"
+   ],
+   "warc_bytes": 37341669,
+   "transferred_docket": "SD 179",
+   "transfer_note": "The finding aid titles SD 179 consistently with the register name."
+  }
+ ],
+ "not_archived_records": [
   {
    "id": "u-91",
    "name": "Jimeno Rancho",
@@ -1800,20 +1826,6 @@
    "evidence_tier": "hoffman-table",
    "scan_url": "https://digicoll.lib.berkeley.edu/record/265481",
    "wayback_slug": "nd121"
-  },
-  {
-   "id": "u-112",
-   "name": "Canada de los Osos",
-   "land_case": "ND 191",
-   "district": "ND",
-   "docket_no": 191,
-   "register_outcome": "Rejected",
-   "hoffman_outcome": "Rejected",
-   "agrees": true,
-   "commission_docket": 703,
-   "evidence_tier": "hoffman-table",
-   "scan_url": "",
-   "wayback_slug": "nd191"
   },
   {
    "id": "u-20",
@@ -2011,5 +2023,6 @@
    "scan_url": "",
    "wayback_slug": null
   }
- ]
+ ],
+ "transferred_dockets_note": "The Bancroft finding aid records 17 cases transferred between districts. Two of the 115 are archived under their TRANSFERRED docket, not the one the register carries: u-105 ND 18 is filed as SD 78, u-112 ND 191 as SD 179. A third, u-79 ND 278, transferred to SD 393, which is not archived either. Source: the raw EAD finding aid, https://cinco-prd.s3.amazonaws.com/media/ead/mlandcases_cubanc.xml, which is served without a challenge."
 }
