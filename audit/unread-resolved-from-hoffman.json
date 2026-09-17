@@ -3,14 +3,13 @@
  "source": "Ogden Hoffman, Reports of Land Cases ... Northern District of California (San Francisco: Numa Hubert, 1862), Appendix, 'Table of Land Claims', pp. 1-109. IA item GR_1919.",
  "unread_rows": 115,
  "by_hoffman_outcome": {
-  "rejected": 51,
-  "confirmed": 50,
+  "rejected": 52,
+  "confirmed": 49,
   "other": 11,
   "no entry": 3
  },
  "vs_register": {
-  "agrees": 100,
-  "DISAGREES": 1
+  "agrees": 101
  },
  "records": [
   {
@@ -825,7 +824,11 @@
     "District Court September 29th, 1859"
    ],
    "evidence_tier": "hoffman-table",
-   "evidence": "89, 166, N. D., 550. James G. Morehead, claimant for Carmel, 10 square leagues, granted May 4tli, 1846, by Pio Pico to William Knight ; claim filed March 2d, 1852, rejected by the Commission February 21st, 1854, confirmed by the District Court September 29th, 1859, and appeal dismissed October 26th, 1859."
+   "evidence": "89, 166, N. D., 550. James G. Morehead, claimant for Carmel, 10 square leagues, granted May 4tli, 1846, by Pio Pico to William Knight ; claim filed March 2d, 1852, rejected by the Commission February 21st, 1854, confirmed by the District Court September 29th, 1859, and appeal dismissed October 26th, 1859.",
+   "docket_collision_resolved_by_name": [
+    89,
+    705
+   ]
   },
   {
    "id": "u-52",
@@ -1499,17 +1502,20 @@
    "id": "u-114",
    "name": "Canada de los Pinacates",
    "land_case": "SD 270",
-   "commission_docket": 531,
+   "commission_docket": 598,
    "district_court_no": 270,
    "register_outcome": "Rejected",
-   "hoffman_outcome": "Confirmed",
+   "hoffman_outcome": "Rejected",
    "hoffman_patented_by_1862": false,
    "disposition_chain": [
-    "Commission January 23d, 1855",
-    "District Court January 23d, 1857"
+    "Commission January 23d, 1855"
    ],
    "evidence_tier": "hoffman-table",
-   "evidence": "531, 270, S. D. Fcrmina Espinoza de Perez and Domingo Perez, claimants for Los Gatos or Santa Rita, 1 square league, in Monterey county, granted in 1820, and September 3d, 1837, by Juan B. Alvarado to Jos6 Trinidad Espinoza ; claim filed January 29th, 1853, confirmed by the Commission January 23d, 1855, by the District Court January 23d, 1857, and appeal dismissed March 4th, 1858 ; containing 4,424.46 acres."
+   "evidence": "598, 270, S. D. Maria Antonia Cruz, claimant for Canada de los Pinacates, onefourth square league, in Los Angeles county, granted November 20th, 1835, by Jos6 Castro to Jose Cruz and Jose Maria Cruz; claim filed February 17th, 1853, rejected by the Commission January 23d, 1855, and appeal dismissed for failure of prosecution February 11th, 1856.",
+   "docket_collision_resolved_by_name": [
+    531,
+    598
+   ]
   },
   {
    "id": "u-115",

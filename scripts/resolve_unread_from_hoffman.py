@@ -57,6 +57,26 @@ def docket(s):
     return (m.group(1) + "D", int(m.group(2))) if m else None
 
 
+def norm_name(s):
+    """Fold to comparable tokens: Hoffman's OCR mangles accents and long s."""
+    s = re.sub(r"[^a-z ]+", " ", (s or "").lower())
+    drop = {"rancho", "canada", "de", "del", "la", "las", "los", "el", "y", "or",
+            "san", "santa", "the", "of", "in"}
+    return {w for w in s.split() if w and w not in drop}
+
+
+def pick_by_name(reg_name, cands):
+    """The candidate whose rancho name shares the most distinctive tokens with the
+    register's, but only if exactly one candidate scores highest and scores > 0.
+    A tie or a blank score is a null result, and a null result is a finding."""
+    scored = [(len(norm_name(reg_name) & norm_name(c.get("rancho"))), c) for c in cands]
+    best = max(s for s, _ in scored)
+    if best == 0:
+        return None
+    top = [c for s, c in scored if s == best]
+    return top[0] if len(top) == 1 else None
+
+
 def main():
     if len(sys.argv) < 2:
         raise SystemExit(__doc__)
@@ -84,7 +104,27 @@ def main():
                         "note": "no Hoffman entry found for this docket"})
             tally["no entry"] += 1
             continue
-        e = cands[0]
+        # ⚠ Hoffman's table is NOT unique on the district court number. Six numbers
+        # carry two entries each (SD 270 is both Los Gatos or Santa Rita, comm.
+        # 531, and Canada de los Pinacates, comm. 598; ND 166 is both Carmel,
+        # comm. 89, and a 50-vara Mission Dolores lot, comm. 705). Taking cands[0]
+        # silently matched "Canada de los Pinacates" to the Santa Rita entry and
+        # produced the single register-vs-Hoffman "disagreement" in the 09-11 run.
+        # Break the tie on the rancho name, and refuse to guess if it will not break.
+        e, ambiguous = cands[0], False
+        if len(cands) > 1:
+            e = pick_by_name(r.get("name"), cands)
+            if e is None:
+                out.append({"id": r["id"], "name": r.get("name"),
+                            "land_case": r["land_case"],
+                            "register_outcome": r["outcome"],
+                            "hoffman_outcome": None, "evidence_tier": "none",
+                            "candidates": [c["commission_no"] for c in cands],
+                            "note": ("docket number carries more than one Hoffman "
+                                     "entry and the rancho name does not break the tie")})
+                tally["ambiguous docket"] += 1
+                continue
+            ambiguous = True
         body = trim_to_own_entry(e["raw"])
         stages = [f"{m.group('who')} {m.group('when')}" for m in STAGE.finditer(body)]
         final = classify(e)
@@ -104,6 +144,8 @@ def main():
             "disposition_chain": stages,
             "evidence_tier": "hoffman-table",
             "evidence": body[:420],
+            **({"docket_collision_resolved_by_name":
+                [c["commission_no"] for c in cands]} if ambiguous else {}),
         })
 
     doc = {
