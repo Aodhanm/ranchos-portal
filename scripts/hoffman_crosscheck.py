@@ -63,6 +63,43 @@ def name_overlap(a, b):
     return min(1.0, hits / max(min(len(ta), len(tb)), 1))
 
 
+
+# Commission numbers the main pass does not reach, and why. Hoffman's table runs
+# 1 to 813; the line-anchored pass finds 767 of them. The rest are lost to three
+# kinds of OCR damage, all of which hide the entry HEAD and therefore the whole
+# entry:
+#   * the running page header lands inside the head: "APPENDIX. 25 1 73, 1 82, N. D."
+#   * the digits of a number are split: "1 29" for 129, "7 44" for 744
+#   * the district letter is garbled: "X. D.", "ST. D.", "S$D", "NjD", "Sv D.",
+#     and "71, 10 N. D." drops the comma altogether
+# Recovery is deliberately ADDITIVE and TARGETED: it hunts only for numbers the
+# main pass missed, and keeps a candidate only if the text that follows reads
+# like an entry. Rewriting the main regex to catch these was tried on 2026-09-16
+# and lost eight entries it had previously found, which is the worse trade.
+RECOVER_HEAD = [
+    r"{d},\s*\d{{1,3}}[,.]?\s*[A-Za-z8$5]{{1,3}}[\.,]?\s*[DI)]",   # garbled district letter
+    r"{d},\s*\d{{1,3}}\.\s+[A-Z]",                              # district omitted entirely
+]
+
+
+def recover_missing(body, found):
+    """Entries the line-anchored pass could not see. Returns (number, start) pairs."""
+    out = []
+    for n in (x for x in range(1, 814) if x not in found):
+        digits = r"\s*".join(str(n))               # the OCR splits numbers with spaces
+        for tmpl in RECOVER_HEAD:
+            hit = None
+            for m in re.finditer(tmpl.format(d=digits), body):
+                tail = body[m.start():m.start() + 300]
+                if re.search(r"claimants?\s+for|claimants?,", tail):
+                    hit = m.start()
+                    break
+            if hit is not None:
+                out.append((n, hit))
+                break
+    return out
+
+
 def parse_appendix(text):
     start = text.find("TABLE  OF  LAND  CLAIMS")
     if start < 0:
@@ -79,15 +116,28 @@ def parse_appendix(text):
     entry_re = re.compile(
         r"^[^0-9A-Za-z\n]{0,4}\s*(\d{1,3})\s*,\s*(\d{1,3})\s*,\s*([NS8])[\.,]?\s*[DI)][\.,]?", re.M)
     marks = list(entry_re.finditer(body))
+    starts = [m.start() for m in marks]
     entries = []
-    for i, m in enumerate(marks):
-        chunk = body[m.start(): marks[i + 1].start() if i + 1 < len(marks) else m.start() + 2500]
+    spans = [(m.start(), int(m.group(1)), int(m.group(2)),
+              "ND" if m.group(3) == "N" else "SD") for m in marks]
+    # Additive recovery: numbers the line-anchored pass cannot see, spliced in by
+    # position so each still gets cut at the next entry that follows it.
+    for n, pos in recover_missing(body, {sp[1] for sp in spans}):
+        hm = re.match(r"\s*[\d ]{1,7},\s*(\d{1,3})[,.]?\s*([A-Za-z8$5]{1,3})",
+                      body[pos:pos + 40])
+        court = int(hm.group(1)) if hm else 0
+        letter = (hm.group(2) or "")[:1].upper() if hm else "N"
+        # X, JT, ST and Nj are all OCR for N; S$ and Sv for S.
+        spans.append((pos, n, court, "SD" if letter in ("S", "8", "5", "$") else "ND"))
+    spans.sort()
+    boundaries = [sp[0] for sp in spans]
+    for i, (pos, comm, court, district) in enumerate(spans):
+        chunk = body[pos: boundaries[i + 1] if i + 1 < len(boundaries) else pos + 2500]
         chunk = re.sub(r"[¬-]\s*\n\s*", "", chunk)          # printer's hyphen at line break
         chunk = re.sub(r"\s*\n\s*", " ", chunk)
         chunk = re.sub(r"APPENDIX\.?", " ", chunk)
         chunk = re.sub(r"\s{2,}", " ", chunk).strip()
-        district = "ND" if m.group(3) == "N" else "SD"
-        e = {"commission_no": int(m.group(1)), "court_no": int(m.group(2)),
+        e = {"commission_no": comm, "court_no": court,
              "district": district, "raw": chunk[:900]}
         cm = re.search(r"claimants?\s+for\s+(.+?)\s*,", chunk)
         e["rancho"] = cm.group(1) if cm else None

@@ -17,6 +17,14 @@ the decimal:
     UV (not visible in the pages read) and NA (field not applicable) leave the
       denominator, they do not count as correct.
 
+The strata come from audit/hoffman-crosscheck-v2-errata-applied.json, which is
+built on the FROZEN 2026-09-01 parse and must stay that way. That parse is what
+ordered the census queue, so re-deriving the strata from a later, better parse
+would silently change which records count as flagged and break comparability
+with every record already graded. The 2026-09-16 recovery pass takes the parse
+from 766 entries to 785 and the flag count from 251 to 243, and none of that is
+allowed to reach this file until the census is finished.
+
 Strata are the SUBSTANTIVE Hoffman flags, i.e. a real disagreement on year,
 governor or outcome. The three bookkeeping flags (name-mismatch,
 docket-not-found-in-hoffman, no-parseable-docket-in-register) are excluded; they

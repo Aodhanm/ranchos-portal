@@ -4,7 +4,7 @@ Date: 2026-09-16. Written because the census stalled at 557 of 672 when Berkeley
 put its scans behind a bot challenge, and the question was what, if anything,
 could still be done.
 
-**The short answer changed today. 97 of the 115 can be read after all, free, from
+**The short answer changed today. 99 of the 115 can be read after all, free, from
 the Internet Archive.** The rest of this plan says how, what it is worth, and
 what is left over.
 
@@ -69,12 +69,22 @@ Verified three ways before being written down here:
 
 | | records |
 |---|---|
-| **archived, readable at `case-file` tier** | **97** of 115 |
-| not archived at all | 18 |
+| **archived, readable at `case-file` tier** | **99** of 115 |
+| not archived at all | 16 |
 
-12.1 GB in total, median 59 MB per case, one case (ND 420, New Almaden) split
+12.2 GB in total, median 59 MB per case, one case (ND 420, New Almaden) split
 across eight archived parts. Per-record detail:
 `audit/unread-115/wayback-coverage.json`.
+
+⚠ **Two are archived under a docket the register does not carry.** The Bancroft
+finding aid records 17 cases transferred between districts, and two of the 115
+are filed under the transferred number: ND 18 as **SD 78**, ND 191 as **SD 179**.
+A third, ND 278, transferred to SD 393, which is not archived either. The finding
+aid itself is served without a challenge at
+`https://cinco-prd.s3.amazonaws.com/media/ead/mlandcases_cubanc.xml`.
+⚠ SD 78 is catalogued as "San Felipe, an augmentation", claimant Francisco P.
+Pacheco, which does **not** match the register's "San Miguelito de Trinidad".
+Read it before grading; do not assume the transfer makes them the same claim.
 
 ### The tooling
 
@@ -130,14 +140,12 @@ claim the data paper wants to make and cannot make today.
 
 ---
 
-## 3. The 18 with no archived capture
+## 3. The 16 with no archived capture
 
 | docket | record | Hoffman says |
 |---|---|---|
-| ND 18 | San Miguelito de Trinidad | Confirmed |
 | N.D. 23 | Jimeno Rancho | Confirmed |
 | ND 121 | Bolsa de Tomales | Confirmed |
-| ND 191 | Cañada de los Osos | Rejected |
 | ND 229 | Rincon de la Ballena | Rejected |
 | ND 272 | Nueva Flandria | Rejected |
 | ND 278 | Panoche Grande | inconclusive |
@@ -155,7 +163,7 @@ claim the data paper wants to make and cannot make today.
 
 Options, in order of cost:
 
-**a. Print, free.** 12 of the 18 are Northern District, and Hoffman's *Reports*
+**a. Print, free.** 10 of the 16 are Northern District, and Hoffman's *Reports*
 prints full opinions for many Northern District cases in its main body, not just
 the appendix table. That is a printed district-court opinion, a weaker tier than
 the manuscript but stronger than the table, and the volume is already on disk
@@ -182,8 +190,8 @@ Berkeley. The Huntington's duplicate set is not a substitute: 26 of its 72 reels
 including every Northern District reel, are marked too fragile to circulate.
 
 **Recommendation: (a), then leave the residue at `hoffman-table` tier and say so.**
-Eighteen records at a disclosed weaker tier, in a register that states its tiers,
-is an honest publication. Spending several hundred dollars to upgrade eighteen
+Sixteen records at a disclosed weaker tier, in a register that states its tiers,
+is an honest publication. Spending several hundred dollars to upgrade sixteen
 rows whose expected yield is under four corrections is not a good use of money
 before the data paper is out.
 
@@ -209,11 +217,11 @@ before the data paper is out.
 
 | item | state |
 |---|---|
-| **Read the 97** | unblocked as of today; tooling written and tested |
-| **Hoffman main body for the 12 ND records** with no capture | not started, free, on disk |
-| **Verify the 29 staged SCOTUS citations** | not started; use `static.case.law`, since CourtListener challenges scripted clients. Howard vols 1 to 24 are U.S. Reports 42 to 65, so *n* Howard = (41+*n*) U.S. |
+| **Read the 99** | unblocked as of today; tooling written and tested |
+| **Hoffman main body for the 10 ND records** with no capture | not started, free, on disk |
+| ~~Verify the 29 staged SCOTUS citations~~ | DONE. 27 stand; 2 carry a wrong page number in Hoffman's printed table and are corrected in the candidate. `audit/scotus-verification-2026-09-16.md` |
 | **The 5 unexplained GLO acreage differences** | flagged, not resolved; three are under two acres and are as likely OCR as real. Needs the page images, not the OCR |
-| **The 43 Hoffman entries still unparsed** | 770 of 813 recovered after today's fix. The remaining 43 have not been looked at individually |
+| ~~The 43 Hoffman entries still unparsed~~ | DONE. 785 of 813 recovered (97%). The remaining 28 are diagnosed, not merely unreached: see `audit/hoffman-parse-recovery-2026-09-16.md` |
 
 ### These need Aodhan
 

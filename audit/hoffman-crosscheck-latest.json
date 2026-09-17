@@ -2,13 +2,13 @@
  "source": "IA GR_1919 (Hoffman 1862 appendix)",
  "run": "2026-09-01",
  "register_rows": 672,
- "appendix_entries": 770,
+ "appendix_entries": 785,
  "tallies": {
-  "matched": 619,
-  "no_docket_match": 39,
+  "matched": 631,
+  "no_docket_match": 27,
   "no_land_case": 14
  },
- "flagged_count": 251,
+ "flagged_count": 243,
  "records": [
   {
    "id": "rancho-san-gabriel",
@@ -301,10 +301,18 @@
   {
    "id": "rancho-unnamed-2",
    "name": "Huerta de Cuati",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 455,
+    "court_no": 171,
+    "district": "SD",
+    "rancho": "Huerta de Quati or Cuati",
+    "year": 1838,
+    "governor": "Juan B. Alvarado",
+    "grantee": "V. Reid",
+    "disposition_1862": "confirmed",
+    "patented_1862": true
+   }
   },
   {
    "id": "rancho-ranchita-santa-fe",
@@ -1289,7 +1297,7 @@
     "grantee: register 'Pedro J. Vasquez' vs hoffman 'Ramon Mesa'"
    ],
    "hoffman": {
-    "commission_no": 245,
+    "commission_no": 45,
     "court_no": 331,
     "district": "ND",
     "rancho": "part of Soulajule",
@@ -1299,7 +1307,7 @@
     "disposition_1862": "confirmed",
     "patented_1862": false
    },
-   "hoffman_raw": "245, 331, N. D. Pedro J. Vasquez, claimant for part of Soulajule, 12 square leagues, in Marin county, granted March 29th, 1844, by Manuel Micheltorena to Ramon Mesa; claim filed May 27th, 1852, rejected by the Commission April 17th, 1855, confirmed by the District Court March 3d, 1856, and appeal dismissed August 7th, 1857 ; containing 4,473.71 acres."
+   "hoffman_raw": "45, 331, N. D. Pedro J. Vasquez, claimant for part of Soulajule, 12 square leagues, in Marin county, granted March 29th, 1844, by Manuel Micheltorena to Ramon Mesa; claim filed May 27th, 1852, rejected by the Commission April 17th, 1855, confirmed by the District Court March 3d, 1856, and appeal dismissed August 7th, 1857 ; containing 4,473.71 acres."
   },
   {
    "id": "rancho-encinitos",
@@ -2951,10 +2959,18 @@
   {
    "id": "rancho-corte-madera-novato",
    "name": "Corte Madera De Novato",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 223,
+    "court_no": 134,
+    "district": "ND",
+    "rancho": "Corte de Madera de Novato* 2 square leagues",
+    "year": 1839,
+    "governor": "Juan B. Alvarado",
+    "grantee": "J. Martin",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   }
   },
   {
    "id": "rancho-butano",
@@ -3565,9 +3581,20 @@
    "id": "rancho-canada-hambre-bolsas",
    "name": "Canada Del Hambre Y Las Bolsas",
    "flags": [
-    "docket-not-found-in-hoffman"
+    "year: register 1838 vs hoffman 1842"
    ],
-   "hoffman": null
+   "hoffman": {
+    "commission_no": 204,
+    "court_no": 308,
+    "district": "ND",
+    "rancho": "Canada del Hamhre and Las Bolsas del Hamhre",
+    "year": 1842,
+    "governor": "Juan B. Alvarado",
+    "grantee": "Teodora Soto",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   },
+   "hoffman_raw": "204, 308, X. D. Teodora Soto, claimant for Canada del Hamhre and Las Bolsas del Hamhre, 2 sqtiare leagues, in Contra Costa county, granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto ; claim filed April 29th, 1852, confirmed by the Commission May 1.5th, 1 855, by the District Court April 16th, 1857, and appeal dismissed August 11th, 1857 ; containing 13,312.70"
   },
   {
    "id": "rancho-pastoria-borregas",
@@ -4201,10 +4228,18 @@
   {
    "id": "rancho-santa-teresa",
    "name": "Santa Teresa",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 506,
+    "court_no": 181,
+    "district": "ND",
+    "rancho": "Santa Teresa",
+    "year": 1834,
+    "governor": "Jose Figueroa",
+    "grantee": "Joaquin Bernal",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   }
   },
   {
    "id": "rancho-san-miguel-2",
@@ -4252,10 +4287,18 @@
   {
    "id": "rancho-olompali",
    "name": "Olompali",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 71,
+    "court_no": 10,
+    "district": "ND",
+    "rancho": "Olompali",
+    "year": 1843,
+    "governor": "Manuel Miclieltorena",
+    "grantee": "C. 11 Ynitia",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   }
   },
   {
    "id": "rancho-san-antonio-2",
@@ -4363,9 +4406,20 @@
    "id": "rancho-canada-hambre-bolsas-1",
    "name": "Canada Del Hambre Y Las Bolsas",
    "flags": [
-    "docket-not-found-in-hoffman"
+    "year: register 1838 vs hoffman 1842"
    ],
-   "hoffman": null
+   "hoffman": {
+    "commission_no": 204,
+    "court_no": 308,
+    "district": "ND",
+    "rancho": "Canada del Hamhre and Las Bolsas del Hamhre",
+    "year": 1842,
+    "governor": "Juan B. Alvarado",
+    "grantee": "Teodora Soto",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   },
+   "hoffman_raw": "204, 308, X. D. Teodora Soto, claimant for Canada del Hamhre and Las Bolsas del Hamhre, 2 sqtiare leagues, in Contra Costa county, granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto ; claim filed April 29th, 1852, confirmed by the Commission May 1.5th, 1 855, by the District Court April 16th, 1857, and appeal dismissed August 11th, 1857 ; containing 13,312.70"
   },
   {
    "id": "rancho-san-bernardo-1",
@@ -4380,7 +4434,7 @@
     "governor": "Juan B. Alvarado, and 2 leagues May 26tli, 1845, by Pio Pico,",
     "grantee": "Jos6 Francisco Snook",
     "disposition_1862": "confirmed",
-    "patented_1862": true
+    "patented_1862": false
    }
   },
   {
@@ -5080,7 +5134,7 @@
     "disposition_1862": "confirmed",
     "patented_1862": false
    },
-   "hoffman_raw": "128, 144, N. D., 80. Jos<5 Maria Amador, claimant for San Ramon, 4 square leagues and 1,800 varas, in Alameda county, granted August 17th, 1835, by Jos<5 Figueroa to J. M. Amador ; claim filed March 23d, 1852, confirmed by the Commission August 1st, 1854, by the District Court January 14th, 1856, and appeal dismissed January 10th, 1857 ; containing 16,516.95 acres. 1 29, 358, N. D. Thomas O. Larkin, claimant for Flugge Ranch or Boga, 5 square leagues, in Butte and Sutter counties, granted February 21st, 1844, by Manuel Micheltorena to Charles William Flugge ; claim filed March 24th, 1852, •confirmed by the Commission July 17th, 1854, and appeal dismissed February 9th, 1857 ; containing 22,150.71 acres."
+   "hoffman_raw": "128, 144, N. D., 80. Jos<5 Maria Amador, claimant for San Ramon, 4 square leagues and 1,800 varas, in Alameda county, granted August 17th, 1835, by Jos<5 Figueroa to J. M. Amador ; claim filed March 23d, 1852, confirmed by the Commission August 1st, 1854, by the District Court January 14th, 1856, and appeal dismissed January 10th, 1857 ; containing 16,516.95 acres."
   },
   {
    "id": "rancho-punta-quintin",
@@ -6714,9 +6768,20 @@
    "id": "rancho-san-jose-sur-chiquito",
    "name": "San Jose Y Sur Chiquito",
    "flags": [
-    "docket-not-found-in-hoffman"
+    "outcome: register 'Patented' vs hoffman-1862 'rejected'"
    ],
-   "hoffman": null
+   "hoffman": {
+    "commission_no": 546,
+    "court_no": 373,
+    "district": "SD",
+    "rancho": "San Josd y Sur Chiquita",
+    "year": 1839,
+    "governor": "Juan B. Alvarado",
+    "grantee": "Marcelino Escobar",
+    "disposition_1862": "rejected",
+    "patented_1862": false
+   },
+   "hoffman_raw": "546, 373, Sv D., 198. Jos6 Castro, claimant for San Josd y Sur Chiquita, 2 square leagues, in Monterey county, granted April 16th, 1839, by Juan B. Alvarado to Marcelino Escobar ; claim filed February 2d, 1853, and rejected by the Commission August 28th, 1855."
   },
   {
    "id": "rancho-lompoc",
@@ -6904,7 +6969,7 @@
     "grantee: register 'Samuel Norris' vs hoffman 'Eliab Grimes'"
    ],
    "hoffman": {
-    "commission_no": 146,
+    "commission_no": 46,
     "court_no": 53,
     "district": "ND",
     "rancho": "Rancho del Paso",
@@ -6914,7 +6979,7 @@
     "disposition_1862": "confirmed",
     "patented_1862": false
    },
-   "hoffman_raw": "146, 53, N. D., 403. Samuel Norris, claimant for Rancho del Paso, 10 square leagues, in Sacramento and Placer counties, granted December 20th, 1844, by Manuel Mieheltorena to Eliab Grimes ; claim filed April 1st, 1852, confirmed by the Commission April 18tli, 1853, hy the District Court August 13th, 1855, and appeal dismissed December 22d, 1856 ; containing 44,371.42"
+   "hoffman_raw": "46, 53, N. D., 403. Samuel Norris, claimant for Rancho del Paso, 10 square leagues, in Sacramento and Placer counties, granted December 20th, 1844, by Manuel Mieheltorena to Eliab Grimes ; claim filed April 1st, 1852, confirmed by the Commission April 18tli, 1853, hy the District Court August 13th, 1855, and appeal dismissed December 22d, 1856 ; containing 44,371.42"
   },
   {
    "id": "rancho-corte-madera-presidio",
@@ -6936,9 +7001,20 @@
    "id": "rancho-boga",
    "name": "Boga",
    "flags": [
-    "docket-not-found-in-hoffman"
+    "grantee: register 'Thomas O. Larkin' vs hoffman 'Charles William Flugge'"
    ],
-   "hoffman": null
+   "hoffman": {
+    "commission_no": 129,
+    "court_no": 358,
+    "district": "ND",
+    "rancho": "Flugge Ranch or Boga",
+    "year": 1844,
+    "governor": "Manuel Micheltorena",
+    "grantee": "Charles William Flugge",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   },
+   "hoffman_raw": "1 29, 358, N. D. Thomas O. Larkin, claimant for Flugge Ranch or Boga, 5 square leagues, in Butte and Sutter counties, granted February 21st, 1844, by Manuel Micheltorena to Charles William Flugge ; claim filed March 24th, 1852, •confirmed by the Commission July 17th, 1854, and appeal dismissed February 9th, 1857 ; containing 22,150.71 acres."
   },
   {
    "id": "rancho-alamos",
@@ -7331,7 +7407,7 @@
     "disposition_1862": "rejected",
     "patented_1862": false
    },
-   "hoffman_raw": "483, 147, S. D. Leon V. Prudhomme, claimant for Topanga Malibu, 3 square leagues, in Los Angeles county, granted in 1804, by Jose Joaquin de Arrellaga to Jose Bartolome Tapia; claim filed November 12tli, 1852, rejected by the Commission March 21st, 1854, and by the District Court in 1860. 484, 249. S. D. William Williams et al., claimants for Valle de las Vicjas,. 4 square leagues, in San Diego county, granted May 1st, 1846, by Pio Pico to Ramon Asuna et al. ; claim filed November 13th, 1852, rejected by the Commission December 26th, 1854, and appeal dismissed for failure of prosecution February 11th, 1856."
+   "hoffman_raw": "483, 147, S. D. Leon V. Prudhomme, claimant for Topanga Malibu, 3 square leagues, in Los Angeles county, granted in 1804, by Jose Joaquin de Arrellaga to Jose Bartolome Tapia; claim filed November 12tli, 1852, rejected by the Commission March 21st, 1854, and by the District Court in 1860."
   },
   {
    "id": "rancho-puente",
@@ -8731,7 +8807,7 @@
    "name": "Mission San Diego",
    "flags": [],
    "hoffman": {
-    "commission_no": 175,
+    "commission_no": 75,
     "court_no": 347,
     "district": "SD",
     "rancho": "Mission San Diego",
@@ -8817,10 +8893,18 @@
   {
    "id": "rancho-suscol",
    "name": "Suscol",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 291,
+    "court_no": 318,
+    "district": "ND",
+    "rancho": "Suscol",
+    "year": 1843,
+    "governor": "Manuel Micheltorena",
+    "grantee": "M. G. Vallejo",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   }
   },
   {
    "id": "rancho-mare-island",
@@ -9263,10 +9347,18 @@
   {
    "id": "u-27",
    "name": "Flugge Ranch or Boga",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 129,
+    "court_no": 358,
+    "district": "ND",
+    "rancho": "Flugge Ranch or Boga",
+    "year": 1844,
+    "governor": "Manuel Micheltorena",
+    "grantee": "Charles William Flugge",
+    "disposition_1862": "confirmed",
+    "patented_1862": false
+   }
   },
   {
    "id": "u-28",
@@ -9496,7 +9588,7 @@
     "year": 1845,
     "governor": "Pio Pico",
     "grantee": "Victor Prudon and Marcos Baca",
-    "disposition_1862": "confirmed",
+    "disposition_1862": "rejected",
     "patented_1862": false
    }
   },
@@ -9752,7 +9844,7 @@
     "year": 1846,
     "governor": "Pio Pico",
     "grantee": "Benito Dias",
-    "disposition_1862": "confirmed",
+    "disposition_1862": "rejected",
     "patented_1862": false
    }
   },
@@ -9855,10 +9947,18 @@
   {
    "id": "u-65",
    "name": "Huerta de Quati or Cuati",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 455,
+    "court_no": 171,
+    "district": "SD",
+    "rancho": "Huerta de Quati or Cuati",
+    "year": 1838,
+    "governor": "Juan B. Alvarado",
+    "grantee": "V. Reid",
+    "disposition_1862": "confirmed",
+    "patented_1862": true
+   }
   },
   {
    "id": "u-66",
@@ -10907,10 +11007,18 @@
   {
    "id": "u-134",
    "name": "Valle de las Viejas",
-   "flags": [
-    "docket-not-found-in-hoffman"
-   ],
-   "hoffman": null
+   "flags": [],
+   "hoffman": {
+    "commission_no": 484,
+    "court_no": 249,
+    "district": "SD",
+    "rancho": "Valle de las Vicjas",
+    "year": 1846,
+    "governor": "Pio Pico",
+    "grantee": "Ramon Asuna et al.",
+    "disposition_1862": "rejected",
+    "patented_1862": false
+   }
   },
   {
    "id": "u-135",
