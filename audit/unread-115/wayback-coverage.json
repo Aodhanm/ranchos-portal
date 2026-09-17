@@ -1,0 +1,2015 @@
+{
+ "note": "Which of the 115 unread register records have a Bancroft land case file PDF in the Internet Archive. Built by scripts/wayback_case_files.py.",
+ "archived": 97,
+ "not_archived": 18,
+ "total_warc_bytes": 12119415688,
+ "archived_records": [
+  {
+   "id": "u-98",
+   "name": "Lup Yomi",
+   "land_case": "N.D. 8",
+   "district": "ND",
+   "docket_no": 8,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 507,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264401",
+   "wayback_slug": "nd008",
+   "parts": [
+    "nd008"
+   ],
+   "warc_bytes": 150420314
+  },
+  {
+   "id": "u-24",
+   "name": "El Primer Canon or Rio de los Berendos",
+   "land_case": "N.D. 12",
+   "district": "ND",
+   "docket_no": 12,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 122,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264404",
+   "wayback_slug": "nd012",
+   "parts": [
+    "nd012"
+   ],
+   "warc_bytes": 73112636
+  },
+  {
+   "id": "u-60",
+   "name": "Rancho de Colus",
+   "land_case": "N.D. 28",
+   "district": "ND",
+   "docket_no": 28,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 144,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264415",
+   "wayback_slug": "nd028",
+   "parts": [
+    "nd028"
+   ],
+   "warc_bytes": 163404891
+  },
+  {
+   "id": "u-22",
+   "name": "Tomales and Baulinas",
+   "land_case": "N.D. 68",
+   "district": "ND",
+   "docket_no": 68,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 114,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264452",
+   "wayback_slug": "nd068",
+   "parts": [
+    "nd068"
+   ],
+   "warc_bytes": 205674362
+  },
+  {
+   "id": "rancho-ulpinos",
+   "name": "Los Ulpinos",
+   "land_case": "ND 086",
+   "district": "ND",
+   "docket_no": 86,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 319,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265448",
+   "wayback_slug": "nd086",
+   "parts": [
+    "nd086"
+   ],
+   "warc_bytes": 48175500
+  },
+  {
+   "id": "u-133",
+   "name": "unnamed tract (9 square leagues)",
+   "land_case": "N.D. 96",
+   "district": "ND",
+   "docket_no": 96,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 113,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265457",
+   "wayback_slug": "nd096",
+   "parts": [
+    "nd096"
+   ],
+   "warc_bytes": 68636390
+  },
+  {
+   "id": "u-30",
+   "name": "Rancho del Refugio or Pastoria de las Borregas",
+   "land_case": "N.D. 97",
+   "district": "ND",
+   "docket_no": 97,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 257,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265458",
+   "wayback_slug": "nd097",
+   "parts": [
+    "nd097"
+   ],
+   "warc_bytes": 363035128
+  },
+  {
+   "id": "rancho-valle-san-jose-1",
+   "name": "Valle De San Jose",
+   "land_case": "ND 102",
+   "district": "ND",
+   "docket_no": 102,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 231,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265462",
+   "wayback_slug": "nd102",
+   "parts": [
+    "nd102"
+   ],
+   "warc_bytes": 5243620
+  },
+  {
+   "id": "u-94",
+   "name": "Larkin's Rancho",
+   "land_case": "N.D. 115",
+   "district": "ND",
+   "docket_no": 115,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 130,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265475",
+   "wayback_slug": "nd115",
+   "parts": [
+    "nd115"
+   ],
+   "warc_bytes": 115748539
+  },
+  {
+   "id": "u-138",
+   "name": "Yulupa",
+   "land_case": "N.D. 140",
+   "district": "ND",
+   "docket_no": 140,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 249,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265500",
+   "wayback_slug": "nd140",
+   "parts": [
+    "nd140"
+   ],
+   "warc_bytes": 57568210
+  },
+  {
+   "id": "u-101",
+   "name": "portion of Mallacomes or Moristal (No. 58)",
+   "land_case": "ND 150",
+   "district": "ND",
+   "docket_no": 150,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 59,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265510",
+   "wayback_slug": "nd150",
+   "parts": [
+    "nd150"
+   ],
+   "warc_bytes": 34776620
+  },
+  {
+   "id": "u-49",
+   "name": "Carmel",
+   "land_case": "N.D. 166",
+   "district": "ND",
+   "docket_no": 166,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 89,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265526",
+   "wayback_slug": "nd166",
+   "parts": [
+    "nd166"
+   ],
+   "warc_bytes": 71128318
+  },
+  {
+   "id": "rancho-uvas",
+   "name": "Las Uvas",
+   "land_case": "ND 174",
+   "district": "ND",
+   "docket_no": 174,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 7,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265534",
+   "wayback_slug": "nd174",
+   "parts": [
+    "nd174"
+   ],
+   "warc_bytes": 58190913
+  },
+  {
+   "id": "u-107",
+   "name": "Moquelamo",
+   "land_case": "ND 184",
+   "district": "ND",
+   "docket_no": 184,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 357,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265543",
+   "wayback_slug": "nd184",
+   "parts": [
+    "nd184"
+   ],
+   "warc_bytes": 109354914
+  },
+  {
+   "id": "u-123",
+   "name": "Island of Sacramento",
+   "land_case": "ND 193",
+   "district": "ND",
+   "docket_no": 193,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 711,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265787",
+   "wayback_slug": "nd193",
+   "parts": [
+    "nd193"
+   ],
+   "warc_bytes": 27288298
+  },
+  {
+   "id": "u-31",
+   "name": "Briesgau",
+   "land_case": "ND 194",
+   "district": "ND",
+   "docket_no": 194,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 626,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265788",
+   "wayback_slug": "nd194",
+   "parts": [
+    "nd194"
+   ],
+   "warc_bytes": 44563310
+  },
+  {
+   "id": "u-57",
+   "name": "Santa Clara Mission lands",
+   "land_case": "ND 196",
+   "district": "ND",
+   "docket_no": 196,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 687,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265790",
+   "wayback_slug": "nd196",
+   "parts": [
+    "nd196"
+   ],
+   "warc_bytes": 45220373
+  },
+  {
+   "id": "u-68",
+   "name": "37 50-vara lots, Mission Dolores",
+   "land_case": "ND 200",
+   "district": "ND",
+   "docket_no": 200,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 171,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265794",
+   "wayback_slug": "nd200",
+   "parts": [
+    "nd200"
+   ],
+   "warc_bytes": 31759425
+  },
+  {
+   "id": "u-69",
+   "name": "47 50-vara lots, Mission Dolores",
+   "land_case": "ND 201",
+   "district": "ND",
+   "docket_no": 201,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 172,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265795",
+   "wayback_slug": "nd201",
+   "parts": [
+    "nd201"
+   ],
+   "warc_bytes": 18156142
+  },
+  {
+   "id": "u-3",
+   "name": "Llano del Abrevadero",
+   "land_case": "N.D. 203",
+   "district": "ND",
+   "docket_no": 203,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 149,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265796",
+   "wayback_slug": "nd203",
+   "parts": [
+    "nd203"
+   ],
+   "warc_bytes": 20191638
+  },
+  {
+   "id": "u-117",
+   "name": "Potrero",
+   "land_case": "N.D. 209",
+   "district": "ND",
+   "docket_no": 209,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 496,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265802",
+   "wayback_slug": "nd209",
+   "parts": [
+    "nd209"
+   ],
+   "warc_bytes": 51330344
+  },
+  {
+   "id": "u-130",
+   "name": "Tinicasia",
+   "land_case": "ND 210",
+   "district": "ND",
+   "docket_no": 210,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 80,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267519",
+   "wayback_slug": "nd210",
+   "parts": [
+    "nd210"
+   ],
+   "warc_bytes": 15785750
+  },
+  {
+   "id": "rancho-yerba-buena",
+   "name": "Yerba Buena",
+   "land_case": "ND 213",
+   "district": "ND",
+   "docket_no": 213,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 93,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265805",
+   "wayback_slug": "nd213",
+   "parts": [
+    "nd213"
+   ],
+   "warc_bytes": 128899887
+  },
+  {
+   "id": "u-87",
+   "name": "San Isidro",
+   "land_case": "N.D. 216",
+   "district": "ND",
+   "docket_no": 216,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 112,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265808",
+   "wayback_slug": "nd216",
+   "parts": [
+    "nd216"
+   ],
+   "warc_bytes": 177856632
+  },
+  {
+   "id": "u-1",
+   "name": "preemption claim, 50 by 180 feet, Mission Dolores",
+   "land_case": "N.D. 219",
+   "district": "ND",
+   "docket_no": 219,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 100,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265811",
+   "wayback_slug": "nd219",
+   "parts": [
+    "nd219"
+   ],
+   "warc_bytes": 17906614
+  },
+  {
+   "id": "u-17",
+   "name": "Arastradero",
+   "land_case": "ND 264",
+   "district": "ND",
+   "docket_no": 264,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 696,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256596",
+   "wayback_slug": "nd264",
+   "parts": [
+    "nd264"
+   ],
+   "warc_bytes": 21805927
+  },
+  {
+   "id": "u-96",
+   "name": "Locoyollome",
+   "land_case": "ND 267",
+   "district": "ND",
+   "docket_no": 267,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 804,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256599",
+   "wayback_slug": "nd267",
+   "parts": [
+    "nd267"
+   ],
+   "warc_bytes": 22739667
+  },
+  {
+   "id": "u-136",
+   "name": "Willy",
+   "land_case": "ND 268",
+   "district": "ND",
+   "docket_no": 268,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 226,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256600",
+   "wayback_slug": "nd268",
+   "parts": [
+    "nd268"
+   ],
+   "warc_bytes": 46690814
+  },
+  {
+   "id": "u-121",
+   "name": "Island of Sacramento",
+   "land_case": "N.D. 270",
+   "district": "ND",
+   "docket_no": 270,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 294,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256602",
+   "wayback_slug": "nd270",
+   "parts": [
+    "nd270"
+   ],
+   "warc_bytes": 149721772
+  },
+  {
+   "id": "u-137",
+   "name": "Yucuy",
+   "land_case": "ND 279",
+   "district": "ND",
+   "docket_no": 279,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 768,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256610",
+   "wayback_slug": "nd279",
+   "parts": [
+    "nd279"
+   ],
+   "warc_bytes": 21552291
+  },
+  {
+   "id": "u-75",
+   "name": "two 50-vara lots in San Francisco",
+   "land_case": "ND 284",
+   "district": "ND",
+   "docket_no": 284,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 604,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256615",
+   "wayback_slug": "nd284",
+   "parts": [
+    "nd284"
+   ],
+   "warc_bytes": 48159552
+  },
+  {
+   "id": "u-61",
+   "name": "Los Coluses",
+   "land_case": "ND 286",
+   "district": "ND",
+   "docket_no": 286,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 658,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256617",
+   "wayback_slug": "nd286",
+   "parts": [
+    "nd286"
+   ],
+   "warc_bytes": 51057168
+  },
+  {
+   "id": "u-103",
+   "name": "Medano",
+   "land_case": "ND 291",
+   "district": "ND",
+   "docket_no": 291,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 691,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256621",
+   "wayback_slug": "nd291",
+   "parts": [
+    "nd291"
+   ],
+   "warc_bytes": 22319795
+  },
+  {
+   "id": "u-7",
+   "name": "Ojo de Agua",
+   "land_case": "ND 307",
+   "district": "ND",
+   "docket_no": 307,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 784,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256636",
+   "wayback_slug": "nd307",
+   "parts": [
+    "nd307"
+   ],
+   "warc_bytes": 30063635
+  },
+  {
+   "id": "u-80",
+   "name": "half of San Ramon or Las Juntas",
+   "land_case": "N.D. 322",
+   "district": "ND",
+   "docket_no": 322,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 301,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256649",
+   "wayback_slug": "nd322",
+   "parts": [
+    "nd322"
+   ],
+   "warc_bytes": 408331620
+  },
+  {
+   "id": "u-126",
+   "name": "Socayac",
+   "land_case": "N.D. 348",
+   "district": "ND",
+   "docket_no": 348,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 235,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264185",
+   "wayback_slug": "nd348",
+   "parts": [
+    "nd348"
+   ],
+   "warc_bytes": 74306019
+  },
+  {
+   "id": "u-128",
+   "name": "Town of Sutter",
+   "land_case": "ND 369",
+   "district": "ND",
+   "docket_no": 369,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 759,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264205",
+   "wayback_slug": "nd369",
+   "parts": [
+    "nd369"
+   ],
+   "warc_bytes": 15422935
+  },
+  {
+   "id": "rancho-tzabaco",
+   "name": "Tzabaco",
+   "land_case": "ND 374",
+   "district": "ND",
+   "docket_no": 374,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 298,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264210",
+   "wayback_slug": "nd374",
+   "parts": [
+    "nd374"
+   ],
+   "warc_bytes": 58036427
+  },
+  {
+   "id": "u-52",
+   "name": "Cazadores",
+   "land_case": "N.D. 376",
+   "district": "ND",
+   "docket_no": 376,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 303,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264227",
+   "wayback_slug": "nd376",
+   "parts": [
+    "nd376"
+   ],
+   "warc_bytes": 38581062
+  },
+  {
+   "id": "u-76",
+   "name": "Potrero de San Francisco",
+   "land_case": "N.D. 381",
+   "district": "ND",
+   "docket_no": 381,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 101,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264232",
+   "wayback_slug": "nd381",
+   "parts": [
+    "nd381"
+   ],
+   "warc_bytes": 357875348
+  },
+  {
+   "id": "u-2",
+   "name": "200 square yards (Mission Dolores)",
+   "land_case": "ND 391",
+   "district": "ND",
+   "docket_no": 391,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 29,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264240",
+   "wayback_slug": "nd391",
+   "parts": [
+    "nd391"
+   ],
+   "warc_bytes": 42360921
+  },
+  {
+   "id": "u-40",
+   "name": "Las Calaveras",
+   "land_case": "ND 399",
+   "district": "ND",
+   "docket_no": 399,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 602,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264246",
+   "wayback_slug": "nd399",
+   "parts": [
+    "nd399"
+   ],
+   "warc_bytes": 69073704
+  },
+  {
+   "id": "u-59",
+   "name": "Mission Santa Clara Orchard",
+   "land_case": "ND 402",
+   "district": "ND",
+   "docket_no": 402,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 754,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264249",
+   "wayback_slug": "nd402",
+   "parts": [
+    "nd402"
+   ],
+   "warc_bytes": 121570476
+  },
+  {
+   "id": "u-131",
+   "name": "unnamed tract (10 by 2 leagues)",
+   "land_case": "N.D. 408",
+   "district": "ND",
+   "docket_no": 408,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 103,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264255",
+   "wayback_slug": "nd408",
+   "parts": [
+    "nd408"
+   ],
+   "warc_bytes": 148109195
+  },
+  {
+   "id": "u-42",
+   "name": "Laguna de Santos Calle",
+   "land_case": "ND 411",
+   "district": "ND",
+   "docket_no": 411,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 70,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264258",
+   "wayback_slug": "nd411",
+   "parts": [
+    "nd411"
+   ],
+   "warc_bytes": 345102437
+  },
+  {
+   "id": "u-12",
+   "name": "quicksilver mine New Almaden, formerly called Santa Clara",
+   "land_case": "ND 420",
+   "district": "ND",
+   "docket_no": 420,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 366,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264383",
+   "wayback_slug": "nd420",
+   "parts": [
+    "nd420a",
+    "nd420c",
+    "nd420d",
+    "nd420f",
+    "nd420g",
+    "nd420h",
+    "nd420j",
+    "nd420k"
+   ],
+   "warc_bytes": 3907263708
+  },
+  {
+   "id": "rancho-tularcitos-1",
+   "name": "Los Tularcitos (Gomez)",
+   "land_case": "SD 003",
+   "district": "SD",
+   "docket_no": 3,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 195,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266044",
+   "wayback_slug": "sd003",
+   "parts": [
+    "sd003"
+   ],
+   "warc_bytes": 109294462
+  },
+  {
+   "id": "u-56",
+   "name": "Cieneguita",
+   "land_case": "SD 20",
+   "district": "SD",
+   "docket_no": 20,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 328,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266060",
+   "wayback_slug": "sd020",
+   "parts": [
+    "sd020"
+   ],
+   "warc_bytes": 74346347
+  },
+  {
+   "id": "rancho-unnamed-5",
+   "name": "Potrero de Felipe Lugo",
+   "land_case": "SD 033",
+   "district": "SD",
+   "docket_no": 33,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 432,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266072",
+   "wayback_slug": "sd033",
+   "parts": [
+    "sd033"
+   ],
+   "warc_bytes": 78848085
+  },
+  {
+   "id": "u-53",
+   "name": "Cholam",
+   "land_case": "S.D. 71",
+   "district": "SD",
+   "docket_no": 71,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 98,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265821",
+   "wayback_slug": "sd071",
+   "parts": [
+    "sd071"
+   ],
+   "warc_bytes": 56220192
+  },
+  {
+   "id": "u-72",
+   "name": "San Felipe",
+   "land_case": "SD 78",
+   "district": "SD",
+   "docket_no": 78,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 64,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265826",
+   "wayback_slug": "sd078",
+   "parts": [
+    "sd078"
+   ],
+   "warc_bytes": 64904719
+  },
+  {
+   "id": "u-88",
+   "name": "Sobrante of Jacinto Viejo y Nuevo",
+   "land_case": "S.D. 80",
+   "district": "SD",
+   "docket_no": 80,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 116,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265828",
+   "wayback_slug": "sd080",
+   "parts": [
+    "sd080"
+   ],
+   "warc_bytes": 80647946
+  },
+  {
+   "id": "u-104",
+   "name": "Melyo",
+   "land_case": "SD 91",
+   "district": "SD",
+   "docket_no": 91,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 436,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266104",
+   "wayback_slug": "sd091",
+   "parts": [
+    "sd091"
+   ],
+   "warc_bytes": 439562288
+  },
+  {
+   "id": "u-106",
+   "name": "Rincon de la Puenta del Monte",
+   "land_case": "S.D. 101",
+   "district": "SD",
+   "docket_no": 101,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 502,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265844",
+   "wayback_slug": "sd101",
+   "parts": [
+    "sd101"
+   ],
+   "warc_bytes": 100171733
+  },
+  {
+   "id": "rancho-vergeles",
+   "name": "Los Vergeles",
+   "land_case": "SD 111",
+   "district": "SD",
+   "docket_no": 111,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 169,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265852",
+   "wayback_slug": "sd111",
+   "parts": [
+    "sd111"
+   ],
+   "warc_bytes": 126392957
+  },
+  {
+   "id": "rancho-unnamed-1",
+   "name": "500 varas by 250, near San Gabriel",
+   "land_case": "SD 134",
+   "district": "SD",
+   "docket_no": 134,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 417,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265873",
+   "wayback_slug": "sd134",
+   "parts": [
+    "sd134"
+   ],
+   "warc_bytes": 59313634
+  },
+  {
+   "id": "u-34",
+   "name": "Llano de Buenavista",
+   "land_case": "S.D. 151",
+   "district": "SD",
+   "docket_no": 151,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 518,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266111",
+   "wayback_slug": "sd151",
+   "parts": [
+    "sd151"
+   ],
+   "warc_bytes": 85374688
+  },
+  {
+   "id": "u-62",
+   "name": "Corral de Padilla",
+   "land_case": "SD 160",
+   "district": "SD",
+   "docket_no": 160,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 615,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267528",
+   "wayback_slug": "sd160",
+   "parts": [
+    "sd160"
+   ],
+   "warc_bytes": 40738126
+  },
+  {
+   "id": "u-125",
+   "name": "Sierra de los Verdugos",
+   "land_case": "SD 163",
+   "district": "SD",
+   "docket_no": 163,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 438,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266122",
+   "wayback_slug": "sd163",
+   "parts": [
+    "sd163"
+   ],
+   "warc_bytes": 35441653
+  },
+  {
+   "id": "u-16",
+   "name": "Rio de las Animas",
+   "land_case": "SD 176",
+   "district": "SD",
+   "docket_no": 176,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 575,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266134",
+   "wayback_slug": "sd176",
+   "parts": [
+    "sd176"
+   ],
+   "warc_bytes": 20604234
+  },
+  {
+   "id": "u-48",
+   "name": "Mission of San Juan Capistrano",
+   "land_case": "SD 180",
+   "district": "SD",
+   "docket_no": 180,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 808,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266136",
+   "wayback_slug": "sd180",
+   "parts": [
+    "sd180"
+   ],
+   "warc_bytes": 22592962
+  },
+  {
+   "id": "rancho-vallecitos-san-marcos",
+   "name": "Los Vallecitos De San Marcos",
+   "land_case": "SD 192",
+   "district": "SD",
+   "docket_no": 192,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 451,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264215",
+   "wayback_slug": "sd192",
+   "parts": [
+    "sd192"
+   ],
+   "warc_bytes": 70510276
+  },
+  {
+   "id": "rancho-valle-paro-santa-maria",
+   "name": "Valle De Paro Or Santa Maria",
+   "land_case": "SD 195",
+   "district": "SD",
+   "docket_no": 195,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 332,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268899",
+   "wayback_slug": "sd195",
+   "parts": [
+    "sd195"
+   ],
+   "warc_bytes": 113863801
+  },
+  {
+   "id": "u-83",
+   "name": "Huerhuero or Huerfano",
+   "land_case": "S.D. 196",
+   "district": "SD",
+   "docket_no": 196,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 87,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267540",
+   "wayback_slug": "sd196",
+   "parts": [
+    "sd196"
+   ],
+   "warc_bytes": 172863149
+  },
+  {
+   "id": "u-33",
+   "name": "Buenavista",
+   "land_case": "S.D. 204",
+   "district": "SD",
+   "docket_no": 204,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "(no entry)",
+   "agrees": null,
+   "commission_docket": null,
+   "evidence_tier": "none",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267548",
+   "wayback_slug": "sd204",
+   "parts": [
+    "sd204"
+   ],
+   "warc_bytes": 53011271
+  },
+  {
+   "id": "u-84",
+   "name": "Las Huertas",
+   "land_case": "SD 207",
+   "district": "SD",
+   "docket_no": 207,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 322,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267551",
+   "wayback_slug": "sd207",
+   "parts": [
+    "sd207"
+   ],
+   "warc_bytes": 41579444
+  },
+  {
+   "id": "u-10",
+   "name": "El Alamo Pintado",
+   "land_case": "SD 212",
+   "district": "SD",
+   "docket_no": 212,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 309,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267556",
+   "wayback_slug": "sd212",
+   "parts": [
+    "sd212"
+   ],
+   "warc_bytes": 53880317
+  },
+  {
+   "id": "u-36",
+   "name": "Cahuenga",
+   "land_case": "SD 225",
+   "district": "SD",
+   "docket_no": 225,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 675,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267566",
+   "wayback_slug": "sd225",
+   "parts": [
+    "sd225"
+   ],
+   "warc_bytes": 53489905
+  },
+  {
+   "id": "u-89",
+   "name": "San Jacinto",
+   "land_case": "S.D. 233",
+   "district": "SD",
+   "docket_no": 233,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 115,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267574",
+   "wayback_slug": "sd233",
+   "parts": [
+    "sd233"
+   ],
+   "warc_bytes": 76838944
+  },
+  {
+   "id": "u-71",
+   "name": "Loma del Espiritu Santo",
+   "land_case": "SD 234",
+   "district": "SD",
+   "docket_no": 234,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 539,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267575",
+   "wayback_slug": "sd234",
+   "parts": [
+    "sd234"
+   ],
+   "warc_bytes": 22413984
+  },
+  {
+   "id": "u-46",
+   "name": "Camulos",
+   "land_case": "S.D. 239",
+   "district": "SD",
+   "docket_no": 239,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 491,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267580",
+   "wayback_slug": "sd239",
+   "parts": [
+    "sd239"
+   ],
+   "warc_bytes": 42147162
+  },
+  {
+   "id": "rancho-zaca",
+   "name": "La Zaca",
+   "land_case": "SD 241",
+   "district": "SD",
+   "docket_no": 241,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 265,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267582",
+   "wayback_slug": "sd241",
+   "parts": [
+    "sd241"
+   ],
+   "warc_bytes": 97935263
+  },
+  {
+   "id": "u-81",
+   "name": "one-half of Las Virgenes",
+   "land_case": "S.D. 256",
+   "district": "SD",
+   "docket_no": 256,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 508,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267597",
+   "wayback_slug": "sd256",
+   "parts": [
+    "sd256"
+   ],
+   "warc_bytes": 68706633
+  },
+  {
+   "id": "u-45",
+   "name": "San Juan Capistrano del Camote",
+   "land_case": "S.D. 260",
+   "district": "SD",
+   "docket_no": 260,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 304,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267601",
+   "wayback_slug": "sd260",
+   "parts": [
+    "sd260"
+   ],
+   "warc_bytes": 39273130
+  },
+  {
+   "id": "rancho-virgenes",
+   "name": "Las Virgenes",
+   "land_case": "SD 265",
+   "district": "SD",
+   "docket_no": 265,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 344,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267606",
+   "wayback_slug": "sd265",
+   "parts": [
+    "sd265"
+   ],
+   "warc_bytes": 59689202
+  },
+  {
+   "id": "rancho-tract-between-san-jacinto-san-gorgonio",
+   "name": "Between San Jacinto And San Gorgonio",
+   "land_case": "SD 269",
+   "district": "SD",
+   "docket_no": 269,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 443,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267610",
+   "wayback_slug": "sd269",
+   "parts": [
+    "sd269"
+   ],
+   "warc_bytes": 83368080
+  },
+  {
+   "id": "u-114",
+   "name": "Canada de los Pinacates",
+   "land_case": "SD 270",
+   "district": "SD",
+   "docket_no": 270,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 598,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267611",
+   "wayback_slug": "sd270",
+   "parts": [
+    "sd270"
+   ],
+   "warc_bytes": 20672378
+  },
+  {
+   "id": "u-113",
+   "name": "El Pajaro",
+   "land_case": "SD 291",
+   "district": "SD",
+   "docket_no": 291,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 635,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268918",
+   "wayback_slug": "sd291",
+   "parts": [
+    "sd291"
+   ],
+   "warc_bytes": 29684439
+  },
+  {
+   "id": "rancho-tucho",
+   "name": "El Tucho",
+   "land_case": "SD 296",
+   "district": "SD",
+   "docket_no": 296,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 790,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268922",
+   "wayback_slug": "sd296",
+   "parts": [
+    "sd296"
+   ],
+   "warc_bytes": 30208512
+  },
+  {
+   "id": "u-13",
+   "name": "Santa Ana y Santa Anita",
+   "land_case": "S.D. 315",
+   "district": "SD",
+   "docket_no": 315,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 275,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268940",
+   "wayback_slug": "sd315",
+   "parts": [
+    "sd315"
+   ],
+   "warc_bytes": 59958471
+  },
+  {
+   "id": "u-43",
+   "name": "Arroyo de los Calsoncillos",
+   "land_case": "SD 319",
+   "district": "SD",
+   "docket_no": 319,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 785,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268943",
+   "wayback_slug": "sd319",
+   "parts": [
+    "sd319"
+   ],
+   "warc_bytes": 27867232
+  },
+  {
+   "id": "u-39",
+   "name": "Cajuenga",
+   "land_case": "SD 321",
+   "district": "SD",
+   "docket_no": 321,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 783,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267617",
+   "wayback_slug": "sd321",
+   "parts": [
+    "sd321"
+   ],
+   "warc_bytes": 24501905
+  },
+  {
+   "id": "u-64",
+   "name": "one-half of Island Santa Cruz",
+   "land_case": "SD 334",
+   "district": "SD",
+   "docket_no": 334,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 805,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268957",
+   "wayback_slug": "sd334",
+   "parts": [
+    "sd334"
+   ],
+   "warc_bytes": 37628669
+  },
+  {
+   "id": "u-4",
+   "name": "addition to Santa Ana del Chino",
+   "land_case": "SD 335",
+   "district": "SD",
+   "docket_no": 335,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 434,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268958",
+   "wayback_slug": "sd335",
+   "parts": [
+    "sd335"
+   ],
+   "warc_bytes": 85351100
+  },
+  {
+   "id": "rancho-unnamed-3",
+   "name": "Potreros de San Juan Capistrano",
+   "land_case": "SD 337",
+   "district": "SD",
+   "docket_no": 337,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 394,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268960",
+   "wayback_slug": "sd337",
+   "parts": [
+    "sd337"
+   ],
+   "warc_bytes": 62294415
+  },
+  {
+   "id": "u-97",
+   "name": "San Luis Rey and Pala",
+   "land_case": "SD 339",
+   "district": "SD",
+   "docket_no": 339,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 348,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268962",
+   "wayback_slug": "sd339",
+   "parts": [
+    "sd339"
+   ],
+   "warc_bytes": 252799413
+  },
+  {
+   "id": "u-120",
+   "name": "Sansal Redondo",
+   "land_case": "S.D. 354",
+   "district": "SD",
+   "docket_no": 354,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 456,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268976",
+   "wayback_slug": "sd354",
+   "parts": [
+    "sd354"
+   ],
+   "warc_bytes": 139950638
+  },
+  {
+   "id": "u-47",
+   "name": "Mission of San Juan Capistrano",
+   "land_case": "SD 363",
+   "district": "SD",
+   "docket_no": 363,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 410,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268985",
+   "wayback_slug": "sd363",
+   "parts": [
+    "sd363"
+   ],
+   "warc_bytes": 56926403
+  },
+  {
+   "id": "u-86",
+   "name": "Mission of Santa Inez",
+   "land_case": "SD 369",
+   "district": "SD",
+   "docket_no": 369,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 538,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268990",
+   "wayback_slug": "sd369",
+   "parts": [
+    "sd369"
+   ],
+   "warc_bytes": 103329557
+  },
+  {
+   "id": "u-119",
+   "name": "Quien Sabe",
+   "land_case": "SD 370",
+   "district": "SD",
+   "docket_no": 370,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 55,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268991",
+   "wayback_slug": "sd370",
+   "parts": [
+    "sd370"
+   ],
+   "warc_bytes": 125714023
+  },
+  {
+   "id": "u-25",
+   "name": "San Justo el Viejo and San Bernabe",
+   "land_case": "S.D. 375",
+   "district": "SD",
+   "docket_no": 375,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 99,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268995",
+   "wayback_slug": "sd375",
+   "parts": [
+    "sd375"
+   ],
+   "warc_bytes": 117223285
+  },
+  {
+   "id": "u-127",
+   "name": "3 suertes",
+   "land_case": "SD 377",
+   "district": "SD",
+   "docket_no": 377,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 758,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268996",
+   "wayback_slug": "sd377",
+   "parts": [
+    "sd377"
+   ],
+   "warc_bytes": 38295538
+  },
+  {
+   "id": "u-37",
+   "name": "Cajon de Muscupiabe",
+   "land_case": "SD 378",
+   "district": "SD",
+   "docket_no": 378,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 380,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268997",
+   "wayback_slug": "sd378",
+   "parts": [
+    "sd378"
+   ],
+   "warc_bytes": 28929549
+  },
+  {
+   "id": "u-18",
+   "name": "Arias Rancho",
+   "land_case": "SD 379",
+   "district": "SD",
+   "docket_no": 379,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 753,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268998",
+   "wayback_slug": "sd379",
+   "parts": [
+    "sd379"
+   ],
+   "warc_bytes": 68921072
+  },
+  {
+   "id": "u-115",
+   "name": "Point Pinos",
+   "land_case": "SD 380",
+   "district": "SD",
+   "docket_no": 380,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 563,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268999",
+   "wayback_slug": "sd380",
+   "parts": [
+    "sd380"
+   ],
+   "warc_bytes": 120267142
+  },
+  {
+   "id": "u-19",
+   "name": "lands previously assigned to the pueblo",
+   "land_case": "SD 382",
+   "district": "SD",
+   "docket_no": 382,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 714,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/269001",
+   "wayback_slug": "sd382",
+   "parts": [
+    "sd382"
+   ],
+   "warc_bytes": 125703413
+  },
+  {
+   "id": "rancho-tres-ojos-agua-1",
+   "name": "Tres Ojos De Agua",
+   "land_case": "SD 397",
+   "district": "SD",
+   "docket_no": 397,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "(no entry)",
+   "agrees": null,
+   "commission_docket": null,
+   "evidence_tier": "none",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/269014",
+   "wayback_slug": "sd397",
+   "parts": [
+    "sd397"
+   ],
+   "warc_bytes": 15590706
+  }
+ ],
+ "not_archived_records": [
+  {
+   "id": "u-105",
+   "name": "San Miguelito de Trinidad",
+   "land_case": "ND 18",
+   "district": "ND",
+   "docket_no": 18,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 27,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "",
+   "wayback_slug": "nd018"
+  },
+  {
+   "id": "u-91",
+   "name": "Jimeno Rancho",
+   "land_case": "N.D. 23",
+   "district": "ND",
+   "docket_no": 23,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 131,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264412",
+   "wayback_slug": "nd023"
+  },
+  {
+   "id": "u-28",
+   "name": "Bolsa de Tomales",
+   "land_case": "ND 121",
+   "district": "ND",
+   "docket_no": 121,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 205,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265481",
+   "wayback_slug": "nd121"
+  },
+  {
+   "id": "u-112",
+   "name": "Canada de los Osos",
+   "land_case": "ND 191",
+   "district": "ND",
+   "docket_no": 191,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 703,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "",
+   "wayback_slug": "nd191"
+  },
+  {
+   "id": "u-20",
+   "name": "Rincon de la Ballena",
+   "land_case": "ND 229",
+   "district": "ND",
+   "docket_no": 229,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 192,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256563",
+   "wayback_slug": "nd229"
+  },
+  {
+   "id": "u-73",
+   "name": "Nueva Flandria",
+   "land_case": "ND 272",
+   "district": "ND",
+   "docket_no": 272,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 655,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256604",
+   "wayback_slug": "nd272"
+  },
+  {
+   "id": "u-79",
+   "name": "Panoche Grande",
+   "land_case": "ND 278",
+   "district": "ND",
+   "docket_no": 278,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 569,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "",
+   "wayback_slug": "nd278"
+  },
+  {
+   "id": "rancho-yerba-buena-island",
+   "name": "Yerba Buena Island (Goat Island)",
+   "land_case": "ND 299",
+   "district": "ND",
+   "docket_no": 299,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 11,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256628",
+   "wayback_slug": "nd299"
+  },
+  {
+   "id": "u-108",
+   "name": "Nemshas",
+   "land_case": "ND 302",
+   "district": "ND",
+   "docket_no": 302,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "other",
+   "agrees": null,
+   "commission_docket": 196,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256631",
+   "wayback_slug": "nd302"
+  },
+  {
+   "id": "u-95",
+   "name": "Punta de Lobos",
+   "land_case": "N.D. 394",
+   "district": "ND",
+   "docket_no": 394,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 515,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264466",
+   "wayback_slug": "nd394"
+  },
+  {
+   "id": "u-58",
+   "name": "Orchard of Santa Clara",
+   "land_case": "ND 412",
+   "district": "ND",
+   "docket_no": 412,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 742,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264259",
+   "wayback_slug": "nd412"
+  },
+  {
+   "id": "u-118",
+   "name": "Pueblo of Sonoma",
+   "land_case": "N.D. 423",
+   "district": "ND",
+   "docket_no": 423,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 237,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/264267",
+   "wayback_slug": "nd423"
+  },
+  {
+   "id": "u-5",
+   "name": "addition to San Miguelito",
+   "land_case": "SD 38",
+   "district": "SD",
+   "docket_no": 38,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 216,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/256662",
+   "wayback_slug": "sd038"
+  },
+  {
+   "id": "u-66",
+   "name": "Canada de San Miguelito and Canada del Diablo",
+   "land_case": "S.D. 57",
+   "district": "SD",
+   "docket_no": 57,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 242,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/266094",
+   "wayback_slug": "sd057"
+  },
+  {
+   "id": "u-63",
+   "name": "Guadalupe Llanito de los Correos",
+   "land_case": "S.D. 109",
+   "district": "SD",
+   "docket_no": 109,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 152,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/265850",
+   "wayback_slug": "sd109"
+  },
+  {
+   "id": "u-38",
+   "name": "Cajon de los Negros",
+   "land_case": "SD 229",
+   "district": "SD",
+   "docket_no": 229,
+   "register_outcome": "Rejected",
+   "hoffman_outcome": "Rejected",
+   "agrees": true,
+   "commission_docket": 413,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/267570",
+   "wayback_slug": "sd229"
+  },
+  {
+   "id": "rancho-tres-ojos-agua",
+   "name": "Tres Ojos De Agua",
+   "land_case": "SD 285",
+   "district": "SD",
+   "docket_no": 285,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "Confirmed",
+   "agrees": true,
+   "commission_docket": 591,
+   "evidence_tier": "hoffman-table",
+   "scan_url": "https://digicoll.lib.berkeley.edu/record/268912",
+   "wayback_slug": "sd285"
+  },
+  {
+   "id": "u-41",
+   "name": "the California Missions and land (21 Missions, incl. Canada de los Pinos/College Rancho, La Laguna, Two Gardens)",
+   "land_case": "ND/SD 425",
+   "district": "SD",
+   "docket_no": 425,
+   "register_outcome": "Confirmed",
+   "hoffman_outcome": "(no entry)",
+   "agrees": null,
+   "commission_docket": null,
+   "evidence_tier": "none",
+   "scan_url": "",
+   "wayback_slug": null
+  }
+ ]
+}
