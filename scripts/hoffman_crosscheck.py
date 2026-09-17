@@ -3,7 +3,7 @@
 
 Source: Ogden Hoffman, *Reports of Land Cases Determined in the United States
 District Court for the Northern District of California* (San Francisco, 1862),
-appendix "Table of Land Claims" — every claim presented to the Land Commission
+appendix "Table of Land Claims", every claim presented to the Land Commission
 under the Act of March 3, 1851, with docket numbers, grant date, granting
 governor, original grantee, disposition, and acreage.
 
