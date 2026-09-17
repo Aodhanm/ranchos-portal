@@ -53,7 +53,11 @@ VALUE = [
 # Do NOT break on "(": graders write the Spanish form inline, as in
 # "Charles William (Carlos Guillermo) Flugge", and breaking there truncates the
 # surname off. Capture through to a real terminator, then strip parentheticals.
-LEAD = re.compile(r"^\s*([^,;]{2,80}?)\s*(?:,|;|\bper\b|(?<![A-Z])\.\s|$)")
+# Graders also separate value from citation with a dash, as in
+# "Francisco Lopez and Jose Arellanes - concession decree" and
+# "Rejected - D.C. decree 19 Feb 1862". Both hyphen and em dash terminate.
+LEAD = re.compile(r"^\s*([^,;]{2,80}?)\s*(?:,|;|\s[-\u2013\u2014]\s|\bper\b"
+                  r"|(?<![A-Z])\.\s|$)")
 # A captured verb means the regex swallowed a clause, not a name:
 # "Nicolas Gutierrez granted El Molino" is a sentence, not a value.
 VERBY = re.compile(r"\b(granted|took|held|issued|signed|petitioned|bought|died|"

@@ -5,7 +5,7 @@ federal source, with Berkeley unreachable throughout.
 
 ## Source
 
-"H H.—List of private land claims in California under Spanish and Mexican
+"H H., List of private land claims in California under Spanish and Mexican
 authorities", Report of the Surveyor General of California, in the Annual Report
 of the Commissioner of the General Land Office for FY1881 (H.R. Exec. Doc. No. 1,
 47th Cong., 1st Sess., Serial 2017), pp. 533-549. This is the government stating

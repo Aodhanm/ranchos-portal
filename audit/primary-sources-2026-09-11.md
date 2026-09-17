@@ -43,7 +43,7 @@ Do not compare 624/212 against an 813-base figure without saying so.
 
 ## 2. The government's own PER-CLAIM status list (1881)
 
-**"H H.—List of private land claims in California under Spanish and Mexican
+**"H H., List of private land claims in California under Spanish and Mexican
 authorities", in the Annual Report of the Commissioner of the General Land
 Office for the fiscal year ending June 30, 1881**, within the Report of the
 Surveyor General of California, H.R. Exec. Doc. No. 1, 47th Cong., 1st Sess.,
@@ -71,7 +71,7 @@ county. It is to the patent layer what Hoffman's table is to the grant layer.
 | Hittell's own appellate correction, same page | final | ~594 | ~200 | 19 |
 | Morrow 1923 p.14 | final | 604 | 190 | 19 |
 | our parse of Hoffman's 1862 table | final as of 1862 | 607 | 167 | 39 |
-| **GLO / Donaldson 1884 p.1114** | **final as of 1881, base 836** | **624** | **212** | — |
+| **GLO / Donaldson 1884 p.1114** | **final as of 1881, base 836** | **624** | **212** |, |
 
 Our 1862 figure and the GLO's 1881 figure differ in the direction and roughly the
 magnitude you would expect from nineteen more years of appeals closing. That

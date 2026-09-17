@@ -519,6 +519,13 @@
    "evidence": "The grantee is MAXIMO ALANIS. Grant decree PDF p18 (transcript p14): 'Por cuanto el Ciudadano Maximo Alaniz, ha pretendido para su beneficio personal i el de su familia el parage conocido con el nombre de San Jose Buenos"
   },
   {
+   "id": "rancho-san-julian",
+   "field": "grantee",
+   "from": "George Rock",
+   "to": "Jose de la Guerra y Noriega",
+   "evidence": "NO PDF PAGE READ - I cannot cite a stamped transcript page, and the re-read must still quote the decree - but the register's 'George Rock' is wrong at the entity level on four independent lines of evidence. (1) The Bancr"
+  },
+  {
    "id": "rancho-san-lorenzo",
    "field": "grantee",
    "from": "Barbara Soto",
@@ -592,7 +599,7 @@
    "id": "rancho-santa-rosa-1",
    "field": "grantee",
    "from": "Maria Jesus Olivera de Cota",
-   "to": "Francisco Cota -",
+   "to": "Francisco Cota",
    "evidence": "Register holds the U.S.-era CLAIMANT, not the Mexican grantee. Transcript p18, stipulation of J. J. Warner: 'he was acquainted with Don Francisco Cota the original grantee in the above entitled cause ... the present clai"
   },
   {
@@ -662,7 +669,7 @@
    "id": "rancho-temascal",
    "field": "grantee",
    "from": "Manuel Anguisola",
-   "to": "Francisco Lopez and Jose Arellanes - concession decree",
+   "to": "Francisco Lopez and Jose Arellanes",
    "evidence": "Register holds the U.S.-era purchaser. Concession decree, transcript p10/p15: the grantees are 'el ciudadano Franc.co Lopez y Jose Arreyanes' / 'the citizens Francisco Lopez and Jose Arellanes'. Expediente cover, transcr"
   },
   {
@@ -760,7 +767,7 @@
    "id": "u-77",
    "field": "outcome",
    "from": "",
-   "to": "Rejected — D.C. decree 19 Feb 1862 rejecting the claim",
+   "to": "Rejected",
    "evidence": "Register blank, but the claim was finally REJECTED. Commission confirmed 6 Nov 1855 (decree stamped PAGE 195, Felch/Thompson/Farwell); U.S. appealed (AG notice 11 Feb 1856, stamped PAGE 198); District Court decree 19 Feb"
   },
   {
@@ -1331,17 +1338,6 @@
    "reason": "no unambiguous replacement value"
   },
   {
-   "id": "rancho-san-julian",
-   "field": "grantee",
-   "register_value": "George Rock",
-   "correction": "Jose de la Guerra y Noriega - verbatim from the Bowman abstract of case file 10 SD, MARC 520$a of OAI record 266051: 'Granted by Alvarado Apl. 7, 1837, to Jose de la Guerra y Noriega'; the Bancroft's authority form is MARC 700$a 'Guerra y Noriega, José de la, 1779-1858' with relator 'Grantee'. CAVEAT ON FORM, NOT ON SUBSTANCE: no stamped transcript page was read, so the re-read should still quote the concession decree and may prefer the decree's own orthography over Bowman's.",
-   "evidence": "NO PDF PAGE READ - I cannot cite a stamped transcript page, and the re-read must still quote the decree - but the register's 'George Rock' is wrong at the entity level on four independent lines of evidence. (1) The Bancroft's relator-coded authority heading for THIS case file, MARC 700$a 'Guerra y Noriega, José de la, 1779-1858' with 700$e 'Grantee'. There is no George Rock anywhere in record 266051. (2) The Bowman abstract of THIS file, MARC 520$a: 'Granted by Alvarado Apl. 7, 1837, to Jose de la Guerra y Noriega'. (3) The case is captioned 'United States vs. José de la Guerra y Noriega' (246$a) and de la Guerra carries all three relators Claimant, Grantee and Patentee, so no claimant/grantee substitution can explain the register's value either. (4) DECISIVE, AND IT IS PROVENANCE, NOT INFERENCE: the string 'George Rock' is a real grantee in the register - of a DIFFERENT rancho. data/ranchos-register.csv line 344, rancho-guenoc, ND 013, Lake County, 1845, Pio Pico, grantee 'George Rock'; and the Bancroft record for that case file, OAI oai:digicoll.lib.berkeley.edu:264405, confirms it: MARC 700$a 'Rock, George' | 700$e 'Grantee', 520$a 'Granted ... (2) by Pico Aug. 8, 1845 to George Rock'. So the value in the San Julian row is a stray copy of the Guenoc row's grantee - wrong rancho, wrong county, wrong governor, wrong decade. The register's own patent_to field for San Julian already reads 'Jose de la Guerra y Noriega', so the row contradicts itself.",
-   "audit_source": "chunk16.json",
-   "in_v11_staged": false,
-   "in_errata": false,
-   "reason": "no unambiguous replacement value"
-  },
-  {
    "id": "rancho-ulistac",
    "field": "grantee",
    "register_value": "Jacob D. Hoppe",
@@ -1409,8 +1405,8 @@
   }
  ],
  "tally": {
-  "applied": 152,
-  "deferred: correction is prose, not a value": 31,
+  "applied": 153,
+  "deferred: correction is prose, not a value": 30,
   "scotus citation added": 29
  }
 }
