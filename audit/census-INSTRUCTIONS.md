@@ -103,6 +103,41 @@ him decide.
 Grade the records you can reach. Mark the rest UV with note "blocked: WAF
 challenge, not attempted" and move on. A blocked read is a finding; record it.
 
+## THE ROUTE THAT WORKS NOW (2026-09-16): the Internet Archive
+
+digicoll is still challenged, re-tested 2026-09-16, so step 2 above **will fail**
+on any record you have not already got. Use this instead:
+
+    python3 ~/ranchos-portal/scripts/wayback_case_files.py "ND 369"
+    python3 ~/ranchos-portal/scripts/wayback_case_files.py "ND 369" --pages 1-20
+
+The Wayback Machine crawled the same Bancroft PDFs in 2024, before the WAF went
+up, and serves them freely with no account, no login and no challenge. This is a
+different public source, **not** a way around the challenge; nothing in the HARD
+STOP section below is relaxed by it, and Berkeley's control is neither touched
+nor defeated.
+
+Coverage: **97 of the 115 unread records are archived, 18 are not**. The list is
+`audit/unread-115/wayback-coverage.json`. If your record is one of the 18, the
+helper says so by name; grade every field UV with the note "no archived capture;
+digicoll challenged" and move on. A blocked read is a finding, so record it.
+
+Two traps, both of which fail silently and both of which the helper checks:
+
+- **A capture can be TRUNCATED**, and the archive serves the partial bytes with a
+  200 and a `%PDF` header, exactly the same shape as the WAF's 202. Completeness
+  is judged on the `%%EOF` trailer. If the helper prints `PARTIAL capture`, you
+  may grade from the pages that are there, but you must say in `notes` that the
+  file was partial and grade anything past the break UV. `nd102` is partial.
+- **ND 420 (New Almaden) is archived in eight parts.** The helper fetches them
+  all and names them.
+
+Throttle. A burst of about a hundred requests draws connection refusals. One case
+at a time, which the execution rule below requires anyway.
+
+Record the URL you actually used in `pdf_url_used`, the `web.archive.org/web/...`
+one, not the digicoll one. A reader needs to be able to get the same bytes.
+
 ## Execution rule (mandatory)
 
 Work strictly synchronously, one record at a time: `curl -sL -m 300` blocks until the download completes, that is the correct behavior. Do NOT use run_in_background, Monitors, watchers, or paced/queued downloaders; they end your turn with nothing graded. If your output file already contains graded records, skip those ids and continue with the rest. Delete every PDF immediately after grading its record.
