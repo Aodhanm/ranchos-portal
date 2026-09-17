@@ -274,10 +274,19 @@ def main():
         title = f'Rancho {name}' if (is_grant and not already) else name
         headline = headline_of[r['id']]
         page_title = title_of[r['id']]
+        # Not every grant was made by a governor. Seventeen were made by an
+        # alcalde, a prefect, a military commandant or the senior vocal of the
+        # departmental junta acting as governor, each verified from the land case
+        # file. Calling those men Governor would be a plain factual error, so the
+        # title comes from grantor_office where the record carries one. An empty
+        # grantor_office keeps the register's default, a gubernatorial grant.
+        office = (r.get('grantor_office') or '').strip()
+        gov_title = (office.title() if office and office.lower() != 'governor'
+                     else 'Governor')
         desc = (r.get('summary') or
                 f'{title}, a land grant of {county or "Alta California"}'
                 + (f' granted {year}' if year else '')
-                + (f' by Governor {gov}' if gov else '')
+                + (f' by {gov_title} {gov}' if gov else '')
                 + (f' to {grantee}' if grantee else '') + '.')[:300]
 
         facts = []
@@ -297,8 +306,14 @@ def main():
             facts.append((_lab, esc(year)))
             facts.append(('Granting authorities', esc(gov)))
         elif year:
-            facts.append((_lab, esc(year) + (f' under a grant purportedly by Governor {esc(gov)}'
-                                             if ground else f' by Governor {esc(gov)}')))
+            facts.append((_lab, esc(year) + (f' under a grant purportedly by {gov_title} {esc(gov)}'
+                                             if ground else f' by {gov_title} {esc(gov)}')))
+        if office and office.lower() != 'governor':
+            vb = (r.get('grantor_office_verbatim') or '').strip()
+            facts.append(('Granting officer',
+                          f'{esc(gov)}, {esc(office)}'
+                          + (f' <span class="kicker" style="display:inline">'
+                             f'({esc(vb)} in the case file)</span>' if vb else '')))
         if grantee:
             facts.append(('Grantee', esc(grantee)))
         size = []
@@ -439,6 +454,9 @@ def main():
         # only place a forged claim can be marked as one.
         rg = (r.get('rejection_ground') or '').strip()
         gov_cell = esc(r.get('governor'))
+        _off = (r.get('grantor_office') or '').strip()
+        if _off and _off.lower() != 'governor' and gov_cell:
+            gov_cell += f' <span class="kicker" style="display:inline">({esc(_off)})</span>'
         if rg and gov_cell:
             gov_cell += ' <span class="kicker" style="display:inline">(purported)</span>'
         oc_cell = esc(oc) + (f' <span class="kicker" style="display:inline">({esc(rg)})</span>' if rg else '')

@@ -1,0 +1,192 @@
+{
+ "note": "Granting officers who were NOT the governor the register named, each read from the Bancroft land case file, cross-checked against Bancroft's History of California and against Hoffman's 1862 printed appendix. STAGED: data/ranchos-register.* stays byte-identical to the Zenodo v1.0 deposit. Consumed by scripts/build_v11_candidate.py.",
+ "column_definition": "grantor_office records the office under which the named person made the grant. An EMPTY value is NOT a claim that the office was checked: it is the register's standing assumption that the grant was gubernatorial, which holds for the great majority and has not been verified row by row. A value of 'governor' means the office WAS checked and the grantor was the governor. grantor_office_verbatim carries the office as the case file itself states it, in the original language where the source is Spanish.",
+ "vocabulary": {
+  "governor": "Governor of Alta California, verified as such for this grant.",
+  "acting governor": "The executive held ad interim. In this period that is normally the senior vocal propietario of the departmental junta assuming the government in the governor's absence, styled in the documents both '1er vocal ... en ejercicio del Gobierno' and 'gobernador interino'. Bancroft settles that these are ONE position and not two (Hist. Cal. iv, note to 1841: 'It was as 1st vocal of the dip. that Jimeno became acting gov.'), so a single term is used. It also covers a jefatura politica held ad interim by another route, as Gutierrez held it in 1836 as ranking military officer; the route differs, the office does not.",
+  "prefect": "Prefect of a district, granting under authority delegated to prefects by the Ley Reglamentaria of 1837.",
+  "acting prefect": "Prefecto interino, holding the prefecture in the titular prefect's absence.",
+  "alcalde": "First alcalde of a pueblo, granting pueblo land. Presiding over the ayuntamiento was the alcalde's ex officio function and not a separate office, so no second term is coined for it.",
+  "military commandant": "A presidial or district military commandant granting under the authority of the governor at Monterey."
+ },
+ "era_rule": "The register's era column labels the ADMINISTRATION in which the grant was made, not the individual who signed. So the ten Jimeno rows keep era 'alvarado', because Jimeno held the executive ad interim inside Alvarado's governorship, and rancho-brea keeps era 'echeandia' although an alcalde made the grant. era moves only when the corrected year moves the grant into a different administration, which happens twice here.",
+ "method": "Each of the 17 deferred office corrections was given to an independent verifier with the case-file quotations and the full local text of Bancroft's History of California, and instructed to try to REFUTE the correction. None was refuted. Every one was then cross-checked a third time against Hoffman's printed appendix, which is an independent source the verifiers did not have. 14 are applied here; 3 are held back because the sources disagree with each other or the row is compound.",
+ "applied": 14,
+ "deferred": 3,
+ "records": [
+  {
+   "id": "rancho-brea",
+   "grantor_name": "Jose Antonio Carrillo",
+   "office": "alcalde",
+   "office_verbatim": "\"I was at the time First Alcalde and Judge of the First Instance... I was President of the Ayuntamiento\" (Carrillo deposition, transcript pp.9-10)",
+   "evidence": "Carrillo's own deposition identifies his genuine signature on the permission to occupy dated 8 April 1828 and states the office he then held. Bancroft's Pioneer Register has him alcalde of Los Angeles across 1827 and 1828, and his narrative shows 'Alcalde Carrillo of Los Angeles' acting in documents of June to August 1828. Hoffman's appendix independently prints the grantor as 'Jose Antonio Carrillo'. This is a pueblo concession, not a gubernatorial grant.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-canada-corral",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"1er Vocal propietario de la Exma Junta Departamental en ejercicio del Gobierno del mismo\" (grant decree, transcript p.11)",
+   "evidence": "The grant decree at transcript p.11 recites and is signed by Jimeno as first vocal propietario of the departmental junta in exercise of the government; the titulo header at p.12 repeats it. Hoffman prints 'Manuel Jimeno'. Bancroft, Hist. Cal. iv, note to 1841: 'It was as 1st vocal of the dip. that Jimeno became acting gov.'",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-canada-herrera",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"primer vocal propietario de la Excma Junta del Departto de las Californias\" (grant decree, transcript p.10)",
+   "evidence": "The grant decree at transcript p.10 is ordered, decreed and signed by Manuel Jimeno Casarin as primer vocal propietario; the sworn translation at p.16 renders it '1st Member of the Most Excellent Assembly'. Alvarado's act in this file is the later ratification of the junta's approval, 13 June 1840. Hoffman prints 'Manuel Jimeuo', OCR for Jimeno.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-canada-pala",
+   "grantor_name": "Jose Castro",
+   "office": "prefect",
+   "office_verbatim": "\"The Same Dn Jose Castro Prefect of the 1st District that orders decrees and signs which I attest\" (grant instrument, transcript p.27)",
+   "evidence": "The grant instrument of 10 August 1839 is issued and signed by Castro as Prefect of the First District, under the authority delegated to prefects by the Ley Reglamentaria of 1837; the Board opinion at transcript p.28 restates it. Hoffman prints 'Jose Castro'. Bancroft corroborates the office, the tenure, the district and the attesting secretary. The register's 'Alvarado' names the delegating governor, not the grantor.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-chualar",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"primer Vocal propietario de la Exma Junta del Departamento de las Californias en ejercicio del gobierno del mismo\" (titulo, stamped p.14)",
+   "evidence": "The titulo at stamped p.14 is signed 'Manl. Jimeno' at p.15; the sworn translation at p.26 renders the office 'Acting as Governor of the same' and the District Court opinion at p.171 calls him 'Jimeno the Governor ad interim of California'. Alvarado's name appears only on the testimonio of the junta's approval of 26 May 1840, issued 23 July 1840, which is the likely source of the register's error. Hoffman prints 'Manuel Jimeno'.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-estero-americano",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"Manuel Jimeno Governor of California by virtue of authority in him vested\" (petition, PDF p.11 / transcript p.5)",
+   "evidence": "The petition at PDF p.11 and the James Black deposition at PDF p.13 both name Jimeno as the officer who granted, on 4 September 1839. Hoffman prints 'Manuel Jimeno'. Alvarado was the constitutional governor and the departmental junta's approval of 22 May 1840 fell in his term, which is the likely source of the register's error; the concession itself is Jimeno's.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-san-jacinto-viejo",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"el Exmo Sr Gobernador Interino del Departamento Dn Manuel Jimeno\" (judicial possession, transcript p.22)",
+   "evidence": "The concession decree of 21 December 1842 at transcript p.16 is signed 'Jimeno'; the judicial possession at transcript p.22 names the title as conferred by 'el Exmo Sr Gobernador Interino del Departamento Dn Manuel Jimeno', and the Board's own opinion agrees. Alvarado only referred the petition to the Prefect, 11 August 1842. Hoffman prints 'Manuel Jimeno'.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-santa-margarita",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"1st Regular Vocal of the Most Excellent Departmental Junta in exercise of the Government of the same\" (titulo, sworn translation, stamped p.15)",
+   "evidence": "The titulo at stamped pp.15 and 16, given at Monterey 27 September 1841, is signed 'Man'l Jimeno'; the Board opinion at p.19 calls him '1st Vocal ... exercising the functions of Governor'. Bancroft places Jimeno in the executive from 21 September to 31 December 1841, so the grant falls six days inside that window. The 'Alvarado' in this file is the custom-house stamp-paper habilitation signature for 1839 and 1840. Hoffman prints 'Manuel Jimcno', OCR for Jimeno.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-santa-rosa-1",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"Gobernador Interino del Departamento de las Californias\" (grant decree, transcript p.24)",
+   "evidence": "The grant decree at transcript p.24 reads 'El Senor Don Manuel Jimeno Casarin Gobernador Interino del Departamento de las Californias asi lo mando, decreto y firmo'. The United States court decree at transcript pp.89-90 names 'Manuel Jimeno, acting governor of said department, on the 30th day of July, 1839'. Bancroft places Alvarado incapacitated by illness and out of the executive chair in that month. Alvarado appears in this file only on the later order of 10 June 1840. Hoffman prints 'Manuel Jimcno', OCR for Jimeno.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-tulucay",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"1er vocal propietario de la Excma Junta Departamental en ejercicio del Gobierno del mismo\" (titulo heading, PDF p.22)",
+   "evidence": "The titulo itself, PDF p.22, is headed with Jimeno's office and subscribed 'Manuel Jimeno / Jose L. Fernandez Srio into' at p.23, signed at Monterey 26 October 1841. The Board opinion renders the office 'Governor ad interim'. Hoffman prints 'Manuel Jimeno'. The register's 'Alvarado' is wrong on the face of the grant.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-zanjones",
+   "grantor_name": "Manuel Jimeno",
+   "office": "acting governor",
+   "office_verbatim": "\"primer vocal de la Exma. Junta de este Departamento, en ejercicio del gobierno del mismo\" (titulo, stamped pp.20-21)",
+   "evidence": "The titulo in the expediente is signed 'Man'l Jimeno' with that recital, at Monterey, and the United States District Court opinion at transcript p.172 states 'The claim in this case is founded upon a grant from Manuel Jimeno, Governor ad interim of California'. The 'Alvarado. Antonio M. Osio' text on the 1842 deed leaf at stamped p.14 is the revenue-stamp habilitation for the paper, not the grantor. Hoffman prints 'Manuel Jimeno'.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-molinos",
+   "grantor_name": "Jose Figueroa; Nicolas Gutierrez",
+   "office": "governor; acting governor",
+   "office_verbatim": "\"Nicolas Gutierez Governor of California by virtue of authority in him vested\" (petition, transcript p.4)",
+   "evidence": "The register named Figueroa alone against a year of 1836, and Figueroa died on 29 September 1835. Hoffman's entry (193, 227 N.D.) prints BOTH instruments: 'granted December 31st, 1833, by Jose Figueroa, and February 24th, 1836, by Nicolas Gutierrez, to J. B. R. Cooper'. The compound keeps what the court's own reporter recorded rather than choosing between them. Bancroft brackets Gutierrez's jefatura politica ad interim to 2 January to 3 May 1836, so the officer who signed as 'Governor' at Monterey on 24 February 1836 was necessarily Gutierrez. The Vallejo deposition at transcript p.7 says the arrangement was made with Figueroa before his death and completed by Gutierrez. The compound is applied rather than a substitution because the register already uses that idiom for a title with more than one authority across its life, and because the alternative requires choosing between two instruments that this audit cannot choose between. OPEN, and NOT settled here: Hoffman calls both acts grants, while Bancroft's Pioneer Register under Cooper reads the 1833 act as the grant and the 1836 act as a confirmation ('granted the Molino rancho, Sonoma' in 1833; in 1836 'the Sonoma rancho confirmed to him this year'); Bancroft also equates El Molino and Rio Ayoska as one parcel, which the correction treats as two. To close it, read the decree of 31 December 1833 and the titulo of 24 February 1836 in the expediente and establish which instrument the Commission confirmed on 14 November 1854, then set the year to match. Until then the year field is left at 1836 and should be treated as unresolved.",
+   "also_changes": {},
+   "also_changes_why": "",
+   "bancroft_supports": "partial",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-petaluma",
+   "grantor_name": "Micheltorena",
+   "office": "governor",
+   "office_verbatim": "\"In conformity with the report, let the title be issued with the conditions of the law. (signed) Micheltorena\" (decree, Monterey, October 1843, p.46)",
+   "evidence": "No Figueroa document appears anywhere in the expediente; the only granting officer of record is Micheltorena, by the marginal decree at p.45 and the order at p.46, both signed at Monterey in October 1843. Hoffman's entry (250, 321 N.D.) gives '10 square leagues, in Sonoma county, granted October 22d, 1843, by Manuel Micheltorena to M. G. Vallejo', and names no other grantor. Bancroft records that an earlier 1834 Figueroa grant of Petaluma existed but that Vallejo's claim as finally confirmed by the United States rested on the later Micheltorena grant, which is the claim this land case is.",
+   "also_changes": {
+    "year": "1843",
+    "era": "micheltorena"
+   },
+   "also_changes_why": "Micheltorena was not governor in 1834. Correcting the grantor without the year would leave the row contradicting itself. Hoffman and the case file both date the operative grant to October 1843, which falls in Micheltorena's administration, so era moves with it.",
+   "bancroft_supports": "yes",
+   "confidence": "high"
+  },
+  {
+   "id": "rancho-pulgas",
+   "grantor_name": "Jose Castro",
+   "office": "acting governor",
+   "office_verbatim": "\"the Political Chief or Governor of Alta California\", and of the decree of concession of 26 November 1835, \"the said Governor or Political Chief\" (claimants' petition, PDF p.19)",
+   "evidence": "The operative documents are of 1835, the Mexican period, not Spanish. The claimants' petition at PDF p.19 names the granting officer: the decree in their favour 'was made on the 3rd day of October 1835 by Don Jose Castro who was on that day the Political Chief or Governor of Alta California', and it was 'the said Governor or Political Chief' who issued the decree of concession on 26 November 1835. No Spanish-period title paper appears among the exhibits. Bancroft's Pioneer Register has Castro as '3d vocal in 35, but acting as 1st in the absence of the 1st and 2d, and thus acting gov. Sept. 35 to Jan. 36'. Hoffman dates the grant 1835. Bancroft, Hist. Cal. vi, adds that the confirmed Pulgas claim 'was on the grant of 35, not on that of about 24'.",
+   "also_changes": {
+    "year": "1835",
+    "era": "interim"
+   },
+   "also_changes_why": "The register carried year 1820 and era 'spanish' on the strength of the phrase 'a Spanish governor', which this correction retires. Leaving either would go on asserting a Spanish-period grant after the operative title has been established as Mexican. Hoffman's printed year is 1835, and Castro's acting governorship of September 1835 to January 1836 is the register's 'interim' era.",
+   "bancroft_supports": "partial",
+   "confidence": "high"
+  }
+ ],
+ "still_deferred": [
+  {
+   "id": "rancho-cienegas",
+   "why": "The case file's Board opinion at PDF p.47 states the grant was made by Jose de la Guerra y Noriega, then acting as military commandant of the southern portion of the Territory under Luis Arguello, who exercised the civil functions of Governor. Hoffman's entry for this docket was at first reported as missing; it was recovered on 2026-09-16 after an OCR speck at the start of the line was found to be hiding it from the parser, and it does NOT support simply replacing the register's value: '172, 353, S. D. Januario Abila, claimant for Las Cienegas, 1 square league, in Los Angeles county, granted in 1823, by Jose de la Guerra y Noriega AND Manuel Micheltorena to Francisco Abila'. So Hoffman names Micheltorena too, and the register's 'Micheltorena' is not simply wrong; it is half of a pairing. The acreage, 4,439.05, confirms this row is the Avila one-league tract and not the Sanchez La Cienega o Paso de la Tijera. Bancroft read the same docket, recorded the same pairing and could not explain it: 'As Micheltorena's name is mentioned with that of Guerra y Noriega, there may be a misprint of 1823 for 1843' (Hist. Cal. ii. 665 n.15). Three things therefore remain open: the year (1823 against the register's 1843), whether Micheltorena's 1843 act was a grant at all or the boundary referral the case file describes, and whether the Board's phrase 'military commandant of the southern portion of the Territory' names a real office, since San Diego presidio had its own commandant in 1823 and Bancroft supports only a Santa Barbara presidial commandancy. Note also that the Board opinion and Hoffman are two surfacings of one evidentiary stream, the land case record, not two independent witnesses. Needs a human ruling."
+  },
+  {
+   "id": "rancho-monte-cabestros",
+   "why": "The titulo in the expediente at stamped pp.19 to 21 is issued and signed by Jose Maria Villavicencio as Prefecto interino of the First District on 30 July 1840, and Bancroft corroborates the office, the ad interim styling, the enabling law of 20 March 1837 and the secretary Francisco C. Arce. But Hoffman's printed entry for the same docket names Juan B. Alvarado as the grantor, agreeing with the register: '572, 298, S. D. Henry Cocks, claimant for one-fourth square league, in Monterey county, granted July 30th, 1840, by Juan B. Alvarado to Esteben Espinoza ... containing 1,106.03 acres.' The docket is certainly the right one: grantee, date and acreage all match the register row to the acre, so this is a genuine disagreement about the grantor and not a misassigned docket. Two primary sources conflict, and the question behind the conflict, whether a prefect's titulo is the operative grant or a provisional act perfected by the governor, is a legal one this audit has not settled. Needs a human ruling."
+  },
+  {
+   "id": "rancho-potrero-rincon-san-pedro-reglado",
+   "why": "A compound, multi-tract row. The register reads 'Jose E. Estrada (Prefect); Jose Jimeno'; Hoffman prints 'Jose R. Estrada, Prefect' at 1838; the Board opinion at p.74 names 'Manuel Jimeno, 1st Vocal of the Departmental Junta acting as Governor' for the Arana tract at 1842; and the Board decree at p.75 phrases the second act as 'the grant made by Jose Bolcoff and Manuel Jimeno to Jose Arena'. Three officers across three sources, two tracts and two years. Any single-name correction would lose more than it fixed. Needs a human ruling."
+  }
+ ]
+}

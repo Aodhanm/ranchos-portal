@@ -10,7 +10,8 @@ governor, original grantee, disposition, and acreage.
 Text: Internet Archive item GR_1919, file GR_1919_djvu.txt.
 Usage: python3 scripts/hoffman_crosscheck.py /path/to/hoffman.txt
 
-Output: audit/hoffman-crosscheck-2026-09-01.json — one row per register record
+Output: audit/hoffman-crosscheck-latest.json, one row per register record
+(--overwrite writes the cited audit/hoffman-crosscheck-2026-09-01.json instead)
 with per-field agree/disagree/absent flags and the raw Hoffman entry text for
 any disagreement, so the per-record case-file reads can target them. This is a
 screening pass over an 1862 printed source, not a verdict: the land case file
@@ -68,8 +69,15 @@ def parse_appendix(text):
         sys.exit("appendix header not found")
     body = text[start:]
     # Entries open with: commission_no, court_no, N. D./S. D. [, jimeno_no].
+    # ⚠ The djvu OCR sometimes prefixes an entry with specks it read as
+    # punctuation, and anchoring on ^\s* alone loses the whole entry SILENTLY.
+    # Four are lost that way: ",118, 81, S. D." (Canada Larga o Verde),
+    # "-247, 334, N. D." (part of Soulajule), "••172, 353, S. D." (Las Cienegas)
+    # and '"%93, 344, N. D.' (Jose Castro et al.). Las Cienegas was reported as
+    # "no Hoffman entry" for weeks on the strength of this. Allow up to four
+    # leading non-alphanumeric characters.
     entry_re = re.compile(
-        r"^\s*(\d{1,3})\s*,\s*(\d{1,3})\s*,\s*([NS8])[\.,]?\s*[DI)][\.,]?", re.M)
+        r"^[^0-9A-Za-z\n]{0,4}\s*(\d{1,3})\s*,\s*(\d{1,3})\s*,\s*([NS8])[\.,]?\s*[DI)][\.,]?", re.M)
     marks = list(entry_re.finditer(body))
     entries = []
     for i, m in enumerate(marks):
@@ -160,7 +168,13 @@ def main():
     result = {"source": "IA GR_1919 (Hoffman 1862 appendix)", "run": "2026-09-01",
               "register_rows": len(rows), "appendix_entries": len(entries),
               "tallies": tallies, "flagged_count": len(flagged), "records": out}
-    dest = REPO / "audit" / "hoffman-crosscheck-2026-09-01.json"
+    # ⚠ Do NOT default to overwriting the dated 2026-09-01 file. Published
+    # findings cite it by name, and a re-run after a parser change silently
+    # rewrote it on 2026-09-16. Re-runs write a new dated file; pass --overwrite
+    # only if you actually mean to replace the cited one.
+    dest = (REPO / "audit" / "hoffman-crosscheck-2026-09-01.json"
+            if "--overwrite" in sys.argv
+            else REPO / "audit" / "hoffman-crosscheck-latest.json")
     dest.write_text(json.dumps(result, indent=1, ensure_ascii=False))
     print(f"appendix entries parsed: {len(entries)}")
     print(f"register matched: {tallies['matched']}  unmatched-docket: {tallies['no_docket_match']}  "
