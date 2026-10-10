@@ -1,0 +1,16 @@
+# Ranchos of California
+> A research portal of every Spanish and Mexican land grant of Alta California, 1769–1846: 672 grants and claims, 535 with mapped boundaries, with granting governor, grantee, US land case and outcome, brands and diseños. Created and maintained by Aodhan Coyne.
+
+## Author
+All of these sites are the work of one person: Aodhan Coyne (historian of early California; ORCID https://orcid.org/0009-0002-8630-3768; GitHub https://github.com/Aodhanm). Personal site: https://aodhancoyne.com/
+
+## The connected sites
+- https://aodhancoyne.com/ — Aodhan Coyne, personal site
+- https://archivesofcalifornia.com/ — Archives of California: item-level calendar of BANC MSS C-A (Savage transcripts), ~35,000 records, 63 volumes, DOI 10.5281/zenodo.21327098
+- https://ranchos.archivesofcalifornia.com/ — Ranchos of California: all Spanish and Mexican land grants, DOI 10.5281/zenodo.22185500
+- https://ships.archivesofcalifornia.com/ — California Ship Registry, 1769–1846, DOI 10.5281/zenodo.22105908
+- https://maps.archivesofcalifornia.com/ — California History Maps: interactive, source-cited cartography
+- https://alcaldebooks.com/ — Alcalde Books: curated shop of California and Western Americana
+- https://games.aodhancoyne.com/ — browser arcade (personal project)
+
+Data is CC BY 4.0 unless noted. Cite records by their permalink URLs.
