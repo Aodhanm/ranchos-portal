@@ -41,8 +41,15 @@ def esc(s):
 
 
 def load():
-    """Read the three data objects out of the app. Single source of truth."""
-    s = open(os.path.join(ROOT, 'index.html'), encoding='utf-8').read()
+    """Read the three data objects out of the app. Single source of truth.
+
+    The data moved out of index.html into ranchos-data.js on 2026-10-24 so the
+    page Googlebot fetches is 48 KB rather than 2.5 MB. index.html stays the
+    fallback so an older checkout still builds.
+    """
+    data_js = os.path.join(ROOT, 'ranchos-data.js')
+    src = data_js if os.path.exists(data_js) else os.path.join(ROOT, 'index.html')
+    s = open(src, encoding='utf-8').read()
 
     def grab(name):
         m = re.search(r'(?:const|var|let)\s+%s\s*=\s*' % name, s)
@@ -488,7 +495,10 @@ def main():
                                        'name': 'Register of the Spanish and Mexican land grants of Alta California',
                                        'description': rdesc, 'url': SITE + '/register/',
                                        'license': 'https://creativecommons.org/licenses/by/4.0/',
-                                       'creator': {'@type': 'Person', 'name': 'Aodhan Coyne',
+                                       'creator': {'@type': 'Person',
+                                                   '@id': 'https://aodhancoyne.com/#person',
+                                                   'name': 'Aodhan Coyne',
+                                                   'url': 'https://aodhancoyne.com/',
                                                    'sameAs': 'https://orcid.org/0009-0002-8630-3768'},
                                        'distribution': [
                                            {'@type': 'DataDownload', 'encodingFormat': 'text/csv',
