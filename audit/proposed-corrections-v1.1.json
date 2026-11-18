@@ -1,6 +1,6 @@
 {
  "note": "PROPOSED data corrections for register v1.1 — NOT applied; data/ranchos-register.* stays byte-identical to Zenodo v1.0 until Aodhan cuts v1.1",
- "count": 30,
+ "count": 38,
  "corrections": [
   {
    "id": "rancho-atascadero",
@@ -181,6 +181,54 @@
    "field": "year",
    "from": "1778",
    "to_note": "1777 per Board opinion stamped p154: 'founded by Felipe de Neve the Governor of California in 1777'; petition stamped p5 gives 29 November 1777. The register's 1778 likely comes from viceroy Bucareli y Ursua's 22 July 1778 communication acknowledging the founding (petition stamped p6), which post-dates the founding itself"
+  },
+  {
+   "id": "rancho-laguna",
+   "field": "acres",
+   "from": "35499",
+   "to_note": "4,157.02 (Hoffman, Reports of Land Cases (1862), appendix, claim 609 (N.D. 425 / S.D. 388): \"La Laguna, 1 square league, in San Luis Obispo county; containing 4,157.02 acres. Patented.\"). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-laguna",
+   "field": "patent_to/patent_date/patent_acres/glo_patent_no",
+   "from": "Bishop Joseph S. Alemany, Feb. 28, 1861, 35,499.37 acres, GLO 363",
+   "to_note": "Not La Laguna's: those are the figures of the Cañada de los Pinos or College Rancho, the other property in the same claim. La Laguna was patented separately; its patent details are not yet established. (Hoffman, Reports of Land Cases (1862), appendix, claim 609, which lists the two properties separately). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-niscasio",
+   "field": "grantee",
+   "from": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "to_note": "Pablo de la Guerra and Juan B. R. Cooper (Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-niscasio-1",
+   "field": "grantee",
+   "from": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "to_note": "Pablo de la Guerra and Juan B. R. Cooper (Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-nicasio",
+   "field": "grantee",
+   "from": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "to_note": "Pablo de la Guerra and Juan B. R. Cooper (Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-nicasio-1",
+   "field": "grantee",
+   "from": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "to_note": "Pablo de la Guerra and Juan B. R. Cooper (Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas",
+   "field": "year",
+   "from": "1838",
+   "to_note": "1842 (Hoffman, Reports of Land Cases (1862), appendix, claim 204: \"granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto\"). Added 2026-11-17 from the maps verification."
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas-1",
+   "field": "year",
+   "from": "1838",
+   "to_note": "1842 (Hoffman, Reports of Land Cases (1862), appendix, claim 204: \"granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto\"). Added 2026-11-17 from the maps verification."
   }
  ]
 }

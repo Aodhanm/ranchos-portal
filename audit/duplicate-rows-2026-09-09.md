@@ -51,6 +51,11 @@ same kind of thing, and the register has no field that distinguishes them:
 4. **Same docket, different name** (SD 388: "Laguna" against "Canada de los Pinos
    or College Rancho", identical patentee and acreage). One of those names is
    probably wrong, or one row is a duplicate wearing a second name.
+   **Corrected 2026-11-17:** neither. Hoffman's appendix, claim 609 (N.D. 425 / S.D. 388, Archbishop Alemany for the
+   mission lands), lists them as two properties: Cañada de los Pinos or College Rancho, Santa Barbara county,
+   35,499.37 acres; La Laguna, San Luis Obispo county, 4,157.02 acres. Both rows are real; the defect is that
+   `rancho-laguna` carries the College Rancho's acreage and patent (now in data/errata.json). SD 388 should not
+   count toward the duplicate total, so the "668 not 672" figure needs re-deriving.
 5. **Probable genuine parcels** (SD 032 Sespe No. 1 and No. 2) which nonetheless
    share an identical 8,880.81 acres, which is worth a look.
 

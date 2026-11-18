@@ -1,7 +1,7 @@
 {
  "title": "Errata",
  "policy": "Every correction the accuracy audit or a reader has established is listed here, with what the register said, what the source says, and the source that settled it. IMPORTANT: these corrections are DISCLOSED here but are NOT yet applied to the downloadable dataset. data/ranchos-register.csv and .json remain byte-identical to the Zenodo v1.0 deposit so that the published DOI keeps resolving to exactly the data that was deposited; the corrections will be folded in when version 1.1 is cut. Until then, a row listed below still carries its erroneous value in the table and in the download, and this page is the authority on what that value should be. Nothing is corrected silently.",
- "updated": "2026-09-02",
+ "updated": "2026-11-17",
  "entries": [
   {
    "id": "rancho-atascadero",
@@ -272,6 +272,78 @@
    "now": "1777",
    "source": "Bancroft land case file N.D. 419",
    "date": "2026-09-02"
+  },
+  {
+   "id": "rancho-laguna",
+   "name": "rancho-laguna",
+   "field": "acres",
+   "was": "35499",
+   "now": "4,157.02",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 609 (N.D. 425 / S.D. 388): \"La Laguna, 1 square league, in San Luis Obispo county; containing 4,157.02 acres. Patented.\"",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-laguna",
+   "name": "rancho-laguna",
+   "field": "patent",
+   "was": "Bishop Joseph S. Alemany, Feb. 28, 1861, 35,499.37 acres, GLO 363",
+   "now": "Not La Laguna's: those are the figures of the Cañada de los Pinos or College Rancho, the other property in the same claim. La Laguna was patented separately; its patent details are not yet established.",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 609, which lists the two properties separately",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-niscasio",
+   "name": "rancho-niscasio",
+   "field": "grantee",
+   "was": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "now": "Pablo de la Guerra and Juan B. R. Cooper",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-niscasio-1",
+   "name": "rancho-niscasio-1",
+   "field": "grantee",
+   "was": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "now": "Pablo de la Guerra and Juan B. R. Cooper",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-nicasio",
+   "name": "rancho-nicasio",
+   "field": "grantee",
+   "was": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "now": "Pablo de la Guerra and Juan B. R. Cooper",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-nicasio-1",
+   "name": "rancho-nicasio-1",
+   "field": "grantee",
+   "was": "Henry W. Hallack, James Black, and Benjamin R. Buckelew",
+   "now": "Pablo de la Guerra and Juan B. R. Cooper",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 270: \"granted August 18th, 1844, by Manuel Micheltorena to Pablo de la Guerra and Juan Cooper\"; the same correction as rancho-nicasio-2 (land case file ND 392)",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas",
+   "name": "rancho-canada-hambre-bolsas",
+   "field": "grant year",
+   "was": "1838",
+   "now": "1842",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 204: \"granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto\"",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "rancho-canada-hambre-bolsas-1",
+   "name": "rancho-canada-hambre-bolsas-1",
+   "field": "grant year",
+   "was": "1838",
+   "now": "1842",
+   "source": "Hoffman, Reports of Land Cases (1862), appendix, claim 204: \"granted May 18th, 1842, by Juan B. Alvarado to Teodora Soto\"",
+   "date": "2026-11-17"
   }
  ]
 }
