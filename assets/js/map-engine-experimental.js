@@ -120,8 +120,10 @@
       f.disenos.forEach(function (d) {
         h += '<img class="popup-diseno" src="' + esc(d.thumb) + '" data-full="' + esc(d.img) + '" title="' + esc(d.title || '') + '" alt="Diseño (land-case map)" onclick="window.__disenoLB(this)">';
       });
-      h += '</div><span class="diseno-cap">' + f.disenos.length + ' diseño' + (f.disenos.length > 1 ? 's' : '')
-         + ' \u2014 the grant\u2019s original hand-drawn map' + (f.disenos.length > 1 ? 's' : '') + ' (click to enlarge)</span>';
+      // Keyed on land case since 2026-11-17 (Bancroft catalogue MARC 710/500); see vault
+      // maps-verification-2026-11/apply_diseno_cases.py. Filed in the case, not necessarily the grant's own diseño.
+      h += '</div><span class="diseno-cap">' + f.disenos.length + ' map' + (f.disenos.length > 1 ? 's' : '')
+         + ' filed in U.S. land case ' + esc(f.land_case || '') + ', per the Bancroft Library catalogue (click to enlarge)</span>';
     }
     if (f.series && f.series.length) {
       h += '<details class="series-box"><summary>' + esc(f.series_label || 'Dated series') +
